@@ -1,0 +1,86 @@
+@font-face {
+    font-family: Junicode;
+    src: url("Junicode.ttf");
+}
+
+@font-face {
+    font-family: Junicode;
+    src: url("Junicode-Bold.ttf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Junicode;
+    src: url("Junicode-Italic.ttf");
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Junicode;
+    src: url("Junicode-BoldItalic.ttf");
+    font-style: italic;
+    font-weight: bold;
+}
+@font-face {
+    font-family: Volpiano;
+    src: url("volpiano.otf") format("opentype"),
+         url("volpiano.ttf") format("truetype"),
+         url("volpiano.woff") format("woff");
+  }
+
+.volpiano {
+  font-family: Volpiano;
+  font-style: normal;
+  font-size: 40px;
+}
+
+.text-font {
+  font-family: Junicode;
+  font-style: normal;
+  word-spacing: 2px;
+}
+
+.non-selectable {
+  /* Avoid text selection */
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+}
+
+.selectable {
+  /* Allow text selection */
+  -webkit-user-select: auto; /* Safari */
+  -ms-user-select: auto; /* IE 10 and IE 11 */
+  user-select: auto; /* Standard syntax */
+}
+
+/* Extract from freeCodeCamp (Dominic Fraser) */
+.page-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+/* End extract */
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+
+.cbo-button {
+  transition: 0.3s;
+}
+
+.flex-50 {
+  width: 50%;
+}
+
+.cbo-bar {
+  box-sizing: border-box;
+}

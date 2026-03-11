@@ -1,0 +1,225 @@
+.break {
+  flex-basis: 100%;
+  height: 0;
+}
+
+.margin-6px {
+  margin: 6px;
+}
+
+.font-small {
+  font-size: 14px!important;
+}
+
+.font-0-container {
+  font-size: 0;
+}
+
+.font-0-container > * {
+  font-size: 16px;
+}
+
+.stage {
+  margin-top: 6px;
+  margin-left: 6px;
+  font-style: italic;
+}
+
+.stage .word, .stage .pc {
+  font-style: italic;
+}
+
+.stage-number {
+  font-style: normal;
+}
+
+p {
+  margin-block-start: 3px;
+  margin-block-end: 3px;
+  break-inside: avoid;
+}
+
+.strophe,.refrain {
+  margin-bottom: 24px;
+}
+
+.lg-heading {
+  margin-left: 30px;
+}
+
+.refrain .lg-heading {
+  font-style: italic;
+}
+
+.strophe .lg-heading {
+  font-weight: bold;
+}
+
+.verse {
+  display: flex;
+}
+
+.verse-number {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  width: 25px;
+  margin: 0 5px 0 0;
+  padding-bottom: 1px;
+  color: gray;
+  font-size: 13px;
+}
+
+.verse-text {
+  display: flex;
+  align-items: flex-end;
+  box-sizing: border-box;
+  flex: 80%;
+  margin: 0 20px 0 0;
+}
+
+.verse-met,.verse-rhyme {
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 3px;
+  flex: 10%;
+  margin: 0 3px 0 3px;
+  font-family: Verdana;
+  font-size: 12px;
+}
+
+.hemistich {
+  display: flex;
+  align-items: flex-end;
+  margin: 0 20px 0 0;
+}
+
+.word {
+  display: inline-flex;
+  align-items: flex-end;
+  margin-left: 8px;
+}
+
+.pc {
+  display: inline-flex;
+  align-items: flex-end;
+}
+
+.neumed-syll {
+  display: inline-flex;
+  flex-direction: column-reverse;
+}
+
+.neumes {
+  display: inline-flex;
+  align-items: flex-end;
+  height: 24px;
+}
+
+.neume {
+  scale: 80%;
+}
+
+.neume-small {
+  scale: 60%;
+}
+
+.consonant-space {
+  background-color: transparent;
+  color: transparent;
+}
+
+.syl {
+  display: inline-flex;
+}
+
+.syl-dash {
+  display: inline-flex;
+}
+
+.apparatus-in-text {
+  position: relative;
+  display: inline-flex;
+}
+
+.apparatus-active {
+  border-bottom: 1px dotted black;
+  margin-bottom: -1px;
+}
+
+.app-type-text {
+  margin-left: 8px;
+}
+
+.app-type-text > .word:nth-of-type(2) {
+  margin-left: 0px;
+}
+
+.apparatus-in-text .apparatus-note {
+  visibility: hidden;
+  display: inline-block;
+  background-color: white;
+  border-style: inset;
+  border-radius: 5px;
+  border-width: 3px;
+  padding: 3px 10px 3px 2px;
+  position: absolute;
+  z-index: 1;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -10px;
+  margin-right: -290px;
+  opacity: 1;
+  transition: opacity 0.4s;
+}
+
+.apparatus-in-text .apparatus-note:hover {
+  z-index: 50;
+}
+
+.apparatus-in-text .apparatus-note::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 20px;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.apparatus-active:hover .apparatus-note {
+  visibility: visible;
+  opacity: 1;
+}
+
+.apparatus-note .word {
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
+.lem,.rdg {
+  display: inline-flex;
+}
+
+.wit {
+  margin-right: 10px;
+}
+
+.app-note {
+  display: inline-flex;
+  align-items: flex-end;
+  flex-wrap: per-wrap;
+  margin-right: 10px;
+  margin-left: 5px;
+  white-space: pre-wrap;
+  font-style: italic;
+}
+
+.prose-text {
+  margin-bottom: 30px;
+}
+
+.spoken-text {
+  margin-left: 10px;
+}
