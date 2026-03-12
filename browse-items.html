@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>CBO Browse</title>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+  <!-- Add additional CSS in static file -->
+  <link rel="stylesheet" href="css/style.css"/>
+  <link rel="stylesheet" href="css/layout-generic.css"/>
+
+  <style>
+    .browseResult,.formContainer {
+      margin: 10px;
+    }
+
+    th {
+      text-align: left;
+    }
+  </style>
+</head>
+<body>
+<div class="page-container">
+  <!-- Navbar + header -->
+  <div data-include="header"></div>
+
+  <main style="display: flex; flex: 1;">
+    <div class="flex-column" style="flex: 50%">
+      <div class="formContainer">
+        <form>
+          <p>TODO</p>
+          <input class="cbo-button" type="submit" value="Search">
+        </form>
+      </div>
+    </div>
+    <div class="flex-column" style="flex: 50%">
+      <div class="browseResult">
+        <!-- TODO -->
+        <!--{% if items %}
+        <table style="width: 100%;">
+          <tr>
+            <th>CB #</th>
+            <th>Title</th>
+            <th>Source</th>
+          </tr>
+          {% for item in items %}
+          {% include "item_as_tr.html" with item=item %}
+          {% endfor %}
+        </table>
+        {% else %}
+        <p>There are no matching items.</p>
+        {% endif %}-->
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="cbo-center cbo-black cbo-padding-16" data-include="footer"></footer>
+</div>
+
+<script src="js/data_include.js"></script>
+
+</body>
+</html>
+
+
+
+

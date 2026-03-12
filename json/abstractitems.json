@@ -1,0 +1,669 @@
+[
+{
+  "pk": 2,
+  "fields": {
+    "cb_id": "119",
+    "genre": 1,
+    "theme": [
+      7,
+      1
+    ]
+  }
+},
+{
+  "pk": 4,
+  "fields": {
+    "cb_id": "151",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 5,
+  "fields": {
+    "cb_id": "153",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 6,
+  "fields": {
+    "cb_id": "146",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 7,
+  "fields": {
+    "cb_id": "143",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 8,
+  "fields": {
+    "cb_id": "140",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 9,
+  "fields": {
+    "cb_id": "165",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 10,
+  "fields": {
+    "cb_id": "169",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 12,
+  "fields": {
+    "cb_id": "108",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 13,
+  "fields": {
+    "cb_id": "109",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 14,
+  "fields": {
+    "cb_id": "085",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 15,
+  "fields": {
+    "cb_id": "215",
+    "genre": 18,
+    "theme": [
+      9
+    ]
+  }
+},
+{
+  "pk": 16,
+  "fields": {
+    "cb_id": "159",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 17,
+  "fields": {
+    "cb_id": "014",
+    "genre": 1,
+    "theme": [
+      3
+    ]
+  }
+},
+{
+  "pk": 18,
+  "fields": {
+    "cb_id": "016*",
+    "genre": 19,
+    "theme": [
+      8
+    ]
+  }
+},
+{
+  "pk": 19,
+  "fields": {
+    "cb_id": "029",
+    "genre": 1,
+    "theme": [
+      3
+    ]
+  }
+},
+{
+  "pk": 20,
+  "fields": {
+    "cb_id": "030",
+    "genre": 1,
+    "theme": [
+      3
+    ]
+  }
+},
+{
+  "pk": 21,
+  "fields": {
+    "cb_id": "031",
+    "genre": 1,
+    "theme": [
+      3
+    ]
+  }
+},
+{
+  "pk": 22,
+  "fields": {
+    "cb_id": "033",
+    "genre": 1,
+    "theme": [
+      3
+    ]
+  }
+},
+{
+  "pk": 23,
+  "fields": {
+    "cb_id": "168",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 24,
+  "fields": {
+    "cb_id": "227",
+    "genre": 19,
+    "theme": [
+      8
+    ]
+  }
+},
+{
+  "pk": 25,
+  "fields": {
+    "cb_id": "017*",
+    "genre": 1,
+    "theme": [
+      3
+    ]
+  }
+},
+{
+  "pk": 26,
+  "fields": {
+    "cb_id": "018*",
+    "genre": 20,
+    "theme": [
+      8
+    ]
+  }
+},
+{
+  "pk": 27,
+  "fields": {
+    "cb_id": "019*",
+    "genre": 8,
+    "theme": [
+      9
+    ]
+  }
+},
+{
+  "pk": 28,
+  "fields": {
+    "cb_id": "020*",
+    "genre": 8,
+    "theme": [
+      8
+    ]
+  }
+},
+{
+  "pk": 29,
+  "fields": {
+    "cb_id": "021*",
+    "genre": 8,
+    "theme": [
+      8
+    ]
+  }
+},
+{
+  "pk": 30,
+  "fields": {
+    "cb_id": "147",
+    "genre": 1,
+    "theme": [
+      7,
+      1
+    ]
+  }
+},
+{
+  "pk": 31,
+  "fields": {
+    "cb_id": "166",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 32,
+  "fields": {
+    "cb_id": "160",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 33,
+  "fields": {
+    "cb_id": "161",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 34,
+  "fields": {
+    "cb_id": "015",
+    "genre": 1,
+    "theme": [
+      3
+    ]
+  }
+},
+{
+  "pk": 35,
+  "fields": {
+    "cb_id": "019",
+    "genre": 1,
+    "theme": [
+      3
+    ]
+  }
+},
+{
+  "pk": 36,
+  "fields": {
+    "cb_id": "203",
+    "genre": 1,
+    "theme": [
+      5,
+      3
+    ]
+  }
+},
+{
+  "pk": 37,
+  "fields": {
+    "cb_id": "079",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 38,
+  "fields": {
+    "cb_id": "080",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 39,
+  "fields": {
+    "cb_id": "090",
+    "genre": 1,
+    "theme": [
+      4
+    ]
+  }
+},
+{
+  "pk": 40,
+  "fields": {
+    "cb_id": "022*",
+    "genre": 3,
+    "theme": [
+      9
+    ]
+  }
+},
+{
+  "pk": 41,
+  "fields": {
+    "cb_id": "162",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 42,
+  "fields": {
+    "cb_id": "131",
+    "genre": 1,
+    "theme": [
+      3,
+      10
+    ]
+  }
+},
+{
+  "pk": 43,
+  "fields": {
+    "cb_id": "098",
+    "genre": 1,
+    "theme": [
+      7
+    ]
+  }
+},
+{
+  "pk": 44,
+  "fields": {
+    "cb_id": "164",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 45,
+  "fields": {
+    "cb_id": "099",
+    "genre": 1,
+    "theme": [
+      7
+    ]
+  }
+},
+{
+  "pk": 46,
+  "fields": {
+    "cb_id": "187",
+    "genre": 1,
+    "theme": [
+      7,
+      3
+    ]
+  }
+},
+{
+  "pk": 47,
+  "fields": {
+    "cb_id": "189",
+    "genre": 1,
+    "theme": [
+      7
+    ]
+  }
+},
+{
+  "pk": 48,
+  "fields": {
+    "cb_id": "228",
+    "genre": 19,
+    "theme": [
+      7,
+      9
+    ]
+  }
+},
+{
+  "pk": 49,
+  "fields": {
+    "cb_id": "128",
+    "genre": 1,
+    "theme": [
+      10
+    ]
+  }
+},
+{
+  "pk": 50,
+  "fields": {
+    "cb_id": "003",
+    "genre": 1,
+    "theme": [
+      10
+    ]
+  }
+},
+{
+  "pk": 51,
+  "fields": {
+    "cb_id": "142",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 52,
+  "fields": {
+    "cb_id": "008",
+    "genre": 1,
+    "theme": [
+      3
+    ]
+  }
+},
+{
+  "pk": 53,
+  "fields": {
+    "cb_id": "012",
+    "genre": 1,
+    "theme": [
+      3
+    ]
+  }
+},
+{
+  "pk": 54,
+  "fields": {
+    "cb_id": "014*",
+    "genre": 3,
+    "theme": [
+      6
+    ]
+  }
+},
+{
+  "pk": 55,
+  "fields": {
+    "cb_id": "150",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 56,
+  "fields": {
+    "cb_id": "021",
+    "genre": 1,
+    "theme": [
+      3
+    ]
+  }
+},
+{
+  "pk": 57,
+  "fields": {
+    "cb_id": "022",
+    "genre": 1,
+    "theme": [
+      3
+    ]
+  }
+},
+{
+  "pk": 58,
+  "fields": {
+    "cb_id": "026",
+    "genre": 1,
+    "theme": [
+      3
+    ]
+  }
+},
+{
+  "pk": 59,
+  "fields": {
+    "cb_id": "027",
+    "genre": 1,
+    "theme": [
+      3
+    ]
+  }
+},
+{
+  "pk": 60,
+  "fields": {
+    "cb_id": "034",
+    "genre": 2,
+    "theme": [
+      3
+    ]
+  }
+},
+{
+  "pk": 61,
+  "fields": {
+    "cb_id": "036",
+    "genre": 3,
+    "theme": [
+      3
+    ]
+  }
+},
+{
+  "pk": 62,
+  "fields": {
+    "cb_id": "167",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 63,
+  "fields": {
+    "cb_id": "047",
+    "genre": 2,
+    "theme": [
+      3
+    ]
+  }
+},
+{
+  "pk": 64,
+  "fields": {
+    "cb_id": "180",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 65,
+  "fields": {
+    "cb_id": "179",
+    "genre": 1,
+    "theme": [
+      1
+    ]
+  }
+},
+{
+  "pk": 66,
+  "fields": {
+    "cb_id": "052",
+    "genre": 8,
+    "theme": [
+      8
+    ]
+  }
+},
+{
+  "pk": 67,
+  "fields": {
+    "cb_id": "063",
+    "genre": 3,
+    "theme": [
+      7
+    ]
+  }
+},
+{
+  "pk": 68,
+  "fields": {
+    "cb_id": "067",
+    "genre": 3,
+    "theme": [
+      7
+    ]
+  }
+},
+{
+  "pk": 69,
+  "fields": {
+    "cb_id": "071",
+    "genre": 3,
+    "theme": [
+      7,
+      1
+    ]
+  }
+}
+]
