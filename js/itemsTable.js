@@ -1,14 +1,33 @@
-$.getJSON("json/items.json", function(items) {
-  let rows = ""
+var items, sources;
+$.when(
+  $.getJSON("json/items.json", function(data) {
+    items = data;
+  }),
+  $.getJSON("json/sources.json", function(data) {
+    sources = data;
+  })
+).then(function() {
+  console.log(items);
+
+  var rows = ""
   for (var x in items) {
-    rows += `<tr>
-      <td><a href="abstract_item/${items[x].abstract_item}">${items[x].abstract_item}</a></td>
+    source = sources.find((element) => element.pk == items[x].source);
+    if (items[x].source == "106" || items[x].source == "107") {
+      rows += `<tr style="background-color: Linen;">`
+    }
+    else {
+      rows += `<tr>`
+    }
+    rows += `<td><a href="abstract_item/${items[x].abstract_item}">${items[x].abstract_item}</a></td>
       <td><a href="item/${items[x].file}">${items[x].title}</a></td>
-      <td><a href="source/${items[x].source}">${items[x].source}</td>
-      </td>`
+      <td><a href="source/${items[x].source}">${source.bib_id}</td>
+      </td>`;
       //TODO: change source pk to source id
   }
   console.log(rows);
   $('#itemsTable').append(rows);
 });
+
+
+
 

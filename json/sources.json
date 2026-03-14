@@ -1,7 +1,6 @@
 [
-{
-  "pk": 1,
-  "fields": {
+  {
+    "pk": 1,
     "bib_id": "D-Au Cod. II.2.8º 13",
     "nick_name": "",
     "country": "Germany",
@@ -12,11 +11,9 @@
     "concordances": "CB011* Ave nobilis venerabilis Maria, f. 132v-133 (text only)",
     "notes": "Currently in Augsburg, see https://handschriftencensus.de/16473",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 2,
-  "fields": {
+  },
+  {
+    "pk": 2,
     "bib_id": "D-Bsbha ms. germ. fol. 779",
     "nick_name": "",
     "country": "Germany",
@@ -27,11 +24,9 @@
     "concordances": "CB168a Nu grvͦnet auer div heide (Es grunet wol die haide), f. 158r\r\n\r\nThe song is preceeded by the indication \"Enhalb mers gesungen\" (crusade song context?)",
     "notes": "Manuscript c of the Minnesang tradition.\r\nContent: Thüring von Ringoltingen: Melusine - Albrecht von Eyb: Ehebüchlein - Neidhart von Reuental: Lieder\r\nOrigin: Nürnberg?\r\n\r\nManuscript description: https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN721568572&PHYSID=PHYS_0385&DMDID=DMDLOG_0003&view=overview-info\r\nComposite manuscript,",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 3,
-  "fields": {
+  },
+  {
+    "pk": 3,
     "bib_id": "D-Bsbha ms. germ. fol. 1062",
     "nick_name": "",
     "country": "Germany",
@@ -42,11 +37,9 @@
     "concordances": "CB168a Nu grvͦnet auer div heide, f. 50v col. b (Ez grunet wol diu haide) (Neidhart Sommerlied 8)",
     "notes": "Composite manuscript with epic texts and songs (among others Neidhart Songs)\r\nOrigin: Niederösterreich\r\nCatalogue: https://stabikat.de/Record/721570089\r\nSee also: https://handschriftencensus.de/1222",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 4,
-  "fields": {
+  },
+  {
+    "pk": 4,
     "bib_id": "D-DS 2777 (Da)",
     "nick_name": "",
     "country": "Germany",
@@ -57,11 +50,9 @@
     "concordances": "CB021 Veritas veritatum, f. 4r (text only)\r\nCB026 Ad cor tuum revertere, f. 3v (text only)\r\nCB027, Bonum est confidere, f. 3v (text only)\r\nCB189 Aristippe quamvis sero, f. 3r (text only)\r\n(all these pieces are usually attrib. to Philip the Chancellor)",
     "notes": "Composite manuscript\r\nOrigin: Tongern / Liege \r\n\r\nComplete catalogue description: https://resolver.staatsbibliothek-berlin.de/HSP0005482E00000000",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 5,
-  "fields": {
+  },
+  {
+    "pk": 5,
     "bib_id": "D-DO 882 (olim)",
     "nick_name": "",
     "country": "Germany",
@@ -72,11 +63,9 @@
     "concordances": "CB011* Ave nobilis venerabilis Maria, f. 175v-177v",
     "notes": "Lost manuscript. \"Das Bruno-Stäblein-Archiv (seit 2009 am Institut für Musikforschung der Universität Würzburg, früher in Erlangen) verfügt über einen vollständigen Film der verschollenen Handschrift\". Contact: martin.dippon@uni-wuerzburg.de\r\n\r\nOrigin: Dominican nunnery of Brunnenhof, Möhringen , South-western Germany (Black Forest), Germany (DIAMM: https://www.diamm.ac.uk/sources/864/#/)\r\n\r\nProcessional from the Dominican nunnery of Brunnenhof near Möhringen, Black Forest (Geering, 7). On f. 326 there is a German song with musical references such as 'Die engel harphent, singent, springent' and 'Maria, du kanst tanzen wol' (DIAMM)\r\n\r\nBiblio: C. Allworth, The medieval processional Donaueschingen 882,  in: Ephemerides liturgicae 84 (1970), S. 169-186. \r\nAlso in RISM catalogues.",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 6,
-  "fields": {
+  },
+  {
+    "pk": 6,
     "bib_id": "D-DO A.III.22",
     "nick_name": "",
     "country": "Germany",
@@ -87,11 +76,9 @@
     "concordances": "CB004* Flete fideles anime, f. 2v-3r (stanza 9 and 10 only : Mi Johannes planctum / salutaris noster Jhesus.",
     "notes": "Part of the \"Erlauer Marienklage\" (german and latin songs). \r\nThe ms. contains also a \"Donaueschinger (sübairisches) Magdalenenspiel\" (f. 7r and after).\r\nOrigin: a region where a south Bavarian dialect was spoken\r\nDate: ca. 1420-1425",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 7,
-  "fields": {
+  },
+  {
+    "pk": 7,
     "bib_id": "D-EFu Amplon. Oct. 32",
     "nick_name": "",
     "country": "Germany",
@@ -102,11 +89,9 @@
     "concordances": "CB071 Axe Phebus aureo, f. 89v and 89r",
     "notes": "Catalogue: http://bilder.manuscripta-mediaevalia.de/hs//katalogseiten/HSK0495_b0698_jpg.htm\r\nAlso here printed catalogue: https://dhb.thulb.uni-jena.de/rsc/viewer/ufb_derivate_00022997/CA-8-00032_0007.tif?logicalDiv=log_1ce749-e534-dbd6-f787be3b9\r\n\r\nComposite manuscript\r\nOrigin at least for f. 88-89v: France (?)\r\n\r\nOn f. 88r the Crusade song Chevalier mult estes guariz (picard scripta with k etc.). End of 12th cent. West Frankish neumes on staff, clef b/b square.\r\n\r\nOn f. 89v-89r the addition of Axe Phebus is a later one, 13th cent. The neume notation is also different (still West Frankish neumes on staff, g and c clefs)",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 8,
-  "fields": {
+  },
+  {
+    "pk": 8,
     "bib_id": "D-F Fragm.lat.VI.41",
     "nick_name": "",
     "country": "Germany",
@@ -117,11 +102,9 @@
     "concordances": "CB131 Dic Christi veritas, f. Ar-v (polyphonic)",
     "notes": "Catalogue description: https://sammlungen.ub.uni-frankfurt.de/kataloge/purn/urn:nbn:de:hebis:30:2-292-p0106-7\r\nOrigin: France?\r\nNotre-Dame manuscript fragment, contains 3 Conductus-Fragmente, 3-part settings.",
     "IIIF_manifest": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/8342218/manifest"
-  }
-},
-{
-  "pk": 9,
-  "fields": {
+  },
+  {
+    "pk": 9,
     "bib_id": "D-FUl C 11",
     "nick_name": "",
     "country": "Germany",
@@ -132,11 +115,9 @@
     "concordances": "CB019, Fas et nefas, f. 331r\r\nCB119 Dulce solum (Valle tellus), f. 331v",
     "notes": "Composite ms. (\"humanistische Sammelhandschrift).\r\nOrigin: Weingarten abbey, former shelfmark K 45.\r\nOnline catalogue description: https://fuldig.hs-fulda.de/viewer/!metadata/PPN446275026/663/-/",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 10,
-  "fields": {
+  },
+  {
+    "pk": 10,
     "bib_id": "D-HEu MS Cod. Pal. Germ. 357",
     "nick_name": "",
     "country": "Germany",
@@ -147,11 +128,9 @@
     "concordances": "CB048a (Hoͤrstu friunt), 23r-v (difficult to see, incipit is Stant uf ritter, Hoͤrstu...)\r\nCB47a (So wol dir, meie, wie du scheidest), 38v (Wol dir meie)\r\nCB166a (Solde auer ich mit sorgen iemmer leben), 25v\r\nText only, no notation.",
     "notes": "Kleine Heidelberger Liederhandschrift A\r\nOrigin: Alsace (Strasbourg?)\r\nDate: 1270-1280 \r\nCatalogue description: https://digi.ub.uni-heidelberg.de/diglit/miller2007/0268/image,info",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 11,
-  "fields": {
+  },
+  {
+    "pk": 11,
     "bib_id": "D-HEu MS Cod. Pal. Germ. 848",
     "nick_name": "Codex Manesse",
     "country": "Germany",
@@ -162,11 +141,9 @@
     "concordances": "CB048a Hoͤrstu friunt, 28v\r\nCB147a Sage, daz ih dirs iemmer lone, 103r\r\nCB 150a Ich pin cheiser ane chrone, 80v\r\nCB151 So wol dir, meie, wie du scheidest, 132v (Wol dir meige)\r\nCB166a Solde auer ich mit sorgen iemmer leben, 104r\r\nCB168a Nu grvͦnet auer div heide, 274v\r\nCB169a Roter munt wie du dich swachest, 132v\r\n\r\nTexts only",
     "notes": "Grosse Heidelberger Liederhandschrift (Codex Manesse)\r\nOrigin: Zürich\r\nDate: ca. 1300\r\n\r\nDescription in printed catalogue: https://digi.ub.uni-heidelberg.de/diglit/miller2016/0739/image,info",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 12,
-  "fields": {
+  },
+  {
+    "pk": 12,
     "bib_id": "D-Ju El.f.100",
     "nick_name": "",
     "country": "Germany",
@@ -177,11 +154,9 @@
     "concordances": "CB203a => Eckenlied-Melodie, Bernerton, 143r",
     "notes": "Valentin Voith: Meistergesangbuch\r\nOrigin: Mitteldeutschland (Magdeburg)\r\nDate: 1558 (vollendet)",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 13,
-  "fields": {
+  },
+  {
+    "pk": 13,
     "bib_id": "D-KA Aug. perg. LI",
     "nick_name": "",
     "country": "Germany",
@@ -192,11 +167,9 @@
     "concordances": "CB033 Non te lusisse pudeat, 16v (text only)",
     "notes": "Manuscript containing the \"Epistole Petri Blesensis Bathonensis archidiaconi\"\r\nOrigin: Reichenau?\r\n\r\nManuscript description: http://bilder.manuscripta-mediaevalia.de//hs/katalogseiten/HSK0720_c182_jpg.htm\r\nhttps://digital.blb-karlsruhe.de/blbihd/content/pageview/83495",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 14,
-  "fields": {
+  },
+  {
+    "pk": 14,
     "bib_id": "D-Mbs Clm. 18190",
     "nick_name": "",
     "country": "Germany",
@@ -207,11 +180,9 @@
     "concordances": "CB026 Ad cor tuum revertere, 1r",
     "notes": "See Catalogue: https://opacplus.bsb-muenchen.de/title/BV037455752\r\n\r\nHaimo von Auxerre: In apocalypsin.\r\nDate: 11th cent., 2nd quarter for the main part of the ms.\r\nThe piece is an addition in the right margin of the first main folio. Difficult to give a datation but not prior to the late 12th century or early 13th since this is a poem by Ph. the Chancellor (1160?-1236).\r\n\r\nOrigin: Tegernsee (benedictine abbey)\r\nManuscript description (doesn't say a word about the musical addition): https://daten.digitale-sammlungen.de/0004/bsb00046212/images/index.html?id=00046212&groesser=&fip=193.174.98.30&no=&seite=123",
     "IIIF_manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00161975/manifest"
-  }
-},
-{
-  "pk": 15,
-  "fields": {
+  },
+  {
+    "pk": 15,
     "bib_id": "D-Mbs Clm 5539",
     "nick_name": "",
     "country": "Germany",
@@ -222,11 +193,9 @@
     "concordances": "CB012 Procurans odium, 38r-39v\r\nCB090 Exiit diluculo, 35r-v",
     "notes": "Tractatus de arte musica. Carmina liturgica s. hymni. \r\nDate : c. 1400\r\nOrigin: Regensburg (cathedral ?)\r\nProvenance: Augustiner-Chorherrenstift Diessen (arrived there in the 15th century)\r\n\r\nRISM description https://rism.online/sources/456052945\r\n+ Göllner 1993",
     "IIIF_manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00079147/manifest"
-  }
-},
-{
-  "pk": 16,
-  "fields": {
+  },
+  {
+    "pk": 16,
     "bib_id": "D-Mbs Cgm 716",
     "nick_name": "",
     "country": "Germany",
@@ -237,11 +206,9 @@
     "concordances": "CB014* Planctus ante nescia, 150r",
     "notes": "Cantionale, Geistliche Lieder mit Melodien. Münchner Marienklage. Contains latin monophonic and polyphonic pieces, also german sacred songs (marian songs)\r\nProvenance: Tegernsee, benedictine abbey\r\nDate: third third of the 15th century\r\n\r\nRism catalogue description: https://opac.rism.info/rism/Record/rism456052828",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 17,
-  "fields": {
+  },
+  {
+    "pk": 17,
     "bib_id": "D-Mbs Clm 4598",
     "nick_name": "",
     "country": "Germany",
@@ -252,11 +219,9 @@
     "concordances": "CB100 O Decus, o Lybie regnum, 61r (\"Planctus Didonis\")",
     "notes": "Cantica canticorum cum glossis. Petrus Riga, Aurora. \r\nDate for the main parts of the ms: late 12th century or first half of the 13th. \r\nCB100 ist copied as an addition, according to the printed catalogue in the 2nd half of the 13th cent.\r\nhttps://daten.digitale-sammlungen.de/~db/0010/bsb00106370/images/index.html\r\n\r\nProvenance: Benediktbeuren (former shelfmark Bened. 98).",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 18,
-  "fields": {
+  },
+  {
+    "pk": 18,
     "bib_id": "D-Mu Cim. 4 (olim 2° Cod. Ms. 731)",
     "nick_name": "",
     "country": "Germany",
@@ -267,11 +232,9 @@
     "concordances": "CB143a Ze niwen vroͮden stat min muͦt, 190v (text only)\r\npreceded by the rubric \"Her Reymar\"",
     "notes": "\"Hausbuch Michaels de Leone, 2nd vol. (\"Würzburger Liederhandschrift\"). \r\nComposite ms. with Latin and German texts.\r\nOrigin: Würzburg\r\nDate: mid-14th century (c. 1345-1354)\r\nCatalogue description: https://www.handschriftencensus.de/6441",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 19,
-  "fields": {
+  },
+  {
+    "pk": 19,
     "bib_id": "D-MÜsa ms. VII 51",
     "nick_name": "",
     "country": "Germany",
@@ -282,11 +245,9 @@
     "concordances": "CB211a Nu lebe ich mir alrest werde (Palästinalied), 1r-v",
     "notes": "Walther von der Vogelweide\r\nMs. description: https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00008634\r\nOrigin: Mitteldeutschland/Niederdeutschland\r\nDate: 14th century, first quarter\r\n\r\nDas zweispaltige Doppelblatt, das nicht das innerste Doppelblatt einer Lage bildet, überliefert neben 26 Walther-Strophen auch eine vollständige (Palästinalied) und drei fragmentarische Strophen-Melodien (zu Cormeau 115; zweiter Stollen des König-Friedrich-Tones; erster Stollen des 2. Philippstones) in gotischer deutscher Choralnotation und bildet damit die \"wichtigste Quelle für Melodien Walthers\" (Horst Brunner).",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 20,
-  "fields": {
+  },
+  {
+    "pk": 20,
     "bib_id": "D-Sl HB XIII 1 (B)",
     "nick_name": "",
     "country": "Germany",
@@ -297,11 +258,9 @@
     "concordances": "CB147a Sage, daz ih dirs iemmer lone, 100 (page) (text only)",
     "notes": "Weingartner Liederhandschrift\r\nOrigin: Constance\r\nDate: 1320s\r\nMs. description on Handschriftenportal: https://resolver.staatsbibliothek-berlin.de/HSP0005FDD300000000",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 21,
-  "fields": {
+  },
+  {
+    "pk": 21,
     "bib_id": "D-Sl HB I 95 (S)",
     "nick_name": "",
     "country": "Germany",
@@ -312,11 +271,9 @@
     "concordances": "CB004* Flete fideles, 23r-24v (neumes with curved virgae)\r\nCB047 Crucifigat omnes, 33r\r\nCB131/131a, Dic Christi / Bulla fulminante 33v-34r\r\nCB119 Dulce solum, 73r-v (text only: Valle tellus)\r\nCB120 Rumor letalis, 77v (text only)",
     "notes": "Cantionarium\r\nDate: 13th century\r\nOrigin: Weingarten or (cf. Purcell-Joiner PhD 2017) Engelberg\r\nMs. description in print catalogue of the library: https://handschriftenportal.de/workspace?type=undefined&id=https%3A%2F%2Fiiif.ub.uni-leipzig.de%2F0000034986%2Fmanifest.json&page=183",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 22,
-  "fields": {
+  },
+  {
+    "pk": 22,
     "bib_id": "D-TRs 1878",
     "nick_name": "",
     "country": "Germany",
@@ -327,11 +284,9 @@
     "concordances": "CB011* Ave nobilis venerabilis Maria, 154v (text only)",
     "notes": "Origin: ?\r\nProvenance: S. Simeon (entered the Treves library in 1802)\r\nComposite manuscript, the last part (f. 136-159) contains \"gereimte lat. Gedichte\", copied in the 15th century. \r\n\r\n\r\nDescription in vol. 8, page 276 of the Trier Handschriftenkatalog: \r\nhttp://bilder.manuscripta-mediaevalia.de/hs/katalogseiten/HSK0734_a276_jpg.htm",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 23,
-  "fields": {
+  },
+  {
+    "pk": 23,
     "bib_id": "D-W Guelf. 1099 Helmst.",
     "nick_name": "W2",
     "country": "Germany",
@@ -342,11 +297,9 @@
     "concordances": "CB022 Gaude. Cur gaude videas (Homo quo vigeas vide), 127r  (2 parts)\r\nCB022 Gaude. Cur gaude videas (Homo quo vigeas), 148v-149 (motet, 3 parts)\r\nCB034 Deduc Syon uberrimas, 93r-96r (2 parts)\r\nCB047 Crucifigat omnes, 138v-139v (2 parts)\r\nCB047 Crucifigat omnes, 46v (3 parts, 1st strophe, incomplete)\r\nCB131 Dic Christi, 33r-34v (3 parts)",
     "notes": "Ms. W2 of the Notre Dame sources.\r\nOnline ms. description : http://diglib.hab.de/?db=mss&list=ms&id=1099-helmst&catalog=Heinemann",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 24,
-  "fields": {
+  },
+  {
+    "pk": 24,
     "bib_id": "D-W Guelf. 628 Helmst.",
     "nick_name": "W1",
     "country": "Germany",
@@ -357,11 +310,9 @@
     "concordances": "CB015 Celum non animum, 15r (11r)–15v (11v) (2 parts)\r\nCB034 Deduc Syon uberrimas, 159v (150v)-161r (152r) (2 parts)\r\nCB036 Nulli beneficium, 108v (117v)-109v (118v) (2 parts)\r\nCB047 Crucifigat omnes, 78v (71v)-79r (72r) (3 parts)\r\nCB131 Dic Christi, 73r (66r)–73v (66v) (3 parts)",
     "notes": "Manuscript W2 of the Notre Dame sources.\r\nOnline description: http://diglib.hab.de/drucke/15-4f-10-1b-2/start.htm?image=00109",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 25,
-  "fields": {
+  },
+  {
+    "pk": 25,
     "bib_id": "A-Gu 409",
     "nick_name": "",
     "country": "Austria",
@@ -372,11 +323,9 @@
     "concordances": "CB014* Planctus ante nescia, f. 70v-71 (text only)",
     "notes": "Composite manuscript containing theological writings\r\nOrigin: unknown\r\nProvenance: St. Lambert's monastery\r\nf.1-2v: \"Collectio cantionum et conductuum\". Some pieces provided with adiastematic East Frankish neumes (no concordances with CB in this part of the ms.)",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 26,
-  "fields": {
+  },
+  {
+    "pk": 26,
     "bib_id": "A-Ks Perg. 7",
     "nick_name": "",
     "country": "Austria",
@@ -387,11 +336,9 @@
     "concordances": "CB037 In Gedeonis area, f. 6 (text only)",
     "notes": "Composite manuscript\r\n\r\nInformation on the ms.: \r\nhttps://manuscripta.at/hs_detail.php?ID=33018\r\nhttp://18.235.151.129/detail.php?msid=13368\r\nhttps://permalink.obvsg.at/UKL/AC06034264",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 27,
-  "fields": {
+  },
+  {
+    "pk": 27,
     "bib_id": "A-KN 574",
     "nick_name": "",
     "country": "Austria",
@@ -402,11 +349,9 @@
     "concordances": "CB015* Ludus dominice Resurrectionis, f. 142v-144v",
     "notes": "Theological manuscript, composite manuscript.\r\nOrigin: Klosterneuburg Augustiner-Chorherrenstift\r\n\r\nDescription: https://manuscripta.at/hs_detail.php?ID=757\r\nThe f. 139b to 144b contain historiae, antiphonae, responsoria, lectiones cum neumis de sancto Thomas, ordo paschalis.",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 28,
-  "fields": {
+  },
+  {
+    "pk": 28,
     "bib_id": "A-LIs 324 olim Cc III 9",
     "nick_name": "",
     "country": "Austria",
@@ -417,11 +362,9 @@
     "concordances": "CB119 Dulce solum natalis patrie, f. 83v",
     "notes": "Composite manuscript.\r\nThe piece is notation as a 13th-century addition on the very last folio. \r\nOrigin: Garsten abbey (Austria)\r\nDescription: https://digi.landesbibliothek.at/viewer/fullscreen/324/172/\r\nhttps://manuscripta.at/hs_detail.php?ID=33976",
     "IIIF_manifest": "https://digi.landesbibliothek.at/viewer/api/v1/records/324/manifest/"
-  }
-},
-{
-  "pk": 29,
-  "fields": {
+  },
+  {
+    "pk": 29,
     "bib_id": "A-Wnhd 12887 (suppl. 561)",
     "nick_name": "",
     "country": "Austria",
@@ -432,11 +375,9 @@
     "concordances": "CB016* Michi confer, venditor (Ludus de Passione / Großes Benediktbeurer Passionsspiel), fol. 4v",
     "notes": "This ms. fragment of 8 fol. contains the so-called \"Wiener Passionsspiel\" or \"Ludus paschalis latino-germanicus notis modulisque musicis instructus\". \r\nConcordances with CB have to be check.\r\nOrigin: Niederalemannien\r\nNotation: lotharingian neumes cf. Rhenan neumes, f and c clefs, b flat.\r\n\r\nCatalogues: https://handschriftencensus.de/3644\r\nhttps://search.onb.ac.at/permalink/f/sb7jht/ONB_alma21295918700003338",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 30,
-  "fields": {
+  },
+  {
+    "pk": 30,
     "bib_id": "A-Zz 49",
     "nick_name": "",
     "country": "Austria",
@@ -447,11 +388,9 @@
     "concordances": "CB008 Licet eger cum egrotis, f. 113 (rubric \"Planctus ecclesie\")",
     "notes": "Composite manuscript. CB008 copied at the end of the first part, containing texts by Florus Lugdunensis, datation last quarter of the 12th cent.\r\n\r\nManuscript description: \r\nhttps://manuscripta.at/hs_detail.php?ID=31660\r\nhttp://18.235.151.129/detail.php?msid=7028",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 31,
-  "fields": {
+  },
+  {
+    "pk": 31,
     "bib_id": "B-Br II.2556",
     "nick_name": "",
     "country": "Belgium",
@@ -462,11 +401,9 @@
     "concordances": "CB026 Ad cor tuum revertere, f. 193v",
     "notes": "This ms. is not accessible online.\r\nLink to the catalogue: https://opac.kbr.be/LIBRARY/doc/SYRACUSE/10704548",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 32,
-  "fields": {
+  },
+  {
+    "pk": 32,
     "bib_id": "E-Bac Ripoll 116",
     "nick_name": "",
     "country": "Spain",
@@ -477,11 +414,9 @@
     "concordances": "CB037 In Gedeonis area, 99 bis",
     "notes": "Works by Beda Venerabilis (11th century for the main part of the ms.)\r\nOn the last folios,, musical additions by various hands, with Aquitanian neumes. 12th century ?\r\nProvenance: monastery Santa Maria de Ripoll",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 33,
-  "fields": {
+  },
+  {
+    "pk": 33,
     "bib_id": "E-Bac Ripoll 199",
     "nick_name": "",
     "country": "Spain",
@@ -492,11 +427,9 @@
     "concordances": "CB037 In Gedeonis area, 172r (text only, begins with Qui sepelit frumentum, in the middle of strophe 1, ends with \"legis\" shortly before the end of strophe 3).",
     "notes": "Date of the addition ? 12th century?",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 34,
-  "fields": {
+  },
+  {
+    "pk": 34,
     "bib_id": "E-BUlh 9 (11)",
     "nick_name": "",
     "country": "Spain",
@@ -507,11 +440,9 @@
     "concordances": "CB026 Ad cor tuum revertere (Ergo vide), 161v\r\nCB026 Ad cor tuum revertere (Si vocatus ad nupcias), 167r\r\nCB027 Bonum est confidere, 157r-v\r\nCB047 Crucifigat omnes, 97r-v\r\nCB090 Exiit diluculo (Surrexit de tumulo), 93r",
     "notes": "Codex Las Huelgas",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 35,
-  "fields": {
+  },
+  {
+    "pk": 35,
     "bib_id": "E-E MS. Z.II.2",
     "nick_name": "",
     "country": "Spain",
@@ -522,11 +453,9 @@
     "concordances": "",
     "notes": "Codex de Cardona; Fuero Juzgo",
     "IIIF_manifest": "https://rbdigital.realbiblioteca.es/files/manifests/esc_Z-II-2.json"
-  }
-},
-{
-  "pk": 36,
-  "fields": {
+  },
+  {
+    "pk": 36,
     "bib_id": "E-E MS. f.III.18",
     "nick_name": "",
     "country": "Spain",
@@ -537,11 +466,9 @@
     "concordances": "CB189 Aristippe quamvis sero, f. 179r (text only)",
     "notes": "There is a doubt about the shelfmark of the source. F.III.18 according to Hilka-Schumann, not be find under this shelfmark in the Escorial catalogues. The catalogue entry for f.III.18 doesn't mention the presence of Aristippe on f. 179r. To be checked further.",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 37,
-  "fields": {
+  },
+  {
+    "pk": 37,
     "bib_id": "E-Mn 20486 (T, Ma)",
     "nick_name": "",
     "country": "Spain",
@@ -552,11 +479,9 @@
     "concordances": "CB012 Procurans odium, f. 124v-125 (2 parts)\r\nCB022 Gaude cur gaudeas vide, f. 126r-v (1 part : Homo quo vigeas)\r\nCB034 Deduc Syon, f. 83r-85v (2 parts)\r\nCB036 Nulli beneficium, f. 63r-65r (2 parts)\r\nCB131 Dic Christi, f. 114r-115r (2 parts)",
     "notes": "One of the main Notre Dame sources. \r\nSigle RISM = Ma\r\nSigle HS = T\r\n\r\nOrigin : Toledo\r\nDatation : 13th century\r\nSee description here: https://www.diamm.ac.uk/sources/879/#/",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 38,
-  "fields": {
+  },
+  {
+    "pk": 38,
     "bib_id": "E-SAu 226",
     "nick_name": "",
     "country": "Spain",
@@ -567,11 +492,9 @@
     "concordances": "CB027 Bonum est confidere, f. 100v \r\nCB131 Dic Christi, f. 100v (1 part)",
     "notes": "Origin: France ?\r\nBifolio with music pieces added to an incomplete copy of the Historia scholastica by Petrus Comestor, chancellor of Notre-Dame of Paris in the 1160s. Contains four monophonic conducti and one two-part motet, all belonging to the Notre-Dame repertoire. Most of the texts have medieval attribution to Philippe the Chancellor (d. 1236) in other sources. The manuscript does not seem to have originated in Spain. In fact, both handwritings do not display Spanish features and are rather closer to French scripts of the 13th century.\r\nSee description in https://www.diamm.ac.uk/sources/3967/#/\r\nBevilacque:  \"messine neumes\". Note CC: ?? The axis of the notation and the shapes of the neumes are not at all lotharingian.",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 39,
-  "fields": {
+  },
+  {
+    "pk": 39,
     "bib_id": "F-AI RES. MS. A 0009 (26)",
     "nick_name": "",
     "country": "France",
@@ -582,11 +505,9 @@
     "concordances": "CB014* Planctus ante nescia, f. 113-113v (fin lacunaire, s'arrête à 9b sic doleam ut...)",
     "notes": "Diurnale-rituale\r\nProvenance: Albi cathedral, chapter library\r\nNotation: diastematic neumes, Aquitanian, c clef, custos",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 40,
-  "fields": {
+  },
+  {
+    "pk": 40,
     "bib_id": "F-CV 190",
     "nick_name": "",
     "country": "France",
@@ -597,11 +518,9 @@
     "concordances": "CB008 Licet eger cum egrotis, f. 158v (text only)\r\nCB037, In Gedeonis area, f. 162 (text only)",
     "notes": "JOHANNES DAMASCENUS (Ps.), Vita ss. Barlaam et Josaphat, trad. anon. ; Translatio sancti Jacobi apostoli ; BEDA ; etc. \r\nProvenance: a cistercian abbey (https://initiale.irht.cnrs.fr/codex/1470)\r\n\r\nReproduction IRHT Arca (scan from microfilm).",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 41,
-  "fields": {
+  },
+  {
+    "pk": 41,
     "bib_id": "F-CHRm 223 (255)",
     "nick_name": "",
     "country": "France",
@@ -612,11 +531,9 @@
     "concordances": "CB119, Dulce solum natalis patrie, f. 66v.",
     "notes": "Manuscript destroyed in 1944. Cliché by Yves Delaporte (1927), partial reproduction in Solesmes.\r\n\r\nComposite manuscript, add. on f. 66v dated c. 1300. \r\nProvenance: Chartres cathedral, chapter library\r\nNotation: Breton neumes, four-line staff, f clef. Some West Frankish neumes mixed with the Breton forms (clivis).\r\n\r\nDescription of the ms. in the CGM https://ccfr.bnf.fr/portailccfr/jsp/index_view_direct_anonymous.jsp?record=eadcgm:EADC:D1701128\r\nOnline catalogue of the Chartres manuscripts: https://www.manuscrits-de-chartres.fr//fr/manuscrits/chartres-bm-ms-223",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 42,
-  "fields": {
+  },
+  {
+    "pk": 42,
     "bib_id": "F-EV lat. 2",
     "nick_name": "",
     "country": "France",
@@ -627,11 +544,9 @@
     "concordances": "CB008 Licet eger cum egrotis, f. 4v-5\r\nCB014* Planctus ante nescia, f. 3v-4v",
     "notes": "Composite manuscript, contains Sermons; patristic and classical excerpts; proverbs; computational table; Latin songs. \r\n\r\nNotation: West-Frankish neumes on red four-line staves, c, g, clefs.\r\n\r\nThe description of the ms. in DIAMM is incomplete and partly wrong: https://www.diamm.ac.uk/sources/3868/#/ \r\nThere is actyally no \"polyphony on fols. 2v to 6\".\r\nThe Inventory is incomplete: https://www.diamm.ac.uk/sources/3868/#/inventory.\r\nAccording to DIAMM: \r\nOrigin: England\r\nOwner: Lyre abbey\r\nCopied by several hands; material is arranged with distinct layouts and inconsistent quire numbering. May be connected to English dependencies of Lyre Abbey (notes of English names and a colophon recorded travel to England in 1246)\r\n\r\nCGM indicates the presence of \"hymnes, avec musique notée\" (f. 2v-6)\r\n- Dic qui gaudes prosperis et veste purpurea\r\n- Ego mundi timens naufragium\r\n- Ave, virgo Maria, Dei plena gratia\r\n- Planctus ante nescia\r\n- Licet eger cum egrotis\r\n- Est tonus sic, ut, re, ut, aut re, mi, re",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 43,
-  "fields": {
+  },
+  {
+    "pk": 43,
     "bib_id": "F-EV lat. 39",
     "nick_name": "",
     "country": "France",
@@ -642,11 +557,9 @@
     "concordances": "CB014* Planctus ante nescia, f. 1v-2",
     "notes": "Notation: square notation, still close to the \"petits-carrés liés\" type, red four-line staves, c, g clefs\r\nA bit later than F-EV lat. 2, but maybe also of English origin?\r\n\r\nComposite manuscript, according to IRHT/Arca (https://arca.irht.cnrs.fr/ark:/63955/md70zp38wn2x):\r\n\r\n\"Hymni, cum neumis ; PHILIPPUS CANCELLARIUS, Sermones abbreviati ; GREGORIUS ; AUGUSTINUS ; etc.\"\r\n\r\nCGM description: \r\nhttps://ccfr.bnf.fr/portailccfr/jsp/index_view_direct_anonymous.jsp?record=eadcgm:EADC:D08140238",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 44,
-  "fields": {
+  },
+  {
+    "pk": 44,
     "bib_id": "F-LG 2 (17)",
     "nick_name": "",
     "country": "France",
@@ -657,11 +570,9 @@
     "concordances": "CB011* Ave nobilis venerabilis, f. 282v-283 (\"sequentia de sancta Maria\")",
     "notes": "Graduale of Alienor of Brittany\r\nProvenance and use: Notre-Dame of Fontevraud, Fontevraud abbey\r\nNotation: square notation, four red lines, c and F clefs, b flat",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 45,
-  "fields": {
+  },
+  {
+    "pk": 45,
     "bib_id": "F-LYm 623",
     "nick_name": "",
     "country": "France",
@@ -672,11 +583,9 @@
     "concordances": "CB019 Fas et nefas ambulant, f. 142 (text only)",
     "notes": "Seen 30.03.24, photos taken in person.\r\n\r\nMiscellanea (devotion, spirituality). \r\nProvenance: Notre Dame of Clairvaux (cistercian)\r\nOrigin: France, East \r\n\r\nA few reproductions here: https://arca.irht.cnrs.fr/ark:/63955/md67wm118346\r\nCGM catalogue: https://ccfr.bnf.fr/portailccfr/jsp/index_view_direct_anonymous.jsp?record=eadcgm:EADC:D33A11487",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 46,
-  "fields": {
+  },
+  {
+    "pk": 46,
     "bib_id": "F-Pnm 4880",
     "nick_name": "",
     "country": "France",
@@ -687,11 +596,9 @@
     "concordances": "CB014* Planctus ante nescia, f. 83v (text only)\r\nCB004* Flete fideles anime, f. 85r (text only)",
     "notes": "Composite manuscript, 14th cent.\r\n\r\nManuscript description: https://archivesetmanuscrits.bnf.fr/ark:/12148/cc63756v\r\nBlack & white reproduction only.",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 47,
-  "fields": {
+  },
+  {
+    "pk": 47,
     "bib_id": "F-Pnm lat. 3237",
     "nick_name": "",
     "country": "France",
@@ -702,11 +609,9 @@
     "concordances": "CB033 Non te lusisse, f. 106v (text only)",
     "notes": "Catalogue description: https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61094q\r\n\"Fragmenta Codicum Bibliothecae S. Martialis Lemovicensis\"\r\n\r\nNote on f. 99v the antiphon Ascendit Christus super celos (Aquitanian neumes on a single line with F clef), followed by this mention: \r\n\"Hac antiphona dicit ordo Cisterciensis in vigilia Assumptionis ad Magnificat et nos eam diximus per totam ebdomadam ad vesperas super psalmos Anno M° CC° XX° sexies\".",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 48,
-  "fields": {
+  },
+  {
+    "pk": 48,
     "bib_id": "F-Pnm lat. 3639",
     "nick_name": "",
     "country": "France",
@@ -717,11 +622,9 @@
     "concordances": "CB014* Planctus ante nescia, f. 184v-187r (text only)",
     "notes": "Bernardus Morlanensis et alii, Versus ad honorem b. Mariae.\r\nCatalogue description: https://archivesetmanuscrits.bnf.fr/ark:/12148/cc615834",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 49,
-  "fields": {
+  },
+  {
+    "pk": 49,
     "bib_id": "F-Pnm lat. 11867",
     "nick_name": "",
     "country": "France",
@@ -732,11 +635,9 @@
     "concordances": "CB042 Utar contra vitia\r\nCB091 Exiit diluculo\r\nCB101 Pergama flere volo\r\nCB191 Estuans interius\r\nCB193 Denudata veritate",
     "notes": "This is a parallel source of items transmitted only without melody.\r\nManuscript P of Hilka / Schumann. \r\n\r\nComposite manuscript, late 13th century. \r\nCatalogue description: https://archivesetmanuscrits.bnf.fr/ark:/12148/cc73290g",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 50,
-  "fields": {
+  },
+  {
+    "pk": 50,
     "bib_id": "F-Pnm fr. 844",
     "nick_name": "",
     "country": "France",
@@ -747,11 +648,9 @@
     "concordances": "CB031 Vite perdite (A l'entrant del tans salvage) f. 81v",
     "notes": "Manuscrit du Roi\r\nCatalogue description: https://archivesetmanuscrits.bnf.fr/ark:/12148/cc510924",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 51,
-  "fields": {
+  },
+  {
+    "pk": 51,
     "bib_id": "F-Pnm fr. 12615",
     "nick_name": "",
     "country": "France",
@@ -762,11 +661,9 @@
     "concordances": "CB031 Vite perdite = same melody as A l'entrant del tans salvage, f. 43?",
     "notes": "Chansonnier de Noailles, 13th cent.\r\nCatalogue description: https://archivesetmanuscrits.bnf.fr/ark:/12148/cc43802t\r\nOrigin: France, North (Artois ?)",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 52,
-  "fields": {
+  },
+  {
+    "pk": 52,
     "bib_id": "F-Pnm fr. 146",
     "nick_name": "Fauvel",
     "country": "France",
@@ -777,11 +674,9 @@
     "concordances": "CB014 O varium fortune lubricum, f. 3v (same text in the first strophe only)\r\nCB036 Nulli beneficium, f. 7v (first strophe only)\r\nCB189 Aristippe, quamvis sero (Vade retro, Satana, f. 29r = strophe 4)",
     "notes": "Manuscript of the Roman de Fauvel.\r\nCatalogue description: https://archivesetmanuscrits.bnf.fr/ark:/12148/cc45158c",
     "IIIF_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8454675g/manifest.json"
-  }
-},
-{
-  "pk": 53,
-  "fields": {
+  },
+  {
+    "pk": 53,
     "bib_id": "F-Pnm lat. 15139",
     "nick_name": "",
     "country": "France",
@@ -792,11 +687,9 @@
     "concordances": "CB034, Deduc Syon uberrimas / Benedicamus Domino, 3 parts, see Tenor and Duplum), f.280v",
     "notes": "Composite manuscript, 12-14th cent. 13th century for the musical items specified here.\r\nOrigin: France, North\r\nProvenance: Paris, St.-Victor abbey \r\n\r\nCatalogue description: https://archivesetmanuscrits.bnf.fr/ark:/12148/cc73290g",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 54,
-  "fields": {
+  },
+  {
+    "pk": 54,
     "bib_id": "F-Pnm lat. 1139",
     "nick_name": "",
     "country": "France",
@@ -807,11 +700,9 @@
     "concordances": "CB073 Clausus Chronos, f. 47v (text only)",
     "notes": "Versarium Saint-Martial de Limoges.\r\nNotation: Aquitanian neumes, nearly diastematic.\r\nCatalogue description: https://archivesetmanuscrits.bnf.fr/ark:/12148/cc59066k",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 55,
-  "fields": {
+  },
+  {
+    "pk": 55,
     "bib_id": "F-Pnm lat. 3549",
     "nick_name": "",
     "country": "France",
@@ -822,11 +713,9 @@
     "concordances": "CB052 Nomen a sollempnibus, f. 164r-v (Solignac)",
     "notes": "This manuscript is one of the Aquitanian versaria containing Nova cantica and polyphonic pieces.\r\nCatalogue description: https://archivesetmanuscrits.bnf.fr/ark:/12148/cc614796 \r\n\r\nNotation: Aquitanian neumes, four dry-point lines, c and f clefs.",
     "IIIF_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10507222x/manifest.json"
-  }
-},
-{
-  "pk": 56,
-  "fields": {
+  },
+  {
+    "pk": 56,
     "bib_id": "F-Pnm lat. 3719",
     "nick_name": "",
     "country": "France",
@@ -837,11 +726,9 @@
     "concordances": "CB052 Nomen a sollemnibus, f. 41r-42r\r\nCB088 Ludo cum Cecilia => Iove cum Mercurio (one stanza mit notation, two other text only), f. 28v\r\nCB116 Sic mea fata, f. 88r \r\nCB153 Tempus transit gelidum => Fulget dies celebris, f. 27r",
     "notes": "This manuscript is one of the Aquitanian versaria containing Nova cantica and polyphonic pieces.\r\nCatalogue description: https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61666m\r\n\r\nNotation: Aquitanian neumes, dry-point lines, c and f clefs.",
     "IIIF_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502489w/manifest.json"
-  }
-},
-{
-  "pk": 57,
-  "fields": {
+  },
+  {
+    "pk": 57,
     "bib_id": "F-Pnm fr. 20050",
     "nick_name": "",
     "country": "France",
@@ -852,11 +739,9 @@
     "concordances": "CB151 Virent prata hiemata / So wol dir, meie, f. 54 (Quand je voi l'erbe, Gautier d'Espinal) CB169",
     "notes": "Hebet sydus / Roter mund ist said to have the same form than CB151, so it has been considered as possibly sung on the same Quand je voi l'erbe melody. \r\n\r\nChansonnier de Saint-Germain-des-Prés.\r\nCatalogue description: https://archivesetmanuscrits.bnf.fr/ark:/12148/cc51652b",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 58,
-  "fields": {
+  },
+  {
+    "pk": 58,
     "bib_id": "F-Pnm lat. 15163",
     "nick_name": "",
     "country": "France",
@@ -867,11 +752,9 @@
     "concordances": "CB014* Planctus ante nescia, f. 229v-230v (\"planctus beate Marie virginis in passione Domini) (text only, empty staves)",
     "notes": "In the previous and following folios there are other pieces notated with small square notation or even some late sort of French neumes on staves (15-16 cent.), particularly a prose for St. Victor (for the susceptio of his relics, 17 june): De profundis proclamemus et devote collaudemus... (f. 236).\r\n\r\nComposite manuscript.\r\nProvenance: Paris, St. Victor abbey.\r\nCatalogue description: https://archivesetmanuscrits.bnf.fr/ark:/12148/cc75874b",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 59,
-  "fields": {
+  },
+  {
+    "pk": 59,
     "bib_id": "F-Pnm lat. 3495",
     "nick_name": "",
     "country": "France",
@@ -882,11 +765,9 @@
     "concordances": "CB004* Flete fideles anime, f. 180v (text only)",
     "notes": "Composite manuscript, \" Miscellanea theologica\"\r\nCatalogue description: https://archivesetmanuscrits.bnf.fr/ark:/12148/cc61417g",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 60,
-  "fields": {
+  },
+  {
+    "pk": 60,
     "bib_id": "F-Pa 906",
     "nick_name": "",
     "country": "France",
@@ -897,11 +778,9 @@
     "concordances": "CB008 Licet eger cum egrotis, f. 275v (text only)",
     "notes": "Manuscript containing Pierre Riga's Aurora. \r\nCB008 placed on the very last folio of the manuscript. \r\nManuscript description: https://archivesetmanuscrits.bnf.fr/ark:/12148/cc801416",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 61,
-  "fields": {
+  },
+  {
+    "pk": 61,
     "bib_id": "F-Pa 3517",
     "nick_name": "",
     "country": "France",
@@ -912,11 +791,9 @@
     "concordances": "CB011* Ave nobilis venerabilis, f. 13v-14r",
     "notes": "Chansonnier. \r\nCatalogue description: https://archivesetmanuscrits.bnf.fr/ark:/12148/cc84177t",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 62,
-  "fields": {
+  },
+  {
+    "pk": 62,
     "bib_id": "F-Pm 942",
     "nick_name": "",
     "country": "France",
@@ -927,11 +804,9 @@
     "concordances": "CB014* Planctus ante nescia, f. 235-237 (\"planctus beate virginis et matris in passione filii\").",
     "notes": "Datation: 15th century for the main part of the ms. containing works by Jean Gerson and Franciscus de Mayronis Flores s. Augustini.\r\n\r\nThe musical item was probably copied in the early 13th century.\r\nNotation: diastematic neumes, West Frankish, three brown lines, c and f clefs.\r\n\r\nManuscript description: https://calames.abes.fr/pub/#details?id=MAZA13936\r\nAlso in Samaran, Charles and Marichal, Robert, Catalogue des manuscrits en écriture latine portant des indications de date, de lieu ou de copiste, t. I, 1959, p. 418.",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 63,
-  "fields": {
+  },
+  {
+    "pk": 63,
     "bib_id": "F-Ps 184",
     "nick_name": "",
     "country": "France",
@@ -942,11 +817,9 @@
     "concordances": "CB034 Deduc Syon uberrimas, f. 92v (text only)",
     "notes": "The catalogue entry says: \"vers contre les symoniaques. 24 vers. Le Christ s'adresse à l'Eglise corrompue. The piece is followed (f. 93v) by the last item of the ms., prose Gaude, Cosma cum germano\" for St. Cosmas and Damian.\r\n\r\n\r\nManuscript containing Gregorius' Dialogi (patristic).\r\nOrigin: France, North (Paris)\r\nDatation: last quarter of 15th cent. or early 16th century\r\n\r\nManuscript description: \r\nhttps://initiale.irht.cnrs.fr/codex/10709\r\nhttps://calames.abes.fr/pub/#details?id=UNIA10380",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 64,
-  "fields": {
+  },
+  {
+    "pk": 64,
     "bib_id": "F-ROU 666 (A 506)",
     "nick_name": "",
     "country": "France",
@@ -957,11 +830,9 @@
     "concordances": "CB014* Planctus ante nescia, f. 94r-96v",
     "notes": "This piece follows to other Marian chants (Mira sunt prodigia and Virgo gaudet filio).\r\n\r\nThe manuscript is a collection of \"Opuscula theologica\".\r\nDescription in CGM: https://ccfr.bnf.fr/portailccfr/jsp/index_view_direct_anonymous.jsp?record=eadcgm:EADC:D08A11706\r\n\r\nNotation: Diastematic neumes, West-Frankish, red ink four-line staves, clefs c, f, g and a.",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 65,
-  "fields": {
+  },
+  {
+    "pk": 65,
     "bib_id": "F-SOM 351",
     "nick_name": "",
     "country": "France",
@@ -972,11 +843,9 @@
     "concordances": "CB003 Ecce torpet probitas, f. 19v (text only)\r\nCB008 Licet eger cum egrotis, f. 19r (text only)",
     "notes": "Composite manuscript, among others on f. 14v a later (16-17th cent.) entry from the librarian of St. Bertin, Charles De Witte: \"Versus plures leonini et rythmici de variis\".\r\n\r\nPrvenance: Saint-Bertin abbey, Normandy.\r\n\r\nCatalogue description and digital images: https://bibliotheque-numerique.bibliotheque-agglo-stomer.fr/notices/item/18235-recueil\r\nIRHT description: http://saint-bertin.irht.cnrs.fr/site/php/notice.php?id=Saint-Omer351&catalogue=st-omer\r\n\r\nOn this ms., see also Bourgain, Pascale, \"Les chansonniers lyriques latins\", in Lyrique romane médiévale, la tradition des chansonniers ed. Madeleine Tyssens, Liège, Université de Liège, 1991, p. 74.",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 66,
-  "fields": {
+  },
+  {
+    "pk": 66,
     "bib_id": "F-T 1471",
     "nick_name": "",
     "country": "France",
@@ -987,11 +856,9 @@
     "concordances": "CB131 Dic Christi veritas, f. 113v (text only, first strophe only. Prepared to receive two-part musical notation)",
     "notes": "Biblia latina Isaias propheta cum glossa ordinaria\r\n13th century (the main manuscript)\r\n\r\nProvenance: Clairvaux (mentioned in a catalogue dated 1472 + ex-libris on f. 112v \"Liber Sancte Marie Clarevallis\".  \r\n\r\nCatalogue CGM:  https://ccfr.bnf.fr/portailccfr/jsp/index_view_direct_anonymous.jsp?record=eadcgm:EADC:D02B10609\r\n\r\nOnline description with the digital reproduction: https://portail.mediatheque.grand-troyes.fr/iguana/www.main.cls?surl=search#RecordId=2.682\r\n\r\nA fragment a four folios at the front (A, B) and back (C, D) of the manuscript contain musical pieces prepared to receive polyphonic notation but the notation was not made. CB131 is on the fol. Cv. This fragment\r\n\r\nThe other conductus present in the fragment are: \r\nAr Salvatoris hodie sanguis pregustatur\r\nAv De nature fracto iure\r\n113r-v (=Cr-v) Flos de spina procreatur\r\n114r-v (=Dr-v- Hac in die Gedeonis",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 67,
-  "fields": {
+  },
+  {
+    "pk": 67,
     "bib_id": "GB-Ccc 202",
     "nick_name": "",
     "country": "United Kingdom",
@@ -1002,11 +869,9 @@
     "concordances": "",
     "notes": "",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 68,
-  "fields": {
+  },
+  {
+    "pk": 68,
     "bib_id": "GB-Ccc 450 (C)",
     "nick_name": "",
     "country": "United Kingdom",
@@ -1017,11 +882,9 @@
     "concordances": "",
     "notes": "",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 69,
-  "fields": {
+  },
+  {
+    "pk": 69,
     "bib_id": "GB-Cjec QB 1",
     "nick_name": "",
     "country": "United Kingdom",
@@ -1032,11 +895,9 @@
     "concordances": "",
     "notes": "",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 70,
-  "fields": {
+  },
+  {
+    "pk": 70,
     "bib_id": "GB-Ctc R.9.11",
     "nick_name": "",
     "country": "United Kingdom",
@@ -1047,11 +908,9 @@
     "concordances": "",
     "notes": "Licet eger cum egrotis + nove geniture écrits plusieurs fois",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 71,
-  "fields": {
+  },
+  {
+    "pk": 71,
     "bib_id": "GB-Cu Ff.I.17 (Ca)",
     "nick_name": "",
     "country": "United Kingdom",
@@ -1062,11 +921,9 @@
     "concordances": "",
     "notes": "",
     "IIIF_manifest": "https://cudl.lib.cam.ac.uk//iiif/MS-FF-00001-00017-00001"
-  }
-},
-{
-  "pk": 72,
-  "fields": {
+  },
+  {
+    "pk": 72,
     "bib_id": "GB-Lbl Add. 24659",
     "nick_name": "",
     "country": "United Kingdom",
@@ -1077,11 +934,9 @@
     "concordances": "",
     "notes": "Unavailable due to a cyber attack",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 73,
-  "fields": {
+  },
+  {
+    "pk": 73,
     "bib_id": "GB-Lbl Egerton 274",
     "nick_name": "",
     "country": "United Kingdom",
@@ -1092,11 +947,9 @@
     "concordances": "",
     "notes": "Unavailable due to a cyber attack",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 74,
-  "fields": {
+  },
+  {
+    "pk": 74,
     "bib_id": "GB-Lbl Egerton 2615",
     "nick_name": "",
     "country": "United Kingdom",
@@ -1107,11 +960,9 @@
     "concordances": "",
     "notes": "Unavailable due to a cyber attack",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 75,
-  "fields": {
+  },
+  {
+    "pk": 75,
     "bib_id": "GB-Lbl Add. 36881",
     "nick_name": "",
     "country": "United Kingdom",
@@ -1122,11 +973,9 @@
     "concordances": "",
     "notes": "Unavailable due to a cyber attack",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 76,
-  "fields": {
+  },
+  {
+    "pk": 76,
     "bib_id": "Gb-Lbl Arundel 384 (A)",
     "nick_name": "",
     "country": "United Kingdom",
@@ -1137,11 +986,9 @@
     "concordances": "",
     "notes": "Unavailable due to a cyber attack",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 77,
-  "fields": {
+  },
+  {
+    "pk": 77,
     "bib_id": "GB-Lbl Egerton 3307",
     "nick_name": "",
     "country": "United Kingdom",
@@ -1152,11 +999,9 @@
     "concordances": "",
     "notes": "Unavailable due to a cyber attack",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 78,
-  "fields": {
+  },
+  {
+    "pk": 78,
     "bib_id": "GB-Lbl Cotton Jul. D. VII",
     "nick_name": "",
     "country": "United Kingdom",
@@ -1167,11 +1012,9 @@
     "concordances": "",
     "notes": "Unavailable due to a cyber attack",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 79,
-  "fields": {
+  },
+  {
+    "pk": 79,
     "bib_id": "GB-Ob Digby 166 (D)",
     "nick_name": "",
     "country": "United Kingdom",
@@ -1182,11 +1025,9 @@
     "concordances": "",
     "notes": "",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 80,
-  "fields": {
+  },
+  {
+    "pk": 80,
     "bib_id": "GB-Lbl Cotton Vesp. A.XIX (L)",
     "nick_name": "",
     "country": "United Kingdom",
@@ -1197,11 +1038,9 @@
     "concordances": "",
     "notes": "",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 81,
-  "fields": {
+  },
+  {
+    "pk": 81,
     "bib_id": "GB-Ob Digby 53 (Di)",
     "nick_name": "",
     "country": "United Kingdom",
@@ -1212,11 +1051,9 @@
     "concordances": "",
     "notes": "",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 82,
-  "fields": {
+  },
+  {
+    "pk": 82,
     "bib_id": "GB-Ob Auct. VI.Q. 3.17",
     "nick_name": "",
     "country": "United Kingdom",
@@ -1227,11 +1064,9 @@
     "concordances": "",
     "notes": "Aristipe quamvis sero, fragment de la 8e strophe apparemment... 1 voix (CPI conductus). Je ne vois rien de tel sur les images DIAMM... mais tout n'y est peut-être pas. Donc source à commander.",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 83,
-  "fields": {
+  },
+  {
+    "pk": 83,
     "bib_id": "GB-Ob Bodl. 57",
     "nick_name": "",
     "country": "United Kingdom",
@@ -1242,11 +1077,9 @@
     "concordances": "",
     "notes": "",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 84,
-  "fields": {
+  },
+  {
+    "pk": 84,
     "bib_id": "GB-Ob Add. A.44 (O)",
     "nick_name": "",
     "country": "United Kingdom",
@@ -1257,11 +1090,9 @@
     "concordances": "",
     "notes": "",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 85,
-  "fields": {
+  },
+  {
+    "pk": 85,
     "bib_id": "GB-Ob Rawl.poet.C510 (R)",
     "nick_name": "",
     "country": "United Kingdom",
@@ -1272,11 +1103,9 @@
     "concordances": "",
     "notes": "",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 86,
-  "fields": {
+  },
+  {
+    "pk": 86,
     "bib_id": "I-CFm Cod.CI (peut-être aussi CII, feuillets à vérifier, cf. CPI conductus)",
     "nick_name": "",
     "country": "Italy",
@@ -1287,11 +1116,9 @@
     "concordances": "CB004* Flete fideles anime, 85r and following (within a liturgical play)",
     "notes": "Processional with liturgical dramas. \r\nOrigin: Cividale cathedral and collegiate church Santa Maria Assunta\r\nDate: 15th century according to the website Libri dei patriarchi, 14-15 according to the RISM, see on the DIAMM website: https://www.diamm.ac.uk/sources/121/#/",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 87,
-  "fields": {
+  },
+  {
+    "pk": 87,
     "bib_id": "I-Fl Edili 197",
     "nick_name": "",
     "country": "Italy",
@@ -1302,11 +1129,9 @@
     "concordances": "CB088 Ludo cum Cecilia, 131v",
     "notes": "Description by Carmen Cardelle in her article Poeta doctus / poeta doctor... about CB 88 (2019)\r\nhttps://www.zora.uzh.ch/id/eprint/180545/1/Cardelle-Poeta_doctus__poeta_doctor_Didaxe_und_Eros_in_CB_88.pdf",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 88,
-  "fields": {
+  },
+  {
+    "pk": 88,
     "bib_id": "I-Fl Pluteo 29.1",
     "nick_name": "F",
     "country": "Italy",
@@ -1317,11 +1142,9 @@
     "concordances": "CB012 Procurans odium, 226r-v / 193r-v (3 parts)\r\nCB014 O varium fortune\r\nCB015 Celum, non animum 223v-224r / 190v-191r (3 parts)\r\nCB019 Fas et nefas, 225r-v / 192r-v (3 parts)\r\nCB021 Veritas veritatum\r\nCB022 Gaude cur gaudeas (Homo qui vigeas), 386v-387r / 351v-352r (2 parts)\r\nCB026 Ad cor tuum,  420v-421v / 385v-386 (1 part)\r\nCB027 Bonum est confidere, 430r-v / 395r-v (1 part)\r\nCB031 Vite perdite, 356r / 321r (2 parts)\r\nCB033 Non te lusisse, 435r-v/ 400r-v (1 part)\r\nCB034 Deduc Syon uberrimas, 336r-337r / 301r-302r (2 parts)\r\nCB036 Nulli beneficium, 334r-335r / 299r-300r (2 parts)\r\nCB047 Crucifigat omnes, 231v-232r / 198v-199r (3 parts)\r\nCB063 Olim sudor Herculis, 417r-417v / 382r-382v (1 part)\r\nCB067 E globo veteri (A globo veteri), 446v / 411v (1 part)\r\nCB131/ CB131a Dic Christi veritas / Bulla fulminante, 203r–204r / 170r-171r (3 parts)\r\nCB185 Ecce tempus gaudii (possible contrafact of Ich was ein chint so wolgetan)\r\nCB187 O curas hominum,  424v / 389v (1 part)\r\nCB189 Aristippe, 416r-417r / 381r-382r (1 part)\r\nCB011* Ave nobilis venerabilis Maria, 363v-364r / 328v-329r (2 voix) (2 parts)",
     "notes": "ms. F of the Notre Dame sources\r\nDate: ca. 1230-1240\r\nOrigin: Paris",
     "IIIF_manifest": "https://tecabml.contentdm.oclc.org/iiif/2/plutei:753799/manifest.json"
-  }
-},
-{
-  "pk": 89,
-  "fields": {
+  },
+  {
+    "pk": 89,
     "bib_id": "I-Ma R71 sup.",
     "nick_name": "",
     "country": "Italy",
@@ -1332,11 +1155,9 @@
     "concordances": "CB031 Vite perdite => contrafactum? Per dan qe d'amor, 46r-v",
     "notes": "Troubadour ms. G. Description here: https://www.arlima.net/mss/italia/milano/biblioteca_ambrosiana/R_71_sup.html",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 90,
-  "fields": {
+  },
+  {
+    "pk": 90,
     "bib_id": "I-Ma O136 sup.",
     "nick_name": "",
     "country": "Italy",
@@ -1347,11 +1168,9 @@
     "concordances": "CB008 Licet eger cum egrotis (text only, strophe 1)",
     "notes": "Composite manuscript, 9th-10th for the main parts, of French origin. Description here: \r\nhttps://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:82500\r\n\r\nCB008 is copied as a later \"pen trial\" on the very last page of the book.",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 91,
-  "fields": {
+  },
+  {
+    "pk": 91,
     "bib_id": "I-Pc C.55",
     "nick_name": "",
     "country": "Italy",
@@ -1362,11 +1181,9 @@
     "concordances": "CB004* Flete fideles, 31v-36v",
     "notes": "Processional, cathedral of Padua\r\nRISM catalogue, cf. I-Pc C.56.",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 92,
-  "fields": {
+  },
+  {
+    "pk": 92,
     "bib_id": "I-Pc C.56",
     "nick_name": "",
     "country": "Italy",
@@ -1377,11 +1194,9 @@
     "concordances": "CB004* Flete fideles, 32r-36v",
     "notes": "Processional, cathedral of Padua\r\nRISM catalogue BIV 3, 4, p. 984-986.",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 93,
-  "fields": {
+  },
+  {
+    "pk": 93,
     "bib_id": "I-Rss XIV L3",
     "nick_name": "",
     "country": "Italy",
@@ -1392,11 +1207,9 @@
     "concordances": "CB026 Ad cor tuum revertere, f. 144r-145r",
     "notes": "Manuscript held in the Archivio dei Dominicani di Santa Sabina (Roma).\r\n\r\nDominican calendar from the same hand as the rest of the ms. at the begining, with the Feast of St. Thomas Aquinus added (canonized 1323). \r\n=> 14th century, before 1323?\r\n\r\n16-leaf octonion quires. Thin parchment. \r\nUnknown origin. North of France? \r\n\r\nChant book with hymn incipits, a processional, common and votive masses, a few offices (The Crown of Thorns, Peter the Martyr and the Translation of Saint Dominic) and a prosary. \r\nAdded polyphonic pieces according to DIAMM, see the description: https://www.diamm.ac.uk/sources/846/#/",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 94,
-  "fields": {
+  },
+  {
+    "pk": 94,
     "bib_id": "I-Rc 1404",
     "nick_name": "",
     "country": "Italy",
@@ -1407,11 +1220,9 @@
     "concordances": "CB131 Dic Christi, 15v (text only)",
     "notes": "South-German origin?\r\nA \"collection of theological, didactic and moralizing texts dating to the mid-fifteenth century\" (PhD Kralik 2013 for a description: https://tspace.library.utoronto.ca/bitstream/1807/68951/1/Kralik_Christine_M_201306_PhD_thesis.pdf)",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 95,
-  "fields": {
+  },
+  {
+    "pk": 95,
     "bib_id": "I-Tn D.VI.21",
     "nick_name": "",
     "country": "Italy",
@@ -1422,11 +1233,9 @@
     "concordances": "CB008 Licet eger cum egrotis, 57v (text only)",
     "notes": "",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 96,
-  "fields": {
+  },
+  {
+    "pk": 96,
     "bib_id": "I-Tn E.V.20",
     "nick_name": "",
     "country": "Italy",
@@ -1437,11 +1246,9 @@
     "concordances": "CB014* Planctus ante nescia, 1r (text only)",
     "notes": "",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 97,
-  "fields": {
+  },
+  {
+    "pk": 97,
     "bib_id": "I-Fn Landau Finaly ?",
     "nick_name": "",
     "country": "Italy",
@@ -1452,11 +1259,9 @@
     "concordances": "",
     "notes": "Cf. Anderson L51 https://www.examenapium.it/cs/biblio/Anderson1974.pdf",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 98,
-  "fields": {
+  },
+  {
+    "pk": 98,
     "bib_id": "V-CVbav Reg. lat. 344 (V)",
     "nick_name": "",
     "country": "Vatican City State",
@@ -1467,11 +1272,9 @@
     "concordances": "CB063 Olim sudor Herculis, 36r-v (De gestis Hercule) (text only)\r\n+\r\nCB083 Sevit aure spiritus (De amica cujusdam clerici), 36v\r\nCB084 Dum prius inculta (De virginis rapta virginitate), 36v\r\nCB092 Anni parte florida\r\nCB101 Pergama flere volo\r\nCB191 Estuans interius ira vehementi",
     "notes": "About the ms. see https://www.mirabileweb.it/manuscript/città-del-vaticano-biblioteca-apostolica-vaticana-reg-lat-344-manuscript/6975",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 99,
-  "fields": {
+  },
+  {
+    "pk": 99,
     "bib_id": "CH-Bu B.IX.23",
     "nick_name": "",
     "country": "Switzerland",
@@ -1482,11 +1285,9 @@
     "concordances": "CB026, Ad cor tuum revertere f. 4r (text only)",
     "notes": "Datation: 13-14 for this part of the manuscript.\r\nProvenance: charterhouse of Basel\r\n\r\nDetailed description in the print catalogue by MEYER, Gustav and Max BURCKHARDT: Die mittelalterlichen Handschriften der Universitätsbibliothek Basel. Beschreibendes Verzeichnis. Abteilung B: Theologische Pergamenthandschriften. Zweiter Band: Signaturen B VIII 11 - B XI 26. - Basel: Verlag der Universitätsbibliothek, 1966:  https://bilder.manuscripta-mediaevalia.de/hs/katalogseiten/HSK0503b_b0329_jpg.htm\r\n\r\nAlternative URL for the digital images:\r\nhttps://www.e-manuscripta.ch/bau/content/zoom/4810737",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 100,
-  "fields": {
+  },
+  {
+    "pk": 100,
     "bib_id": "CH-Bu A.XI.67 (Bl)",
     "nick_name": "",
     "country": "Switzerland",
@@ -1497,11 +1298,9 @@
     "concordances": "CB045 Roma tenens morem (versus), f. 240v (text only)",
     "notes": "Not digitized. \r\nProvenance: Charterhouse of Basel \r\nContains among other things a florilegium proverbiorum, the concordance with CB is in this part, toward the end of the manuscript.\r\nDescription: \r\nhttps://archive.org/details/p1diehandschrift01univuoft/page/332/mode/2up?view=theater",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 101,
-  "fields": {
+  },
+  {
+    "pk": 101,
     "bib_id": "CH-EN 1003",
     "nick_name": "",
     "country": "Switzerland",
@@ -1512,11 +1311,9 @@
     "concordances": "CB131 Dic Christi, f. 114v (1 part)",
     "notes": "Description on the website e-codices: https://www.e-codices.unifr.ch/en/list/one/bke/1003\r\nProvenance and origin: Engelberg",
     "IIIF_manifest": "https://www.e-codices.unifr.ch/metadata/iiif/bke-1003/manifest.json"
-  }
-},
-{
-  "pk": 102,
-  "fields": {
+  },
+  {
+    "pk": 102,
     "bib_id": "CH-SGs 383",
     "nick_name": "",
     "country": "Switzerland",
@@ -1527,11 +1324,9 @@
     "concordances": "",
     "notes": "Clausus Chronos Tropaire séquentiaire. Manuscrit copié avant 1250 dans l'ouest de la Suisse",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 103,
-  "fields": {
+  },
+  {
+    "pk": 103,
     "bib_id": "CH-Zz C. 58/235 (Z)",
     "nick_name": "",
     "country": "Switzerland",
@@ -1542,11 +1337,9 @@
     "concordances": "",
     "notes": "",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 104,
-  "fields": {
+  },
+  {
+    "pk": 104,
     "bib_id": "CZ-Pak N VIII",
     "nick_name": "",
     "country": "Czech Republic",
@@ -1557,11 +1350,9 @@
     "concordances": "CB131a Bulla fulminante, f. 37v (text only)",
     "notes": "Archive of the Prague Castle, see https://books.google.ch/books?id=TsNWsMJncxUC&pg=PA34&lpg=PA34&dq=Archiv+Pražského+hradu+N+VIII&source=bl&ots=62juBxcX-l&sig=ACfU3U0nooXkOCxm-7pJeKjNvmD3djvNrw&hl=de&sa=X&ved=2ahUKEwjCmsbo2on4AhXei_0HHdCRDMcQ6AF6BAgCEAM#v=onepage&q=Archiv%20Pražského%20hradu%20N%20VIII&f=false",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 105,
-  "fields": {
+  },
+  {
+    "pk": 105,
     "bib_id": "CZ-Pu XII.D.8a",
     "nick_name": "",
     "country": "Czech Republic",
@@ -1572,11 +1363,9 @@
     "concordances": "CB014* Planctus ante nescia, f. 148r-149v (text only)",
     "notes": "The ms. is a breviarum de tempore.\r\nPossible origin: St. George's convent, castle of Prague.",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 106,
-  "fields": {
+  },
+  {
+    "pk": 106,
     "bib_id": "D-Mbs Clm 4660",
     "nick_name": "Codex Buranus",
     "country": "Germany",
@@ -1587,11 +1376,9 @@
     "concordances": "",
     "notes": "",
     "IIIF_manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00085130/manifest"
-  }
-},
-{
-  "pk": 107,
-  "fields": {
+  },
+  {
+    "pk": 107,
     "bib_id": "D-Mbs Clm 4660a",
     "nick_name": "Fragmenta Burana",
     "country": "Germany",
@@ -1602,11 +1389,9 @@
     "concordances": "",
     "notes": "Fragmenta Burana",
     "IIIF_manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00085131/manifest"
-  }
-},
-{
-  "pk": 108,
-  "fields": {
+  },
+  {
+    "pk": 108,
     "bib_id": "I-BREmd",
     "nick_name": "",
     "country": "Italy",
@@ -1617,11 +1402,9 @@
     "concordances": "CB022* Hac in die, 269-270v",
     "notes": "IIIF Manifest\r\nhttps://iiifp-mufo.oeaw.ac.at/mahss/I-BREmdTaisten/manifest",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 109,
-  "fields": {
+  },
+  {
+    "pk": 109,
     "bib_id": "RISM A/I P 1595",
     "nick_name": "Piae Cantiones",
     "country": "Germany",
@@ -1632,11 +1415,9 @@
     "concordances": "CB142",
     "notes": "",
     "IIIF_manifest": ""
-  }
-},
-{
-  "pk": 110,
-  "fields": {
+  },
+  {
+    "pk": 110,
     "bib_id": "F-Pn lat. 5268",
     "nick_name": "",
     "country": "France",
@@ -1648,5 +1429,4 @@
     "notes": "",
     "IIIF_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9066508v/manifest.json"
   }
-}
 ]
