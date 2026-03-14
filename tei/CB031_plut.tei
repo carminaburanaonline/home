@@ -1,0 +1,68 @@
+<TEI>
+  <teiHeader />
+  <text>
+    <body>
+      <div type="poem" met="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p" rhyme="a/b+c/a/b+c/c+b/c+b">
+        <lg type="strophe" n="I">
+          <l n="1">
+            <w>Vite</w>
+            <w>perdite</w>
+          </l>
+          <l n="2">
+            <seg type="hemistich">
+              <w>me</w>
+              <w>legi</w>
+            </seg>
+            <seg type="hemistich">
+              <w>subdideram</w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">,</pc>
+            </seg>
+          </l>
+          <l n="3">
+            <w>minus</w>
+            <w>licite</w>
+          </l>
+          <l n="4">
+            <seg type="hemistich">
+              <w>dum</w>
+              <w>fregi</w>
+            </seg>
+            <seg type="hemistich">
+              <w>quod</w>
+              <w>voveram</w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">;</pc>
+            </seg>
+          </l>
+          <l n="5">
+            <seg type="hemistich">
+              <w>sed</w>
+              <w>ad</w>
+              <w>vite</w>
+              <w>vesperam</w>
+            </seg>
+            <seg type="hemistich">
+              <w>corrigendum</w>
+              <w>legi</w>
+              <pc>&#183;</pc>
+            </seg>
+          </l>
+          <l n="6">
+            <seg type="hemistich">
+              <w>quicquid</w>
+              <w>ante</w>
+              <w>perperam</w>
+            </seg>
+            <seg type="hemistich">
+              <w>puerilis</w>
+              <w>egi</w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

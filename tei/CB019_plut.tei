@@ -1,0 +1,367 @@
+<TEI>
+  <teiHeader />
+  <text>
+    <body>
+      <div type="poem" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p" rhyme="a/a/a/b/b+a">
+        <lg type="strophe" n="I">
+          <l n="1">
+            <seg type="hemistich">
+              <w>Fas</w>
+              <w>et</w>
+              <w>nefas</w>
+              <w>ambulant</w>
+            </seg>
+            <seg type="hemistich">
+              <app type="text">
+                <lem wit="cod. Tc">
+                  <w>fere</w>
+                  <w>passu</w>
+                </lem>
+                <rdg wit="V"><w>passu</w><w>fere</w></rdg>
+                <rdg wit="HS T"><w>pene</w><w>passu</w></rdg>
+              </app>
+              <w>pari</w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">,</pc>
+            </seg>
+          </l>
+          <l n="2">
+            <seg type="hemistich">
+              <w>prodigus</w>
+              <w>non</w>
+              <w>redimit</w>
+            </seg>
+            <seg type="hemistich">
+              <w>vitium</w>
+              <w>avari</w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">;</pc>
+            </seg>
+          </l>
+          <l n="3">
+            <seg type="hemistich">
+              <w>virtus</w>
+              <w>temperantia</w>
+            </seg>
+            <seg type="hemistich">
+              <w>quadam</w>
+              <w>singulari</w>
+            </seg>
+          </l>
+          <l n="4">
+            <w>debet</w>
+            <w>medium</w>
+          </l>
+          <l n="5">
+            <seg type="hemistich">
+              <w>ad</w>
+              <w>utrumque</w>
+              <w>vitium</w>
+            </seg>
+            <seg type="hemistich">
+              <w>caute</w>
+              <w>contemplari</w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="II">
+          <l n="1">
+            <seg type="hemistich">
+              <w>Si</w>
+              <w>legisse</w>
+              <w>memoras</w>
+            </seg>
+            <seg type="hemistich">
+              <w>ethicam</w>
+              <w>Cathonis</w>
+              <pc resp="#editor">,</pc>
+            </seg>
+          </l>
+          <l n="2">
+            <seg type="hemistich">
+              <w>in</w>
+              <w>qua</w>
+              <w>scriptum</w>
+              <w>legitur</w>
+              <pc resp="#editor">:</pc>
+            </seg>
+            <seg type="hemistich">
+              <pc resp="editor">&#8216;</pc>
+              <w>ambula</w>
+              <w>cum</w>
+              <w>bonis</w>
+              <pc>&#183;</pc>
+              <pc resp="editor">&#8217;,</pc>
+            </seg>
+          </l>
+          <l n="3">
+            <seg type="hemistich">
+              <w>cum</w>
+              <w>ad</w>
+              <w>dandi</w>
+              <w>gloriam</w>
+            </seg>
+            <seg type="hemistich">
+              <w>animum</w>
+              <w>disponis</w>
+              <pc>&#183;</pc>
+              <pc resp="editor">,</pc>
+            </seg>
+          </l>
+          <l n="4">
+            <app type="text">
+              <lem wit="cod. HS Tc T"><w>supra</w></lem>
+              <rdg wit="V"><w>inter</w></rdg>
+            </app>
+            <w>cetera</w>
+          </l>
+          <l n="5">
+            <seg type="hemistich">
+              <app type="text">
+                <lem wit="HS Tc T">
+                  <w>primum</w>
+                  <w>hoc</w>
+                </lem>
+                <rdg wit="V"><w>hoc</w><w>primum</w></rdg>
+              </app>
+              <w>considera</w>
+            </seg>
+            <seg type="hemistich">
+              <w>quis</w>
+              <w>sit</w>
+              <w>dignus</w>
+              <w>donis</w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="III">
+          <l n="1">
+            <seg type="hemistich">
+              <w>Vultu</w>
+              <w>licet</w>
+              <w>hilari</w>
+              <pc resp="editor">,</pc>
+            </seg>
+            <seg type="hemistich">
+              <w>verbo</w>
+              <w>licet</w>
+              <w>blando</w>
+            </seg>
+          </l>
+          <l n="2">
+            <seg type="hemistich">
+              <w>sis</w>
+              <w>equalis</w>
+              <w>omnibus</w>
+              <pc>&#61936;</pc>
+              <pc resp="editor">,</pc>
+            </seg>
+            <seg type="hemistich">
+              <w>unum</w>
+              <w>tamen</w>
+              <w>mando</w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">:</pc>
+            </seg>
+          </l>
+          <l n="3">
+            <seg type="hemistich">
+              <w>si</w>
+              <w>vis</w>
+              <w>recte</w>
+              <w>gloriam</w>
+            </seg>
+            <seg type="hemistich">
+              <w>promereri</w>
+              <w>dando</w>
+              <pc>&#61936;</pc>
+              <pc resp="#editor">,</pc>
+            </seg>
+          </l>
+          <l n="4">
+            <w>primum</w>
+            <w>videas</w>
+          </l>
+          <l n="5">
+            <seg type="hemistich">
+              <w>granum</w>
+              <w>inter</w>
+              <w>paleas</w>
+              <pc resp="editor">:</pc>
+            </seg>
+            <seg type="hemistich">
+              <w>cui</w>
+              <w>des</w>
+              <w>et</w>
+              <w>quando</w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="IV">
+          <l n="1">
+            <seg type="hemistich">
+              <w>Dare</w>
+              <w>non</w>
+              <w>ut</w>
+              <w>convenit</w>
+            </seg>
+            <seg type="hemistich">
+              <w>non</w>
+              <w>est</w>
+              <w>a</w>
+              <w>virtute</w>
+              <pc>&#183;</pc>
+              <pc resp="editor">,</pc>
+            </seg>
+          </l>
+          <l n="2">
+            <seg type="hemistich">
+              <w>bonum</w>
+              <w>est</w>
+              <w>secundum</w>
+              <w>quid</w>
+            </seg>
+            <seg type="hemistich">
+              <app type="text">
+                <lem wit="cod. HS Tc T">
+                  <w>sed</w>
+                  <w>non</w>
+                </lem>
+                <rdg wit="V"><w>et</w><w>non</w></rdg>
+              </app>
+              <w>absolute</w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+          <l n="3" rhyme="b+a">
+            <seg type="hemistich">
+              <w>digne</w>
+              <w>dare</w>
+              <w>poteris</w>
+              <pc>&#183;</pc>
+            </seg>
+            <seg type="hemistich">
+              <w>et</w>
+              <w>mereri</w>
+              <w>tute</w>
+              <pc>&#183;</pc>
+            </seg>
+          </l>
+          <l n="4" met="7pp" rhyme="c">
+            <app type="text">
+              <lem wit="HS V Tc T">
+                <w>famam</w>
+                <w>muneris</w>
+              </lem>
+              <rdg wit="cod."><w>famant</w><w>emis</w><w>munere</w></rdg>
+            </app>
+            <pc>&#61936;</pc>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="5">
+            <seg type="hemistich">
+              <w>si</w>
+              <app type="text">
+                <lem wit="cod. HS Tc T"><w>me</w></lem>
+                <rdg wit="V"><w>te</w></rdg>
+              </app>
+              <w>prius</w>
+              <w>noveris</w>
+            </seg>
+            <seg type="hemistich">
+              <w>intus</w>
+              <w>et</w>
+              <w>in</w>
+              <w>cute</w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="V">
+          <l n="1">
+            <seg type="hemistich">
+              <w>Si</w>
+              <w>prudenter</w>
+              <w>triticum</w>
+            </seg>
+            <seg type="hemistich">
+              <w>paleis</w>
+              <w>emundas</w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">,</pc>
+            </seg>
+          </l>
+          <l n="2">
+            <seg type="hemistich">
+              <w>famam</w>
+              <w>emis</w>
+              <w>munere</w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">;</pc>
+            </seg>
+            <seg type="hemistich">
+              <w>sed</w>
+              <w>caveto</w>
+              <pc resp="#editor">,</pc>
+              <app type="text">
+                <lem wit="cod. T"><w>cum</w></lem>
+                <rdg wit="HS V Tc"><w>dum</w></rdg>
+              </app>
+              <w>das</w>
+              <pc resp="#editor">,</pc>
+            </seg>
+          </l>
+          <l n="3">
+            <seg type="hemistich">
+              <w>largitatis</w>
+              <w>oleum</w>
+            </seg>
+            <seg type="hemistich">
+              <w>male</w>
+              <app type="text">
+                <lem wit="HS V Tc T"><w>non</w></lem>
+                <lem wit="cod."><w>ne</w></lem>
+              </app>
+              <w>effundas</w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+          <l n="4" met="4pp">
+            <w>In</w>
+            <app type="text">
+              <lem><w>te</w></lem>
+              <note>om. cod.</note>
+            </app>
+            <w>glorior</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="5">
+            <seg type="hemistich">
+              <app type="text">
+                <lem wit="cod. V Tc T"><w>quia</w></lem>
+                <rdg wit="HS"><w>cum</w><w>sim</w></rdg>
+              </app>
+              <w>Codro</w>
+              <w>Codrior</w>
+            </seg>
+            <seg type="hemistich">
+              <w>omnibus</w>
+              <w>habundas</w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

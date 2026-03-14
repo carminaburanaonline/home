@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>CBO</title>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://unpkg.com/mirador@^3/dist/mirador.min.js"></script>
+  <script type="application/javascript" src="js/html2pdf.bundle.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
+
+  <script src="js/get_item_data.js"></script>
+
+  <!-- Add additional CSS in static file -->
+  <link rel="stylesheet" href="css/style.css"/>
+  <link rel="stylesheet" href="css/layout-generic.css"/>
+  <link rel="stylesheet" href="css/neumed-text.css" />
+
+  <style>
+    .verse {
+      break-inside: avoid;
+    }
+
+    .no-break {
+      break-inside: avoid;
+
+    }
+
+    p {
+      break-inside: avoid;
+    }
+
+    .resizer {
+      cursor: ew-resize;
+      height: 1200px;
+      width: 6px;
+    }
+
+    .tab{
+      box-sizing: border-box;
+      display: inline-flex;
+      width: 100%;
+    }
+
+    .active {
+      background-color: #ffed7f;
+    }
+
+    .tabcontent {
+      display: none;
+      padding: 6px;
+      height: 1200px;
+      overflow-y: scroll;
+    }
+
+    .dropbtn {
+      background-color: #3498DB;
+      color: white;
+      padding: 16px;
+      font-size: 16px;
+      border: none;
+      cursor: pointer;
+    }
+
+    .dropdown {
+      margin-left: auto;
+    }
+
+    .dropbtn:hover, .dropbtn:focus {
+      background-color: #2980B9;
+    }
+
+    .dropdown-content {
+      display: none;
+      margin-left: auto;
+      position: absolute;
+      background-color: white;
+      min-width: 160px;
+      overflow: auto;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+    }
+
+    .dropdown-content button {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      width: 100%;
+    }
+
+    #itemRightTitle {
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .download-logo {
+      height: 40px;
+      width: 40px;
+    }
+    </style>
+
+</head>
+<body>
+<div class="page-container">
+  <!-- Navbar + header -->
+  <div data-include="header"></div>
+
+  <main style="display: flex; flex: 1;">
+
+    <div style="padding: 20px; width: 100%;">
+      <div style="display: flex">
+        <div style="flex: 2">
+          <h1><a href="{{ item.abstract_item.get_absolute_url }}">CB {{ item.abstract_item.cb_id }}</a></h1>
+          <h2>{{ item.title }}</h2>
+          <p>Source: <a href="{{ item.source.get_absolute_url }}">{{ item.source.bib_id }}</a> ({{ item.source.location }})</p>
+          <p>Folio: {{ item.foliation_str }}</p>
+        </div>
+        <script></script>
+        <div style="flex: 1; padding: 5px;">
+          <h4>Download options</h4>
+          <a href="{% static 'tei/' %}{{ item.file }}.tei" download="{{ item.file }}.tei"><img class="download-logo" src="img/TEI_Logo.svg" /></a>
+          <a href="{% static 'html/' %}{{ item.file }}.html" download="{{ item.file }}.html"><img class="download-logo" src="img/HTML_Logo.svg" /></a>
+          <a id="pdf-download" style="cursor: pointer;"><img class="download-logo" src="{% static 'img/PDF_Logo.svg' %}" /></a>
+          <h6>French translation</h6>
+          <a href="{% static 'tei/' %}{{ item.file }}_PB.tei" download="{{ item.file }}_french.tei"><img class="download-logo" src="img/TEI_Logo.svg" /></a>
+          <a href="{% static 'html/' %}{{ item.file }}_PB.html" download="{{ item.file }}_french.html"><img class="download-logo" src="img/HTML_Logo.svg" /></a>
+          <a id="pdf-download-french" style="cursor: pointer;"><img class="download-logo" src="{% static 'img/PDF_Logo.svg' %}" /></a>
+        </div>
+      </div>
+
+      <script>
+    // This script is for downloading PDF (through the html2pdf tool)
+    $("#pdf-download").click(function() {
+      var pdfHead = document.createElement("div");
+      pdfHead.innerHTML = "<h1>CB {{ item.abstract_item.cb_id }}</h1><h2>{{ item.title }}</h2><p>Source: {{ item.source.bib_id }} ({{ item.source.location }})</p><p>Folio: {{ item.foliation_str }}</p>";
+      pdfHead.innerHTML += "<p style='margin-top: 200px;'>Carmina Burana Online Project<p><p>Edited by C. Cazaux, L. Albiero, U. Bindini, M. Romanens</p>";
+      headOpt = {
+        margin: [20, 15, 20, 15],
+        image: { type: 'jpeg', quality: 1 },
+        html2canvas: { scrollY: 0, y: 0, scale: 4, letterRendering: true }
+      };
+
+      if ({{ item.is_svg_based|yesno:"true,false" }}) {
+        var opt = {
+          margin: [0, 0, 0, 0],
+          filename: 'CB{{ item.abstract_item.cb_id }}.pdf',
+          pagebreak: { mode: 'css' },
+          image: { type: 'jpeg', quality: 1 },
+          html2canvas: { scrollY: 0, y: 0, scale: 4, letterRendering: true }
+        };
+        var element = document.createElement("div");
+        {% autoescape off %}
+        element.innerHTML = '{{ item.pdf_template }}'
+        {% endautoescape %}
+        html2pdf().set(headOpt).from(pdfHead).toPdf().get('pdf').then(function (pdf) {
+          pdf.addPage();
+        }).set(opt).from(element).toContainer().toCanvas().toPdf().save();
+      }
+      else {
+        var opt = {
+          margin: [17, 15, 16, 15],
+          filename: 'CB{{ item.abstract_item.cb_id }}.pdf',
+          pagebreak: { mode: 'css', avoid: '.lg-heading' },
+          image: { type: 'jpeg', quality: 1 },
+          html2canvas: { scrollY: 0, y: 0, scale: 4, letterRendering: true }
+        };
+        var element = document.getElementById('mainContainer-{{ item.pk }}');
+        html2pdf().set(headOpt).from(pdfHead).toPdf().get('pdf').then(function (pdf) {
+          pdf.addPage();
+        }).set(opt).from(element).toContainer().toCanvas().toPdf().save();
+      }
+    });
+    $("#pdf-download-french").click(function() {
+      var pdfHead = document.createElement("div");
+      $("#translationButton").click();
+      pdfHead.innerHTML = "<h1>CB {{ item.abstract_item.cb_id }}</h1><h2>{{ item.title }}</h2><p>Source: {{ item.source.bib_id }} ({{ item.source.location }})</p><p>Folio: {{ item.foliation_str }}</p>";
+      pdfHead.innerHTML += "<p style='margin-top: 200px;'>Carmina Burana Online Project<p><p>Edited by C. Cazaux, L. Albiero, U. Bindini, M. Romanens</p>";
+      pdfHead.innerHTML += "<p style='margin-top: 200px;'>French translation by Pascale Bourgain<p>";
+      headOpt = {
+        margin: [20, 15, 20, 15],
+        image: { type: 'jpeg', quality: 1 },
+        html2canvas: { scrollY: 0, y: 0, scale: 4, letterRendering: true }
+      };
+      var opt = {
+        margin: [17, 15, 16, 15],
+        filename: 'CB{{ item.abstract_item.cb_id }}_french.pdf',
+        pagebreak: { mode: 'css', avoid: '.lg-heading' },
+        image: { type: 'jpeg', quality: 1 },
+        html2canvas: { scrollY: 0, y: 0, scale: 4, letterRendering: true }
+      };
+      var element = $("#translation")[0];
+      html2pdf().set(headOpt).from(pdfHead).toPdf().get('pdf').then(function (pdf) {
+        pdf.addPage();
+      }).set(opt).from(element).toContainer().toCanvas().toPdf().save();
+    });
+  </script>
+
+      <div style="display: flex;">
+        <div class="cbo-border-inset cbo-border-sand flex-column" style="width: 50%;">
+          {% include "item_core_view.html" with item=item %}
+        </div>
+
+        <div id="dragResizer" class="resizer"></div>
+        <script>
+  // This function controls the horizontal window resizer
+  $(document).ready(function() {
+    // Query the element
+    const resizer = document.getElementById('dragResizer');
+    const leftSide = resizer.previousElementSibling;
+    const rightSide = resizer.nextElementSibling;
+
+    // The current position of mouse
+    let x = 0;
+    let y = 0;
+    let leftWidth = 0;
+
+    // Handle the mousedown event
+    // that's triggered when user drags the resizer
+    const mouseDownHandler = function (e) {
+        // Get the current mouse position
+        x = e.clientX;
+        y = e.clientY;
+        leftWidth = leftSide.getBoundingClientRect().width;
+
+        // Attach the listeners to document
+        document.addEventListener('mousemove', mouseMoveHandler);
+        document.addEventListener('mouseup', mouseUpHandler);
+    };
+
+    const mouseMoveHandler = function (e) {
+        // How far the mouse has been moved
+        const dx = e.clientX - x;
+        const dy = e.clientY - y;
+
+        const newLeftWidth = ((leftWidth + dx) * 100) / resizer.parentNode.getBoundingClientRect().width;
+        leftSide.style.width = newLeftWidth + '%';
+
+        resizer.style.cursor = 'col-resize';
+        document.body.style.cursor = 'col-resize';
+
+        leftSide.style.userSelect = 'none';
+        leftSide.style.pointerEvents = 'none';
+
+        rightSide.style.userSelect = 'none';
+        rightSide.style.pointerEvents = 'none';
+    };
+
+    const mouseUpHandler = function () {
+        resizer.style.removeProperty('cursor');
+        document.body.style.removeProperty('cursor');
+
+        leftSide.style.removeProperty('user-select');
+        leftSide.style.removeProperty('pointer-events');
+
+        rightSide.style.removeProperty('user-select');
+        rightSide.style.removeProperty('pointer-events');
+
+        // Remove the handlers of mousemove and mouseup
+        document.removeEventListener('mousemove', mouseMoveHandler);
+        document.removeEventListener('mouseup', mouseUpHandler);
+    };
+
+    // Attach the handler
+    resizer.addEventListener('mousedown', mouseDownHandler);
+  });
+</script>
+
+        <div class="cbo-border-inset cbo-border-sand" style="flex: 1;">
+          <div class="tab cbo-white cbo-wide cbo-padding cbo-card right">
+            <button id="defaultOpenRight" class="tablinks cbo-bar-item cbo-button activable" onclick="openRightTab(this, 'msImage')">Manuscript</button>
+            <button class="tablinks cbo-bar-item cbo-button activable" onclick="openRightTab(this, 'commentary')">Critical commentary</button>
+            <button id="translationButton" class="tablinks cbo-bar-item cbo-button activable" onclick="openRightTab(this, 'translation')">French translation</button>
+            <button id="itemsRight" class="tablinks cbo-bar-item cbo-button activable" onclick="openRightTab(this, 'itemRight')">Item...</button>
+          </div>
+
+          <div id="msImage" class="tabcontent right">
+            {% if not item.source.IIIF_manifest %}
+            {% if item.alternative_img_link %}
+            Unable to display manuscript images due to copyright restrictions.
+            <a target="_blank" href="{{ item.alternative_img_link }}"><i class="fa fa-arrow-right" style="margin-right: 5px;"></i>Open external website.</a>
+            {% else %}
+            Manuscript images not available for this item.
+            {% endif %}
+            {% else %}
+            <div id="mirador" style="position: relative; width: 100%; height: 1000px;"></div>
+            <script>
+          // This script is for mirador (IIIF viewer)
+          var source_manifest = "{{ item.source.IIIF_manifest }}";
+          var canvasIndex = "{{ item.IIIF_canvasIndex }}"
+          var canvasId = "{{ item.IIIF_canvasId }}"
+          var mirador_windows = [];
+          if (canvasIndex.length) {
+            mirador_windows = [
+              {
+                manifestId: source_manifest,
+                canvasIndex: canvasIndex
+              }
+            ]
+          }
+          else {
+            mirador_windows = [
+              {
+                manifestId: source_manifest,
+                canvasId: canvasId
+              }
+            ]
+          }
+          var mirador = Mirador.viewer({
+            "id": "mirador",
+            selectedTheme: 'light',
+            window: {
+              defaultView: "single",
+              views: [
+                { key: "single", behaviors: ["individuals", "paged"] },
+                { key: "book", behaviors: ["individuals"] },
+                { key: "scroll", behaviors: ["continuous"] },
+                { key: "gallery" }
+              ]
+            },
+            windows: mirador_windows,
+            /* catalog: [
+              {
+                manifestId: "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00085130/manifest"
+              },
+            ] */
+          });
+        </script>
+            {% endif %}
+          </div>
+
+          <div id="commentary" class="tabcontent right">
+            In preparation...
+          </div>
+
+          <div id="translation" class="tabcontent right">
+            {% if item.is_translated %}
+            {% autoescape off %}
+            {{ item.french_translation_transform }}
+            {% endautoescape %}
+            {% else %}
+            In preparation...
+            {% endif %}
+          </div>
+
+          <div id="itemRight" class="tabcontent right">
+            <div id="itemsTable">
+              {% if item.has_concordances %}
+              <table>
+                {% for x in sibling_items %}
+                <tr>
+                  <td style="white-space: nowrap;">CB {{ x.abstract_item.cb_id }}</td>
+                  <td class="truncate"><a href="javascript:openItemRight({{ x.pk }});">{{ x.title }}</a></td>
+                  <td style="white-space: nowrap;">{{ x.source.bib_id }}</td>
+                </tr>
+                {% endfor %}
+              </table>
+              <hr />
+              {% endif %}
+              <table>
+                {% for x in other_items %}
+                <tr>
+                  <td style="white-space: nowrap;">CB {{ x.abstract_item.cb_id }}</td>
+                  <td class="truncate"><a href="javascript:openItemRight({{ x.pk }});">{{ x.title }}</a></td>
+                  <td style="white-space: nowrap;">{{ x.source.bib_id }}</td>
+                </tr>
+                {% endfor %}
+              </table>
+            </div>
+            <table id="itemRightTitle"></table>
+            <div id="itemRightNav" style="display: flex; align-items: center;">
+              <a href="javascript:itemsRightBack()" style="margin-left: 10px;"><i class="fa fa-arrow-left" style="margin-right: 5px;"></i>Back to items' list</a>
+              <div style="flex: 1; height: 50px;"></div>
+              <a id="itemRightDetailView" href="blank"  style="margin-right: 10px;">Open item's detailed view<i class="fa fa-arrow-right" style="margin-left: 5px;"></i></a>
+            </div>
+            <div id="selectedItemRight"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+  function openRightTab(tab, tabName) {
+    $('.tabcontent.right').hide();
+    $('.right > .tablinks').removeClass('active');
+    $("#" + tabName).css("display","block");
+    $(tab).addClass('active');
+    $("#itemsTable").show();
+    $("#selectedItemRight").hide();
+    $("#itemRightNav").hide();
+  }
+
+  function openItemRight(pk) {
+    $("#itemsTable").hide();
+    $("#selectedItemRight").load("/browse/item-core-view/" + pk);
+    $("#itemRightTitle").load("/browse/item-as-tr/" + pk);
+    $("#itemRightDetailView").attr("href", "/browse/item/" + pk);
+    $("#selectedItemRight").show();
+    $("#itemRightNav").show();
+  }
+
+  function itemsRightBack() {
+    $("#itemsRight").click();
+  }
+
+  $(document).ready(function() {
+    $("#defaultOpenRight").click();
+    $("#selectedItemRight").hide();
+    $("#itemRightNav").hide();
+  });
+</script>
+  </main>
+
+  <!-- Footer -->
+  <footer class="cbo-center cbo-black cbo-padding-16" data-include="footer"></footer>
+</div>
+
+<script src="js/data_include.js"></script>
+
+</body>
+</html>
+
+
+
+

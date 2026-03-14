@@ -18,11 +18,10 @@ $.when(
     else {
       rows += `<tr>`
     }
-    rows += `<td><a href="abstract_item/${items[x].abstract_item}">${items[x].abstract_item}</a></td>
-      <td><a href="item/${items[x].file}">${items[x].title}</a></td>
-      <td><a href="source/${items[x].source}">${source.bib_id}</td>
+    rows += `<td><a href="abstract_item.html?id=${items[x].abstract_item}">${items[x].abstract_item}</a></td>
+      <td><a href="item.html?id=${items[x].file}">${items[x].title}</a></td>
+      <td><a href="source.html?pk=${items[x].source}">${source.bib_id}</td>
       </td>`;
-      //TODO: change source pk to source id
   }
   console.log(rows);
   $('#itemsTable').append(rows);

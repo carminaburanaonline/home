@@ -1,0 +1,68 @@
+<TEI>
+  <teiHeader />
+  <text>
+    <body>
+      <div type="poem" xml:lang="french">
+        <lg type="strophe" n="I">
+          <l n="1">En hiver, quand les pr&#233;s</l>
+          <l n="2">sous le froid se dess&#232;chent</l>
+          <l n="3">et que les eaux sont gel&#233;es,</l>
+          <l n="4">ils se pr&#233;cipitent au chauffoir,</l>
+          <l n="5">ceux qui r&#232;gnent avec le roi D&#233;,</l>
+          <l n="6">et quand ils sont r&#233;confort&#233;s,</l>
+          <l n="7">s&#8217;incitent l&#8217;un l&#8217;autre &#224; jouer.</l>
+          <l n="8">
+            <seg type="hemistich">Qui habill&#233; &#233;tait venu</seg>
+            <seg type="hemistich">revient sur ses pas tout nu.</seg>
+          </l>
+          <l n="9">H&#233; ! la richesse se tourmente</l>
+          <l n="10">quand la pauvret&#233;   sert toujours librement.</l>
+        </lg>
+        <lg type="strophe" n="II">
+          <l n="1">- Nous qui sommes bons buveurs,</l>
+          <l n="2">le gosier sec, compagnons,</l>
+          <l n="3">saluons la taverne,</l>
+          <l n="4">et joyeusement buvons.</l>
+          <l n="5">Que nos coupes soient toujours remplies,</l>
+          <l n="6">jouons &#224; l&#8217;accoutum&#233;e.</l>
+          <l n="7">
+            <seg type="hemistich">Qu&#8217;on nous donne table bien lisse,</seg>
+            <seg type="hemistich">qu&#8217;on nous pr&#234;te un jeu de d&#233;s !</seg>
+          </l>
+          <l n="8">
+            <seg type="hemistich">Pour la boisson et pour l&#8217;argent,</seg>
+            <seg type="hemistich">on misera les v&#234;tements.</seg>
+          </l>
+          <l n="9">H&#233; ! on va voir qui maintenant</l>
+          <l n="10">le sort et Fortune pr&#233;f&#232;rent. -</l>
+        </lg>
+        <lg type="strophe" n="III">
+          <l n="1">Bient&#244;t il sort du chauffoir,</l>
+          <l n="2">accueilli par Messire Froid,</l>
+          <l n="3">et s&#8217;entrechoquent ses m&#226;choires,</l>
+          <l n="4">compagnes de ses combats.</l>
+          <l n="5">Tout nu, il crie : &#171; Malheur, malheur,</l>
+          <l n="6">mes dents s&#8217;&#233;lancent &#224; l&#8217;attaque.</l>
+          <l n="7">
+            <seg type="hemistich">
+              O vraiment trop malchanceux,
+            </seg>
+            <seg type="hemistich">
+              pourquoi sors-tu de la chaleur,
+            </seg>
+          </l>
+          <l n="8">
+            <seg type="hemistich">
+              en chantant &#8216;Le roi des martyrs&#8217;
+            </seg>
+            <seg type="hemistich">
+              et en le mimant de ta bouche ?
+            </seg>
+          </l>
+          <l n="9">H&#233; ! C&#8217;est cela la r&#232;gle</l>
+          <l n="10">qui va nous rendre malades. &#187;</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
