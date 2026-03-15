@@ -2,8 +2,7 @@
   {
     "abstract_item": "CB003",
     "source": 106,
-    "foliation_start": "89",
-    "foliation_end": "89",
+    "foliation": "89",
     "title": "Ecce torpet probitas",
     "file": "CB003",
     "IIIF_canvasIndex": "88",
@@ -16,8 +15,7 @@
   {
     "abstract_item": "CB003",
     "source": 71,
-    "foliation_start": "1v",
-    "foliation_end": "5r",
+    "foliation": "1v-5r",
     "title": "Ecce torpet probitas",
     "file": "CB003_cambridge",
     "IIIF_canvasIndex": "13",
@@ -30,8 +28,7 @@
   {
     "abstract_item": "CB008",
     "source": 106,
-    "foliation_start": "45",
-    "foliation_end": "45v",
+    "foliation": "45-45v",
     "title": "Licet eger cum egrotis",
     "file": "CB008",
     "IIIF_canvasIndex": "92",
@@ -44,8 +41,7 @@
   {
     "abstract_item": "CB008",
     "source": 42,
-    "foliation_start": "4v",
-    "foliation_end": "5",
+    "foliation": "4v-5",
     "title": "Licet eger cum egrotis",
     "file": "CB008_evreux",
     "IIIF_canvasIndex": "",
@@ -58,8 +54,7 @@
   {
     "abstract_item": "CB012",
     "source": 106,
-    "foliation_start": "47v",
-    "foliation_end": "47v",
+    "foliation": "47v",
     "title": "Procurans odium",
     "file": "CB012",
     "IIIF_canvasIndex": "97",
@@ -72,8 +67,7 @@
   {
     "abstract_item": "CB012",
     "source": 15,
-    "foliation_start": "38",
-    "foliation_end": "39v",
+    "foliation": "38-39v",
     "title": "Procurans odium",
     "file": "CB012_5539",
     "IIIF_canvasIndex": "79",
@@ -86,8 +80,7 @@
   {
     "abstract_item": "CB012",
     "source": 69,
-    "foliation_start": "1",
-    "foliation_end": "1ar",
+    "foliation": "1-1ar",
     "title": "[Procurans odium]",
     "file": "CB012_cjec",
     "IIIF_canvasIndex": "",
@@ -100,8 +93,7 @@
   {
     "abstract_item": "CB012",
     "source": 37,
-    "foliation_start": "124",
-    "foliation_end": "124v",
+    "foliation": "124-124v",
     "title": "Procurans hodium",
     "file": "CB012_emn",
     "IIIF_canvasIndex": "",
@@ -114,8 +106,7 @@
   {
     "abstract_item": "CB012",
     "source": 88,
-    "foliation_start": "226 (193)",
-    "foliation_end": "226v (193v)",
+    "foliation": "226-226v (193-193v)",
     "title": "Procurans odium",
     "file": "CB012_plut",
     "IIIF_canvasIndex": "394",
@@ -128,8 +119,7 @@
   {
     "abstract_item": "CB014",
     "source": 106,
-    "foliation_start": "47v",
-    "foliation_end": "48",
+    "foliation": "47v-48",
     "title": "O varium",
     "file": "CB014",
     "IIIF_canvasIndex": "97",
@@ -142,8 +132,7 @@
   {
     "abstract_item": "CB014",
     "source": 88,
-    "foliation_start": "351v (316v)",
-    "foliation_end": "351v (316v)",
+    "foliation": "351v (316v)",
     "title": "O varium",
     "file": "CB014_plut",
     "IIIF_canvasIndex": "641",
@@ -156,8 +145,7 @@
   {
     "abstract_item": "CB014",
     "source": 52,
-    "foliation_start": "3v",
-    "foliation_end": "3v",
+    "foliation": "3v",
     "title": "O varium",
     "file": "CB014_fauvel",
     "IIIF_canvasIndex": "17",
@@ -170,8 +158,7 @@
   {
     "abstract_item": "CB015",
     "source": 106,
-    "foliation_start": "48",
-    "foliation_end": "48v",
+    "foliation": "48-48v",
     "title": "Celum non animum",
     "file": "CB015",
     "IIIF_canvasIndex": "98",
@@ -184,8 +171,7 @@
   {
     "abstract_item": "CB015",
     "source": 88,
-    "foliation_start": "223v (190v)",
-    "foliation_end": "224 (191)",
+    "foliation": "223v-224 (190v-191)",
     "title": "Celum non animum",
     "file": "CB015_plut",
     "IIIF_canvasIndex": "389",
@@ -198,8 +184,7 @@
   {
     "abstract_item": "CB015",
     "source": 24,
-    "foliation_start": "11r",
-    "foliation_end": "11v",
+    "foliation": "11-11v",
     "title": "Celum non animum",
     "file": "CB015_w",
     "IIIF_canvasIndex": "",
@@ -212,8 +197,7 @@
   {
     "abstract_item": "CB019",
     "source": 106,
-    "foliation_start": "1",
-    "foliation_end": "1v",
+    "foliation": "1-1v",
     "title": "Fas et nefas ambulant",
     "file": "CB019",
     "IIIF_canvasIndex": "4",
@@ -226,8 +210,7 @@
   {
     "abstract_item": "CB019",
     "source": 88,
-    "foliation_start": "192 (225)",
-    "foliation_end": "192v (225v)",
+    "foliation": "192-192v (225-225v)",
     "title": "Fas et nefas ambulant",
     "file": "CB019_plut",
     "IIIF_canvasIndex": "392",
@@ -240,8 +223,7 @@
   {
     "abstract_item": "CB019",
     "source": 69,
-    "foliation_start": "1a",
-    "foliation_end": "1a",
+    "foliation": "1a",
     "title": "Fas et nephas ambulant",
     "file": "CB019_cjec",
     "IIIF_canvasIndex": "",
@@ -254,8 +236,7 @@
   {
     "abstract_item": "CB021",
     "source": 106,
-    "foliation_start": "2",
-    "foliation_end": "2",
+    "foliation": "2",
     "title": "Veritas veritatum",
     "file": "CB021",
     "IIIF_canvasIndex": "6",
@@ -268,8 +249,7 @@
   {
     "abstract_item": "CB021",
     "source": 88,
-    "foliation_start": "423v (388v)",
-    "foliation_end": "424 (389)",
+    "foliation": "423v-424 (388v-389)",
     "title": "Veritas veritatum",
     "file": "CB021_plut",
     "IIIF_canvasIndex": "785",
@@ -282,8 +262,7 @@
   {
     "abstract_item": "CB026",
     "source": 14,
-    "foliation_start": "1",
-    "foliation_end": "1",
+    "foliation": "1",
     "title": "Ad cor tuum revertere",
     "file": "CB026_clm",
     "IIIF_canvasIndex": "4",
@@ -296,8 +275,7 @@
   {
     "abstract_item": "CB026",
     "source": 34,
-    "foliation_start": "161v",
-    "foliation_end": "161v",
+    "foliation": "161v",
     "title": "Ergo vide ne dormias",
     "file": "CB026_ebu_1",
     "IIIF_canvasIndex": "",
@@ -310,8 +288,7 @@
   {
     "abstract_item": "CB026",
     "source": 34,
-    "foliation_start": "167",
-    "foliation_end": "167",
+    "foliation": "167",
     "title": "Si vocatus ad nupcias",
     "file": "CB026_ebu_2",
     "IIIF_canvasIndex": "",
@@ -324,8 +301,7 @@
   {
     "abstract_item": "CB026",
     "source": 88,
-    "foliation_start": "385v",
-    "foliation_end": "386v",
+    "foliation": "385v-386v",
     "title": "Ad cor tuum revertere",
     "file": "CB026_plut",
     "IIIF_canvasIndex": "779",
@@ -338,8 +314,7 @@
   {
     "abstract_item": "CB026",
     "source": 93,
-    "foliation_start": "144",
-    "foliation_end": "145",
+    "foliation": "144-145",
     "title": "Ad cor tuum revertere",
     "file": "CB026_rss",
     "IIIF_canvasIndex": "",
@@ -352,8 +327,7 @@
   {
     "abstract_item": "CB027",
     "source": 34,
-    "foliation_start": "157",
-    "foliation_end": "157v",
+    "foliation": "157-157v",
     "title": "Bonum est confidere",
     "file": "CB027_ebu",
     "IIIF_canvasIndex": "",
@@ -366,8 +340,7 @@
   {
     "abstract_item": "CB027",
     "source": 38,
-    "foliation_start": "100v",
-    "foliation_end": "100v",
+    "foliation": "100v",
     "title": "Bonum est confidere",
     "file": "CB027_esau",
     "IIIF_canvasIndex": "",
@@ -380,8 +353,7 @@
   {
     "abstract_item": "CB027",
     "source": 88,
-    "foliation_start": "395",
-    "foliation_end": "395v",
+    "foliation": "395-395v",
     "title": "Bonum est confidere",
     "file": "CB027_plut",
     "IIIF_canvasIndex": "798",
@@ -394,8 +366,7 @@
   {
     "abstract_item": "CB029",
     "source": 106,
-    "foliation_start": "3v",
-    "foliation_end": "4",
+    "foliation": "3v-4",
     "title": "In lacu miserie",
     "file": "CB029",
     "IIIF_canvasIndex": "9",
@@ -408,8 +379,7 @@
   {
     "abstract_item": "CB030",
     "source": 106,
-    "foliation_start": "4",
-    "foliation_end": "4",
+    "foliation": "4",
     "title": "Dum iuventus floruit",
     "file": "CB030",
     "IIIF_canvasIndex": "10",
@@ -422,8 +392,7 @@
   {
     "abstract_item": "CB031",
     "source": 106,
-    "foliation_start": "4",
-    "foliation_end": "4v",
+    "foliation": "4-4v",
     "title": "Vite perdite",
     "file": "CB031",
     "IIIF_canvasIndex": "10",
@@ -436,8 +405,7 @@
   {
     "abstract_item": "CB031",
     "source": 88,
-    "foliation_start": "356 (321)",
-    "foliation_end": "356 (321)",
+    "foliation": "356 (321)",
     "title": "Vite perdite",
     "file": "CB031_plut",
     "IIIF_canvasIndex": "650",
@@ -450,8 +418,7 @@
   {
     "abstract_item": "CB033",
     "source": 106,
-    "foliation_start": "5",
-    "foliation_end": "5v",
+    "foliation": "5-5v",
     "title": "Non te lusisse pudeat",
     "file": "CB033",
     "IIIF_canvasIndex": "12",
@@ -464,8 +431,7 @@
   {
     "abstract_item": "CB033",
     "source": 88,
-    "foliation_start": "400 (435)",
-    "foliation_end": "400v (435v)",
+    "foliation": "400-400v (435-435v)",
     "title": "Non te lusisse pudeat",
     "file": "CB033_plut",
     "IIIF_canvasIndex": "808",
@@ -478,8 +444,7 @@
   {
     "abstract_item": "CB034",
     "source": 53,
-    "foliation_start": "280v",
-    "foliation_end": "281",
+    "foliation": "280v-281",
     "title": "Benedicamus Domino",
     "file": "CB034_bnf",
     "IIIF_canvasIndex": "",
@@ -492,8 +457,7 @@
   {
     "abstract_item": "CB034",
     "source": 37,
-    "foliation_start": "83",
-    "foliation_end": "85v",
+    "foliation": "83-85v",
     "title": "[D]educ Syon uberrimas",
     "file": "CB034_emn",
     "IIIF_canvasIndex": "",
@@ -506,8 +470,7 @@
   {
     "abstract_item": "CB034",
     "source": 88,
-    "foliation_start": "336",
-    "foliation_end": "337",
+    "foliation": "336-337",
     "title": "Deduc Syon uberrimas",
     "file": "CB034_plut",
     "IIIF_canvasIndex": "610",
@@ -520,8 +483,7 @@
   {
     "abstract_item": "CB034",
     "source": 24,
-    "foliation_start": "150v",
-    "foliation_end": "152",
+    "foliation": "150v-152",
     "title": "Deduc Syon uberrimas",
     "file": "CB034_w1",
     "IIIF_canvasIndex": "",
@@ -534,8 +496,7 @@
   {
     "abstract_item": "CB034",
     "source": 23,
-    "foliation_start": "93",
-    "foliation_end": "96",
+    "foliation": "93-96",
     "title": "Deduc Syon uberrimas",
     "file": "CB034_w2",
     "IIIF_canvasIndex": "",
@@ -548,8 +509,7 @@
   {
     "abstract_item": "CB036",
     "source": 37,
-    "foliation_start": "63",
-    "foliation_end": "65",
+    "foliation": "63-65",
     "title": "Nulli beneficium",
     "file": "CB036_emn",
     "IIIF_canvasIndex": "",
@@ -562,8 +522,7 @@
   {
     "abstract_item": "CB036",
     "source": 52,
-    "foliation_start": "7v",
-    "foliation_end": "7v",
+    "foliation": "7v",
     "title": "Nulli beneficium",
     "file": "CB036_fauvel",
     "IIIF_canvasIndex": "25",
@@ -576,8 +535,7 @@
   {
     "abstract_item": "CB036",
     "source": 88,
-    "foliation_start": "334 (299)",
-    "foliation_end": "335 (300)",
+    "foliation": "334-335 (299-300)",
     "title": "Nulli beneficium",
     "file": "CB036_plut",
     "IIIF_canvasIndex": "606",
@@ -590,8 +548,7 @@
   {
     "abstract_item": "CB036",
     "source": 24,
-    "foliation_start": "108v",
-    "foliation_end": "109",
+    "foliation": "108v-109",
     "title": "Nulli benefitium",
     "file": "CB036_w1",
     "IIIF_canvasIndex": "",
@@ -604,8 +561,7 @@
   {
     "abstract_item": "CB047",
     "source": 34,
-    "foliation_start": "97",
-    "foliation_end": "97v",
+    "foliation": "97-97v",
     "title": "Crucifigat omnes",
     "file": "CB047_bulh",
     "IIIF_canvasIndex": "",
@@ -618,8 +574,7 @@
   {
     "abstract_item": "CB047",
     "source": 69,
-    "foliation_start": "1c",
-    "foliation_end": "1cv",
+    "foliation": "1c-1cv",
     "title": "Crucifigat omnes",
     "file": "CB047_cjec",
     "IIIF_canvasIndex": "",
@@ -632,8 +587,7 @@
   {
     "abstract_item": "CB047",
     "source": 88,
-    "foliation_start": "231v (198v)",
-    "foliation_end": "232 (199)",
+    "foliation": "231v-232 (198v-199)",
     "title": "Crucifigat omnes",
     "file": "CB047_plut",
     "IIIF_canvasIndex": "405",
@@ -646,8 +600,7 @@
   {
     "abstract_item": "CB047",
     "source": 24,
-    "foliation_start": "71v",
-    "foliation_end": "72",
+    "foliation": "71v-72",
     "title": "Crucifigat omnes",
     "file": "CB047_w1",
     "IIIF_canvasIndex": "",
@@ -660,8 +613,7 @@
   {
     "abstract_item": "CB047",
     "source": 23,
-    "foliation_start": "46v",
-    "foliation_end": "46v",
+    "foliation": "46v",
     "title": "Crucifigat omnes",
     "file": "CB047_w2_1",
     "IIIF_canvasIndex": "",
@@ -674,8 +626,7 @@
   {
     "abstract_item": "CB047",
     "source": 23,
-    "foliation_start": "138v",
-    "foliation_end": "139v",
+    "foliation": "138v-139v",
     "title": "Crucificat omnes",
     "file": "CB047_w2_2",
     "IIIF_canvasIndex": "",
@@ -688,8 +639,7 @@
   {
     "abstract_item": "CB052",
     "source": 55,
-    "foliation_start": "164",
-    "foliation_end": "164v",
+    "foliation": "164-164v",
     "title": "Nomen a sollemnibus",
     "file": "CB052_3549",
     "IIIF_canvasIndex": "344",
@@ -702,8 +652,7 @@
   {
     "abstract_item": "CB052",
     "source": 56,
-    "foliation_start": "41",
-    "foliation_end": "42",
+    "foliation": "41-42",
     "title": "Nomen a sollemnibus",
     "file": "CB052_3719",
     "IIIF_canvasIndex": "90",
@@ -716,8 +665,7 @@
   {
     "abstract_item": "CB063",
     "source": 71,
-    "foliation_start": "7r",
-    "foliation_end": "7r",
+    "foliation": "7r",
     "title": "Olim sudor Herculis",
     "file": "CB063_gb",
     "IIIF_canvasIndex": "24",
@@ -730,8 +678,7 @@
   {
     "abstract_item": "CB063",
     "source": 88,
-    "foliation_start": "417 (382)",
-    "foliation_end": "417v (382v)",
+    "foliation": "417-417v (382-382v)",
     "title": "Olim sudor Herculis",
     "file": "CB063_plut",
     "IIIF_canvasIndex": "772",
@@ -744,8 +691,7 @@
   {
     "abstract_item": "CB067",
     "source": 88,
-    "foliation_start": "446v (411v)",
-    "foliation_end": "446v (411v)",
+    "foliation": "446v (411v)",
     "title": "A globo veteri",
     "file": "CB067_plut",
     "IIIF_canvasIndex": "831",
@@ -758,8 +704,7 @@
   {
     "abstract_item": "CB071",
     "source": 7,
-    "foliation_start": "89v",
-    "foliation_end": "89",
+    "foliation": "89v, 89",
     "title": "Axe Phebus aureo",
     "file": "CB071_amplon",
     "IIIF_canvasIndex": "",
@@ -772,8 +717,7 @@
   {
     "abstract_item": "CB079",
     "source": 106,
-    "foliation_start": "34",
-    "foliation_end": "34v",
+    "foliation": "34-34v",
     "title": "Estivali sub fervore",
     "file": "CB079",
     "IIIF_canvasIndex": "70",
@@ -786,8 +730,7 @@
   {
     "abstract_item": "CB080",
     "source": 106,
-    "foliation_start": "34v",
-    "foliation_end": "34v",
+    "foliation": "34v",
     "title": "Estivali gaudio",
     "file": "CB080",
     "IIIF_canvasIndex": "71",
@@ -800,8 +743,7 @@
   {
     "abstract_item": "CB085",
     "source": 106,
-    "foliation_start": "36v",
-    "foliation_end": "36v",
+    "foliation": "36v",
     "title": "Veris dulcis in tempore",
     "file": "CB085",
     "IIIF_canvasIndex": "75",
@@ -814,8 +756,7 @@
   {
     "abstract_item": "CB085",
     "source": 35,
-    "foliation_start": "287",
-    "foliation_end": "287",
+    "foliation": "287",
     "title": "Veris dulcis in tempore",
     "file": "CB085_ee",
     "IIIF_canvasIndex": "572",
@@ -828,8 +769,7 @@
   {
     "abstract_item": "CB090",
     "source": 106,
-    "foliation_start": "38v",
-    "foliation_end": "38v",
+    "foliation": "38v",
     "title": "Exiit diluculo",
     "file": "CB090",
     "IIIF_canvasIndex": "79",
@@ -842,8 +782,7 @@
   {
     "abstract_item": "CB090",
     "source": 15,
-    "foliation_start": "35",
-    "foliation_end": "35v",
+    "foliation": "35-35v",
     "title": "Exiit diluculo",
     "file": "CB090_5539",
     "IIIF_canvasIndex": "73",
@@ -856,8 +795,7 @@
   {
     "abstract_item": "CB098",
     "source": 106,
-    "foliation_start": "73v",
-    "foliation_end": "74",
+    "foliation": "73v-74",
     "title": "Troie post excidium",
     "file": "CB098",
     "IIIF_canvasIndex": "149",
@@ -870,8 +808,7 @@
   {
     "abstract_item": "CB099",
     "source": 106,
-    "foliation_start": "74",
-    "foliation_end": "75",
+    "foliation": "74-75",
     "title": "Superbi Paridis",
     "file": "CB099",
     "IIIF_canvasIndex": "150",
@@ -884,8 +821,7 @@
   {
     "abstract_item": "CB108",
     "source": 106,
-    "foliation_start": "80",
-    "foliation_end": "80",
+    "foliation": "80",
     "title": "Vacillantis trutine",
     "file": "CB108",
     "IIIF_canvasIndex": "162",
@@ -898,8 +834,7 @@
   {
     "abstract_item": "CB109",
     "source": 106,
-    "foliation_start": "80",
-    "foliation_end": "80v",
+    "foliation": "80-80v",
     "title": "Multiformi succendente",
     "file": "CB109",
     "IIIF_canvasIndex": "162",
@@ -912,8 +847,7 @@
   {
     "abstract_item": "CB119",
     "source": 106,
-    "foliation_start": "50r",
-    "foliation_end": "50r",
+    "foliation": "50r",
     "title": "Dulce solum natalis patrie",
     "file": "CB119",
     "IIIF_canvasIndex": "102",
@@ -926,8 +860,7 @@
   {
     "abstract_item": "CB119",
     "source": 41,
-    "foliation_start": "66v",
-    "foliation_end": "66v",
+    "foliation": "66v",
     "title": "Dulce solum natalis patrie",
     "file": "CB119_chartres",
     "IIIF_canvasIndex": "",
@@ -940,8 +873,7 @@
   {
     "abstract_item": "CB119",
     "source": 28,
-    "foliation_start": "83v",
-    "foliation_end": "83v",
+    "foliation": "83v",
     "title": "Dulce solum natalis patrie",
     "file": "CB119_lis",
     "IIIF_canvasIndex": "171",
@@ -954,8 +886,7 @@
   {
     "abstract_item": "CB128",
     "source": 106,
-    "foliation_start": "53",
-    "foliation_end": "53v",
+    "foliation": "53-53v",
     "title": "Remigabat naufragus",
     "file": "CB128",
     "IIIF_canvasIndex": "108",
@@ -968,8 +899,7 @@
   {
     "abstract_item": "CB131",
     "source": 106,
-    "foliation_start": "54",
-    "foliation_end": "54v",
+    "foliation": "54-54v",
     "title": "Dic Christi veritas",
     "file": "CB131",
     "IIIF_canvasIndex": "110",
@@ -982,8 +912,7 @@
   {
     "abstract_item": "CB131",
     "source": 74,
-    "foliation_start": "87v",
-    "foliation_end": "88",
+    "foliation": "87v-88",
     "title": "Dic Christi veritas",
     "file": "CB131_egerton_2615",
     "IIIF_canvasIndex": "",
@@ -996,8 +925,7 @@
   {
     "abstract_item": "CB131",
     "source": 73,
-    "foliation_start": "38v",
-    "foliation_end": "39",
+    "foliation": "38v-39",
     "title": "Bulla fulminante",
     "file": "CB131_egerton_274",
     "IIIF_canvasIndex": "",
@@ -1010,8 +938,7 @@
   {
     "abstract_item": "CB131",
     "source": 37,
-    "foliation_start": "114",
-    "foliation_end": "115",
+    "foliation": "114-115",
     "title": "Dyc Christi veritas",
     "file": "CB131_emn",
     "IIIF_canvasIndex": "",
@@ -1024,8 +951,7 @@
   {
     "abstract_item": "CB131",
     "source": 101,
-    "foliation_start": "114v",
-    "foliation_end": "114v",
+    "foliation": "114v",
     "title": "Dic Christi veritas",
     "file": "CB131_en_1003",
     "IIIF_canvasIndex": "229",
@@ -1038,8 +964,7 @@
   {
     "abstract_item": "CB131",
     "source": 38,
-    "foliation_start": "100v",
-    "foliation_end": "100v",
+    "foliation": "100v",
     "title": "Dic Christi veritas",
     "file": "CB131_esau",
     "IIIF_canvasIndex": "",
@@ -1052,8 +977,7 @@
   {
     "abstract_item": "CB131",
     "source": 8,
-    "foliation_start": "Ar",
-    "foliation_end": "Av",
+    "foliation": "Ar-Av",
     "title": "Dic Christi Veritas",
     "file": "CB131_frag",
     "IIIF_canvasIndex": "",
@@ -1066,8 +990,7 @@
   {
     "abstract_item": "CB131",
     "source": 23,
-    "foliation_start": "33",
-    "foliation_end": "34v",
+    "foliation": "33-34v",
     "title": "Dic Christi veritas",
     "file": "CB131_guelf_1099",
     "IIIF_canvasIndex": "",
@@ -1080,8 +1003,7 @@
   {
     "abstract_item": "CB131",
     "source": 21,
-    "foliation_start": "33v",
-    "foliation_end": "34r",
+    "foliation": "33v-34r",
     "title": "Dic Christi veritas",
     "file": "CB131_hbi",
     "IIIF_canvasIndex": "",
@@ -1094,8 +1016,7 @@
   {
     "abstract_item": "CB131",
     "source": 88,
-    "foliation_start": "170 (203)",
-    "foliation_end": "171 (204)",
+    "foliation": "170-171 (203-204)",
     "title": "Dic Christi veritas",
     "file": "CB131_plut",
     "IIIF_canvasIndex": "348",
@@ -1108,8 +1029,7 @@
   {
     "abstract_item": "CB131",
     "source": 24,
-    "foliation_start": "66r",
-    "foliation_end": "66v",
+    "foliation": "66r-66v",
     "title": "Dic Christi veritas",
     "file": "CB131_w1",
     "IIIF_canvasIndex": "",
@@ -1122,8 +1042,7 @@
   {
     "abstract_item": "CB140",
     "source": 106,
-    "foliation_start": "58",
-    "foliation_end": "58v",
+    "foliation": "58-58v",
     "title": "Terra iam pandit gremium / Nu suͤln wir alle froͧde han",
     "file": "CB140",
     "IIIF_canvasIndex": "118",
@@ -1137,8 +1056,7 @@
   {
     "abstract_item": "CB142",
     "source": 106,
-    "foliation_start": "58v",
-    "foliation_end": "59",
+    "foliation": "58v-59",
     "title": "Tempus adest floridum / Ich solde eines morgenes gan",
     "file": "CB142",
     "IIIF_canvasIndex": "119",
@@ -1152,8 +1070,7 @@
   {
     "abstract_item": "CB142",
     "source": 109,
-    "foliation_start": "197",
-    "foliation_end": "198",
+    "foliation": "197-198",
     "title": "Tempus adest floridum",
     "file": "CB142_pc",
     "IIIF_canvasIndex": "",
@@ -1166,8 +1083,7 @@
   {
     "abstract_item": "CB143",
     "source": 106,
-    "foliation_start": "59",
-    "foliation_end": "59v",
+    "foliation": "59-59v",
     "title": "Ecce gratum / Ze niwen vroͧden stat min muͦt",
     "file": "CB143",
     "IIIF_canvasIndex": "120",
@@ -1181,8 +1097,7 @@
   {
     "abstract_item": "CB146",
     "source": 106,
-    "foliation_start": "60",
-    "foliation_end": "60",
+    "foliation": "60",
     "title": "Tellus flore vario vestitur / Nahtegel, sing einen don mit sinne",
     "file": "CB146",
     "IIIF_canvasIndex": "122",
@@ -1196,8 +1111,7 @@
   {
     "abstract_item": "CB147",
     "source": 106,
-    "foliation_start": "60",
-    "foliation_end": "60v",
+    "foliation": "60-60v",
     "title": "Si de more / Sage, daz ih dirs iemmer lone",
     "file": "CB147",
     "IIIF_canvasIndex": "122",
@@ -1211,8 +1125,7 @@
   {
     "abstract_item": "CB150",
     "source": 106,
-    "foliation_start": "61",
-    "foliation_end": "61",
+    "foliation": "61",
     "title": "Redivivo vernat flore / Ich pin cheiser ane chrone",
     "file": "CB150",
     "IIIF_canvasIndex": "124",
@@ -1226,8 +1139,7 @@
   {
     "abstract_item": "CB151",
     "source": 106,
-    "foliation_start": "61",
-    "foliation_end": "61v",
+    "foliation": "61-61v",
     "title": "Virent prata hiemata / So wol dir, Meie, wie du scheidest",
     "file": "CB151",
     "IIIF_canvasIndex": "124",
@@ -1241,8 +1153,7 @@
   {
     "abstract_item": "CB153",
     "source": 106,
-    "foliation_start": "61v",
-    "foliation_end": "62",
+    "foliation": "61v-62",
     "title": "Tempus transit gelidum / Vrowe, ih pin dir undertan",
     "file": "CB153",
     "IIIF_canvasIndex": "125",
@@ -1256,8 +1167,7 @@
   {
     "abstract_item": "CB159",
     "source": 106,
-    "foliation_start": "64",
-    "foliation_end": "64",
+    "foliation": "64",
     "title": "Veris dulcis in tempore",
     "file": "CB159",
     "IIIF_canvasIndex": "130",
@@ -1270,8 +1180,7 @@
   {
     "abstract_item": "CB160",
     "source": 106,
-    "foliation_start": "64",
-    "foliation_end": "64",
+    "foliation": "64",
     "title": "Dum estas inchoatur",
     "file": "CB160",
     "IIIF_canvasIndex": "130",
@@ -1284,8 +1193,7 @@
   {
     "abstract_item": "CB161",
     "source": 106,
-    "foliation_start": "65r",
-    "foliation_end": "65r",
+    "foliation": "65r",
     "title": "Ab estatis foribus / Diu werlt frouͤt sih uber al",
     "file": "CB161",
     "IIIF_canvasIndex": "132",
@@ -1299,8 +1207,7 @@
   {
     "abstract_item": "CB162",
     "source": 106,
-    "foliation_start": "65",
-    "foliation_end": "65v",
+    "foliation": "65-65v",
     "title": "O consocii / Suͦziu vrowe min",
     "file": "CB162",
     "IIIF_canvasIndex": "132",
@@ -1314,8 +1221,7 @@
   {
     "abstract_item": "CB164",
     "source": 106,
-    "foliation_start": "66",
-    "foliation_end": "66v",
+    "foliation": "66-66v",
     "title": "Ob amoris pressuram / Ih wolde gerne singen",
     "file": "CB164",
     "IIIF_canvasIndex": "134",
@@ -1329,8 +1235,7 @@
   {
     "abstract_item": "CB165",
     "source": 106,
-    "foliation_start": "66v",
-    "foliation_end": "67",
+    "foliation": "66v-67",
     "title": "Amor, telum es insignis Veneris / Mir ist ein wip",
     "file": "CB165",
     "IIIF_canvasIndex": "135",
@@ -1344,8 +1249,7 @@
   {
     "abstract_item": "CB166",
     "source": 106,
-    "foliation_start": "67",
-    "foliation_end": "67v",
+    "foliation": "67-67v",
     "title": "Iam dudum Amoris militem / Solde aver ich mit sorgen immer leben",
     "file": "CB166",
     "IIIF_canvasIndex": "136",
@@ -1359,8 +1263,7 @@
   {
     "abstract_item": "CB167",
     "source": 106,
-    "foliation_start": "67v",
-    "foliation_end": "67v",
+    "foliation": "67v",
     "title": "Laboris remedium / Swaz hie gat umbe",
     "file": "CB167",
     "IIIF_canvasIndex": "137",
@@ -1374,8 +1277,7 @@
   {
     "abstract_item": "CB168",
     "source": 106,
-    "foliation_start": "67v",
-    "foliation_end": "68",
+    "foliation": "67v-68",
     "title": "Anno novali mea / Nu gruͦnet aver diu heide",
     "file": "CB168",
     "IIIF_canvasIndex": "137",
@@ -1389,8 +1291,7 @@
   {
     "abstract_item": "CB169",
     "source": 106,
-    "foliation_start": "68",
-    "foliation_end": "68",
+    "foliation": "68",
     "title": "Hebet sydus leti visus / Roter munt wie du dich schwachest",
     "file": "CB169",
     "IIIF_canvasIndex": "138",
@@ -1404,8 +1305,7 @@
   {
     "abstract_item": "CB179",
     "source": 106,
-    "foliation_start": "70v",
-    "foliation_end": "70v",
+    "foliation": "70v",
     "title": "Tempus est iocundum / Einen brief ich sande",
     "file": "CB179",
     "IIIF_canvasIndex": "143",
@@ -1419,8 +1319,7 @@
   {
     "abstract_item": "CB180",
     "source": 106,
-    "foliation_start": "71",
-    "foliation_end": "71",
+    "foliation": "71",
     "title": "O mi dilectissima / Ich wil truren varen lan",
     "file": "CB180",
     "IIIF_canvasIndex": "144",
@@ -1434,8 +1333,7 @@
   {
     "abstract_item": "CB187",
     "source": 106,
-    "foliation_start": "83",
-    "foliation_end": "83",
+    "foliation": "83",
     "title": "O curas hominum",
     "file": "CB187",
     "IIIF_canvasIndex": "168",
@@ -1448,8 +1346,7 @@
   {
     "abstract_item": "CB187",
     "source": 88,
-    "foliation_start": "424v (389v)",
-    "foliation_end": "424v (389v)",
+    "foliation": "424v (389v)",
     "title": "O curas hominum",
     "file": "CB187_plut",
     "IIIF_canvasIndex": "787",
@@ -1462,8 +1359,7 @@
   {
     "abstract_item": "CB189",
     "source": 106,
-    "foliation_start": "83",
-    "foliation_end": "83v",
+    "foliation": "83-83v",
     "title": "Aristippe quamvis sero",
     "file": "CB189",
     "IIIF_canvasIndex": "168",
@@ -1476,8 +1372,7 @@
   {
     "abstract_item": "CB189",
     "source": 52,
-    "foliation_start": "29",
-    "foliation_end": "29",
+    "foliation": "29",
     "title": "Vade retro Sathana",
     "file": "CB189_fauvel",
     "IIIF_canvasIndex": "72",
@@ -1490,8 +1385,7 @@
   {
     "abstract_item": "CB189",
     "source": 88,
-    "foliation_start": "416 (381)",
-    "foliation_end": "417 (382)",
+    "foliation": "416-417 (381-382)",
     "title": "Aristippe quamvis sero",
     "file": "CB189_plut",
     "IIIF_canvasIndex": "770",
@@ -1504,8 +1398,7 @@
   {
     "abstract_item": "CB203",
     "source": 106,
-    "foliation_start": "90",
-    "foliation_end": "90v",
+    "foliation": "90-90v",
     "title": "Hiemali tempore / Uns seit von Lutringen Helfrich",
     "file": "CB203",
     "IIIF_canvasIndex": "182",
@@ -1519,8 +1412,7 @@
   {
     "abstract_item": "CB215",
     "source": 106,
-    "foliation_start": "93v",
-    "foliation_end": "94v",
+    "foliation": "93v-94v",
     "title": "Officium lusorum",
     "file": "CB215",
     "IIIF_canvasIndex": "189",
@@ -1533,8 +1425,7 @@
   {
     "abstract_item": "CB227",
     "source": 106,
-    "foliation_start": "99",
-    "foliation_end": "104v",
+    "foliation": "99-104v",
     "title": "Ordo prophetarum",
     "file": "CB227",
     "IIIF_canvasIndex": "200",
@@ -1547,8 +1438,7 @@
   {
     "abstract_item": "CB228",
     "source": 106,
-    "foliation_start": "105",
-    "foliation_end": "106v",
+    "foliation": "105-106v",
     "title": "Rex Egypti",
     "file": "CB228",
     "IIIF_canvasIndex": "212",
@@ -1561,8 +1451,7 @@
   {
     "abstract_item": "CB014x",
     "source": 107,
-    "foliation_start": "IVr",
-    "foliation_end": "IVr",
+    "foliation": "IVr",
     "title": "Planctus ante nescia",
     "file": "CB014x",
     "IIIF_canvasIndex": "8",
@@ -1575,8 +1464,7 @@
   {
     "abstract_item": "CB014x",
     "source": 110,
-    "foliation_start": "117",
-    "foliation_end": "119",
+    "foliation": "117-119",
     "title": "Planctus ante nescia",
     "file": "CB014x_5268",
     "IIIF_canvasIndex": "116",
@@ -1589,8 +1477,7 @@
   {
     "abstract_item": "CB014x",
     "source": 39,
-    "foliation_start": "113",
-    "foliation_end": "113v",
+    "foliation": "113-113v",
     "title": "Planctus ante nescia",
     "file": "CB014x_albi",
     "IIIF_canvasIndex": "",
@@ -1603,8 +1490,7 @@
   {
     "abstract_item": "CB014x",
     "source": 42,
-    "foliation_start": "3v",
-    "foliation_end": "4v",
+    "foliation": "3v-4v",
     "title": "Planctus ante nescia",
     "file": "CB014x_evreux2",
     "IIIF_canvasIndex": "",
@@ -1617,8 +1503,7 @@
   {
     "abstract_item": "CB014x",
     "source": 43,
-    "foliation_start": "1v",
-    "foliation_end": "2v",
+    "foliation": "1v-2v",
     "title": "Planctus ante nescia",
     "file": "CB014x_evreux39",
     "IIIF_canvasIndex": "",
@@ -1631,8 +1516,7 @@
   {
     "abstract_item": "CB014x",
     "source": 62,
-    "foliation_start": "235",
-    "foliation_end": "237",
+    "foliation": "235-237",
     "title": "Planctus ante nescia",
     "file": "CB014x_mazarine",
     "IIIF_canvasIndex": "",
@@ -1645,8 +1529,7 @@
   {
     "abstract_item": "CB014x",
     "source": 64,
-    "foliation_start": "94",
-    "foliation_end": "96v",
+    "foliation": "94-96v",
     "title": "Planctus ante nescia",
     "file": "CB014x_rouen",
     "IIIF_canvasIndex": "",
@@ -1659,8 +1542,7 @@
   {
     "abstract_item": "CB016x",
     "source": 106,
-    "foliation_start": "107",
-    "foliation_end": "111",
+    "foliation": "107-111",
     "title": "Ludus passionis",
     "file": "CB016x",
     "IIIF_canvasIndex": "216",
@@ -1674,8 +1556,7 @@
   {
     "abstract_item": "CB017x",
     "source": 106,
-    "foliation_start": "110v",
-    "foliation_end": "110v",
+    "foliation": "110v",
     "title": "Diu mukke muͦz sich sere muͤn",
     "file": "CB017x",
     "IIIF_canvasIndex": "223",
@@ -1688,8 +1569,7 @@
   {
     "abstract_item": "CB018x",
     "source": 106,
-    "foliation_start": "111",
-    "foliation_end": "111",
+    "foliation": "111",
     "title": "Magnificat",
     "file": "CB018x",
     "IIIF_canvasIndex": "224",
@@ -1702,8 +1582,7 @@
   {
     "abstract_item": "CB019x",
     "source": 106,
-    "foliation_start": "111v",
-    "foliation_end": "111v",
+    "foliation": "111v",
     "title": "Katerine collaudemus",
     "file": "CB019x",
     "IIIF_canvasIndex": "225",
@@ -1716,8 +1595,7 @@
   {
     "abstract_item": "CB020x",
     "source": 106,
-    "foliation_start": "111r",
-    "foliation_end": "111r",
+    "foliation": "111r",
     "title": "Pange lingua gloriose",
     "file": "CB020x",
     "IIIF_canvasIndex": "224",
@@ -1730,8 +1608,7 @@
   {
     "abstract_item": "CB021x",
     "source": 106,
-    "foliation_start": "112",
-    "foliation_end": "112",
+    "foliation": "112",
     "title": "Presens dies expendatur",
     "file": "CB021x",
     "IIIF_canvasIndex": "226",
@@ -1744,8 +1621,7 @@
   {
     "abstract_item": "CB022x",
     "source": 106,
-    "foliation_start": "112",
-    "foliation_end": "112",
+    "foliation": "112",
     "title": "Hac in die laudes pie",
     "file": "CB022x",
     "IIIF_canvasIndex": "226",
@@ -1758,8 +1634,7 @@
   {
     "abstract_item": "CB022x",
     "source": 108,
-    "foliation_start": "269",
-    "foliation_end": "270v",
+    "foliation": "269-270v",
     "title": "Hac in die laudes pie",
     "file": "CB022x_brixen",
     "IIIF_canvasIndex": "",

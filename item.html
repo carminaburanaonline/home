@@ -10,7 +10,10 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
 
-  <script src="js/get_item_data.js"></script>
+  <script>
+    const params = new URLSearchParams(document.location.search);
+    const item_id = params.get("id");
+  </script>
 
   <!-- Add additional CSS in static file -->
   <link rel="stylesheet" href="css/style.css"/>
@@ -111,91 +114,106 @@
 
     <div style="padding: 20px; width: 100%;">
       <div style="display: flex">
-        <div style="flex: 2">
-          <h1><a href="{{ item.abstract_item.get_absolute_url }}">CB {{ item.abstract_item.cb_id }}</a></h1>
-          <h2>{{ item.title }}</h2>
-          <p>Source: <a href="{{ item.source.get_absolute_url }}">{{ item.source.bib_id }}</a> ({{ item.source.location }})</p>
-          <p>Folio: {{ item.foliation_str }}</p>
-        </div>
-        <script></script>
-        <div style="flex: 1; padding: 5px;">
-          <h4>Download options</h4>
-          <a href="{% static 'tei/' %}{{ item.file }}.tei" download="{{ item.file }}.tei"><img class="download-logo" src="img/TEI_Logo.svg" /></a>
-          <a href="{% static 'html/' %}{{ item.file }}.html" download="{{ item.file }}.html"><img class="download-logo" src="img/HTML_Logo.svg" /></a>
-          <a id="pdf-download" style="cursor: pointer;"><img class="download-logo" src="{% static 'img/PDF_Logo.svg' %}" /></a>
+        <div id="metadata" style="flex: 2"></div>
+        <script>
+          var items, source;
+          $.when(
+            $.getJSON("json/items.json", function(data) {
+              items = data;
+            }),
+            $.getJSON("json/sources.json", function(data) {
+              sources = data;
+            })
+          ).then(function() {
+            var item = items.find((element) => element.file == item_id);
+            var source = sources.find((element) => element.pk == item.source);
+            $("#metadata").append(`
+              <h1><a href="abstract_item.html?id=${item.abstract_item}">${item.abstract_item}</a></h1>
+              <h2>${item.title}</h2>
+              <p>Source: <a href="source.html?pk=${source.pk}">${source.bib_id}</a> (${source.location})</p>
+              <p>Folio: ${item.foliation}</p>
+            `);
+          });
+        </script>
+        <div id="download" style="flex: 1; padding: 5px;"></div>
+        <script>
+          $("#download").append(`<h4>Download options</h4>
+          <a href="tei/${item_id}.tei" download="${item_id}.tei"><img class="download-logo" src="img/TEI_Logo.svg" /></a>
+          <a href="html/${item_id}.html" download="${item_id}.html"><img class="download-logo" src="img/HTML_Logo.svg" /></a>
+          <a id="pdf-download" style="cursor: pointer;"><img class="download-logo" src="img/PDF_Logo.svg" /></a>
           <h6>French translation</h6>
-          <a href="{% static 'tei/' %}{{ item.file }}_PB.tei" download="{{ item.file }}_french.tei"><img class="download-logo" src="img/TEI_Logo.svg" /></a>
-          <a href="{% static 'html/' %}{{ item.file }}_PB.html" download="{{ item.file }}_french.html"><img class="download-logo" src="img/HTML_Logo.svg" /></a>
-          <a id="pdf-download-french" style="cursor: pointer;"><img class="download-logo" src="{% static 'img/PDF_Logo.svg' %}" /></a>
-        </div>
+          <a href="tei/${item_id}_PB.tei" download="${item_id}_french.tei"><img class="download-logo" src="img/TEI_Logo.svg" /></a>
+          <a href="html/${item_id}_PB.html" download="${item_id}_french.html"><img class="download-logo" src="img/HTML_Logo.svg" /></a>
+          <a id="pdf-download-french" style="cursor: pointer;"><img class="download-logo" src="img/PDF_Logo.svg" /></a>`
+          );
+        </script>
       </div>
 
       <script>
-    // This script is for downloading PDF (through the html2pdf tool)
-    $("#pdf-download").click(function() {
-      var pdfHead = document.createElement("div");
-      pdfHead.innerHTML = "<h1>CB {{ item.abstract_item.cb_id }}</h1><h2>{{ item.title }}</h2><p>Source: {{ item.source.bib_id }} ({{ item.source.location }})</p><p>Folio: {{ item.foliation_str }}</p>";
-      pdfHead.innerHTML += "<p style='margin-top: 200px;'>Carmina Burana Online Project<p><p>Edited by C. Cazaux, L. Albiero, U. Bindini, M. Romanens</p>";
-      headOpt = {
-        margin: [20, 15, 20, 15],
-        image: { type: 'jpeg', quality: 1 },
-        html2canvas: { scrollY: 0, y: 0, scale: 4, letterRendering: true }
-      };
+        // This script is for downloading PDF (through the html2pdf tool)
+        $("#pdf-download").click(function() {
+          var pdfHead = document.createElement("div");
+          pdfHead.innerHTML = `<h1>${abstract_item}</h1><h2>${item.title}</h2><p>Source: ${source.bib_id} (${source.location})</p><p>Folio: ${item.foliation}</p>`;
+          pdfHead.innerHTML += "<p style='margin-top: 200px;'>Carmina Burana Online Project<p><p>Edited by C. Cazaux, L. Albiero, U. Bindini, M. Romanens</p>";
+          headOpt = {
+            margin: [20, 15, 20, 15],
+            image: { type: 'jpeg', quality: 1 },
+            html2canvas: { scrollY: 0, y: 0, scale: 4, letterRendering: true }
+          };
 
-      if ({{ item.is_svg_based|yesno:"true,false" }}) {
-        var opt = {
-          margin: [0, 0, 0, 0],
-          filename: 'CB{{ item.abstract_item.cb_id }}.pdf',
-          pagebreak: { mode: 'css' },
-          image: { type: 'jpeg', quality: 1 },
-          html2canvas: { scrollY: 0, y: 0, scale: 4, letterRendering: true }
-        };
-        var element = document.createElement("div");
-        {% autoescape off %}
-        element.innerHTML = '{{ item.pdf_template }}'
-        {% endautoescape %}
-        html2pdf().set(headOpt).from(pdfHead).toPdf().get('pdf').then(function (pdf) {
-          pdf.addPage();
-        }).set(opt).from(element).toContainer().toCanvas().toPdf().save();
-      }
-      else {
-        var opt = {
-          margin: [17, 15, 16, 15],
-          filename: 'CB{{ item.abstract_item.cb_id }}.pdf',
-          pagebreak: { mode: 'css', avoid: '.lg-heading' },
-          image: { type: 'jpeg', quality: 1 },
-          html2canvas: { scrollY: 0, y: 0, scale: 4, letterRendering: true }
-        };
-        var element = document.getElementById('mainContainer-{{ item.pk }}');
-        html2pdf().set(headOpt).from(pdfHead).toPdf().get('pdf').then(function (pdf) {
-          pdf.addPage();
-        }).set(opt).from(element).toContainer().toCanvas().toPdf().save();
-      }
-    });
-    $("#pdf-download-french").click(function() {
-      var pdfHead = document.createElement("div");
-      $("#translationButton").click();
-      pdfHead.innerHTML = "<h1>CB {{ item.abstract_item.cb_id }}</h1><h2>{{ item.title }}</h2><p>Source: {{ item.source.bib_id }} ({{ item.source.location }})</p><p>Folio: {{ item.foliation_str }}</p>";
-      pdfHead.innerHTML += "<p style='margin-top: 200px;'>Carmina Burana Online Project<p><p>Edited by C. Cazaux, L. Albiero, U. Bindini, M. Romanens</p>";
-      pdfHead.innerHTML += "<p style='margin-top: 200px;'>French translation by Pascale Bourgain<p>";
-      headOpt = {
-        margin: [20, 15, 20, 15],
-        image: { type: 'jpeg', quality: 1 },
-        html2canvas: { scrollY: 0, y: 0, scale: 4, letterRendering: true }
-      };
-      var opt = {
-        margin: [17, 15, 16, 15],
-        filename: 'CB{{ item.abstract_item.cb_id }}_french.pdf',
-        pagebreak: { mode: 'css', avoid: '.lg-heading' },
-        image: { type: 'jpeg', quality: 1 },
-        html2canvas: { scrollY: 0, y: 0, scale: 4, letterRendering: true }
-      };
-      var element = $("#translation")[0];
-      html2pdf().set(headOpt).from(pdfHead).toPdf().get('pdf').then(function (pdf) {
-        pdf.addPage();
-      }).set(opt).from(element).toContainer().toCanvas().toPdf().save();
-    });
-  </script>
+          if (item_is_svg_based) {
+            var opt = {
+              margin: [0, 0, 0, 0],
+              filename: `${abstract_item}.pdf`,
+              pagebreak: { mode: 'css' },
+              image: { type: 'jpeg', quality: 1 },
+              html2canvas: { scrollY: 0, y: 0, scale: 4, letterRendering: true }
+            };
+            var element = document.createElement("div");
+            //TODO: create pdf template
+            //element.innerHTML = '{{ item.pdf_template }}'
+            html2pdf().set(headOpt).from(pdfHead).toPdf().get('pdf').then(function (pdf) {
+              pdf.addPage();
+            }).set(opt).from(element).toContainer().toCanvas().toPdf().save();
+          }
+          else {
+            var opt = {
+              margin: [17, 15, 16, 15],
+              filename: `${abstract_item}.pdf`,
+              pagebreak: { mode: 'css', avoid: '.lg-heading' },
+              image: { type: 'jpeg', quality: 1 },
+              html2canvas: { scrollY: 0, y: 0, scale: 4, letterRendering: true }
+            };
+            var element = document.getElementById(`mainContainer-${item_id}`);
+            html2pdf().set(headOpt).from(pdfHead).toPdf().get('pdf').then(function (pdf) {
+              pdf.addPage();
+            }).set(opt).from(element).toContainer().toCanvas().toPdf().save();
+          }
+        });
+        $("#pdf-download-french").click(function() {
+          var pdfHead = document.createElement("div");
+          $("#translationButton").click();
+          pdfHead.innerHTML = `<h1>${abstract_item}</h1><h2>${item.title}</h2><p>Source: ${source.bib_id} (${source.location})</p><p>Folio: ${item.foliation}</p>`;
+          pdfHead.innerHTML += "<p style='margin-top: 200px;'>Carmina Burana Online Project<p><p>Edited by C. Cazaux, L. Albiero, U. Bindini, M. Romanens</p>";
+          pdfHead.innerHTML += "<p style='margin-top: 200px;'>French translation by Pascale Bourgain<p>";
+          headOpt = {
+            margin: [20, 15, 20, 15],
+            image: { type: 'jpeg', quality: 1 },
+            html2canvas: { scrollY: 0, y: 0, scale: 4, letterRendering: true }
+          };
+          var opt = {
+            margin: [17, 15, 16, 15],
+            filename: `${abstract_item}_french.pdf`,
+            pagebreak: { mode: 'css', avoid: '.lg-heading' },
+            image: { type: 'jpeg', quality: 1 },
+            html2canvas: { scrollY: 0, y: 0, scale: 4, letterRendering: true }
+          };
+          var element = $("#translation")[0];
+          html2pdf().set(headOpt).from(pdfHead).toPdf().get('pdf').then(function (pdf) {
+            pdf.addPage();
+          }).set(opt).from(element).toContainer().toCanvas().toPdf().save();
+        });
+      </script>
 
       <div style="display: flex;">
         <div class="cbo-border-inset cbo-border-sand flex-column" style="width: 50%;">
@@ -275,60 +293,73 @@
             <button id="itemsRight" class="tablinks cbo-bar-item cbo-button activable" onclick="openRightTab(this, 'itemRight')">Item...</button>
           </div>
 
-          <div id="msImage" class="tabcontent right">
-            {% if not item.source.IIIF_manifest %}
-            {% if item.alternative_img_link %}
-            Unable to display manuscript images due to copyright restrictions.
-            <a target="_blank" href="{{ item.alternative_img_link }}"><i class="fa fa-arrow-right" style="margin-right: 5px;"></i>Open external website.</a>
-            {% else %}
-            Manuscript images not available for this item.
-            {% endif %}
-            {% else %}
-            <div id="mirador" style="position: relative; width: 100%; height: 1000px;"></div>
-            <script>
-          // This script is for mirador (IIIF viewer)
-          var source_manifest = "{{ item.source.IIIF_manifest }}";
-          var canvasIndex = "{{ item.IIIF_canvasIndex }}"
-          var canvasId = "{{ item.IIIF_canvasId }}"
-          var mirador_windows = [];
-          if (canvasIndex.length) {
-            mirador_windows = [
-              {
-                manifestId: source_manifest,
-                canvasIndex: canvasIndex
+          <div id="msImage" class="tabcontent right"></div>
+
+          <script>
+            var items, source;
+            $.when(
+              $.getJSON("json/items.json", function(data) {
+                items = data;
+              }),
+              $.getJSON("json/sources.json", function(data) {
+                sources = data;
+              })
+            ).then(function() {
+              var item = items.find((element) => element.file == item_id);
+              var source = sources.find((element) => element.pk == item.source);
+
+              // Filling data into msImage div
+              if (!source.IIIF_manifest.length) {
+                if (item.alternative_img_link.length) {
+                  $("#msImage").append(`Unable to display manuscript images due to copyright restrictions.
+                    <a target="_blank" href="${item.alternative_img_link}"><i class="fa fa-arrow-right" style="margin-right: 5px;"></i>Open external website.</a>`
+                    );
+                }
+                else {
+                  $("#msImage").append("Manuscript images not available for this item.")
+                }
               }
-            ]
-          }
-          else {
-            mirador_windows = [
-              {
-                manifestId: source_manifest,
-                canvasId: canvasId
+              else {
+                $("#msImage").append(`<div id="mirador" style="position: relative; width: 100%; height: 1000px;"></div>`)
               }
-            ]
-          }
-          var mirador = Mirador.viewer({
-            "id": "mirador",
-            selectedTheme: 'light',
-            window: {
-              defaultView: "single",
-              views: [
-                { key: "single", behaviors: ["individuals", "paged"] },
-                { key: "book", behaviors: ["individuals"] },
-                { key: "scroll", behaviors: ["continuous"] },
-                { key: "gallery" }
-              ]
-            },
-            windows: mirador_windows,
-            /* catalog: [
-              {
-                manifestId: "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00085130/manifest"
-              },
-            ] */
-          });
-        </script>
-            {% endif %}
-          </div>
+
+              // Mirador
+              var source_manifest = source.IIIF_manifest;
+              var canvasIndex = item.IIIF_canvasIndex;
+              var canvasId = item.IIIF_canvasId;
+              var mirador_windows = [];
+              if (canvasIndex.length) {
+                mirador_windows = [
+                  {
+                    manifestId: source_manifest,
+                    canvasIndex: canvasIndex
+                  }
+                ]
+              }
+              else {
+                mirador_windows = [
+                  {
+                    manifestId: source_manifest,
+                    canvasId: canvasId
+                  }
+                ]
+              }
+              var mirador = Mirador.viewer({
+                "id": "mirador",
+                selectedTheme: 'light',
+                window: {
+                  defaultView: "single",
+                  views: [
+                    { key: "single", behaviors: ["individuals", "paged"] },
+                    { key: "book", behaviors: ["individuals"] },
+                    { key: "scroll", behaviors: ["continuous"] },
+                    { key: "gallery" }
+                  ]
+                },
+                windows: mirador_windows
+              });
+            });
+          </script>
 
           <div id="commentary" class="tabcontent right">
             In preparation...
