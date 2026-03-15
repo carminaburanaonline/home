@@ -1,0 +1,76 @@
+<div id="itemCoreView" class="item-specific">
+
+  <!-- {% if item.is_svg_based %}
+
+  <div class="tab cbo-white cbo-wide cbo-padding cbo-card">
+    <button id="openSvg-{{ item.pk }}" class="tablinks cbo-bar-item cbo-button activable">Music</button>
+    <button id="openText-{{ item.pk }}" class="tablinks cbo-bar-item cbo-button activable">Text</button>
+    <div class="dropdown" style="z-index: 1500;">
+      <button id="dropBtn-{{ item.pk }}" class="cbo-bar-item cbo-button"><i style="pointer-events: none;" class="fa fa-bars"></i></button>
+      <div id="dropdownDiv-{{ item.pk }}" class="flex-column dropdown-content">
+        <button id="toggleMetricButton-{{ item.pk }}" class="cbo-button toggleable">Metrical analysis</button>
+        <button id="toggleRhymeButton-{{ item.pk }}" class="cbo-button toggleable">Rhyme scheme</button>
+        <button id="togglePunctuationButton-{{ item.pk }}" class="cbo-button toggleable">Original punctuation</button>
+        <button id="toggleCriticalApparatus-{{ item.pk }}" class="cbo-button toggleable active">Critical apparatus</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="tabcontent" style="display: block;">
+    <div id="mainContainer-{{ item.pk }}" style="height: 100%;">
+      <div id="svg-{{ item.pk }}">
+        {% autoescape off %}
+          {{ item.svg_template }}
+        {% endautoescape %}
+      </div>
+
+      <div id="text-{{ item.pk }}">
+        <input type="text" id="searchInput" onkeyup="highlightWords()" placeholder="Search word..." style="width: 100%;">
+        {% autoescape off %}
+        {{ item.formatted_transform }}
+        {% endautoescape %}
+        <div id="apparatusText-{{ item.pk }}" class="no-break">
+          <hr/>
+          {% autoescape off %}
+          {{ item.text_apparatus_transform }}
+          {% endautoescape %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {% else %} -->
+
+  <div id="buttonBar" class="tab cbo-white cbo-wide cbo-padding cbo-card">
+    <button id="openFormattedText" class="item-specific tablinks cbo-bar-item cbo-button activable">Formatted</button>
+    <button id="openContinuousText"class="item-specific tablinks cbo-bar-item cbo-button activable">Continuous</button>
+    <div class="dropdown" style="z-index: 1200;">
+      <button id="dropBtn" class="item-specific cbo-bar-item cbo-button"><i style="pointer-events: none;" class="fa fa-bars"></i></button>
+      <div id="dropdownDiv" class="item-specific flex-column dropdown-content">
+        <!-- {% if item.is_notated %} -->
+        <button id="toggleNeumesButton" class="item-specific cbo-button toggleable active">Neumes</button>
+        <!-- {% endif %} -->
+        <button id="toggleSyllablesButton" class="item-specific cbo-button toggleable">Syllables</button>
+        <button id="toggleMetricButton" class="item-specific cbo-button toggleable">Metrical analysis</button>
+        <button id="toggleRhymeButton" class="item-specific cbo-button toggleable">Rhyme scheme</button>
+        <button id="togglePunctuationButton" class="item-specific cbo-button toggleable">Original punctuation</button>
+        <button id="toggleCriticalApparatus" class="item-specific cbo-button toggleable active">Critical apparatus</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="tabcontent" style="display: block;">
+    <div id="mainContainer" class="item-specific" style="height: 100%;">
+      <input type="text" id="searchInput" onkeyup="highlightWords()" placeholder="Search word...">
+      <div id="formattedText" class="item-specific"></div>
+      <div id="continuousText" class="item-specific"></div>
+      <div id="apparatusText" class="item-specific no-break">
+        <hr/>
+      </div>
+      <div id="apparatusNeume" class="item-specific no-break"></div>
+    </div>
+  </div>
+
+  <!--{% endif %}-->
+
+</div>
