@@ -74,6 +74,16 @@ function itemCoreView(div, item_id) {
       }
     }
 
+    // Adding content
+    $(`#formattedText-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/formatted.xsl"));
+    $(`#continuousText-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/continuous.xsl"));
+    $(`#apparatusText-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/text-apparatus.xsl"));
+    // TODO: if notated
+    $(`#apparatusNeume-${item_id}`).append("<hr/>");
+    $(`#apparatusNeume-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/neume-apparatus.xsl"));
+
+    //TODO: metric and rhymes (the logic was made in python)
+
     // Initial setup of buttons and other typographical things
     $(`#openSvg-${item_id}`).click();
     $(`#openFormattedText-${item_id}`).click();
@@ -83,13 +93,5 @@ function itemCoreView(div, item_id) {
     $(`#itemCoreView-${item_id} .verse-met`).hide();
     $(`#itemCoreView-${item_id} .verse-real`).hide();
     $(`#itemCoreView-${item_id} .verse-rhyme`).hide();
-
-    // Adding content
-    $(`#formattedText-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/formatted.xsl"));
-    $(`#continuousText-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/continuous.xsl"));
-    $(`#apparatusText-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/text-apparatus.xsl"));
-    // TODO: if notated
-    $(`#apparatusNeume-${item_id}`).append("<hr/>");
-    $(`#apparatusNeume-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/neume-apparatus.xsl"));
   });
 }

@@ -114,7 +114,7 @@
   </xsl:template>
 
   <xsl:template match="l">
-    <xsl:param name = "lgHead" />
+    <xsl:param name="lgHead" />
     <xsl:choose>
       <xsl:when test="@n=1">
         <!-- Create extra div to avoid breaks between strophe/refrain heading and first verse -->
@@ -166,9 +166,112 @@
   </div>
   </xsl:template>
 
-  <xsl:include href="word-and-syll.xsl"/>
+  <!--<xsl:include href="word-and-syll.xsl"/>-->
 
-  <xsl:include href="pc.xsl"/>
+  <xsl:template match="w">
+    <span class="word text-font" style="vertical-align: bottom;">
+      <xsl:if test="@rend='italic'">
+          <xsl:attribute name="data-rend">italic</xsl:attribute>
+      </xsl:if>
+      <xsl:apply-templates/>
+    </span>
+  </xsl:template>
 
-  <xsl:include href="app-in-text.xsl"/>
+  <xsl:template match="seg[@type='syll']">
+    <xsl:variable name="text"><xsl:value-of select="./text()"/></xsl:variable>
+    <span class="neumed-syll">
+      <span class="syl text-font">
+        <xsl:if test="@part='I' or  @part='M'">
+          <xsl:attribute name="data-dash">dashed</xsl:attribute>
+        </xsl:if>
+        <xsl:choose>
+          <xsl:when test="@met='+'">
+            <span class="syl-text stressed-syl">
+              <xsl:value-of select="normalize-space($text)"/>
+            </span>
+          </xsl:when>
+          <xsl:otherwise>
+            <span class="syl-text">
+              <xsl:value-of select="normalize-space($text)"/>
+            </span>
+          </xsl:otherwise>
+        </xsl:choose>
+      </span>
+      <xsl:if test="./notatedMusic">
+        <span class="neumes non-selectable">
+          <xsl:for-each select="notatedMusic/neume">
+            <img class="neume">
+              <xsl:attribute name="src">neumes/svg/<xsl:value-of select="@fontname"/><xsl:value-of select="@glyph.num"/>.svg</xsl:attribute>
+            </img>
+          </xsl:for-each>
+        </span>
+      </xsl:if>
+    </span>
+  </xsl:template>
+
+  <xsl:template match="pc">
+    <span style="flex-shrink: 0;">
+      <xsl:choose>
+        <xsl:when test="@pre='true'">
+          <xsl:attribute name="class">pc pre</xsl:attribute>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:attribute name="class">pc</xsl:attribute>
+        </xsl:otherwise>
+      </xsl:choose>
+      <xsl:if test="@rend='space-before'">
+        <xsl:attribute name="style">margin-left: 6px;</xsl:attribute>
+      </xsl:if>
+      <xsl:if test="@rend='space-after'">
+        <xsl:attribute name="style">margin-right: 0px;</xsl:attribute>
+      </xsl:if>
+      <xsl:choose>
+        <xsl:when test="@resp='#editor'">
+          <xsl:attribute name="data-resp">ed</xsl:attribute>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:attribute name="data-resp">ms</xsl:attribute>
+        </xsl:otherwise>
+      </xsl:choose>
+      <xsl:value-of select="./text()"/>
+    </span>
+  </xsl:template>
+
+  <xsl:template match="app">
+    <span>
+      <xsl:attribute name="class">
+        <xsl:if test="@type='text'">apparatus-in-text app-type-text apparatus-active</xsl:if>
+        <xsl:if test="@type='neume'">apparatus-in-text app-type-neume apparatus-active</xsl:if>
+      </xsl:attribute>
+      <span class="flex-wrapper">
+        <xsl:attribute name="class">
+          <xsl:if test="@type='text'">apparatus-note font-small cbo-border-red</xsl:if>
+          <xsl:if test="@type='neume'">apparatus-note font-small cbo-border-blue toggle-neumes</xsl:if>
+        </xsl:attribute>
+        <xsl:apply-templates select="./rdg" />
+        <xsl:apply-templates select="./note" />
+      </span>
+      <xsl:apply-templates select="./lem" />
+    </span>
+  </xsl:template>
+
+  <xsl:template match="lem">
+    <xsl:apply-templates />
+  </xsl:template>
+
+  <xsl:template match="rdg">
+    <span class="flex-wrapper rdg" style="margin-left: 6px;">
+      <i>
+        <xsl:apply-templates />
+      </i>
+      <i style="margin-left: 6px;"><xsl:value-of select="@wit" /></i>
+    <xsl:if test="../note">;</xsl:if>
+    </span>
+  </xsl:template>
+
+  <xsl:template match="note">
+    <i style="margin-left: 6px;">
+      <xsl:apply-templates />
+    </i>
+  </xsl:template>
 </xsl:stylesheet>
