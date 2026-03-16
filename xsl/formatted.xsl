@@ -209,7 +209,7 @@
     </span>
   </xsl:template>
 
-  <xsl:template match="pc">
+ <xsl:template match="pc">
     <span style="flex-shrink: 0;">
       <xsl:choose>
         <xsl:when test="@pre='true'">

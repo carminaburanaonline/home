@@ -13,7 +13,7 @@ function itemCoreView(div, item_id) {
     $(`#openSvg-${item_id}`).click(function(){
       $(`#openText-${item_id}`).removeClass('active');
       $(`#text-${item_id}`).hide();
-      $(`#svg-${item.pk}`).css("display", "block");
+      $(`#svg-${item_id}`).css("display", "block");
     });
     $(`#openText-${item_id}`).click(function(){
       $(`#openSvg-${item_id}`).removeClass('active');
@@ -38,15 +38,15 @@ function itemCoreView(div, item_id) {
       }
     });
     $(`#toggleSyllablesButton-${item_id}`).click(function(){
-      // Add (or remove) syllable dashes. Note: the button is activated before this script is called
+      // Add/remove syllable dashes.
       if ($(this).hasClass('active')) {
         $("span[data-dash='dashed'] > .syl-text").each(function() {
-          $(this).text($(this).text() + '-');
+          $(this).text($(this).text().slice(0, -1));
         });
       }
       else {
         $("span[data-dash='dashed'] > .syl-text").each(function() {
-          $(this).text($(this).text().slice(0, -1));
+          $(this).text($(this).text() + '-');
         });
       }
     });
@@ -62,11 +62,11 @@ function itemCoreView(div, item_id) {
     });
     $(`#toggleCriticalApparatus-${item_id}`).click(function(){
       $(`#apparatusText-${item_id}`).toggle();
+      $(`#itemCoreView-${item_id} .app-type-text`).toggleClass("apparatus-active");
       if ($(`#toggleNeumesButton-${item_id}`).hasClass('active')) {
         $(`#apparatusNeume-${item_id}`).toggle();
-        $(`#itemCoreView-${item.pk} .app-type-neume`).toggleClass("apparatus-active");
+        $(`#itemCoreView-${item_id} .app-type-neume`).toggleClass("apparatus-active");
       }
-      $(`#itemCoreView-${item_id} .app-type-text`).toggleClass("apparatus-active");
     });
     window.onclick = function(event) {
       if (!event.target.matches(`#dropBtn-${item_id}`) && !event.target.matches(`#dropdownDiv-${item_id} > .cbo-button`)) {
@@ -89,7 +89,6 @@ function itemCoreView(div, item_id) {
     $(`#openFormattedText-${item_id}`).click();
     $(`#itemCoreView-${item_id} .pc[data-resp='ms']`).hide();
     $(`#itemCoreView-${item_id} .word[data-rend='italic']`).css("font-style", "italic");
-    $(`#itemCoreView-${item_id} .syl-dash`).hide();
     $(`#itemCoreView-${item_id} .verse-met`).hide();
     $(`#itemCoreView-${item_id} .verse-real`).hide();
     $(`#itemCoreView-${item_id} .verse-rhyme`).hide();

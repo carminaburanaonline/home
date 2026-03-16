@@ -53,7 +53,7 @@
       <span class="neumes non-selectable">
         <xsl:for-each select="notatedMusic/neume">
           <img class="neume-small">
-            <xsl:attribute name="src"><xsl:value-of select="@fontname"/><xsl:value-of select="@glyph.num"/>.svg</xsl:attribute>
+            <xsl:attribute name="src">neumes/svg/<xsl:value-of select="@fontname"/><xsl:value-of select="@glyph.num"/>.svg</xsl:attribute>
           </img>
         </xsl:for-each>
       </span>
