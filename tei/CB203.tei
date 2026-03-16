@@ -1,10 +1,10 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="7pp/7pp/7p/7pp/7pp/7p/7pp+6p/7pp+6p/7pp/4p+7pp" rhyme="a/a/b/c/c/b/d/d/e/e">
         <head>Item unde supra</head>
-        <lg type="strophe" n="I">
+        <lg type="strophe" n="I" met="7pp/7pp/7p/7pp/7pp/7p/7pp+6p/7pp+6p/7pp/4p+7pp" rhyme="7pp/7pp/7p/7pp/7pp/7p/7pp+6p/7pp+6p/7pp/4p+7pp">
           <l n="1">
             <w>
               <seg type="syll" part="I">Hi</seg>
@@ -245,7 +245,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="II">
+        <lg type="strophe" n="II" met="7pp/7pp/7p/7pp/7pp/7p/7pp+6p/7pp+6p/7pp/4p+7pp" rhyme="7pp/7pp/7p/7pp/7pp/7p/7pp+6p/7pp+6p/7pp/4p+7pp">
           <l n="1">
             <app type="text">
               <lem wit="cod. V">
@@ -502,7 +502,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="III">
+        <lg type="strophe" n="III" met="7pp/7pp/7p/7pp/7pp/7p/7pp+6p/7pp+6p/7pp/4p+7pp" rhyme="7pp/7pp/7p/7pp/7pp/7p/7pp+6p/7pp+6p/7pp/4p+7pp">
           <l n="1">
             <app type="text">
               <lem>

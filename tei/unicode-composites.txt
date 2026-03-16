@@ -1,0 +1,62 @@
+Au
+&#x0041;&#x0367;
+
+ae
+&#x0061;&#x0364;
+
+au
+&#x0061;&#x0367;
+
+ie
+&#x0069;&#x0364;
+
+oe
+&#x006F;&#x0364;
+
+ov
+&#x006F;&#x036E;
+
+ou
+&#x006F;&#x0367;
+
+ue
+u&#x0364;
+
+uo
+u&#x0366;
+
+middle dot (ms)
+<pc>&#183;</pc>
+
+question mark (ms)
+<pc>&#xf1f0;</pc>
+
+dot + comma
+&#xf1e0;
+
+Single guillemot left
+&#10216;
+
+Single guillemot right
+&#10217;
+
+Single quote left
+&#8216;
+
+Single quote right
+&#8217;
+
+et tironien
+&#xf158;
+
+ae diphthong
+&#230;
+
+oe dyphthong
+œ
+
+e with cedille (right)
+&#281;
+
+cedille (right) without letter
+&#808;

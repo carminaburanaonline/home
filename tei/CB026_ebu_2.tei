@@ -1,9 +1,9 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="8pp/4pp/8p/6p/4pp/8pp/8pp/8pp" rhyme="a/a/b/b/c/c/d/d">
-        <lg type="strophe">
+        <lg type="strophe" met="8pp/4pp/8p/6p/4pp/8pp/8pp/8pp" rhyme="8pp/4pp/8p/6p/4pp/8pp/8pp/8pp">
           <l n="1">
             <w>Si</w>
             <w>vocatus</w>
