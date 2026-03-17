@@ -3,7 +3,7 @@
   <text>
     <body>
       <div type="poem" met="6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p" rhyme="a+b/a+b/c+d/c+d/c+d/c+d">
-        <lg type="strophe" n="I" met="6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p" rhyme="6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p">
+        <lg type="strophe" n="I" met="6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p" rhyme="a+b/a+b/c+d/c+d/c+d/c+d">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -429,7 +429,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p" rhyme="6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p">
+        <lg type="strophe" n="II" met="6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p" rhyme="a+b/a+b/c+d/c+d/c+d/c+d">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -863,7 +863,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p" rhyme="6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p">
+        <lg type="strophe" n="III" met="6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p" rhyme="a+b/a+b/c+d/c+d/c+d/c+d">
           <l n="1">
             <seg type="hemistich">
               <app type="text">
@@ -1064,7 +1064,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p" rhyme="6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p">
+        <lg type="strophe" n="IV" met="6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p" rhyme="a+b/a+b/c+d/c+d/c+d/c+d">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -1282,7 +1282,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="V" met="6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p" rhyme="6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p">
+        <lg type="strophe" n="V" met="6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p/6pp+6p" rhyme="a+b/a+b/c+d/c+d/c+d/c+d">
           <l n="1">
             <seg type="hemistich">
               <w>

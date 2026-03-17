@@ -138,24 +138,16 @@
         <xsl:apply-templates/>
       </div>
       <div class="verse-met non-selectable">
-        <xsl:choose>
-          <xsl:when test="@met-variant">
-            <b><xsl:value-of select="@met-variant"/></b>(<xsl:value-of select="@met"/>)
-          </xsl:when>
-          <xsl:otherwise>
-            <xsl:value-of select="@met"/>
-          </xsl:otherwise>
-        </xsl:choose>
+        <xsl:if test="@met">
+          <!-- a variation in the metric -->
+          <xsl:attribute name="data-met"><xsl:value-of select="@met" /></xsl:attribute>
+        </xsl:if>
       </div>
       <div class="verse-rhyme non-selectable">
-        <xsl:choose>
-          <xsl:when test="@rhyme-variant">
-            <b><xsl:value-of select="@rhyme-variant"/></b>(<xsl:value-of select="@rhyme"/>)
-          </xsl:when>
-          <xsl:otherwise>
-            <xsl:value-of select="@rhyme"/>
-          </xsl:otherwise>
-        </xsl:choose>
+        <xsl:if test="@rhyme">
+          <!-- a variation in the rhyme -->
+          <xsl:attribute name="data-rhyme"><xsl:value-of select="@rhyme" /></xsl:attribute>
+        </xsl:if>
       </div>
     </div>
   </xsl:template>

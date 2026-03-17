@@ -4,7 +4,7 @@
     <body>
       <div type="poem" met="11pp/11pp/7pp/11pp/11pp/7pp/11p/11pp+6p" rhyme="a/a/b/a/a/b/c/c">
         <head>Item unde supra</head>
-        <lg type="strophe" n="I" met="11pp/11pp/7pp/11pp/11pp/7pp/11p/11pp+6p" rhyme="11pp/11pp/7pp/11pp/11pp/7pp/11p/11pp+6p">
+        <lg type="strophe" n="I" met="11pp/11pp/7pp/11pp/11pp/7pp/11p/11pp+6p" rhyme="a/a/b/a/a/b/c/c">
           <l n="1">
             <w>
               <seg type="syll" part="I">A<notatedMusic>
@@ -457,7 +457,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="11pp/11pp/7pp/11pp/11pp/7pp/11p/11pp+6p" rhyme="11pp/11pp/7pp/11pp/11pp/7pp/11p/11pp+6p">
+        <lg type="strophe" n="II" met="11pp/11pp/7pp/11pp/11pp/7pp/11p/11pp+6p" rhyme="a/a/b/a/a/b/c/c">
           <l n="1">
             <w>
               <seg type="syll" part="I">O</seg>
@@ -640,7 +640,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="11pp/11pp/7pp/11pp/11pp/7pp/11p/11pp+6p" rhyme="11pp/11pp/7pp/11pp/11pp/7pp/11p/11pp+6p">
+        <lg type="strophe" n="III" met="11pp/11pp/7pp/11pp/11pp/7pp/11p/11pp+6p" rhyme="a/a/b/a/a/b/c/c">
           <l n="1" met="8pp+4pp" rhyme="d+a">
             <seg type="hemistich">
               <w>

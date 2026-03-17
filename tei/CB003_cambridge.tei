@@ -3,7 +3,7 @@
   <text>
     <body>
       <div type="poem" met="7pp/6p/7pp/6p/7pp/6p" rhyme="a/b/a/b/a/b">
-        <lg type="strophe" n="I" met="7pp/6p/7pp/6p/7pp/6p" rhyme="7pp/6p/7pp/6p/7pp/6p">
+        <lg type="strophe" n="I" met="7pp/6p/7pp/6p/7pp/6p" rhyme="a/b/a/b/a/b">
           <l n="1">
             <w>Ecce</w>
             <w>torpet</w>
@@ -76,7 +76,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="7pp/6p/7pp/6p/7pp/6p" rhyme="7pp/6p/7pp/6p/7pp/6p">
+        <lg type="strophe" n="II" met="7pp/6p/7pp/6p/7pp/6p" rhyme="a/b/a/b/a/b">
           <l n="1">
             <w>Regnat</w>
             <w>avaricia</w>
@@ -129,7 +129,7 @@
             <pc resp="#editor">...</pc>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="7pp/6p/7pp/6p/7pp/6p" rhyme="7pp/6p/7pp/6p/7pp/6p">
+        <lg type="strophe" n="III" met="7pp/6p/7pp/6p/7pp/6p" rhyme="a/b/a/b/a/b">
           <l n="1">
             <w>Multum</w>
             <w>habet</w>
@@ -184,7 +184,7 @@
             <pc resp="#editor">...</pc>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="7pp/6p/7pp/6p/7pp/6p" rhyme="7pp/6p/7pp/6p/7pp/6p">
+        <lg type="strophe" n="IV" met="7pp/6p/7pp/6p/7pp/6p" rhyme="a/b/a/b/a/b">
           <l n="1">
             <app type="text">
               <lem wit="HS V Tc T">

@@ -4,7 +4,7 @@
     <body>
       <div type="poem" met="7p/7pp/4pp/7p/7pp/4pp/8pp+7p" rhyme="a/b/b/a/c/c/a">
         <head>Item aliud</head>
-        <lg type="strophe" n="I" met="7p/7pp/4pp/7p/7pp/4pp/8pp+7p" rhyme="7p/7pp/4pp/7p/7pp/4pp/8pp+7p">
+        <lg type="strophe" n="I" met="7p/7pp/4pp/7p/7pp/4pp/8pp+7p" rhyme="a/b/b/a/c/c/a">
           <l n="1">
             <app type="text">
               <lem wit="ms">
@@ -288,7 +288,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="7p/7pp/4pp/7p/7pp/4pp/8pp+7p" rhyme="7p/7pp/4pp/7p/7pp/4pp/8pp+7p">
+        <lg type="strophe" n="II" met="7p/7pp/4pp/7p/7pp/4pp/8pp+7p" rhyme="a/b/b/a/c/c/a">
           <l n="1" met="6p">
             <w>
               <seg type="syll" part="I">Fer</seg>
@@ -411,7 +411,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="7p/7pp/4pp/7p/7pp/4pp/8pp+7p" rhyme="7p/7pp/4pp/7p/7pp/4pp/8pp+7p">
+        <lg type="strophe" n="III" met="7p/7pp/4pp/7p/7pp/4pp/8pp+7p" rhyme="a/b/b/a/c/c/a">
           <l n="1" met="6p">
             <w>
               <seg type="syll" part="I">Hos</seg>
@@ -536,7 +536,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="7p/7pp/4pp/7p/7pp/4pp/8pp+7p" rhyme="7p/7pp/4pp/7p/7pp/4pp/8pp+7p">
+        <lg type="strophe" n="IV" met="7p/7pp/4pp/7p/7pp/4pp/8pp+7p" rhyme="a/b/b/a/c/c/a">
           <l n="1" met="6p">
             <w>
               <seg type="syll" part="I">Col</seg>
@@ -668,7 +668,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="V" xml:lang="middle-high-german" met="A3-/A4/A2/3-/A4/A2/3-+A3-" rhyme="7p/7pp/4pp/7p/7pp/4pp/8pp+7p">
+        <lg type="strophe" n="V" xml:lang="middle-high-german" met="A3-/A4/A2/3-/A4/A2/3-+A3-" rhyme="a/b/b/a/c/c/a">
           <l n="1">
             <w>
               <seg type="syll">Nu</seg>

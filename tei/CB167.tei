@@ -3,7 +3,7 @@
   <text>
     <body>
       <div type="poem" met="7pp/7pp/7pp/7pp/7pp/7pp" rhyme="a/a/a/b/a/b">
-        <lg type="strophe" n="I" met="7pp/7pp/7pp/7pp/7pp/7pp" rhyme="7pp/7pp/7pp/7pp/7pp/7pp">
+        <lg type="strophe" n="I" met="7pp/7pp/7pp/7pp/7pp/7pp" rhyme="a/a/a/b/a/b">
           <l n="1">
             <w>
               <seg type="syll" part="I">La<notatedMusic>
@@ -214,7 +214,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="7pp/7pp/7pp/7pp/7pp/7pp" rhyme="7pp/7pp/7pp/7pp/7pp/7pp">
+        <lg type="strophe" n="II" met="7pp/7pp/7pp/7pp/7pp/7pp" rhyme="a/a/a/b/a/b">
           <l n="1">
             <app type="text">
               <lem>
@@ -318,7 +318,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="7pp/7pp/7pp/7pp/7pp/7pp" rhyme="7pp/7pp/7pp/7pp/7pp/7pp">
+        <lg type="strophe" n="III" met="7pp/7pp/7pp/7pp/7pp/7pp" rhyme="a/a/a/b/a/b">
           <l n="1">
             <w>
               <seg type="syll">In</seg>
@@ -418,7 +418,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="7pp/7pp/7pp/7pp/7pp/7pp" rhyme="7pp/7pp/7pp/7pp/7pp/7pp">
+        <lg type="strophe" n="IV" met="7pp/7pp/7pp/7pp/7pp/7pp" rhyme="a/a/a/b/a/b">
           <l n="1">
             <w>
               <seg type="syll">Iam</seg>
@@ -521,7 +521,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="V" met="7pp/7pp/7pp/7pp/7pp/7pp" rhyme="7pp/7pp/7pp/7pp/7pp/7pp">
+        <lg type="strophe" n="V" met="7pp/7pp/7pp/7pp/7pp/7pp" rhyme="a/a/a/b/a/b">
           <l n="1">
             <w>
               <seg type="syll" part="I">Er</seg>
@@ -628,7 +628,7 @@
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="strophe" n="VI" met="7pp/7pp/7pp/7pp/7pp/7pp" rhyme="7pp/7pp/7pp/7pp/7pp/7pp">
+        <lg type="strophe" n="VI" met="7pp/7pp/7pp/7pp/7pp/7pp" rhyme="a/a/a/b/a/b">
           <l n="1">
             <app type="text">
               <lem wit="HS V T">

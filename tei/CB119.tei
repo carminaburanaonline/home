@@ -4,7 +4,7 @@
     <body>
       <div type="poem" xml:lang="latin" met="10pp/10pp/10pp/10pp/2p" rhyme="a/a/a/a/b">
         <head>Item</head>
-        <lg type="strophe" n="I" met="10pp/10pp/10pp/10pp/2p" rhyme="10pp/10pp/10pp/10pp/2p">
+        <lg type="strophe" n="I" met="10pp/10pp/10pp/10pp/2p" rhyme="a/a/a/a/b">
           <l n="1">
             <w>
               <seg type="syll" part="I">Dul<notatedMusic>
@@ -226,7 +226,7 @@
             <pc resp="#editor">...</pc>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="10pp/10pp/10pp/10pp/2p" rhyme="10pp/10pp/10pp/10pp/2p">
+        <lg type="strophe" n="II" met="10pp/10pp/10pp/10pp/2p" rhyme="a/a/a/a/b">
           <l n="1">
             <w>
               <seg type="syll" part="I">Va<notatedMusic>
@@ -447,7 +447,7 @@
             <pc resp="#editor">...</pc>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="10pp/10pp/10pp/10pp/2p" rhyme="10pp/10pp/10pp/10pp/2p">
+        <lg type="strophe" n="III" met="10pp/10pp/10pp/10pp/2p" rhyme="a/a/a/a/b">
           <l n="1">
             <app type="text">
               <lem>
@@ -688,7 +688,7 @@
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="10pp/10pp/10pp/10pp/2p" rhyme="10pp/10pp/10pp/10pp/2p">
+        <lg type="strophe" n="IV" met="10pp/10pp/10pp/10pp/2p" rhyme="a/a/a/a/b">
           <l n="1">
             <w>
               <seg type="syll" part="I">I<notatedMusic>
@@ -912,7 +912,7 @@
             <pc resp="#editor">...</pc>
           </l>
         </lg>
-        <lg type="strophe" n="V" met="10pp/10pp/10pp/10pp/2p" rhyme="10pp/10pp/10pp/10pp/2p">
+        <lg type="strophe" n="V" met="10pp/10pp/10pp/10pp/2p" rhyme="a/a/a/a/b">
           <l n="1">
             <w>
               <seg type="syll" part="I">He<notatedMusic>

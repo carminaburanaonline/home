@@ -4,7 +4,7 @@
     <body>
       <div type="poem" xml:lang="latin" met="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p" rhyme="a/b+c/a/b+c/c+b/c+b">
         <head>Item</head>
-        <lg type="strophe" n="I" met="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p" rhyme="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p">
+        <lg type="strophe" n="I" met="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p" rhyme="a/b+c/a/b+c/c+b/c+b">
           <l n="1">
             <w>
               <seg type="syll" part="I">Vi<notatedMusic>
@@ -299,7 +299,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p" rhyme="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p">
+        <lg type="strophe" n="II" met="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p" rhyme="a/b+c/a/b+c/c+b/c+b">
           <l n="1">
             <w>
               <seg type="syll" part="I">Re<notatedMusic>
@@ -582,7 +582,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p" rhyme="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p">
+        <lg type="strophe" n="III" met="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p" rhyme="a/b+c/a/b+c/c+b/c+b">
           <l n="1">
             <w>
               <seg type="syll">Non<notatedMusic>
@@ -871,7 +871,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p" rhyme="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p">
+        <lg type="strophe" n="IV" met="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p" rhyme="a/b+c/a/b+c/c+b/c+b">
           <l n="1">
             <w>
               <seg type="syll" part="I">Fa<notatedMusic>
@@ -1164,7 +1164,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="V" met="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p" rhyme="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p">
+        <lg type="strophe" n="V" met="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p" rhyme="a/b+c/a/b+c/c+b/c+b">
           <l n="1">
             <w>
               <seg type="syll">Dum<notatedMusic>
@@ -1452,7 +1452,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="VI" met="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p" rhyme="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p">
+        <lg type="strophe" n="VI" met="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p" rhyme="a/b+c/a/b+c/c+b/c+b">
           <l n="1">
             <w>
               <seg type="syll" part="I">Pre<notatedMusic>
@@ -1744,7 +1744,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="VII" met="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p" rhyme="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p">
+        <lg type="strophe" n="VII" met="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p" rhyme="a/b+c/a/b+c/c+b/c+b">
           <l n="1">
             <app type="text">
               <lem wit="HS V W T">
@@ -2039,7 +2039,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="VIII" met="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p" rhyme="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p">
+        <lg type="strophe" n="VIII" met="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p" rhyme="a/b+c/a/b+c/c+b/c+b">
           <l n="1">
             <app type="text">
               <lem wit="cod. V">
@@ -2343,7 +2343,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="IX" met="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p" rhyme="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p">
+        <lg type="strophe" n="IX" met="5pp/3p+4pp/5pp/3p+4pp/7pp+6p/7pp+6p" rhyme="a/b+c/a/b+c/c+b/c+b">
           <l n="1">
             <w>
               <seg type="syll" part="I">Er<notatedMusic>

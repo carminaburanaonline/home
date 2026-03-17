@@ -4,7 +4,7 @@
     <body>
       <div type="poem" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="a/a/b/b/b">
         <head>Item aliud</head>
-        <lg type="strophe" n="I" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="7pp+6p/7pp+6p/7pp+6p/7pp+6p/7pp+6p">
+        <lg type="strophe" n="I" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="a/a/b/b/b">
           <l n="1" met="8pp+A6p">
             <seg type="hemistich">
               <w>
@@ -238,7 +238,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="7pp+6p/7pp+6p/7pp+6p/7pp+6p/7pp+6p">
+        <lg type="strophe" n="II" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="a/a/b/b/b">
           <l n="1" met="A7pp+[6p]" rhyme="[a]">
             <seg type="hemistich">
               <w>
@@ -408,7 +408,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="7pp+6p/7pp+6p/7pp+6p/7pp+6p/7pp+6p">
+        <lg type="strophe" n="III" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="a/a/b/b/b">
           <l n="1" met="8pp+6p">
             <seg type="hemistich">
               <w>
@@ -588,7 +588,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="7pp+6p/7pp+6p/7pp+6p/7pp+6p/7pp+6p">
+        <lg type="strophe" n="IV" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="a/a/b/b/b">
           <l n="1" met="8pp+A6p">
             <seg type="hemistich">
               <w>

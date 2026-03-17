@@ -4,7 +4,7 @@
     <body>
       <div type="poem" met="9pp/8pp/9pp/8pp/7pp/5pp+9pp" rhyme="a/b/a/b/c/c">
         <head>Item aliud</head>
-        <lg type="strophe" n="I" met="9pp/8pp/9pp/8pp/7pp/5pp+9pp" rhyme="9pp/8pp/9pp/8pp/7pp/5pp+9pp">
+        <lg type="strophe" n="I" met="9pp/8pp/9pp/8pp/7pp/5pp+9pp" rhyme="a/b/a/b/c/c">
           <l n="1">
             <w>
               <seg type="syll">Iam<notatedMusic>
@@ -302,7 +302,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="9pp/8pp/9pp/8pp/7pp/5pp+9pp" rhyme="9pp/8pp/9pp/8pp/7pp/5pp+9pp">
+        <lg type="strophe" n="II" met="9pp/8pp/9pp/8pp/7pp/5pp+9pp" rhyme="a/b/a/b/c/c">
           <l n="1">
             <w>
               <seg type="syll">Si</seg>
@@ -428,7 +428,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="9pp/8pp/9pp/8pp/7pp/5pp+9pp" rhyme="9pp/8pp/9pp/8pp/7pp/5pp+9pp">
+        <lg type="strophe" n="III" met="9pp/8pp/9pp/8pp/7pp/5pp+9pp" rhyme="a/b/a/b/c/c">
           <l n="1">
             <w>
               <seg type="syll">Si</seg>
@@ -571,7 +571,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="9pp/8pp/9pp/8pp/7pp/5pp+9pp" rhyme="9pp/8pp/9pp/8pp/7pp/5pp+9pp">
+        <lg type="strophe" n="IV" met="9pp/8pp/9pp/8pp/7pp/5pp+9pp" rhyme="a/b/a/b/c/c">
           <l n="1">
             <w>
               <seg type="syll">Me</seg>
@@ -700,7 +700,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="V" xml:lang="middle-high-german" met="A5/A4/5/A4/A3/A2-+5" rhyme="9pp/8pp/9pp/8pp/7pp/5pp+9pp">
+        <lg type="strophe" n="V" xml:lang="middle-high-german" met="A5/A4/5/A4/A3/A2-+5" rhyme="a/b/a/b/c/c">
           <l n="1">
             <w>
               <seg type="syll" part="I">Sol</seg>

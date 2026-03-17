@@ -4,7 +4,7 @@
     <body>
       <div type="poem" met="7p/6pp/7p/6pp" rhyme="a/b/a/b">
         <head>Item aliud</head>
-        <lg type="strophe" n="I" met="7p/6pp/7p/6pp" rhyme="7p/6pp/7p/6pp">
+        <lg type="strophe" n="I" met="7p/6pp/7p/6pp" rhyme="a/b/a/b">
           <l n="1">
             <w>
               <seg type="syll">Dum<notatedMusic>
@@ -156,7 +156,7 @@
             <pc resp="#editor">,</pc>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="7p/6pp/7p/6pp" rhyme="7p/6pp/7p/6pp">
+        <lg type="strophe" n="II" met="7p/6pp/7p/6pp" rhyme="a/b/a/b">
           <l n="1">
             <app type="text">
               <lem>
@@ -319,7 +319,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="7p/6pp/7p/6pp" rhyme="7p/6pp/7p/6pp">
+        <lg type="strophe" n="III" met="7p/6pp/7p/6pp" rhyme="a/b/a/b">
           <l n="1" met="8p">
             <w>
               <seg type="syll">Ut<notatedMusic>

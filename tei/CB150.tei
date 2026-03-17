@@ -3,7 +3,7 @@
   <text>
     <body>
       <div type="poem" met="8p/9pp/8p/9pp/8pp/8pp/8pp" rhyme="a/b/a/b/c/x/c">
-        <lg type="strophe" n="I" met="8p/9pp/8p/9pp/8pp/8pp/8pp" rhyme="8p/9pp/8p/9pp/8pp/8pp/8pp">
+        <lg type="strophe" n="I" met="8p/9pp/8p/9pp/8pp/8pp/8pp" rhyme="a/b/a/b/c/x/c">
           <l n="1">
             <w>
               <seg type="syll" part="I">Red<notatedMusic>
@@ -271,7 +271,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="8p/9pp/8p/9pp/8pp/8pp/8pp" rhyme="8p/9pp/8p/9pp/8pp/8pp/8pp">
+        <lg type="strophe" n="II" met="8p/9pp/8p/9pp/8pp/8pp/8pp" rhyme="a/b/a/b/c/x/c">
           <l n="1">
             <w>
               <seg type="syll" part="I">Es</seg>
@@ -402,7 +402,7 @@
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="8p/9pp/8p/9pp/8pp/8pp/8pp" rhyme="8p/9pp/8p/9pp/8pp/8pp/8pp">
+        <lg type="strophe" n="III" met="8p/9pp/8p/9pp/8pp/8pp/8pp" rhyme="a/b/a/b/c/x/c">
           <l n="1">
             <w>
               <seg type="syll" part="I">Er</seg>

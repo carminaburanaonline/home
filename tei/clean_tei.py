@@ -40,7 +40,7 @@ if __name__ == "__main__":
 			if poem_rhyme is not None:
 				for lg in poem.findall('./lg'):
 					if "rhyme" not in lg.attrib:
-						lg.set("rhyme", poem_met)
+						lg.set("rhyme", poem_rhyme)
 
 		#####
 		#####

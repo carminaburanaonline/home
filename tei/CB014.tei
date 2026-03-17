@@ -3,7 +3,7 @@
   <text>
     <body>
       <div type="poem" xml:lang="latin" met="4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp" rhyme="a+b/a+b/b+a/c+d/c+d/d+c/e+f/e+f">
-        <lg type="strophe" n="I" met="4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp" rhyme="4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp">
+        <lg type="strophe" n="I" met="4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp" rhyme="a+b/a+b/b+a/c+d/c+d/d+c/e+f/e+f">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -482,7 +482,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp" rhyme="4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp">
+        <lg type="strophe" n="II" met="4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp" rhyme="a+b/a+b/b+a/c+d/c+d/d+c/e+f/e+f">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -969,7 +969,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp" rhyme="4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp">
+        <lg type="strophe" n="III" met="4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp" rhyme="a+b/a+b/b+a/c+d/c+d/d+c/e+f/e+f">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -1467,7 +1467,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp" rhyme="4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp">
+        <lg type="strophe" n="IV" met="4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp" rhyme="a+b/a+b/b+a/c+d/c+d/d+c/e+f/e+f">
           <l n="1">
             <seg type="hemistich">
               <w>

@@ -3,7 +3,7 @@
   <text>
     <body>
       <div type="poem" met="5pp+6p/5pp+6p/6p+6p/10p" rhyme="a+b/a+b/b/b">
-        <lg type="strophe" n="I" met="5pp+6p/5pp+6p/6p+6p/10p" rhyme="5pp+6p/5pp+6p/6p+6p/10p">
+        <lg type="strophe" n="I" met="5pp+6p/5pp+6p/6p+6p/10p" rhyme="a+b/a+b/b/b">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -294,7 +294,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="5pp+6p/5pp+6p/6p+6p/10p" rhyme="5pp+6p/5pp+6p/6p+6p/10p">
+        <lg type="strophe" n="II" met="5pp+6p/5pp+6p/6p+6p/10p" rhyme="a+b/a+b/b/b">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -420,7 +420,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="5pp+6p/5pp+6p/6p+6p/10p" rhyme="5pp+6p/5pp+6p/6p+6p/10p">
+        <lg type="strophe" n="III" met="5pp+6p/5pp+6p/6p+6p/10p" rhyme="a+b/a+b/b/b">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -534,7 +534,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="5pp+6p/5pp+6p/6p+6p/10p" rhyme="5pp+6p/5pp+6p/6p+6p/10p">
+        <lg type="strophe" n="IV" met="5pp+6p/5pp+6p/6p+6p/10p" rhyme="a+b/a+b/b/b">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -657,7 +657,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="V" met="5pp+6p/5pp+6p/6p+6p/10p" rhyme="5pp+6p/5pp+6p/6p+6p/10p">
+        <lg type="strophe" n="V" met="5pp+6p/5pp+6p/6p+6p/10p" rhyme="a+b/a+b/b/b">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -791,7 +791,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="VI" xml:lang="middle-high-german" met="3+3-/3+3-/A3-+3-/?" rhyme="5pp+6p/5pp+6p/6p+6p/10p">
+        <lg type="strophe" n="VI" xml:lang="middle-high-german" met="3+3-/3+3-/A3-+3-/?" rhyme="a+b/a+b/b/b">
           <l n="1">
             <seg type="hemistich">
               <w>

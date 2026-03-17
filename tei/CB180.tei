@@ -4,7 +4,7 @@
     <body>
       <div type="poem" met="7pp/7pp/7pp/7pp" rhyme="a/a/b/b">
         <head>Item aliud</head>
-        <lg type="strophe" n="I" met="7pp/7pp/7pp/7pp" rhyme="7pp/7pp/7pp/7pp">
+        <lg type="strophe" n="I" met="7pp/7pp/7pp/7pp" rhyme="a/a/b/b">
           <l n="1">
             <w>
               <seg type="syll">O<notatedMusic>
@@ -197,7 +197,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="refrain" met="7pp/7pp/7pp/7pp" rhyme="7pp/7pp/7pp/7pp">
+        <lg type="refrain" met="7pp/7pp/7pp/7pp" rhyme="a/a/b/b">
           <head>Refl.</head>
           <l n="1">
             <seg type="hemistich">
@@ -293,7 +293,7 @@
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="7pp/7pp/7pp/7pp" rhyme="7pp/7pp/7pp/7pp">
+        <lg type="strophe" n="II" met="7pp/7pp/7pp/7pp" rhyme="a/a/b/b">
           <l n="1">
             <w>
               <seg type="syll">&#171;Que</seg>
@@ -364,7 +364,7 @@
             <pc resp="#editor">?</pc>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="7pp/7pp/7pp/7pp" rhyme="7pp/7pp/7pp/7pp">
+        <lg type="strophe" n="III" met="7pp/7pp/7pp/7pp" rhyme="a/a/b/b">
           <l n="1">
             <w>
               <seg type="syll" part="I">Vul</seg>
@@ -431,7 +431,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="7pp/7pp/7pp/7pp" rhyme="7pp/7pp/7pp/7pp">
+        <lg type="strophe" n="IV" met="7pp/7pp/7pp/7pp" rhyme="a/a/b/b">
           <l n="1" met="6pp">
             <w>
               <seg type="syll">Que</seg>
@@ -499,7 +499,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="V" met="7pp/7pp/7pp/7pp" rhyme="7pp/7pp/7pp/7pp">
+        <lg type="strophe" n="V" met="7pp/7pp/7pp/7pp" rhyme="a/a/b/b">
           <l n="1">
             <w>
               <seg type="syll" part="I">Cir</seg>
@@ -565,7 +565,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="VI" met="7pp/7pp/7pp/7pp" rhyme="7pp/7pp/7pp/7pp">
+        <lg type="strophe" n="VI" met="7pp/7pp/7pp/7pp" rhyme="a/a/b/b">
           <l n="1">
             <w>
               <seg type="syll" part="I">Tu</seg>
@@ -632,7 +632,7 @@
             <pc resp="#editor">.&#187;</pc>
           </l>
         </lg>
-        <lg type="strophe" n="VII" met="7pp/7pp/7pp/7pp" rhyme="7pp/7pp/7pp/7pp">
+        <lg type="strophe" n="VII" met="7pp/7pp/7pp/7pp" rhyme="a/a/b/b">
           <l n="1">
             <w>
               <seg type="syll" part="I">Vel</seg>
@@ -698,7 +698,7 @@
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="strophe" n="VIII" xml:lang="middle-high-german" met="4/4/A3/A3" rhyme="7pp/7pp/7pp/7pp">
+        <lg type="strophe" n="VIII" xml:lang="middle-high-german" met="4/4/A3/A3" rhyme="a/a/b/b">
           <l n="1">
             <w>
               <seg type="syll">Ich</seg>
@@ -850,7 +850,7 @@
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="strophe" n="IX" met="4/4/4/4" rhyme="7pp/7pp/7pp/7pp">
+        <lg type="strophe" n="IX" met="4/4/4/4" rhyme="a/a/b/b">
           <l n="1">
             <w>
               <seg type="syll" part="I">Su&#870;</seg>

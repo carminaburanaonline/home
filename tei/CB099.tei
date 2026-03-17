@@ -3,7 +3,7 @@
   <text>
     <body>
       <div type="poem" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
-        <lg type="strophe" n="I" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="6pp+6pp/6pp+6pp/6pp+6pp">
+        <lg type="strophe" n="I" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -201,7 +201,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="6pp+6pp/6pp+6pp/6pp+6pp">
+        <lg type="strophe" n="II" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
           <l n="1">
             <seg type="hemistich">
               <app type="text">
@@ -305,7 +305,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="6pp+6pp/6pp+6pp/6pp+6pp">
+        <lg type="strophe" n="III" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -400,7 +400,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="6pp+6pp/6pp+6pp/6pp+6pp">
+        <lg type="strophe" n="IV" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -495,7 +495,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="V" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="6pp+6pp/6pp+6pp/6pp+6pp">
+        <lg type="strophe" n="V" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -582,7 +582,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="VI" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="6pp+6pp/6pp+6pp/6pp+6pp">
+        <lg type="strophe" n="VI" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -678,7 +678,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="VII" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="6pp+6pp/6pp+6pp/6pp+6pp">
+        <lg type="strophe" n="VII" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
           <l n="1">
             <seg type="hemistich">
               <app type="text">
@@ -774,7 +774,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="VIII" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="6pp+6pp/6pp+6pp/6pp+6pp">
+        <lg type="strophe" n="VIII" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -886,7 +886,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="IX" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="6pp+6pp/6pp+6pp/6pp+6pp">
+        <lg type="strophe" n="IX" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
           <l n="1">
             <seg type="hemistich">
               <app type="text">
@@ -987,7 +987,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="X" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="6pp+6pp/6pp+6pp/6pp+6pp">
+        <lg type="strophe" n="X" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
           <l n="1">
             <seg type="hemistich">
               <pc resp="#editor" pre="true">&#171;</pc>
@@ -1082,7 +1082,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="XI" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="6pp+6pp/6pp+6pp/6pp+6pp">
+        <lg type="strophe" n="XI" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -1173,7 +1173,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="XII" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="6pp+6pp/6pp+6pp/6pp+6pp">
+        <lg type="strophe" n="XII" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -1284,7 +1284,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="XIII" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="6pp+6pp/6pp+6pp/6pp+6pp">
+        <lg type="strophe" n="XIII" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -1394,7 +1394,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="XIV" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="6pp+6pp/6pp+6pp/6pp+6pp">
+        <lg type="strophe" n="XIV" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -1483,7 +1483,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="XV" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="6pp+6pp/6pp+6pp/6pp+6pp">
+        <lg type="strophe" n="XV" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -1575,7 +1575,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="XVI" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="6pp+6pp/6pp+6pp/6pp+6pp">
+        <lg type="strophe" n="XVI" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -1670,7 +1670,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="XVII" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="6pp+6pp/6pp+6pp/6pp+6pp">
+        <lg type="strophe" n="XVII" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -1760,7 +1760,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="XVIII" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="6pp+6pp/6pp+6pp/6pp+6pp">
+        <lg type="strophe" n="XVIII" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
           <l n="1">
             <seg type="hemistich">
               <app type="text">
@@ -1864,7 +1864,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="XIX" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="6pp+6pp/6pp+6pp/6pp+6pp">
+        <lg type="strophe" n="XIX" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -1958,7 +1958,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="XX" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="6pp+6pp/6pp+6pp/6pp+6pp">
+        <lg type="strophe" n="XX" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a">
           <l n="1">
             <seg type="hemistich">
               <w>

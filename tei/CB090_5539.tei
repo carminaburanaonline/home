@@ -3,7 +3,7 @@
   <text>
     <body>
       <div type="poem" met="7pp+6p/7pp+6p" rhyme="A+B/A+B">
-        <lg type="strophe" n="I" met="7pp+6p/7pp+6p" rhyme="7pp+6p/7pp+6p">
+        <lg type="strophe" n="I" met="7pp+6p/7pp+6p" rhyme="A+B/A+B">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -70,7 +70,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="7pp+6p/7pp+6p" rhyme="7pp+6p/7pp+6p">
+        <lg type="strophe" n="II" met="7pp+6p/7pp+6p" rhyme="A+B/A+B">
           <l n="1">
             <seg type="hemistich">
               <w>

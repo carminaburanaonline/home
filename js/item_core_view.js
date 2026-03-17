@@ -82,7 +82,21 @@ function itemCoreView(div, item_id) {
     $(`#apparatusNeume-${item_id}`).append("<hr/>");
     $(`#apparatusNeume-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/neume-apparatus.xsl"));
 
-    //TODO: metric and rhymes (the logic was made in python)
+    $(this).find("div.strophe").each(function() {
+      var lg = $(this);
+      ['met', 'rhyme'].forEach(function(key) {
+        lg_data = $(lg).data(key).split("/");
+        verses = $(lg).find(`div.verse-${key}`);
+        for (x = 0; x < lg_data.length; x++) {
+          if ($(verses[x]).data(key)) {
+            $(verses[x]).html(`<b>${$(verses[x]).data(key)}</b>`);
+          }
+          else {
+            $(verses[x]).html(lg_data[x]);
+          }
+        }
+      });
+    });
 
     // Initial setup of buttons and other typographical things
     $(`#openSvg-${item_id}`).click();

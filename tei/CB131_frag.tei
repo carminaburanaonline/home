@@ -3,7 +3,7 @@
   <text>
     <body>
       <div type="poem" met="[8p]/[8p]/[8pp]/[7p]/8pp/7p" rhyme="[c]/[c]/d/[e]/d/e">
-        <lg type="strophe" n="I" met="[8p]/[8p]/[8pp]/[7p]/8pp/7p" rhyme="[8p]/[8p]/[8pp]/[7p]/8pp/7p">
+        <lg type="strophe" n="I" met="[8p]/[8p]/[8pp]/[7p]/8pp/7p" rhyme="[c]/[c]/d/[e]/d/e">
           <l n="7">
             <pc resp="#editor" pre="true">...</pc>
             <w>[cu]m</w>

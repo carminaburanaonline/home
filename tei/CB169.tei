@@ -4,7 +4,7 @@
     <body>
       <div type="poem" met="8p/5pp/8p/5pp/5pp/8p/8p/5pp" rhyme="a/b/a/b/c/d/d/c">
         <head>Unde supra</head>
-        <lg type="strophe" n="I" met="8p/5pp/8p/5pp/5pp/8p/8p/5pp" rhyme="8p/5pp/8p/5pp/5pp/8p/8p/5pp">
+        <lg type="strophe" n="I" met="8p/5pp/8p/5pp/5pp/8p/8p/5pp" rhyme="a/b/a/b/c/d/d/c">
           <l n="1" met="4p+4p" rhyme="a+a">
             <seg type="hemistich">
               <w>
@@ -137,7 +137,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="8p/5pp/8p/5pp/5pp/8p/8p/5pp" rhyme="8p/5pp/8p/5pp/5pp/8p/8p/5pp">
+        <lg type="strophe" n="II" met="8p/5pp/8p/5pp/5pp/8p/8p/5pp" rhyme="a/b/a/b/c/d/d/c">
           <l n="1">
             <w>
               <seg type="syll">In</seg>
@@ -297,7 +297,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="8p/5pp/8p/5pp/5pp/8p/8p/5pp" rhyme="8p/5pp/8p/5pp/5pp/8p/8p/5pp">
+        <lg type="strophe" n="III" met="8p/5pp/8p/5pp/5pp/8p/8p/5pp" rhyme="a/b/a/b/c/d/d/c">
           <l n="1">
             <w>
               <seg type="syll" part="I">Tem</seg>
@@ -427,7 +427,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="8p/5pp/8p/5pp/5pp/8p/8p/5pp" rhyme="8p/5pp/8p/5pp/5pp/8p/8p/5pp">
+        <lg type="strophe" n="IV" met="8p/5pp/8p/5pp/5pp/8p/8p/5pp" rhyme="a/b/a/b/c/d/d/c">
           <l n="1">
             <w>
               <seg type="syll" part="I">Ta</seg>
