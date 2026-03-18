@@ -107,13 +107,15 @@
           <l n="2">corpus Syria sepelitur</l>
           <l n="3">angelorum opere</l>
         </lg>
-        <lg type="versicle" n="XXI" met="8p/7pp" rhyme="?/b">
-          <l n="1">Tibi Christe sit perhennis</l>
-          <l n="2">decus et imperium</l>
-        </lg>
-        <lg type="versicle" n="XXII" met="8p/7pp" rhyme="?/b">
-          <l n="1">Tu beate Katherine</l>
-          <l n="2">nobis da consorcium</l>
+        <lg type="versicle" n="11" met="8p+7pp" rhyme="a/a">
+          <l n="1">
+            <seg type="hemistich">Tibi Christe sit perhennis</seg>
+            <seg type="hemistich">decus et imperium</seg>
+          </l>
+          <l n="2">
+            <seg type="hemistich">Tu beate Katherine</seg>
+          <seg type="hemistich">nobis da consorcium</seg>
+          </l>
         </lg>
       </div>
     </body>

@@ -2,8 +2,8 @@
   <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p/" rhyme="a/a/a/b/b+a">
-        <lg type="strophe" n="I" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p/" rhyme="a/a/a/b/b+a">
+      <div type="poem" met="I-V:3x(7pp+6p)/5pp/7pp+6p">
+        <lg type="strophe" n="I" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p" rhyme="a/a/a/b/b+a">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -337,7 +337,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p/" rhyme="a/a/a/b/b+a">
+        <lg type="strophe" n="II" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p" rhyme="a/a/a/b/b+a">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -679,7 +679,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p/" rhyme="a/a/a/b/b+a">
+        <lg type="strophe" n="III" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p" rhyme="a/a/a/b/b+a">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -1025,7 +1025,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p/" rhyme="a/a/a/b/b+a">
+        <lg type="strophe" n="IV" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p" rhyme="a/a/a/b/b+a">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -1345,7 +1345,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="V" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p/" rhyme="a/a/a/b/b+a">
+        <lg type="strophe" n="V" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p" rhyme="a/a/a/b/b+a">
           <l n="1">
             <seg type="hemistich">
               <w>
