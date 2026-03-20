@@ -2,7 +2,7 @@
   <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="8pp/8pp/8pp/8pp/8pp/4pp/8pp/8pp/8pp/8pp" rhyme="a/b/b/b/a/C/C/d/d/C">
+      <div type="poem" met="I-VII:5x8pp/4pp/4x8pp">
         <head>De ammonitione prelatorum</head>
         <lg type="strophe" n="I" met="8pp/8pp/8pp/8pp/8pp/4pp/8pp/8pp/8pp/8pp" rhyme="a/b/b/b/a/C/C/d/d/C">
           <l n="1">

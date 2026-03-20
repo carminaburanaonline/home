@@ -2,8 +2,8 @@
   <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="8pp/8pp/8pp/8pp/8pp/4pp/8pp/8pp/8pp/8pp" rhyme="a/b/b/b/c/a/c/d/d/c">
-        <lg type="strophe" n="I" met="8pp/8pp/8pp/8pp/8pp/4pp/8pp/8pp/8pp/8pp" rhyme="a/b/b/b/c/a/c/d/d/c">
+      <div type="poem" met="5x8pp/4pp/4x8pp">
+        <lg type="strophe" met="8pp/8pp/8pp/8pp/8pp/4pp/8pp/8pp/8pp/8pp" rhyme="a/b/b/b/c/a/c/d/d/c">
           <l n="1">
             <w>Non</w>
             <w>te</w>
