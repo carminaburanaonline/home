@@ -2,7 +2,7 @@
   <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="7pp/7pp/7pp/7pp/7pp/7pp/4pp/4pp/7pp/7pp/7pp/7pp/7pp/7pp" rhyme="a/a/b/b/c/c/d/d/e/e/f/g/g/f">
+      <div type="poem" met="I-III:6x7pp/2x4pp/6x7pp">
         <head>De conversione hominum</head>
         <lg type="strophe" n="I" met="7pp/7pp/7pp/7pp/7pp/7pp/4pp/4pp/7pp/7pp/7pp/7pp/7pp/7pp" rhyme="a/a/b/b/c/c/d/d/e/e/f/g/g/f">
           <l n="1">
