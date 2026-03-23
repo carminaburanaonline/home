@@ -5,8 +5,6 @@ function itemCoreView(div, item_id) {
       item = data.find((element) => element.file == item_id);
     })
   ).then(function() {
-    console.log(item);
-    console.log(item.SVGfiles);
     svg_based = item.SVGfiles;
     if (svg_based) {
       template_name = "templates/item_core_view_svg.html"
@@ -19,6 +17,7 @@ function itemCoreView(div, item_id) {
         $(this).attr("id", function() { return $(this).attr("id") + "-" + item_id })
       });
       // Now the IDs are assigned, so no need to look only inside $(this)
+
       // Assign 'onclick' function to each item-specific button
       $(`#dropBtn-${item_id}`).click(function () { $(`#dropdownDiv-${item_id}`).toggle(); });
       $(`#openSvg-${item_id}`).click(function(){
@@ -86,12 +85,29 @@ function itemCoreView(div, item_id) {
       }
 
       // Adding content
+      if (svg_based) {
+        // Create SVG template
+        if (item.SVGfiles == 1) {
+          template = `<img src="img/mzsc/${item_id}.svg" style="width: 100%;"/>`;
+        }
+        else {
+          template = ""
+          for (var x = 1; x < item.SVGfiles; x++) {
+            files[x-1] = `img/mzsc/${item_id}-${x}.svg`
+            template += `<img src="img/mzsc/${item_id}-${x}.svg" style="width: 100%; margin-bottom: -12.5%;"/>`;
+          }
+          template += `<img src="img/mzsc/${item_id}-${x}.svg" style="width: 100%;"/>`;
+        }
+        $(`#svg-${item_id}`).append(template);
+      }
+      else {
+        $(`#continuousText-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/continuous.xsl"));
+        // TODO: if notated
+        $(`#apparatusNeume-${item_id}`).append("<hr/>");
+        $(`#apparatusNeume-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/neume-apparatus.xsl"));
+      }
       $(`#formattedText-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/formatted.xsl"));
-      $(`#continuousText-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/continuous.xsl"));
       $(`#apparatusText-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/text-apparatus.xsl"));
-      // TODO: if notated
-      $(`#apparatusNeume-${item_id}`).append("<hr/>");
-      $(`#apparatusNeume-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/neume-apparatus.xsl"));
 
       // Hide verse numbers if not 0 % 5
       $(this).find(".strophe,.refrain").each(function(){
