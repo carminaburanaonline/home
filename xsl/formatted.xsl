@@ -58,7 +58,7 @@
 
   <xsl:template match="div[@type='sequence']">
     <div class="flex-column" data-type="poem">
-      <div class="poem-met" style="width: 100%; text-align: right; font-family: Verdana; font-size: 12px;"><xsl:value-of select="@met" /></div>
+      <div class="poem-met" style="width: 100%; text-align: right; font-family: Verdana; font-size: 12px; margin-right: 6px;"><xsl:value-of select="@met" /></div>
       <xsl:apply-templates />
     </div>
   </xsl:template>
