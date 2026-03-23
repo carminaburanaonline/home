@@ -99,17 +99,15 @@ function itemCoreView(div, item_id) {
           template += `<img src="img/mzsc/${item_id}-${x}.svg" style="width: 100%;"/>`;
         }
         $(`#svg-${item_id}`).append(template);
-        $(`#text-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/formatted.xsl"));
-        $(`#apparatusText-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/text-apparatus.xsl"));
       }
       else {
-        $(`#formattedText-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/formatted.xsl"));
         $(`#continuousText-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/continuous.xsl"));
-        $(`#apparatusText-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/text-apparatus.xsl"));
         // TODO: if notated
         $(`#apparatusNeume-${item_id}`).append("<hr/>");
         $(`#apparatusNeume-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/neume-apparatus.xsl"));
       }
+      $(`#formattedText-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/formatted.xsl"));
+      $(`#apparatusText-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/text-apparatus.xsl"));
 
 
 
