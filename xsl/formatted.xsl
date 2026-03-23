@@ -58,18 +58,14 @@
 
   <xsl:template match="div[@type='sequence']">
     <div class="flex-column" data-type="poem">
+      <div class="poem-met" style="width: 100%; text-align: right; font-family: Verdana; font-size: 12px;"><xsl:value-of select="@met" /></div>
       <xsl:apply-templates />
     </div>
   </xsl:template>
 
-  <xsl:template match="div[@type='poem'] | div[@type='leich']">
+  <xsl:template match="div[@type='poem']">
     <div class="flex-column" data-type="poem">
-      <xsl:if test="@met">
-        <xsl:attribute name="data-met"><xsl:value-of select="@met" /></xsl:attribute>
-      </xsl:if>
-      <xsl:if test="@rhyme">
-        <xsl:attribute name="data-rhyme"><xsl:value-of select="@rhyme" /></xsl:attribute>
-      </xsl:if>
+      <div class="poem-met" style="width: 100%; text-align: right; font-family: Verdana; font-size: 12px;"><xsl:value-of select="@met" /></div>
       <xsl:apply-templates />
     </div>
   </xsl:template>

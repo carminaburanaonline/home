@@ -52,7 +52,7 @@ function itemCoreView(div, item_id) {
     });
     $(`#toggleMetricButton-${item_id}`).click(function(){
       $(`#itemCoreView-${item_id} .verse-met`).toggle();
-      $(`#itemCoreView-${item_id} .verse-real`).toggle();
+      $(`#itemCoreView-${item_id} .poem-met`).toggle();
     });
     $(`#toggleRhymeButton-${item_id}`).click(function(){
       $(`#itemCoreView-${item_id} .verse-rhyme`).toggle();
@@ -82,7 +82,7 @@ function itemCoreView(div, item_id) {
     $(`#apparatusNeume-${item_id}`).append("<hr/>");
     $(`#apparatusNeume-${item_id}`).append(XSLtransform(`tei/${item_id}.tei`, "xsl/neume-apparatus.xsl"));
 
-    $(this).find("div.strophe").each(function() {
+    $(this).find("div.strophe, div.refrain").each(function() {
       var lg = $(this);
       ['met', 'rhyme'].forEach(function(key) {
         lg_data = $(lg).data(key).split("/");
@@ -104,6 +104,7 @@ function itemCoreView(div, item_id) {
     $(`#itemCoreView-${item_id} .pc[data-resp='ms']`).hide();
     $(`#itemCoreView-${item_id} .word[data-rend='italic']`).css("font-style", "italic");
     $(`#itemCoreView-${item_id} .verse-met`).hide();
+    $(`#itemCoreView-${item_id} .poem-met`).hide();
     $(`#itemCoreView-${item_id} .verse-real`).hide();
     $(`#itemCoreView-${item_id} .verse-rhyme`).hide();
   });
