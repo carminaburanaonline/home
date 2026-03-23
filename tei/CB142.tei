@@ -2,7 +2,7 @@
   <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="a/a/a/a">
+      <div type="poem" met="I-III:4x(7pp+6p), IV:4x(4+3-)">
         <lg type="strophe" n="I" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="a/a/a/a">
           <l n="1">
             <seg type="hemistich">
@@ -461,7 +461,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" xml:lang="middle-high-german" n="IV" met="4+3-/A4+A3-/4+3-/4+3-" rhyme="b+a/b+a/c+a/c+a">
+        <lg type="strophe" xml:lang="middle-high-german" n="IV" met="4+3-/.4+.3-/4+3-/4+3-" rhyme="b+a/b+a/c+a/c+a">
           <l n="1">
             <seg type="hemistich">
               <app type="text">

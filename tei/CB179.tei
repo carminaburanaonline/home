@@ -2,7 +2,7 @@
   <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="6p+4pp/6p+4pp/2/5pp" rhyme="a/a/B/B">
+      <div type="poem" met="I-VIII:2x(6p+4pp)/2/5pp, Ref.:8p+5pp/7pp+4pp, IX:2x(3-+2)/3+2/2/2x3, Ref.:2x(2+2/3)" rhyme="a/a/B/B">
         <head>Item unde supra</head>
         <lg type="strophe" n="I" met="6p+4pp/6p+4pp/2/5pp" rhyme="a/a/B/B">
           <l n="1">
@@ -923,7 +923,7 @@
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="strophe" n="IX" xml:lang="middle-high-german" met="3-+2A2/3-+A2/3+A2/2/3/A3" rhyme="a+b/a+b/c/c/b/b">
+        <lg type="strophe" n="IX" xml:lang="middle-high-german" met="3-+..2/3-+.2/3+.2/2/3/.3" rhyme="a+B/a+B/c/c/B/B">
           <l n="1">
             <seg type="hemistich">
               <w>
@@ -1071,7 +1071,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="refrain" xml:lang="middle-high-german" met="2+A2/A3/A2+A2/3" rhyme="d+d/b/e+e/b">
+        <lg type="refrain" xml:lang="middle-high-german" met="2+.2/.3/.2+.2/3" rhyme="A+A/B/A'+A'/B">
           <head>Refl.</head>
           <l n="1">
             <seg type="hemistich">

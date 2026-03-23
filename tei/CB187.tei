@@ -2,7 +2,7 @@
   <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="6pp/6pp/6pp/6pp/6p/4pp/4pp/6p/7pp/8pp/7pp/8pp" rhyme="a/b/b/a/c/d/d/c/e/f/e/f">
+      <div type="poem" met="I-III:4x6pp/6p/2x4pp/6p/2x(7pp/8pp)">
         <lg type="strophe" n="I" met="6pp/6pp/6pp/6pp/6p/4pp/4pp/6p/7pp/8pp/7pp/8pp" rhyme="a/b/b/a/c/d/d/c/e/f/e/f">
           <l n="1">
             <w>

@@ -2,7 +2,7 @@
   <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="9pp/8pp/9pp/8pp/7pp/5pp+9pp" rhyme="a/b/a/b/c/c">
+      <div type="poem" met="I-IV:2x(9pp/8pp)/7pp/5pp+9pp, V:2x(5/4)/3/2-+5">
         <head>Item aliud</head>
         <lg type="strophe" n="I" met="9pp/8pp/9pp/8pp/7pp/5pp+9pp" rhyme="a/b/a/b/c/c">
           <l n="1">
@@ -700,7 +700,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="V" xml:lang="middle-high-german" met="A5/A4/5/A4/A3/A2-+5" rhyme="a/b/a/b/c/c">
+        <lg type="strophe" n="V" xml:lang="middle-high-german" met=".5/.4/5/.4/.3/.2-+5" rhyme="a/b/a/b/c/c">
           <l n="1">
             <w>
               <seg type="syll" part="I">Sol</seg>

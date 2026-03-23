@@ -2,7 +2,7 @@
   <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="7pp/7pp/7p/7pp/7pp/7p/7pp+6p/7pp+6p/7pp/4p+7pp" rhyme="a/a/b/c/c/b/d/d/e/e">
+      <div type="poem" met="I-III:2x(2x7pp/7p)/2x(7pp+6p)/7pp/4p+7pp, IV:2x(3/4)/2x3-/3+3-/4+3-/4/4+3">
         <head>Item unde supra</head>
         <lg type="strophe" n="I" met="7pp/7pp/7p/7pp/7pp/7p/7pp+6p/7pp+6p/7pp/4p+7pp" rhyme="a/a/b/c/c/b/d/d/e/e">
           <l n="1">
@@ -746,7 +746,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="3/4/3/4/3-/3-/3+A3-/4+A3-/4/4+A3" rhyme="a/a/b/a/a/c/d+e/e/d/d">
+        <lg type="strophe" n="IV" xml:lang="middle-high-german" met="3/4/3/4/3-/3-/3+.3-/4+.3-/4/4+.3" rhyme="a/a/b/a/a/c/d+e/e/d/d">
           <l n="1">
             <w>
               <seg type="syll">Uns</seg>

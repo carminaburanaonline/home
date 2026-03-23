@@ -2,7 +2,7 @@
   <teiHeader/>
   <text>
     <body>
-      <div type="leich" lang="latin">
+      <div type="poem" met="I:2x(7pp/4pp)/7pp/2x4p/7pp, II-III:6pp/2x4pp/2x6pp/4pp/3x(4pp/8pp), IV:4pp/2x8pp">
         <head>Item</head>
         <lg type="strophe" n="I" met="7pp/4pp/7pp/4pp/7pp/4p/4p/7pp" rhyme="a/a/b/b/c/d/d/c">
           <l n="1">
@@ -635,7 +635,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="6pp/4pp/4pp/6pp/6pp/4pp/4pp/8pp/4pp/8pp/4pp/7pp" rhyme="a/b/b/a/a/c/c/d/d/d/e/e">
+        <lg type="strophe" n="III" met="6pp/4pp/4pp/6pp/6pp/4pp/4pp/8pp/4pp/8pp/4pp/8pp" rhyme="a/b/b/a/a/c/c/d/d/d/e/e">
           <l n="1">
             <w>
               <seg type="syll" part="I">Sic<notatedMusic>

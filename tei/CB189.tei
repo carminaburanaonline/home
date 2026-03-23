@@ -2,7 +2,7 @@
   <teiHeader/>
   <text>
     <body>
-      <div type="sequence">
+      <div type="sequence" met="1:2x8p/5x6pp/2x8p/4x6pp, 2:10x7pp, 3:4x7pp/4pp/2x8pp/4x7pp, 4:5x7pp/4pp/2x7pp/2x8p/7pp">
         <lg type="versicle" n="1a" met="8p/8p/6pp/6pp/6pp/6pp/6pp/8p/8p/6pp/6pp/6pp/6pp" rhyme="a/a/b/c/b/c/b/a/a/b/d/d/b">
           <l n="1">
             <pc resp="#editor" pre="true">&#171;</pc>

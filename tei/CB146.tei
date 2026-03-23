@@ -2,9 +2,9 @@
   <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="10p/10p/7pp+6p/11p" rhyme="a/a/a/a">
+      <div type="poem" met="I-V:2x10p/7pp+6p/10p, VI:2x5-/4+3-/5-">
         <head>Item aliud</head>
-        <lg type="strophe" n="I" met="10p/10p/7pp+6p/11p" rhyme="a/a/a/a">
+        <lg type="strophe" n="I" met="10p/10p/7pp+6p/.10p" rhyme="a/a/a/a">
           <l n="1">
             <w>
               <seg type="syll" part="I">Tel<notatedMusic>
@@ -240,7 +240,7 @@
             <pc>&#183;</pc>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="10p/10p/7pp+6p/11p" rhyme="a/a/a/a">
+        <lg type="strophe" n="II" met="10p/10p/7pp+6p/.10p" rhyme="a/a/a/a">
           <l n="1">
             <w>
               <seg type="syll" part="I">Ru</seg>
@@ -350,7 +350,7 @@
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="10p/10p/7pp+6p/11p" rhyme="a/a/a/a">
+        <lg type="strophe" n="III" met="10p/10p/7pp+6p/.10p" rhyme="a/a/a/a">
           <l n="1">
             <w>
               <seg type="syll" part="I">Gra</seg>
@@ -454,7 +454,7 @@
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="10p/10p/7pp+6p/11p" rhyme="a/a/a/a">
+        <lg type="strophe" n="IV" met="10p/10p/7pp+6p/.10p" rhyme="a/a/a/a">
           <l n="1">
             <w>
               <seg type="syll" part="I">Di</seg>
@@ -562,7 +562,7 @@
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="strophe" n="V" met="10p/10p/7pp+6p/11p" rhyme="a/a/a/a">
+        <lg type="strophe" n="V" met="10p/10p/7pp+6p/.10p" rhyme="a/a/a/a">
           <l n="1">
             <w>
               <seg type="syll" part="I">Vul</seg>

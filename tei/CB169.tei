@@ -2,7 +2,7 @@
   <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="8p/5pp/8p/5pp/5pp/8p/8p/5pp" rhyme="a/b/a/b/c/d/d/c">
+      <div type="poem" met="I-IV:2x(8p/5pp)/5pp/2x8p/5pp, V:2x(4-/3)/3/2x4-/3">
         <head>Unde supra</head>
         <lg type="strophe" n="I" met="8p/5pp/8p/5pp/5pp/8p/8p/5pp" rhyme="a/b/a/b/c/d/d/c">
           <l n="1" met="4p+4p" rhyme="a+a">
@@ -548,7 +548,8 @@
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
-        </lg><lg type="strophe" n="V" xml:lang="middle-high-german" met="4-/3/4-/3/3/4-/4-/3" rhyme="a/b/a/b/c/d/d/c">
+        </lg>
+        <lg type="strophe" n="V" xml:lang="middle-high-german" met="4-/3/4-/3/3/4-/4-/3" rhyme="a/b/a/b/c/d/d/c">
         <l n="1">
           <w>
             <seg type="syll" part="I" met="+">Ro</seg>

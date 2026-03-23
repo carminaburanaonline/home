@@ -2,7 +2,7 @@
   <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="4p+4p/5pp/4p+4p/5pp/7pp/4p+4p/5pp" rhyme="a+a/b/c+c/b/d/e+e/d">
+      <div type="poem" met="I-IV:2x(4p+4p/5pp)/7pp/4p+4p/5pp, V:2x(4-/5)/4/6">
         <head>Item</head>
         <lg type="strophe" n="I" met="4p+4p/5pp/4p+4p/5pp/7pp/4p+4p/5pp" rhyme="a+a/b/c+c/b/d/e+e/d">
           <l n="1">
@@ -663,7 +663,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="V" xml:lang="middle-high-german" met="4-/5/4-/5/4/A6" rhyme="a/b/a/b/c/c">
+        <lg type="strophe" n="V" xml:lang="middle-high-german" met="4-/5/4-/5/4/.6" rhyme="a/b/a/b/c/c">
           <l n="1">
             <pc pre="true" resp="#editor">&#171;</pc>
             <app type="text">

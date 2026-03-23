@@ -2,9 +2,9 @@
   <teiHeader/>
   <text>
     <body>
-      <div type="leich" xml:lang="latin">
+      <div type="poem" met="I:8p/6p/3x4p/7p/2x(6p/7pp), II:6p/2x4p/5pp/2x3pp/4p/6p/3pp/2x4pp/3p/2x6p/7pp, III:7pp/2x8pp/7pp/3x3pp/3x7pp/3x3pp/2x7pp/2x8pp/7pp, Ref.:2x7pp">
         <head>Item unde supra</head>
-        <lg type="strophe" n="I" met="8p/6p/4p/4p/4p/7p/6p/7pp/6p/7pp" rhyme="a/b/a/a/a/b/c//c/D">
+        <lg type="strophe" n="I" met="8p/6p/4p/4p/4p/7p/6p/7pp/6p/7pp" rhyme="a/b/a/a/a/b/c/x/c/D">
           <l n="1">
             <w>
               <seg type="syll" part="I">Mul<notatedMusic>

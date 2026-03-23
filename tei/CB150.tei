@@ -2,7 +2,7 @@
   <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="8p/9pp/8p/9pp/8pp/8pp/8pp" rhyme="a/b/a/b/c/x/c">
+      <div type="poem" met="I-III:2x(8p/9pp)/3x8pp, IV:2x(4-/5)/3x4">
         <lg type="strophe" n="I" met="8p/9pp/8p/9pp/8pp/8pp/8pp" rhyme="a/b/a/b/c/x/c">
           <l n="1">
             <w>
@@ -525,7 +525,7 @@
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="strophe" xml:lang="middle-high-german" n="IV" met="4-/2A5/4-/5/A4/A4/3A4" rhyme="a/b/a/b/b/x/b">
+        <lg type="strophe" xml:lang="middle-high-german" n="IV" met="4-/..5/4-/5/.4/.4/...4" rhyme="a/b/a/b/b/x/b">
           <l n="1">
             <w>
               <seg type="syll">Ich<notatedMusic>

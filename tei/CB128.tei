@@ -2,7 +2,7 @@
   <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="7pp/6p/7pp/6p/7pp/6p/7pp/6p" rhyme="a/b/a/b/c/d/c/d">
+      <div type="poem" met="I-II:4x(7pp/6p)">
         <head>Item</head>
         <lg type="strophe" n="I" met="7pp/6p/7pp/6p/7pp/6p/7pp/6p" rhyme="a/b/a/b/c/d/c/d">
           <l n="1">
@@ -10,17 +10,17 @@
               <app type="neume">
                 <lem>
                   <seg type="syll" part="I">Re<notatedMusic>
-                <neume fontname="buranus" glyph.num="61" label="to"/>
-                <neume fontname="buranus" glyph.num="7" label="vi"/>
-                <neume fontname="buranus" glyph.num="18" label="visu3"/>
-                <neume fontname="buranus" glyph.num="7" label="vi"/>
-                <neume fontname="buranus" glyph.num="61" label="to"/>
-                <neume fontname="buranus" glyph.num="138" label="scsu3"/>
-                <neume fontname="buranus" glyph.num="7" label="vi"/>
-                <neume fontname="buranus" glyph.num="143" label="tg"/>
-                <neume fontname="buranus" glyph.num="137" label="sc"/>
-              </notatedMusic>
-              </seg>
+                    <neume fontname="buranus" glyph.num="61" label="to"/>
+                    <neume fontname="buranus" glyph.num="7" label="vi"/>
+                    <neume fontname="buranus" glyph.num="18" label="visu3"/>
+                    <neume fontname="buranus" glyph.num="7" label="vi"/>
+                    <neume fontname="buranus" glyph.num="61" label="to"/>
+                    <neume fontname="buranus" glyph.num="138" label="scsu3"/>
+                    <neume fontname="buranus" glyph.num="7" label="vi"/>
+                    <neume fontname="buranus" glyph.num="143" label="tg"/>
+                    <neume fontname="buranus" glyph.num="137" label="sc"/>
+                  </notatedMusic>
+                  </seg>
                 </lem>
                 <note><seg type="syll" part="I">Re<notatedMusic>
                 <neume fontname="buranus" glyph.num="143" label="tg"/>

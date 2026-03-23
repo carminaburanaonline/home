@@ -1096,7 +1096,7 @@
           <pc resp="#editor">.</pc>
         </p>
       </div>
-      <poem type="sequence">
+      <div type="sequence" met="1:9p/7pp, 2:8p/7p/6p/5p, 3a:7p/7pp/8p/11p, 3b:2x6p/8p/10p, 4:2x8p/10p">
         <head>Sequentia</head>
         <lg type="versicle" n="1" met="9p/7pp" rhyme="a/b">
           <l n="1">
@@ -1184,7 +1184,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="2a" met="8p/7p/6p/5p" rhyme="a/a/b/c">
+        <lg type="versicle" n="2a" met="8p/7p/6p/5p" rhyme="a/a/x/x">
           <l n="1">
             <w>
               <seg type="syll">Ses<notatedMusic>
@@ -1325,7 +1325,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="2b" met="8p/7p/6p/5p" rhyme="a/a/b/c">
+        <lg type="versicle" n="2b" met="8p/7p/6p/5p" rhyme="b/b/x/x">
           <l n="1">
             <w>
               <seg type="syll">Mors<notatedMusic>
@@ -1464,7 +1464,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="3a" met="7p/7pp/8p/11p" rhyme="a/a/b/b">
+        <lg type="versicle" n="3a" met="7p/7pp/8p/11p" rhyme="x/x/a/a">
           <l n="1">
             <w>
               <seg type="syll">Nunc<notatedMusic>
@@ -1641,7 +1641,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="3b" met="6p/6p/8p/10p" rhyme="a/a/b/b">
+        <lg type="versicle" n="3b" met="6p/6p/8p/10p" rhyme="b/b/c/c">
           <l n="1">
             <w>
               <seg type="syll">Per<notatedMusic>
@@ -1809,7 +1809,7 @@
             <pc resp="#editor">&#187;</pc>
           </l>
         </lg>
-        <lg type="versicle" n="4a" met="8p/8p/9p" rhyme="a/b/b">
+        <lg type="versicle" n="4a" met="8p/8p/10p" rhyme="x/a/a">
           <l n="1">
             <w>
               <seg type="syll" part="I">Cre<notatedMusic>
@@ -1898,7 +1898,7 @@
               </seg>
             </w>
           </l>
-          <l n="3">
+          <l n="3" met="9p">
             <w>
               <seg type="syll">quam<notatedMusic>
                 <neume fontname="buranus" glyph.num="1" label="pu"/>
@@ -1951,7 +1951,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="4b" met="8p/8p/10p" rhyme="a/b/b">
+        <lg type="versicle" n="4b" met="8p/8p/10p" rhyme="x/b/b">
           <l n="1">
             <w>
               <seg type="syll" part="I">Sci<notatedMusic>
@@ -2088,7 +2088,7 @@
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-      </poem>
+      </div>
       <div type="prose">
         <head>Ewangelium</head>
         <p>
