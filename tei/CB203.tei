@@ -4,7 +4,7 @@
     <body>
       <div type="poem" met="I-III:2x(2x7pp/7p)/2x(7pp+6p)/7pp/4p+7pp, IV:2x(3/4)/2x3-/3+3-/4+3-/4/4+3">
         <head>Item unde supra</head>
-        <lg type="strophe" n="I" met="7pp/7pp/7p/7pp/7pp/7p/7pp+6p/7pp+6p/7pp/4p+7pp" rhyme="a/a/b/c/c/b/d/d/e/e">
+        <lg type="strophe" n="I" met="7pp/.7pp/7p/.7pp/7pp/7p/7pp+6p/7pp+6p/.7pp/4p+7pp" rhyme="a/a/b/c/c/b/d/d/e/e">
           <l n="1">
             <w>
               <seg type="syll" part="I">Hi</seg>
@@ -19,7 +19,7 @@
             </w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2" met="8pp">
+          <l n="2">
             <w>
               <seg type="syll">dum</seg>
             </w>
@@ -55,7 +55,7 @@
             <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4" met="8pp">
+          <l n="4">
             <w>
               <seg type="syll" part="I">con</seg>
               <seg type="syll" part="M">cur</seg>
@@ -187,7 +187,7 @@
               <pc resp="#editor">.</pc>
             </seg>
           </l>
-          <l n="9" met="8pp">
+          <l n="9">
             <w>
               <seg type="syll">Ei</seg>
             </w>
@@ -245,7 +245,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="7pp/7pp/7p/7pp/7pp/7p/7pp+6p/7pp+6p/7pp/4p+7pp" rhyme="a/a/b/c/c/b/d/d/e/e">
+        <lg type="strophe" n="II" met="7pp/7pp/7p/7pp/7pp/.7p/7pp+6p/7pp+6p/7pp/4p+7pp" rhyme="a/a/b/c/c/b/d/d/e/e">
           <l n="1">
             <app type="text">
               <lem wit="cod. V">
@@ -337,7 +337,7 @@
             <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="6" met="8p">
+          <l n="6">
             <app type="text">
               <lem wit="HS T">
                 <w>
@@ -502,7 +502,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="7pp/7pp/7p/7pp/7pp/7p/7pp+6p/7pp+6p/7pp/4p+7pp" rhyme="a/a/b/c/c/b/d/d/e/e">
+        <lg type="strophe" n="III" met="7pp/.7pp/7p/7pp/7pp/7p/7pp+.6p/.7pp+6p/7pp/4p+7pp" rhyme="a/a/b/c/c/b/d/d/e/e">
           <l n="1">
             <app type="text">
               <lem>
@@ -525,7 +525,7 @@
             <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2" met="8pp">
+          <l n="2">
             <w>
               <seg type="syll">a</seg>
             </w>
@@ -622,7 +622,7 @@
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="7" met="7pp+7p" rhyme="f+d">
+          <l n="7" rhyme="f+d">
             <seg type="hemistich">
               <w>
                 <seg type="syll">O</seg>
@@ -658,7 +658,7 @@
               <pc>&#183;</pc>
             </seg>
           </l>
-          <l n="8" met="8pp+6p" rhyme="f+d">
+          <l n="8" rhyme="f+d">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">de</seg>
