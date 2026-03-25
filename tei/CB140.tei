@@ -4,8 +4,8 @@
     <body>
       <div type="poem" met="I-IV:5x(7pp+6p), V:8pp/2x7pp/8pp/7pp+6p/7pp+7p/7pp+6p, VI:2x4/3/4/3x(4+3-)">
         <head>Item aliud</head>
-        <lg type="strophe" n="I" met="7pp+.6p/.7pp+.6p/7pp+.6p/7pp+.6p/.7pp+.6p" rhyme="a/a/b/b/b">
-          <l n="1">
+        <lg type="strophe" n="I" met="7pp+6p/.7pp+.6p/7pp+.6p/7pp+.6p/.7pp+.6p" rhyme="a/a/b/b/b">
+          <l n="1" met="8pp+.6p">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">Ter<notatedMusic>
@@ -238,8 +238,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="II" met=".7pp+[6p]/.7pp+[6p]/7pp+.6p/7pp+.6p/.7pp+.6p" rhyme="a/a/b/b/b">
-          <l n="1" rhyme="[a]">
+        <lg type="strophe" n="II" met=".7pp/.7pp/7pp+.6p/7pp+.6p/.7pp+.6p" rhyme="a/a/b/b/b">
+          <l n="1">
             <seg type="hemistich">
               <w>
                 <seg type="syll">Nunc</seg>
@@ -262,7 +262,7 @@
             </seg>
             <seg type="hemistich">[...]</seg>
           </l>
-          <l n="2" rhyme="[a]">
+          <l n="2">
             <seg type="hemistich">
               <w>
                 <seg type="syll">nunc</seg>
@@ -408,7 +408,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="7pp+6p/7pp+.6p/7pp+6p/7pp+.6p/7pp+.6p" rhyme="a/a/b/b/b">
+        <lg type="strophe" n="III" met="7pp+6p/7pp+.6p/7pp+6p/7pp+.6p/.7pp+.6p" rhyme="a/a/b/b/b">
           <l n="1" met="8pp+6p">
             <seg type="hemistich">
               <w>
@@ -588,7 +588,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="7pp+.6p/7pp+.6p/7pp+.6p/7pp+.6p/.7pp+.6p" rhyme="a/a/b/b/b">
+        <lg type="strophe" n="IV" met="7pp+6p/.7pp+.6p/7pp+.6p/7pp+.6p/.7pp+.6p" rhyme="a/a/b/b/b">
           <l n="1" met="8pp+.6p">
             <seg type="hemistich">
               <w>
@@ -768,7 +768,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="V" met="8pp/.7pp/7pp/8pp/.7pp+.6p/7pp+7p/.7pp+.6p" rhyme="a/a/a/a/b/b/a+b">
+        <lg type="strophe" n="V" met="8pp/.7pp/7pp/8pp/.7pp+.6p/7pp+7p/7pp+6p" rhyme="a/a/a/a/b/b/a+b">
           <l n="1">
             <w>
               <seg type="syll" part="I">Ve</seg>
@@ -933,7 +933,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="7">
+          <l n="7" met="8pp+.6p">
             <seg type="hemistich">
               <w>
                 <seg type="syll">quid</seg>

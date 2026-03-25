@@ -403,6 +403,18 @@
                 {% endfor %}
               </table>
             </div>
+            <script>
+              var items;
+              $.when(
+                $.getJSON("json/items.json", function(data) {
+                  items = data;
+                })
+              ).then(function() {
+                current_item = items.find((element) => element.file == item_id);
+                // TODO: find sibligs, produce table
+                $("#itemsTable").append()
+              });
+            </script>
             <table id="itemRightTitle"></table>
             <div id="itemRightNav" style="display: flex; align-items: center;">
               <a href="javascript:itemsRightBack()" style="margin-left: 10px;"><i class="fa fa-arrow-left" style="margin-right: 5px;"></i>Back to items' list</a>
