@@ -128,18 +128,25 @@ function itemCoreView(div, item_id) {
         var lg = $(this);
         ['met', 'rhyme'].forEach(function(key) {
           lg_data = $(lg).data(key).split("/");
-          verses = $(lg).find(`div.verse-${key}`);
+          verses_key = $(lg).find(`div.verse-${key}`);
+          verses = $(lg).find("div.verse");
           for (x = 0; x < lg_data.length; x++) {
-            if ($(verses[x]).data(key)) {
-              $(verses[x]).html(`<b>${$(verses[x]).data(key)}</b>`);
+            if ($(verses_key[x]).data(key)) {
+              $(verses[x]).attr("data-" + key, $(verses_key[x]).data(key));
+              $(verses_key[x]).html(`<b>${$(verses_key[x]).data(key)}</b>`);
             }
             else {
-              $(verses[x]).html(lg_data[x]);
+              $(verses[x]).attr("data-" + key, lg_data[x]);
+              $(verses_key[x]).html(lg_data[x]);
             }
           }
         });
       });
 
+      // Indent verses
+      indentVerses(div);
+
+      // Adjust position of punctuation characters, add data-word to words
       wordsAndSyllables(div);
 
       // Initial setup of buttons and other typographical things
