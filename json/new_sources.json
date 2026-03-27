@@ -1,0 +1,3234 @@
+[
+ {
+   "Country": "Austria",
+   "City": "Graz",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "856",
+   "CB_concordances": "cb188 cb192",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Heiligenkreuz",
+   "Library": "Stiftsbibliothek",
+   "Shelfmark": "112",
+   "CB_concordances": "cb206",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Klagenfurt",
+   "Library": "Studienbibliothek",
+   "Shelfmark": "Perg. Hs. 7",
+   "CB_concordances": "cb37 cb3*",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Klosterneuburg",
+   "Library": "Stiftsbibliothek",
+   "Shelfmark": "160",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Klosterneuburg",
+   "Library": "Stiftsbibliothek",
+   "Shelfmark": "574",
+   "CB_concordances": "cb15*",
+   "Music": "yes"
+ },
+ {
+   "Country": "Austria",
+   "City": "Klosterneuburg",
+   "Library": "Stiftsbibliothek",
+   "Shelfmark": "740",
+   "CB_concordances": "cb192 cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Kremsmünster",
+   "Library": "Stiftsbibliothek",
+   "Shelfmark": "280",
+   "CB_concordances": "cb32",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Kremsmünster",
+   "Library": "Stiftsbibliothek",
+   "Shelfmark": "81",
+   "CB_concordances": "cb7 cb207",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Lilienfeld",
+   "Library": "Zisterzienserstift",
+   "Shelfmark": "147",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Linz",
+   "Library": "Oberösterreichische Landesbibliothek ",
+   "Shelfmark": "Cc III 9 (324)",
+   "CB_concordances": "cb119",
+   "Music": "yes"
+ },
+ {
+   "Country": "Austria",
+   "City": "Linz",
+   "Library": "Oberösterreichische Landesbibliothek",
+   "Shelfmark": "CCCI 6",
+   "CB_concordances": "cb100",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Salzburg",
+   "Library": "Erzabtei St. Peter Stiftsbibliothek",
+   "Shelfmark": "a IX 2",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Salzburg",
+   "Library": "Erzabtei St. Peter Stiftsbibliothek",
+   "Shelfmark": "Ink. 709",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Schlägl",
+   "Library": "Stiftsbibliothek",
+   "Shelfmark": "454 b 58",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "St. Florian",
+   "Library": "Stiftsbibliothek",
+   "Shelfmark": "XI.58",
+   "CB_concordances": "cb7 cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Vorau",
+   "Library": "Stiftsbibliothek",
+   "Shelfmark": "12",
+   "CB_concordances": "cb45",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Vorau",
+   "Library": "Stiftsbibliothek",
+   "Shelfmark": "33",
+   "CB_concordances": "cb214 cb223",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Wien",
+   "Library": "Österreichische Nazionalbibliothek",
+   "Shelfmark": "12887",
+   "CB_concordances": "cb16*",
+   "Music": "yes"
+ },
+ {
+   "Country": "Austria",
+   "City": "Wien",
+   "Library": "Österreichische Nazionalbibliothek",
+   "Shelfmark": "1525",
+   "CB_concordances": "cb7 cb20",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Wien",
+   "Library": "Österreichische Nazionalbibliothek",
+   "Shelfmark": "2521",
+   "CB_concordances": "cb28",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Wien",
+   "Library": "Österreichische Nazionalbibliothek",
+   "Shelfmark": "303",
+   "CB_concordances": "cb206",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Wien",
+   "Library": "Österreichische Nazionalbibliothek",
+   "Shelfmark": "3123",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Wien",
+   "Library": "Österreichische Nazionalbibliothek",
+   "Shelfmark": "362",
+   "CB_concordances": "cb25 cb40 cb207",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Wien",
+   "Library": "Österreichische Nazionalbibliothek ",
+   "Shelfmark": "400",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Wien",
+   "Library": "Österreichische Nazionalbibliothek",
+   "Shelfmark": "4119",
+   "CB_concordances": "cb192",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Wien",
+   "Library": "Österreichische Nazionalbibliothek",
+   "Shelfmark": "4459",
+   "CB_concordances": "cb41",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Wien",
+   "Library": "Österreichische Nazionalbibliothek",
+   "Shelfmark": "4496",
+   "CB_concordances": "cb223",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Wien",
+   "Library": "Österreichische Nazionalbibliothek",
+   "Shelfmark": "4802",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Wien",
+   "Library": "Österreichische Nazionalbibliothek",
+   "Shelfmark": "609",
+   "CB_concordances": "cb5 cb45",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Wien",
+   "Library": "Österreichische Nazionalbibliothek",
+   "Shelfmark": "883",
+   "CB_concordances": "cb92 cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Wien",
+   "Library": "Österreichische Nazionalbibliothek",
+   "Shelfmark": "898",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Wien",
+   "Library": "Österreichische Nazionalbibliothek",
+   "Shelfmark": "901",
+   "CB_concordances": "cb11 cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Wien",
+   "Library": "Schottenstift",
+   "Shelfmark": "267",
+   "CB_concordances": "cb7",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Wilhering",
+   "Library": "Stiftsbibliothek ",
+   "Shelfmark": "107",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Wilhering",
+   "Library": "Stiftsbibliothek",
+   "Shelfmark": "101",
+   "CB_concordances": "cb45",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Zwettl",
+   "Library": "Stiftsbibliothek",
+   "Shelfmark": "299",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Zwettl",
+   "Library": "Stiftsbibliothek",
+   "Shelfmark": "350",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "Austria",
+   "City": "Zwettl",
+   "Library": "Stiftsbibliothek",
+   "Shelfmark": "49",
+   "CB_concordances": "cb8",
+   "Music": "no"
+ },
+ {
+   "Country": "Belgium",
+   "City": "Bruxelles",
+   "Library": "KBR",
+   "Shelfmark": "2067-73 (VDG 368)",
+   "CB_concordances": "cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "Belgium",
+   "City": "Bruxelles",
+   "Library": "KBR",
+   "Shelfmark": "II 2556",
+   "CB_concordances": "cb26",
+   "Music": "no"
+ },
+ {
+   "Country": "Belgium",
+   "City": "Leuven",
+   "Library": "?",
+   "Shelfmark": "Ms. IV 28",
+   "CB_concordances": "cb14*",
+   "Music": "no"
+ },
+ {
+   "Country": "Belgium",
+   "City": "Leuven",
+   "Library": "LeuvenUniversitätsbibl.",
+   "Shelfmark": "G 65",
+   "CB_concordances": "cb2 cb91 cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "Belgium",
+   "City": "Namur",
+   "Library": "NamurMusée archéologique",
+   "Shelfmark": "104",
+   "CB_concordances": "cb14*",
+   "Music": "no"
+ },
+ {
+   "Country": "Czech Republic",
+   "City": "Olomouc",
+   "Library": "Vědecká knihovna? ",
+   "Shelfmark": "SVK II 232",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Czech Republic",
+   "City": "Prag",
+   "Library": "Knihovna pražské metropolitní kapituly",
+   "Shelfmark": "B 62",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Czech Republic",
+   "City": "Prag",
+   "Library": "Knihovna pražské metropolitní kapituly",
+   "Shelfmark": "F XIV ",
+   "CB_concordances": "cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "Czech Republic",
+   "City": "Prag",
+   "Library": "Národní knihovna České republiky",
+   "Shelfmark": "V G 17",
+   "CB_concordances": "cb219",
+   "Music": "no"
+ },
+ {
+   "Country": "Czech Republic",
+   "City": "Prag",
+   "Library": "Národní knihovna České republiky",
+   "Shelfmark": "VIII C 13 (1482)",
+   "CB_concordances": "cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "Czech Republic",
+   "City": "Prag",
+   "Library": "Národní knihovna České republiky",
+   "Shelfmark": "XII D 8a (2153)",
+   "CB_concordances": "cb14*",
+   "Music": "no"
+ },
+ {
+   "Country": "Czech Republic",
+   "City": "Prag",
+   "Library": "Národní knihovna České republiky",
+   "Shelfmark": "XIV G 45 (2637)",
+   "CB_concordances": "cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "Czech Republic",
+   "City": "Prag",
+   "Library": "Národní knihovna České republiky",
+   "Shelfmark": "III C 18",
+   "CB_concordances": "cb41",
+   "Music": "no"
+ },
+ {
+   "Country": "Czech Republic",
+   "City": "Třeboň",
+   "Library": "Státní oblastní archiv",
+   "Shelfmark": "A 4",
+   "CB_concordances": "cb210",
+   "Music": "no"
+ },
+ {
+   "Country": "Czech Republic",
+   "City": "Třeboň",
+   "Library": "Státní oblastní archiv",
+   "Shelfmark": "",
+   "CB_concordances": "cb196 cb215 cb219 cb224",
+   "Music": "no"
+ },
+ {
+   "Country": "Denmark",
+   "City": "Kopenhavn",
+   "Library": "Det Kongelige Bibliotek",
+   "Shelfmark": "AM 622 4°",
+   "CB_concordances": "cb191 cb219",
+   "Music": "no"
+ },
+ {
+   "Country": "Denmark",
+   "City": "Kopenhavn",
+   "Library": "Det Kongelige Bibliotek",
+   "Shelfmark": "Fabric. 81 in 8°",
+   "CB_concordances": "cb214",
+   "Music": "no"
+ },
+ {
+   "Country": "Denmark",
+   "City": "Kopenhavn",
+   "Library": "Det Kongelige Bibliotek",
+   "Shelfmark": "Bibl. Gl. kgl. 200",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Albi",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "26",
+   "CB_concordances": "cb14*",
+   "Music": "yes"
+ },
+ {
+   "Country": "France",
+   "City": "Avignon",
+   "Library": "Musée Calvet",
+   "Shelfmark": "302",
+   "CB_concordances": "cb91 cb92",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Avranches",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "66",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Bordeaux",
+   "Library": "Bibliothèque municipale ",
+   "Shelfmark": "290",
+   "CB_concordances": "cb7",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Cambrai",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "466 (437)",
+   "CB_concordances": "cb5",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Charleville",
+   "Library": "Bibliothèque municipale ",
+   "Shelfmark": "125",
+   "CB_concordances": "cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Charleville",
+   "Library": "Bibliothèque municipale ",
+   "Shelfmark": "190",
+   "CB_concordances": "cb37",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Charleville",
+   "Library": "Bibliothèque municipale ",
+   "Shelfmark": "246",
+   "CB_concordances": "cb5",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Charleville",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "30",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Chartres",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "223",
+   "CB_concordances": "cb119",
+   "Music": "yes"
+ },
+ {
+   "Country": "France",
+   "City": "Douai",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "318",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Douai",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "372",
+   "CB_concordances": "cb5",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Douai",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "796",
+   "CB_concordances": "cb102",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Douai",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "800",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Douai",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "882",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Evreux",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "2",
+   "CB_concordances": "cb8 cb14*",
+   "Music": "yes"
+ },
+ {
+   "Country": "France",
+   "City": "Evreux",
+   "Library": "Bibliothèque municipale ",
+   "Shelfmark": "39",
+   "CB_concordances": "cb14*",
+   "Music": "yes"
+ },
+ {
+   "Country": "France",
+   "City": "Limoges",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "2",
+   "CB_concordances": "cb11*",
+   "Music": "yes"
+ },
+ {
+   "Country": "France",
+   "City": "Lyon",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "623",
+   "CB_concordances": "cb19",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Marseille",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "243",
+   "CB_concordances": "cb20",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Metz",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "647",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque de l’Arsenal ",
+   "Shelfmark": "3517",
+   "CB_concordances": "cb11*",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque de l’Arsenal",
+   "Shelfmark": "906",
+   "CB_concordances": "cb8",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque Mazarine",
+   "Shelfmark": "593",
+   "CB_concordances": "cb40",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque Mazarine ",
+   "Shelfmark": "1002",
+   "CB_concordances": "cb14*",
+   "Music": "yes"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque Mazarine",
+   "Shelfmark": "3875",
+   "CB_concordances": "cb212",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France ",
+   "Shelfmark": "fr. 146",
+   "CB_concordances": "cb14 cb36 cb189",
+   "Music": "yes"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "fr. 20050",
+   "CB_concordances": "cb169a",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France ",
+   "Shelfmark": "lat. 1139",
+   "CB_concordances": "cb73",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 11867",
+   "CB_concordances": "cb42 cb91 cb101 cb191 cb193",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 13468",
+   "CB_concordances": "cb212",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 13576",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 14747",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 14923",
+   "CB_concordances": "cb7",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France ",
+   "Shelfmark": "lat. 15005",
+   "CB_concordances": "cb40",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 15133",
+   "CB_concordances": "cb45 cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France ",
+   "Shelfmark": "lat. 15139",
+   "CB_concordances": "cb34",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France ",
+   "Shelfmark": "lat. 15155",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France ",
+   "Shelfmark": "lat. 15163",
+   "CB_concordances": "cb14*",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 16208",
+   "CB_concordances": "cb92",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France ",
+   "Shelfmark": "lat. 16252",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France ",
+   "Shelfmark": "lat. 1819",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France ",
+   "Shelfmark": "lat. 18522",
+   "CB_concordances": "cb45",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 1862",
+   "CB_concordances": "cb212",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France ",
+   "Shelfmark": "lat. 2874 (II)",
+   "CB_concordances": "cb41",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France ",
+   "Shelfmark": "lat. 3495",
+   "CB_concordances": "cb4*",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 3549",
+   "CB_concordances": "cb52",
+   "Music": "yes"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 3639",
+   "CB_concordances": "cb14*",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France ",
+   "Shelfmark": "lat. 3719",
+   "CB_concordances": "cb52 cb88 cb116 cb194",
+   "Music": "yes"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 4126",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 4286",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 4880",
+   "CB_concordances": "cb10 cb4* cb14*",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France ",
+   "Shelfmark": "lat. 5129",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 5268",
+   "CB_concordances": "cb14*",
+   "Music": "yes"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 5848",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 8246 (III)",
+   "CB_concordances": "cb91",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 8427",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 8430",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 8491",
+   "CB_concordances": "cb101 cb102",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 8499",
+   "CB_concordances": "cb214",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "lat. 9675",
+   "CB_concordances": "cb102",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "NAL 153",
+   "CB_concordances": "cb210",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "NAL 1544",
+   "CB_concordances": "cb10 cb45 cb92",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "NAL 1742",
+   "CB_concordances": "cb193",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "NAL 217",
+   "CB_concordances": "cb40",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque nationale de France",
+   "Shelfmark": "NAL 431",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibiothèque Interuniversitaire de la Sorbonne",
+   "Shelfmark": "184",
+   "CB_concordances": "cb34",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Paris",
+   "Library": "Bibliothèque Sainte-Geneviève",
+   "Shelfmark": "242",
+   "CB_concordances": "cb102",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Reims",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "113",
+   "CB_concordances": "cb40",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Reims",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "1275",
+   "CB_concordances": "cb7 cb45 cb194 cb210",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Reims",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "743 (739)",
+   "CB_concordances": "cb102",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Reims",
+   "Library": "Bibliothèque municipale ",
+   "Shelfmark": "747",
+   "CB_concordances": "cb7",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Rouen",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "A 506 (666)",
+   "CB_concordances": "cb14*",
+   "Music": "yes"
+ },
+ {
+   "Country": "France",
+   "City": "Rouen",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "A. 274",
+   "CB_concordances": "cb91",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Rouen",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "O 68 (364)",
+   "CB_concordances": "cb14*",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Rouen",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "U 107",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Saint-Omer",
+   "Library": "Bibliothèque municipale ",
+   "Shelfmark": "115",
+   "CB_concordances": "cb5 cb11 cb45",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Saint-Omer",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "351",
+   "CB_concordances": "cb3 cb8",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Semur-en-Auxois ",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "28",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Strasbourg",
+   "Library": "Bibliothèque municipale? ",
+   "Shelfmark": "46",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Tours",
+   "Library": "Bibliothèque municipale",
+   "Shelfmark": "890",
+   "CB_concordances": "cb214",
+   "Music": "no"
+ },
+ {
+   "Country": "France",
+   "City": "Vitry-le-François",
+   "Library": "Bibliothèque municipale ",
+   "Shelfmark": "39",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Bamberg",
+   "Library": "Staatsbibliothek ",
+   "Shelfmark": "Theol. 112 (Q.IV.13)",
+   "CB_concordances": "cb207",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Berlin",
+   "Library": "Staatsbibliothek",
+   "Shelfmark": "Diez B 3",
+   "CB_concordances": "cb210",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Berlin",
+   "Library": "Staatsbibliothek",
+   "Shelfmark": "Diez B Sant. 28",
+   "CB_concordances": "cb92",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Berlin",
+   "Library": "Staatsbibliothek",
+   "Shelfmark": "Germ. fol. 1062",
+   "CB_concordances": "cb168a",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Berlin",
+   "Library": "Staatsbibliothek",
+   "Shelfmark": "Germ. fol. 779",
+   "CB_concordances": "cb168a",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Berlin",
+   "Library": "Staatsbibliothek",
+   "Shelfmark": "Germ. oct. 477 (Phill. 658)",
+   "CB_concordances": "cb45",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Berlin",
+   "Library": "Staatsbibliothek ",
+   "Shelfmark": "Lat. fol. 745",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Berlin",
+   "Library": "Staatsbibliothek",
+   "Shelfmark": "Lat. oct. 199",
+   "CB_concordances": "cb92",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Berlin",
+   "Library": "Staatsbibliothek",
+   "Shelfmark": "Lat. qu. 532",
+   "CB_concordances": "cb210",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Berlin",
+   "Library": "Staatsbibliothek",
+   "Shelfmark": "Phill. 1694",
+   "CB_concordances": "cb102",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Berlin",
+   "Library": "Staatsbibliothek",
+   "Shelfmark": "Phill. 1827",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Berlin",
+   "Library": "Staatsbibliothek",
+   "Shelfmark": "Phill. 1996",
+   "CB_concordances": "cb91",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Berlin",
+   "Library": "Staatsbibliothek",
+   "Shelfmark": "Qu. 61",
+   "CB_concordances": "cb40",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Berlin",
+   "Library": "Staatsbibliothek",
+   "Shelfmark": "Theol. fol. 335",
+   "CB_concordances": "cb5",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Berlin",
+   "Library": "Staatsbibliothek",
+   "Shelfmark": "Theol. fol. 54",
+   "CB_concordances": "cb45",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Berlin",
+   "Library": "Staatsbibliothek",
+   "Shelfmark": "Theol. lat. fol. 312",
+   "CB_concordances": "cb131",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Berlin",
+   "Library": "Staatsbibliothek",
+   "Shelfmark": "Theol. lat. oct. 94",
+   "CB_concordances": "cb102",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Berlin",
+   "Library": "Staatsbibliothek ",
+   "Shelfmark": "Theol. qu. 85",
+   "CB_concordances": "cb40",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Darmstadt",
+   "Library": "Landesbibliothek",
+   "Shelfmark": "2777",
+   "CB_concordances": "cb21 cb26 cb27 cb189",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Donaueschingen",
+   "Library": "Donaueschingen",
+   "Shelfmark": "A III 22",
+   "CB_concordances": "cb4*",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Eichstätt",
+   "Library": "Hochstift? ",
+   "Shelfmark": "199",
+   "CB_concordances": "cb7",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Eichstätt",
+   "Library": "Hochstift? ",
+   "Shelfmark": "535",
+   "CB_concordances": "cb32",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Erfurt",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "Ampl. Duod. 2",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Erfurt",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "Ampl. Fol. 50",
+   "CB_concordances": "cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Erfurt",
+   "Library": "Universitätsbibliothek ",
+   "Shelfmark": "Ampl. Oct. 4",
+   "CB_concordances": "cb212",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Erfurt",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "Ampl. Qu. 12",
+   "CB_concordances": "cb210",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Erfurt",
+   "Library": "Domarchiv",
+   "Shelfmark": "Philol. 1",
+   "CB_concordances": "cb45",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Erfurt",
+   "Library": "Universitätsbibliothek ? ",
+   "Shelfmark": "Q 287",
+   "CB_concordances": "cb190",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Erfurt",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "Ampl. Oct. 32",
+   "CB_concordances": "cb72",
+   "Music": "yes"
+ },
+ {
+   "Country": "Germany",
+   "City": "Frankfurt am Main",
+   "Library": "Stadtbibliothek",
+   "Shelfmark": "Praed. 60",
+   "CB_concordances": "cb133 cb134",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Frankfurt am Main",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "frag. lat. VI.41",
+   "CB_concordances": "cb131",
+   "Music": "yes"
+ },
+ {
+   "Country": "Germany",
+   "City": "Fulda",
+   "Library": "Universitäts- und Landesbibliothek",
+   "Shelfmark": "C 11",
+   "CB_concordances": "cb19 cb119",
+   "Music": "yes"
+ },
+ {
+   "Country": "Germany",
+   "City": "Göttingen",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "Iurid. 56i",
+   "CB_concordances": "cb207",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Göttingen",
+   "Library": "Universitätsbibliothek ",
+   "Shelfmark": "Lüneburg 2",
+   "CB_concordances": "cb7 cb25 cb32 cb45 cb133 cb134 cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Göttingen",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "Phil. 130",
+   "CB_concordances": "cb2 cb11 cb40 cb188 cb192",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Göttingen",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "Phil. 170",
+   "CB_concordances": "cb191 cb220",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Göttingen",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "Theol. 105",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Halberstadt",
+   "Library": "Domgymnasium",
+   "Shelfmark": "68",
+   "CB_concordances": "cb133 cb134",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Halberstadt",
+   "Library": "Domgymnasium",
+   "Shelfmark": "71",
+   "CB_concordances": "cb215",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Harburg",
+   "Library": "Fürstlische Oettingen-Wallersteinsche Bibliothek",
+   "Shelfmark": "II. 2. 8° 13",
+   "CB_concordances": "cb11*",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Heidelberg",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "Pal. Germ. 357",
+   "CB_concordances": "cb48 cb151a cb166a cb211a",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Heidelberg",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "Pal. Germ. 848 ",
+   "CB_concordances": "cb48 cb147a cb150a cb151a cb166a cb168a cb169a cb211a",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Jena",
+   "Library": "Thüringer Universitätsbibliothek",
+   "Shelfmark": "El.f.100",
+   "CB_concordances": "cb203a",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Karlsruhe",
+   "Library": "Badische Landesbibliothek",
+   "Shelfmark": "Aug. 36",
+   "CB_concordances": "cb14*",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Koblenz",
+   "Library": "Staatsarchiv",
+   "Shelfmark": "Abt. 701 n. 192",
+   "CB_concordances": "cb41",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Leipzig",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "1250",
+   "CB_concordances": "cb219",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Marburg",
+   "Library": "Marburg ",
+   "Shelfmark": "D 2",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Cgm 716",
+   "CB_concordances": "cb14*",
+   "Music": "yes"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 10751",
+   "CB_concordances": "cb194 cb196 cb214 cb215",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek ",
+   "Shelfmark": "Clm 14094",
+   "CB_concordances": "cb14*",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek ",
+   "Shelfmark": "Clm 14344",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 14544",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 14654",
+   "CB_concordances": "cb215",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 14836",
+   "CB_concordances": "cb210",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek ",
+   "Shelfmark": "Clm 15611",
+   "CB_concordances": "cb2 cb20 cb32",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 16064",
+   "CB_concordances": "cb32",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 16428",
+   "CB_concordances": "cb32",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 17142",
+   "CB_concordances": "cb66 cb154",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 17151",
+   "CB_concordances": "cb40",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 17212",
+   "CB_concordances": "cb11 cb45 cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 18190",
+   "CB_concordances": "cb26",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 18910",
+   "CB_concordances": "cb219",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 18921",
+   "CB_concordances": "cb194 cb214",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 19411",
+   "CB_concordances": "cb132",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 19463",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 19488",
+   "CB_concordances": "cb5 cb133 cb134 cb228",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 23417",
+   "CB_concordances": "cb207",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek ",
+   "Shelfmark": "Clm 3537",
+   "CB_concordances": "cb133 cb134",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 388",
+   "CB_concordances": "cb215",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 4408",
+   "CB_concordances": "cb192 cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 459",
+   "CB_concordances": "cb101 cb102",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 4598",
+   "CB_concordances": "cb100",
+   "Music": "yes"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 4603",
+   "CB_concordances": "cb116",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 5539",
+   "CB_concordances": "cb12 cb90",
+   "Music": "yes"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 614",
+   "CB_concordances": "cb133 cb134",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 641",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 671",
+   "CB_concordances": "cb45",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 6911",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 6982",
+   "CB_concordances": "cb20",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 7665",
+   "CB_concordances": "cb45 cb223",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Clm 7977",
+   "CB_concordances": "cb20",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Germ. 379",
+   "CB_concordances": "cb45",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Bayerische Staatsbibliothek",
+   "Shelfmark": "Germ. 809",
+   "CB_concordances": "cb45",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Universitätsbibliothek ",
+   "Shelfmark": "Cim. 4",
+   "CB_concordances": "cb143a cb211a",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "München",
+   "Library": "Landesarchiv Nordrhein-Westfalen",
+   "Shelfmark": "ms. VII 51",
+   "CB_concordances": "cb211a",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Stuttgart",
+   "Library": "Württembergische Landesbibliothek",
+   "Shelfmark": "H.B.I Asc. 95",
+   "CB_concordances": "cb47 cb119 cb120 cb131 cb131a cb4*",
+   "Music": "yes"
+ },
+ {
+   "Country": "Germany",
+   "City": "Stuttgart",
+   "Library": "Württembergische Landesbibliothek",
+   "Shelfmark": "HB XIII 1",
+   "CB_concordances": "cb147a cb211a",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Trier",
+   "Library": "Dombibliothek",
+   "Shelfmark": "93",
+   "CB_concordances": "cb2 cb214",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Trier",
+   "Library": "Stadtbücherei? ",
+   "Shelfmark": "1878",
+   "CB_concordances": "cb11*",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Wernigerode",
+   "Library": "Gräflich Stolbergische Bibliothek",
+   "Shelfmark": "Zb 4 m",
+   "CB_concordances": "cb191 cb219",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Wolfenbüttel",
+   "Library": "Herzog August Bibliothek",
+   "Shelfmark": "2338",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Wolfenbüttel",
+   "Library": "Herzog August Bibliothek",
+   "Shelfmark": "85.7 Aug. 2°",
+   "CB_concordances": "cb210",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Wolfenbüttel",
+   "Library": "Herzog August Bibliothek",
+   "Shelfmark": "Gud. lat. 162 (4466)",
+   "CB_concordances": "cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Wolfenbüttel",
+   "Library": "Herzog August Bibliothek",
+   "Shelfmark": "Helmst. 1099",
+   "CB_concordances": "cb 22 cb34 cb47 cb131",
+   "Music": "yes"
+ },
+ {
+   "Country": "Germany",
+   "City": "Wolfenbüttel",
+   "Library": "Herzog August Bibliothek",
+   "Shelfmark": "Helmst. 1198",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Wolfenbüttel",
+   "Library": "Herzog August Bibliothek",
+   "Shelfmark": "Helmst. 303 (337)",
+   "CB_concordances": "cb45 cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Wolfenbüttel",
+   "Library": "Herzog August Bibliothek",
+   "Shelfmark": "Helmst. 446",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Germany",
+   "City": "Wolfenbüttel",
+   "Library": "Herzog August Bibliothek",
+   "Shelfmark": "Helmst. 628",
+   "CB_concordances": "cb15 cb34 cb36 cb47 cb131",
+   "Music": "yes"
+ },
+ {
+   "Country": "Germany",
+   "City": "Würzburg",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "Mp. mi.f.6",
+   "CB_concordances": "cb45",
+   "Music": "no"
+ },
+ {
+   "Country": "Hungary",
+   "City": "Budapest",
+   "Library": "Magyar Nemzeti Múzeum",
+   "Shelfmark": "C. lat. m. ae. 316",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Belluno",
+   "Library": "Civico Museo",
+   "Shelfmark": "??",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Bologna",
+   "Library": "Archiginnasio",
+   "Shelfmark": "A 926",
+   "CB_concordances": "cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Cividale del Friuli",
+   "Library": "Museo Archeologico Nazionale",
+   "Shelfmark": "CI",
+   "CB_concordances": "cb4*",
+   "Music": "yes"
+ },
+ {
+   "Country": "Italy",
+   "City": "Cividale del Friuli",
+   "Library": "Museo Archeologico Nazionale",
+   "Shelfmark": "CII",
+   "CB_concordances": "cb4*",
+   "Music": "yes"
+ },
+ {
+   "Country": "Italy",
+   "City": "Firenze",
+   "Library": "Biblioteca Riccardiana",
+   "Shelfmark": "688",
+   "CB_concordances": "cb194 cb206",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Firenze",
+   "Library": "Biblioteca Medicea Laurenziana",
+   "Shelfmark": "Edili 197",
+   "CB_concordances": "cb88",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Firenze",
+   "Library": "Biblioteca Medicea Laurenziana ",
+   "Shelfmark": "Pl. 36.34",
+   "CB_concordances": "cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Firenze",
+   "Library": "Biblioteca Medicea Laurenziana",
+   "Shelfmark": "Plut. 29.1",
+   "CB_concordances": "cb12 cb14 cb15 cb19 cb21 cb22 cb26 cb27 cb31 cb33 cb34 cb36 cb47 cb63 cb67 cb131 cb131a cb185 cb187 cb189 cb11*",
+   "Music": "yes"
+ },
+ {
+   "Country": "Italy",
+   "City": "Firenze",
+   "Library": "Biblioteca Nazionale Centrale",
+   "Shelfmark": "Magl. VII 1095",
+   "CB_concordances": "cb210",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Firenze",
+   "Library": "Landau-Finaly (introuvable)",
+   "Shelfmark": "",
+   "CB_concordances": "cb8",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Ivrea",
+   "Library": "Archivio Capitolare",
+   "Shelfmark": "VII",
+   "CB_concordances": "cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Ivrea",
+   "Library": "Archivio Capitolare",
+   "Shelfmark": "XV",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Milano",
+   "Library": "Biblioteca Ambrosiana ",
+   "Shelfmark": "H 23 sup.",
+   "CB_concordances": "cb210",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Milano",
+   "Library": "Biblioteca Ambrosiana ",
+   "Shelfmark": "O 136 sup.",
+   "CB_concordances": "cb8",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Milano",
+   "Library": "Biblioteca Trivulziana",
+   "Shelfmark": "964",
+   "CB_concordances": "cb196",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Napoli",
+   "Library": "NapoliBiblioteca Nazionale ",
+   "Shelfmark": "IV F 13",
+   "CB_concordances": "cb210",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Padova",
+   "Library": "Biblioteca Capitolare ",
+   "Shelfmark": " C 55",
+   "CB_concordances": "cb4*",
+   "Music": "yes"
+ },
+ {
+   "Country": "Italy",
+   "City": "Padova",
+   "Library": "Biblioteca Capitolare ",
+   "Shelfmark": " C 56",
+   "CB_concordances": "cb4*",
+   "Music": "yes"
+ },
+ {
+   "Country": "Italy",
+   "City": "Pavia",
+   "Library": "Biblioteca universtaria ",
+   "Shelfmark": "Aldini 42",
+   "CB_concordances": "cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Roma",
+   "Library": "Biblioteca Casanatense",
+   "Shelfmark": "1404",
+   "CB_concordances": "cb131",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Roma",
+   "Library": "Biblioteca Casanatense",
+   "Shelfmark": "372",
+   "CB_concordances": "cb5",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Roma",
+   "Library": "Biblioteca della Curia generalizia dei Padri Domenicani di S. Sabina",
+   "Shelfmark": "XIV L 3",
+   "CB_concordances": "cb26",
+   "Music": "yes"
+ },
+ {
+   "Country": "Italy",
+   "City": "Sterzing",
+   "Library": "Archiv",
+   "Shelfmark": "?",
+   "CB_concordances": "cb5",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Sterzing",
+   "Library": "Archiv",
+   "Shelfmark": "Papierhs. in quarto",
+   "CB_concordances": "cb3*",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Sterzing",
+   "Library": "Archiv ?",
+   "Shelfmark": "Misc. Hs.",
+   "CB_concordances": "cb45",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Torino",
+   "Library": "Biblioteca Nazionale Universitaria",
+   "Shelfmark": "D VI 21",
+   "CB_concordances": "cb8",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Torino",
+   "Library": "Biblioteca Nazionale Universitaria",
+   "Shelfmark": "E V 20",
+   "CB_concordances": "cb14*",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Venezia",
+   "Library": "Biblioteca Nazionale Marciana",
+   "Shelfmark": "Lat. class. 14 nr. 128",
+   "CB_concordances": "cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Venezia",
+   "Library": "Biblioteca Nazionale Marciana",
+   "Shelfmark": "Z. lat. XIV 66",
+   "CB_concordances": "cb196",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Volterra",
+   "Library": "Biblioteca Guarnacci",
+   "Shelfmark": "204",
+   "CB_concordances": "cb210",
+   "Music": "no"
+ },
+ {
+   "Country": "Italy",
+   "City": "Volterra",
+   "Library": "Biblioteca Guarnacci ",
+   "Shelfmark": "8653",
+   "CB_concordances": "cb191 cb219",
+   "Music": "no"
+ },
+ {
+   "Country": "Luxembourg",
+   "City": "Luxembourg",
+   "Library": "Bibliothèque nationale du Luxembourg Atheneum ",
+   "Shelfmark": "22",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "Netherlands",
+   "City": "Leiden",
+   "Library": "De Universitaire Bibliotheken Leiden",
+   "Shelfmark": "BPL 102",
+   "CB_concordances": "cb214",
+   "Music": "no"
+ },
+ {
+   "Country": "Netherlands",
+   "City": "Leiden",
+   "Library": "De Universitaire Bibliotheken Leiden",
+   "Shelfmark": "Voss. Lat. 31",
+   "CB_concordances": "cb102",
+   "Music": "no"
+ },
+ {
+   "Country": "Poland",
+   "City": "Gdańsk",
+   "Library": "Bazylika Mariacka",
+   "Shelfmark": "F. 184",
+   "CB_concordances": "cb40",
+   "Music": "no"
+ },
+ {
+   "Country": "Poland",
+   "City": "Gdańsk",
+   "Library": "Bazylika Mariacka",
+   "Shelfmark": "F. 227",
+   "CB_concordances": "cb40",
+   "Music": "no"
+ },
+ {
+   "Country": "Poland",
+   "City": "Gdańsk",
+   "Library": "Bazylika Mariacka",
+   "Shelfmark": "Q 27",
+   "CB_concordances": "cb32",
+   "Music": "no"
+ },
+ {
+   "Country": "Poland",
+   "City": "Krakow",
+   "Library": "Biblioteka Jagiellońska ",
+   "Shelfmark": "2035",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "Poland",
+   "City": "Krakow",
+   "Library": "Biblioteka Jagiellońska",
+   "Shelfmark": "2233",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "Poland",
+   "City": "Wrocław",
+   "Library": "Biblioteka Uniwersytecka ",
+   "Shelfmark": "I O 44",
+   "CB_concordances": "cb45",
+   "Music": "no"
+ },
+ {
+   "Country": "Poland",
+   "City": "Wrocław",
+   "Library": "Stadtbibliothek",
+   "Shelfmark": "Rh. 1301",
+   "CB_concordances": "cb41",
+   "Music": "no"
+ },
+ {
+   "Country": "Poland",
+   "City": "Wrocław",
+   "Library": "Stadtbibliothek",
+   "Shelfmark": "Rh. 90",
+   "CB_concordances": "cb13",
+   "Music": "no"
+ },
+ {
+   "Country": "Poland",
+   "City": "Wrocław",
+   "Library": "Biblioteka Uniwersytecka",
+   "Shelfmark": "Q 463",
+   "CB_concordances": "cb188",
+   "Music": "no"
+ },
+ {
+   "Country": "Russia",
+   "City": "Kaliningrad",
+   "Library": "University Library? ",
+   "Shelfmark": "U1751",
+   "CB_concordances": "cb196",
+   "Music": "no"
+ },
+ {
+   "Country": "Russia",
+   "City": "St. Petersburg",
+   "Library": "?",
+   "Shelfmark": "Lat. O. ch. XIV nr. 11",
+   "CB_concordances": "cb42 cb45 cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "Spain",
+   "City": "Barcelona",
+   "Library": "Arxiu de la Corona d’Aragó",
+   "Shelfmark": "Ripoll 116",
+   "CB_concordances": "cb37",
+   "Music": "yes"
+ },
+ {
+   "Country": "Spain",
+   "City": "Barcelona",
+   "Library": "Arxiu de la Corona d’Aragó",
+   "Shelfmark": "Ripoll 199",
+   "CB_concordances": "cb37",
+   "Music": "no"
+ },
+ {
+   "Country": "Spain",
+   "City": "Burgos",
+   "Library": "Monasterio de Santa María La Real de Las Huelgas",
+   "Shelfmark": "XI (9)",
+   "CB_concordances": "cb26 cb27 cb47 cb90",
+   "Music": "yes"
+ },
+ {
+   "Country": "Spain",
+   "City": "Salamanca",
+   "Library": "Biblioteca Universitaria",
+   "Shelfmark": "226",
+   "CB_concordances": "cb27 cb131",
+   "Music": "no"
+ },
+ {
+   "Country": "Spain",
+   "City": "San Lorenzo de El Escorial",
+   "Library": "Biblioteca",
+   "Shelfmark": "F.III.18 (Q.III.18 ?)",
+   "CB_concordances": "cb189",
+   "Music": "no"
+ },
+ {
+   "Country": "Spain",
+   "City": "San Lorenzo de El Escorial",
+   "Library": "Biblioteca",
+   "Shelfmark": "Z. II. 2",
+   "CB_concordances": "cb85",
+   "Music": "yes"
+ },
+ {
+   "Country": "Spain ",
+   "City": "Madrid",
+   "Library": "Biblioteca Nacional de España",
+   "Shelfmark": "20486",
+   "CB_concordances": "cb12 cb22 cb34 cb36 cb131",
+   "Music": "yes"
+ },
+ {
+   "Country": "Spain ",
+   "City": "Madrid",
+   "Library": "Biblioteca Nacional de España",
+   "Shelfmark": "6463",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "Spain ",
+   "City": "San Lorenzo de El Escorial",
+   "Library": "Biblioteca",
+   "Shelfmark": "2 E 5",
+   "CB_concordances": "cb214",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Aarau",
+   "Library": "Kantonsbibliothek",
+   "Shelfmark": "Wb 59 q",
+   "CB_concordances": "cb215",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Basel",
+   "Library": "Staatsarchiv Klosterarchiv",
+   "Shelfmark": "Augustiner ABriefbuch 1445",
+   "CB_concordances": "cb2",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Basel",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "A II 23",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Basel",
+   "Library": "Universitätsbibliothek ",
+   "Shelfmark": "A.IX.2",
+   "CB_concordances": "cb192",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Basel",
+   "Library": "Universitätsbibliothek ",
+   "Shelfmark": "A.XI.67",
+   "CB_concordances": "cb11 cb13 cb18 cb32 cb45 cb188 cb190",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Basel",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "B.IX.23",
+   "CB_concordances": "cb26",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Basel",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "D.VI.4",
+   "CB_concordances": "cb178",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Basel",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "F.III.36",
+   "CB_concordances": "cb32",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Basel",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "F.IV.3",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Basel",
+   "Library": "Universitätsbibliothek ",
+   "Shelfmark": "F.IV.5",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Basel",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "F.V.6",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Basel",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "F.VI.20",
+   "CB_concordances": "cb45",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Basel",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "F.X.21",
+   "CB_concordances": "cb32",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Basel",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "O.I.13",
+   "CB_concordances": "cb206",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Bern",
+   "Library": "Burgerbibliothek",
+   "Shelfmark": "211",
+   "CB_concordances": "cb20 cb45 cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Bern",
+   "Library": "Universitätsbibliothek",
+   "Shelfmark": "710",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Einsiedeln",
+   "Library": "Stiftsbibliothek",
+   "Shelfmark": "34",
+   "CB_concordances": "cb45 cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Engelberg",
+   "Library": "Klosterbibliothek",
+   "Shelfmark": "1003",
+   "CB_concordances": "cb131",
+   "Music": "yes"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "St. Gallen",
+   "Library": "Stiftsbibliothek",
+   "Shelfmark": "767",
+   "CB_concordances": "cb45",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "St. Gallen",
+   "Library": "Stiftsbibliothek",
+   "Shelfmark": "321",
+   "CB_concordances": "cb2",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "St. Gallen",
+   "Library": "Stiftsbibliothek",
+   "Shelfmark": "383",
+   "CB_concordances": "cb73",
+   "Music": "yes"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "St. Gallen",
+   "Library": "Stiftsbibliothek ",
+   "Shelfmark": "386",
+   "CB_concordances": "cb201",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Zürich",
+   "Library": "Zentralbibliothek",
+   "Shelfmark": "C 58/235",
+   "CB_concordances": "cb11 cb20 cb45 cb101 cb191 cb194 cb223",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Zürich",
+   "Library": "Zentralbibliothek",
+   "Shelfmark": "C 101",
+   "CB_concordances": "cb215",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Zürich",
+   "Library": "ZürichZentralbibl.",
+   "Shelfmark": "C 57",
+   "CB_concordances": "cb210",
+   "Music": "no"
+ },
+ {
+   "Country": "Switzerland",
+   "City": "Zürich",
+   "Library": "Zentralbibliothek",
+   "Shelfmark": "Rh. 46",
+   "CB_concordances": "cb1",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "Clare College",
+   "Shelfmark": "KK 4 1",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "Corpus Christi College",
+   "Shelfmark": "177",
+   "CB_concordances": "cb1",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "Corpus Christi College",
+   "Shelfmark": "202",
+   "CB_concordances": "cb19",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "Corpus Christi College",
+   "Shelfmark": "450",
+   "CB_concordances": "cb101 cb102 cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "Corpus Christi College",
+   "Shelfmark": "450",
+   "CB_concordances": "cb7",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "Emmanuel College",
+   "Shelfmark": "27",
+   "CB_concordances": "cb91",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "Gonville and Caius College",
+   "Shelfmark": "118",
+   "CB_concordances": "cb7",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "Gonville and Caius College",
+   "Shelfmark": "211",
+   "CB_concordances": "cb10",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "Gonville and Caius College",
+   "Shelfmark": "402",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "Gonville and Caius College",
+   "Shelfmark": "63",
+   "CB_concordances": "cb7",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "Jesus College",
+   "Shelfmark": "18",
+   "CB_concordances": "cb12 cb19 cb34 cb47",
+   "Music": "yes"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "St. John’s College ",
+   "Shelfmark": "G. 16 (184)",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "Trinity College ",
+   "Shelfmark": "B.II.27",
+   "CB_concordances": "cb7",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "Trinity College ",
+   "Shelfmark": "O.2.45",
+   "CB_concordances": "cb42 cb191 cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "Trinity College",
+   "Shelfmark": "O.9.38",
+   "CB_concordances": "cb18",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "Trinity College",
+   "Shelfmark": "R 14 22",
+   "CB_concordances": "cb101 cb102",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "Trinity College",
+   "Shelfmark": "R.5.32",
+   "CB_concordances": "cb18",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "Trinity College",
+   "Shelfmark": "R.9.11",
+   "CB_concordances": "cb8",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "University Library",
+   "Shelfmark": "EE II 29",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "University Library ",
+   "Shelfmark": " Ff.1.17",
+   "CB_concordances": "cb3 cb8 cb63 cb108",
+   "Music": "yes"
+ },
+ {
+   "Country": "UK",
+   "City": "Cambridge",
+   "Library": "University Library",
+   "Shelfmark": "Hh III 15",
+   "CB_concordances": "cb42",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Glasgow",
+   "Library": "University Library",
+   "Shelfmark": "Hunterian Ms. 511",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Add. 36881",
+   "CB_concordances": "cb14*",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Arundel 384",
+   "CB_concordances": "cb8 cb67 cb72 cb83 cb108",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Arundel 507",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Cotton Clep. A. VIII",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Cotton Jul. D.VII",
+   "CB_concordances": "cb8",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Cotton Tib. XIII",
+   "CB_concordances": "cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Cotton Vesp. A XIX",
+   "CB_concordances": "cb42 cb91 cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Cotton Vesp. B XIII",
+   "CB_concordances": "cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Cotton Vesp. B. XIV",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Egerton 2615",
+   "CB_concordances": "cb131 cb196 cb200",
+   "Music": "yes"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Egerton 3307",
+   "CB_concordances": "cb202",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Egerton 374",
+   "CB_concordances": "cb131 cb131a",
+   "Music": "yes"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Harley 200",
+   "CB_concordances": "cb18 cb20",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Harley 2851",
+   "CB_concordances": "cb11 cb215",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Harley 3202",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Harley 3362",
+   "CB_concordances": "cb11 cb18 cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Harley 3724",
+   "CB_concordances": "cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Harley 3762",
+   "CB_concordances": "cb33",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Harley 913",
+   "CB_concordances": "cb215",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Harley 978",
+   "CB_concordances": "cb42 cb92 cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Lansdowne 762",
+   "CB_concordances": "cb99b",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Royal 10.D.I",
+   "CB_concordances": "cb24",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Royal 12.D.III",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Royal 13.A.IV",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Sloane 2693",
+   "CB_concordances": "cb191",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Lansdowne 397",
+   "CB_concordances": "cb1",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "London",
+   "Library": "British Library",
+   "Shelfmark": "Royal 8.B.VI",
+   "CB_concordances": "cb1",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Manchester",
+   "Library": "John Rylands Research Institute and Library",
+   "Shelfmark": "Lat. 394",
+   "CB_concordances": "cb190",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library ",
+   "Shelfmark": "Add. 44",
+   "CB_concordances": "cb3 cb5 cb8 cb10 cb21 cb26 cb27 cb33 cb36 cb37 cb42 cb63 cb101 cb187 cb189 cb202 cb14*",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library ",
+   "Shelfmark": "Add. A 365",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library",
+   "Shelfmark": "Auct. VI.Q 3.17",
+   "CB_concordances": "cb27 cb63",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library",
+   "Shelfmark": "Bodl. 487",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library",
+   "Shelfmark": "Bodl. 57",
+   "CB_concordances": "cb33 cb41 cb91",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library",
+   "Shelfmark": "Bodl. 570",
+   "CB_concordances": "cb101 cb223",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library",
+   "Shelfmark": "Bodl. 603",
+   "CB_concordances": "cb41",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library ",
+   "Shelfmark": "Bodl. 851",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library",
+   "Shelfmark": "Can. lit. 50",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library ",
+   "Shelfmark": "Can. misc. 95",
+   "CB_concordances": "cb41",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library",
+   "Shelfmark": "D’Orville 168",
+   "CB_concordances": "cb210",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library",
+   "Shelfmark": "Digby 166",
+   "CB_concordances": "cb10 cb42 cb45 cb101 cb191 cb193",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library",
+   "Shelfmark": "Digby 168",
+   "CB_concordances": "cb41",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library",
+   "Shelfmark": "Digby 172",
+   "CB_concordances": "cb189",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library",
+   "Shelfmark": "Digby 4",
+   "CB_concordances": "cb41",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library",
+   "Shelfmark": "Digby 53",
+   "CB_concordances": "cb13 cb41 cb101 cb194 cb210",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library",
+   "Shelfmark": "Digby 65",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library",
+   "Shelfmark": "Lat. misc. D 15",
+   "CB_concordances": "cb101 cb102",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library",
+   "Shelfmark": "Laud. lat. 86",
+   "CB_concordances": "cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library ",
+   "Shelfmark": "Laud. Misc. 265",
+   "CB_concordances": "cb7",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library",
+   "Shelfmark": "Rawl. C.510",
+   "CB_concordances": "cb14 cb15 cb19 cb21 cb47 cb14*",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Bodleian Library",
+   "Shelfmark": "Rawl. G. 109",
+   "CB_concordances": "cb101 cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Exon College",
+   "Shelfmark": "31",
+   "CB_concordances": "cb7",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Magdalen College",
+   "Shelfmark": "109",
+   "CB_concordances": "cb18",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Oriel College ",
+   "Shelfmark": "29",
+   "CB_concordances": "cb7",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "St. John’s College ",
+   "Shelfmark": "178",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "UK",
+   "City": "Oxford",
+   "Library": "Trinity College",
+   "Shelfmark": "34",
+   "CB_concordances": "cb191 cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Vatican",
+   "City": "Vatican City",
+   "Library": "Biblioteca Apostolica Vaticana",
+   "Shelfmark": "Reg. lat. 344",
+   "CB_concordances": "cb63 cb83 cb92 cb101 cb191 cb194",
+   "Music": "no"
+ },
+ {
+   "Country": "Vatican",
+   "City": "Vatican City",
+   "Library": "Biblioteca Apostolica Vaticana",
+   "Shelfmark": "Urb. lat. 1439",
+   "CB_concordances": "cb7",
+   "Music": "no"
+ },
+ {
+   "Country": "Vatican",
+   "City": "Vatican City",
+   "Library": "Biblioteca Apostolica Vaticana",
+   "Shelfmark": "Urb. lat. 177",
+   "CB_concordances": "cb7",
+   "Music": "no"
+ },
+ {
+   "Country": "Vatican",
+   "City": "Vatican City",
+   "Library": "Biblioteca Apostolica Vaticana ",
+   "Shelfmark": "Vat. lat. 1583",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "Vatican",
+   "City": "Vatican City",
+   "Library": "Biblioteca Apostolica Vaticana",
+   "Shelfmark": "Vat. lat. 1586",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "Vatican",
+   "City": "Vatican City",
+   "Library": "Biblioteca Apostolica Vaticana",
+   "Shelfmark": "Vat. lat. 2719",
+   "CB_concordances": "cb101",
+   "Music": "no"
+ },
+ {
+   "Country": "Vatican",
+   "City": "Vatican City",
+   "Library": "Biblioteca Apostolica Vaticana",
+   "Shelfmark": "Vat. lat. 2737",
+   "CB_concordances": "cb11",
+   "Music": "no"
+ },
+ {
+   "Country": "Vatican",
+   "City": "Vatican City",
+   "Library": "Biblioteca Apostolica Vaticana",
+   "Shelfmark": "Vat. lat. 7260",
+   "CB_concordances": "cb191 cb193",
+   "Music": "no"
+ },
+ {
+   "Country": "Vatican",
+   "City": "Vatican City",
+   "Library": "Biblioteca Apostolica Vaticana",
+   "Shelfmark": "Pal. lat. 719",
+   "CB_concordances": "cb188 cb206 cb215",
+   "Music": "no"
+ }
+]

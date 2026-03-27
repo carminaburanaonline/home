@@ -18,7 +18,6 @@ function indentVerses(div) {
     }
     var unique_count = Array.from(new Set(count));
     unique_count.sort(function(a, b){return b-a});
-    console.log(unique_count);
     verses = $(this).find("div.verse");
     for (x = 0; x < verses.length; x++) {
       indent = unique_count.indexOf(count[x]);

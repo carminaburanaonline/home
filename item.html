@@ -384,6 +384,7 @@
           <div id="itemRight" class="tabcontent right">
             <div id="itemsTable"></div>
             <script>
+              // Filling the items' table in the right tab
               function formatToTr(item, source) {
                 return `<tr>
                       <td style="white-space: nowrap;">${item.abstract_item}</td>
@@ -450,7 +451,17 @@
       function openItemRight(item_right_id) {
         $("#itemsTable").hide();
         itemCoreView($("#selectedItemRight"), item_right_id);
-        //$("#itemRightTitle").load("/browse/item-as-tr/" + pk); //TODO
+        var item, source;
+        $.when(
+          $.getJSON("json/items.json", function(data) {
+            item = data.find((element) => element.file == item_right_id);
+          }),
+          $.getJSON("json/sources.json", function(data) {
+            source = data.find((element) => element.pk == item.source);
+          })
+        ).then(function() {
+          $("#itemRightTitle").html(`${item.abstract_item} ${item.title}, ${source.bib_id}`);
+        });
         $("#itemRightDetailView").attr("href", `item?id=${item_right_id}`);
         $("#selectedItemRight").show();
         $("#itemRightNav").show();

@@ -18,9 +18,32 @@
   <main style="display: flex; flex: 1;">
     <div class="flex-column">
       <h1>Sources</h1>
-      <table>
-        <!-- TODO -->
+
+      <input type="text" id="searchInput" onkeyup="filterSources()" placeholder="Search...">
+      <script>
+        // This script makes the search input work
+        function filterSources() {
+          let filter = $("#searchInput").val().toLowerCase();
+          $("tr:not(.head)").each(function() {
+            let txt = '';
+            $(this).children("td").each(function() { txt += $(this).text() + "|"; });
+            console.log(txt)
+            if (txt.toLowerCase().indexOf(filter) > -1) {
+              $(this).show();
+            } else {
+              $(this).hide();
+            }
+          });
+        }
+      </script>
+      <table id="sourcesTable" style="width: 100%; border-spacing: 0 2px;">
+        <tr class="head">
+          <th style="width: 10%;">Country</th>
+          <th style="width: 70%;">Location</th>
+          <th style="width: 20%;">ID</th>
+        </tr>
       </table>
+      <script src="js/sources_table.js"></script>
     </div>
   </main>
 
