@@ -1,8 +1,8 @@
 // This script makes the search work (highlight words)
-function highlightWords() {
-  let filter = $("#searchInput").val().toLowerCase();
+function highlightWords(item_id) {
+  let filter = $(`#searchInput-${item_id}`).val().toLowerCase();
   if (filter.length) {
-    $("span.word").each(function() {
+    $(`#mainContainer-${item_id} span.word`).each(function() {
       if ($(this).attr("data-word").indexOf(filter) > -1) {
         $(this).addClass("highlighted");
       } else {
@@ -11,6 +11,6 @@ function highlightWords() {
     });
   }
   else {
-    $("span.word").each(function() { $(this).removeClass("highlighted"); });
+    $(`#mainContainer-${item_id} span.word`).each(function() { $(this).removeClass("highlighted"); });
   }
 }

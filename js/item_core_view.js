@@ -84,6 +84,9 @@ function itemCoreView(div, item_id) {
         }
       }
 
+      // Function for word highlighting (item-specific)
+      $(`#searchInput-${item_id}`).attr('onkeyup', `highlightWords('${item_id}')`);
+
       // Adding content
       if (svg_based) {
         // Create SVG template
@@ -136,6 +139,8 @@ function itemCoreView(div, item_id) {
           }
         });
       });
+
+      wordsAndSyllables(div);
 
       // Initial setup of buttons and other typographical things
       $(`#openSvg-${item_id}`).click();

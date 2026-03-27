@@ -15,6 +15,7 @@
   <script src="js/words_and_syllables.js"></script>
   <script src="js/set_leading_consonants.js"></script>
   <script src="js/indent.js"></script>
+  <script src="js/highlight_words.js"></script>
   <script src="js/item_core_view.js"></script>
 
   <script>
@@ -380,39 +381,46 @@
           </script>
 
           <div id="itemRight" class="tabcontent right">
-            <div id="itemsTable">
-              {% if item.has_concordances %}
-              <table>
-                {% for x in sibling_items %}
-                <tr>
-                  <td style="white-space: nowrap;">CB {{ x.abstract_item.cb_id }}</td>
-                  <td class="truncate"><a href="javascript:openItemRight({{ x.pk }});">{{ x.title }}</a></td>
-                  <td style="white-space: nowrap;">{{ x.source.bib_id }}</td>
-                </tr>
-                {% endfor %}
-              </table>
-              <hr />
-              {% endif %}
-              <table>
-                {% for x in other_items %}
-                <tr>
-                  <td style="white-space: nowrap;">CB {{ x.abstract_item.cb_id }}</td>
-                  <td class="truncate"><a href="javascript:openItemRight({{ x.pk }});">{{ x.title }}</a></td>
-                  <td style="white-space: nowrap;">{{ x.source.bib_id }}</td>
-                </tr>
-                {% endfor %}
-              </table>
-            </div>
+            <div id="itemsTable"></div>
             <script>
-              var items;
+              function formatToTr(item, source) {
+                return `<tr>
+                      <td style="white-space: nowrap;">${item.abstract_item}</td>
+                      <td><a href="javascript:openItemRight('${item.file}');">${item.title}</a></td>
+                      <td style="white-space: nowrap;">${source.bib_id}</td>
+                    </tr>`;
+              }
+
+              var items, sources;
               $.when(
                 $.getJSON("json/items.json", function(data) {
                   items = data;
+                }),
+                $.getJSON("json/sources.json", function(data) {
+                  sources = data;
                 })
               ).then(function() {
                 current_item = items.find((element) => element.file == item_id);
-                // TODO: find sibligs, produce table
-                $("#itemsTable").append()
+                abstract_item = current_item.abstract_item;
+                siblings_table = "";
+                others_table = "";
+                for (var x in items) {
+                  if (items[x].file != item_id) {
+                    var source = sources.find((element) => element.pk == items[x].source)
+                    if (items[x].abstract_item == abstract_item) {
+                      siblings_table += formatToTr(items[x], source);
+                    }
+                    else {
+                      others_table += formatToTr(items[x], source);
+                    }
+                  }
+                }
+                if (siblings_table.length) {
+                  $("#itemsTable").append("<table>" + siblings_table + "<tr><td colspan='3'><hr/></td></tr>" + others_table + "</table>");
+                }
+                else {
+                  $("#itemsTable").append("<table>" + others_table + "</table>");
+                }
               });
             </script>
             <table id="itemRightTitle"></table>
@@ -440,8 +448,8 @@
 
       function openItemRight(item_right_id) {
         $("#itemsTable").hide();
-        $("#selectedItemRight").load("templates/item-core-view/" + pk); //TODO
-        $("#itemRightTitle").load("/browse/item-as-tr/" + pk); //TODO
+        itemCoreView($("#selectedItemRight"), item_right_id);
+        //$("#itemRightTitle").load("/browse/item-as-tr/" + pk); //TODO
         $("#itemRightDetailView").attr("href", `item?id=${item_right_id}`);
         $("#selectedItemRight").show();
         $("#itemRightNav").show();
