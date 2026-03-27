@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>CBO Neumes</title>
+  <title>CBO Sources</title>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
@@ -9,6 +9,11 @@
   <!-- Add additional CSS in static file -->
   <link rel="stylesheet" href="css/style.css"/>
   <link rel="stylesheet" href="css/layout-generic.css"/>
+  <style>
+    th {
+      text-align: left;
+    }
+  </style>
 </head>
 <body>
 <div class="page-container">
@@ -16,16 +21,39 @@
   <div data-include="header"></div>
 
   <main style="display: flex; flex: 1;">
-    <div class="flex-column">
+    <div class="flex-column" style="flex: 20%">
+      <!-- add side content here -->
+    </div>
+    <div style="flex: 80%">
       <h1>Neumes</h1>
-      <table>
-        <tr>
+
+      <table id="neumesTable" style="width: 100%; border-spacing: 0 2px;">
+        <tr class="head">
           <th>#</th>
           <th>Glyph</th>
           <th>Description</th>
         </tr>
-        <!-- TODO -->
       </table>
+      <script>
+        var neumes;
+        $.when(
+          $.getJSON("json/neumes.json", function(data) {
+            neumes = data;
+          })
+        ).then(function() {
+          neumes.sort(function(a, b) {return b.count-a.count});
+          var rows = ""
+          for (var x in neumes) {
+            console.log(neumes[x].description);
+            rows += `<tr>
+              <td>${neumes[x].count}</td>
+              <td><a href="neume?n=${neumes[x].n}"><img src='neumes/svg/buranus${neumes[x].n}.svg'></a></td>
+              <td><a href="neume?n=${neumes[x].n}">${neumes[x].description}</td>
+              </tr>`;
+          }
+          $('#neumesTable').append(rows);
+        });
+      </script>
     </div>
   </main>
 
