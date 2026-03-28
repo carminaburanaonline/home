@@ -3,7 +3,7 @@
   <text>
     <body>
       <div type="poem" met="7p/7pp/8pp/2x7p/8pp/2x7p/8pp/4pp+4pp+3p/8pp/4pp+4pp/8pp/7p">
-        <lg type="strophe" met="7p/7pp/8pp/7p/7p/8pp/7p/7p/8pp/4pp+4pp+3p/8pp/4pp+4pp/8pp/7p" rhyme="a/b/b/a/a/b/a/a/c+c+a/d/d+e/e/a">
+        <lg type="strophe" met="7p/7pp/8pp/7p/7p/8pp/7p/7p/8pp/4pp+4pp+3p/8pp/4pp+4pp/8pp/7p" rhyme="a/b/b/a/a/b/a/a/c/c+c+a/d/d+e/e/a">
           <l n="1">
             <w>
               <seg type="syll" part="I">Ve</seg>
