@@ -18,6 +18,14 @@ function itemCoreView(div, item_id) {
       });
       // Now the IDs are assigned, so no need to look only inside $(this)
 
+      // Assign button properties
+      $(".activable").click(function() {
+        $(this).addClass('active');
+      });
+      $(".toggleable").click(function() {
+        $(this).toggleClass('active');
+      });
+
       // Assign 'onclick' function to each item-specific button
       $(`#dropBtn-${item_id}`).click(function () { $(`#dropdownDiv-${item_id}`).toggle(); });
       $(`#openSvg-${item_id}`).click(function(){
@@ -49,7 +57,7 @@ function itemCoreView(div, item_id) {
       });
       $(`#toggleSyllablesButton-${item_id}`).click(function(){
         // Add/remove syllable dashes.
-        if ($(this).hasClass('active')) {
+        if (!$(this).hasClass('active')) {
           $("span[data-dash='dashed'] > .syl-text").each(function() {
             $(this).text($(this).text().slice(0, -1));
           });
