@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>CBO</title>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://unpkg.com/mirador@^3/dist/mirador.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
+  <script src="js/XSLtransform.js"></script>
+  <script src="js/buttons.js"></script>
+  <script src="js/verse_numbers.js"></script>
+  <script src="js/indent_verses.js"></script>
+  <script src="js/words_and_syllables.js"></script>
+  <script src="js/set_leading_consonants.js"></script>
+  <script src="js/item_core_view.js"></script>
+
+  <script>
+    const params = new URLSearchParams(document.location.search);
+    const neume_n = params.get("n");
+  </script>
+
+  <!-- Add additional CSS in static file -->
+  <link rel="stylesheet" href="css/style.css"/>
+  <link rel="stylesheet" href="css/layout-generic.css"/>
+  <link rel="stylesheet" href="css/neumed-text.css" />
+
+</head>
+<body>
+<div class="page-container">
+  <!-- Navbar + header -->
+  <div data-include="header"></div>
+
+  <main style="display: flex; flex: 1;">
+    <div class="flex-column" style="flex: 20%">
+      <!-- add side content here -->
+    </div>
+
+    <div style="flex: 80%;">
+      <div style="display: flex">
+        <div id="description" style="flex: 2">
+          <h1>Neume</h1>
+        </div>
+        <div id="download" style="flex: 1">
+          <h5>Download options</h5>
+        </div>
+      </div>
+      <script>
+        var neume;
+        $.when(
+          $.getJSON("json/neumes.json", function(data) {
+            neume = data.find((element) => element.n == neume_n);
+          })
+        ).then(function() {
+          s = `
+            <img src='neumes/svg/buranus${neume.n}.svg'>
+            <p>${neume.description}</p>
+            `;
+          $("#description").append(s);
+          s = `
+            <a href='neumes/svg/buranus${neume.n}.svg' download='neume${neume.n}.svg'><img class="download-icon" src='img/SVG_Logo.svg'/></a>
+            <a href='neumes/eps/buranus${neume.n}.eps' download='neume${neume.n}.eps'><img class="download-icon" src='img/EPS_Logo.svg'/></a>
+            `;
+          $("#download").append(s);
+        });
+      </script>
+
+      <h2>Occurrences in the edited items</h2>
+
+      <!-- TODO: add snippets -->
+    </div>r
+  </main>
+
+  <!-- Footer -->
+  <footer class="cbo-center cbo-black cbo-padding-16" data-include="footer"></footer>
+</div>
+
+<script src="js/data_include.js"></script>
+
+</body>
+</html>
