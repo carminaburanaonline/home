@@ -1507,7 +1507,7 @@
     ]
   },
   {
-    "abstract_item": "CB014x",
+    "abstract_item": "CB014*",
     "source": 107,
     "foliation": "IVr",
     "title": "Planctus ante nescia",
@@ -1520,7 +1520,7 @@
     ]
   },
   {
-    "abstract_item": "CB014x",
+    "abstract_item": "CB014*",
     "source": 110,
     "foliation": "117-119",
     "title": "Planctus ante nescia",
@@ -1534,7 +1534,7 @@
     ]
   },
   {
-    "abstract_item": "CB014x",
+    "abstract_item": "CB014*",
     "source": 39,
     "foliation": "113-113v",
     "title": "Planctus ante nescia",
@@ -1548,7 +1548,7 @@
     ]
   },
   {
-    "abstract_item": "CB014x",
+    "abstract_item": "CB014*",
     "source": 42,
     "foliation": "3v-4v",
     "title": "Planctus ante nescia",
@@ -1562,7 +1562,7 @@
     ]
   },
   {
-    "abstract_item": "CB014x",
+    "abstract_item": "CB014*",
     "source": 43,
     "foliation": "1v-2v",
     "title": "Planctus ante nescia",
@@ -1576,7 +1576,7 @@
     ]
   },
   {
-    "abstract_item": "CB014x",
+    "abstract_item": "CB014*",
     "source": 62,
     "foliation": "235-237",
     "title": "Planctus ante nescia",
@@ -1590,7 +1590,7 @@
     ]
   },
   {
-    "abstract_item": "CB014x",
+    "abstract_item": "CB014*",
     "source": 64,
     "foliation": "94-96v",
     "title": "Planctus ante nescia",
@@ -1604,7 +1604,7 @@
     ]
   },
   {
-    "abstract_item": "CB016x",
+    "abstract_item": "CB016*",
     "source": 106,
     "foliation": "107-111",
     "title": "Ludus passionis",
@@ -1618,7 +1618,7 @@
     ]
   },
   {
-    "abstract_item": "CB017x",
+    "abstract_item": "CB017*",
     "source": 106,
     "foliation": "110v",
     "title": "Diu mukke muͦz sich sere muͤn",
@@ -1631,7 +1631,7 @@
     ]
   },
   {
-    "abstract_item": "CB018x",
+    "abstract_item": "CB018*",
     "source": 106,
     "foliation": "111",
     "title": "Magnificat",
@@ -1644,7 +1644,7 @@
     ]
   },
   {
-    "abstract_item": "CB019x",
+    "abstract_item": "CB019*",
     "source": 106,
     "foliation": "111v",
     "title": "Katerine collaudemus",
@@ -1657,7 +1657,7 @@
     ]
   },
   {
-    "abstract_item": "CB020x",
+    "abstract_item": "CB020*",
     "source": 106,
     "foliation": "111r",
     "title": "Pange lingua gloriose",
@@ -1670,7 +1670,7 @@
     ]
   },
   {
-    "abstract_item": "CB021x",
+    "abstract_item": "CB021*",
     "source": 106,
     "foliation": "112",
     "title": "Presens dies expendatur",
@@ -1683,7 +1683,7 @@
     ]
   },
   {
-    "abstract_item": "CB022x",
+    "abstract_item": "CB022*",
     "source": 106,
     "foliation": "112",
     "title": "Hac in die laudes pie",
@@ -1696,7 +1696,7 @@
     ]
   },
   {
-    "abstract_item": "CB022x",
+    "abstract_item": "CB022*",
     "source": 108,
     "foliation": "269-270v",
     "title": "Hac in die laudes pie",
