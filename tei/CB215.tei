@@ -509,7 +509,18 @@
           <pc>&#183;</pc>
           <pc resp="#editor">.</pc>
         </p>
-        <p><w>Et</w><w>iactabant</w>
+        <p><w>Et</w>
+          <w>
+            <seg type="syll" part="I">iac</seg>
+            <seg type="syll" part="M">ta<notatedMusic>
+              <neume fontname="buranus" glyph.num="7" label="vi"/>
+            </notatedMusic>
+            </seg>
+            <seg type="syll" part="F">bant<notatedMusic>
+              <neume fontname="buranus" glyph.num="7" label="vi"/>
+            </notatedMusic>
+            </seg>
+          </w>
           <w>
             <seg type="syll" part="I">ve</seg>
             <seg type="syll" part="M">sti<notatedMusic>
@@ -545,7 +556,21 @@
             </notatedMusic>
             </seg>
           </w>
-          <w>accommodantis</w>
+          <w>
+            <seg type="syll" part="I">ac</seg>
+            <app type="neume">
+              <lem>
+                <seg type="syll" part="M">com<notatedMusic>
+                  <neume fontname="buranus" glyph.num="7" label="vi"/>
+                </notatedMusic>
+                </seg>
+              </lem>
+              <note>ut vid.</note>
+            </app>
+            <seg type="syll" part="M">mo</seg>
+            <seg type="syll" part="M">dan</seg>
+            <seg type="syll" part="F">tis</seg>
+          </w>
           <pc>&#61920;</pc>
           <w>qui</w>
           <w>
@@ -779,8 +804,7 @@
               <neume fontname="buranus" glyph.num="7" label="vi"/>
               <neume fontname="buranus" glyph.num="130" label="ci"/>
               <neume fontname="buranus" glyph.num="49" label="cl"/>
-              <neume fontname="buranus" glyph.num="130" label="ci"/>
-              <neume fontname="buranus" glyph.num="11" label="pr"/>
+              <neume fontname="buranus" glyph.num="134" label="ci!st!pm"/>
             </notatedMusic>
             </seg>
           </w>
@@ -2215,7 +2239,7 @@
           <w>Primas</w><w>autem</w>
           <pc resp="#editor">,</pc>
           <w>qui</w><w>dicitur</w><w>vilissimus</w><w>non</w><w>erat</w><w>cum</w><w>eis</w>
-          <pc resp="#editor">,</pc> 
+          <pc resp="#editor">,</pc>
           <w>quando</w><w>venit</w><w>Decius</w>
           <pc>&#183;</pc>
           <pc resp="#editor">.</pc>
