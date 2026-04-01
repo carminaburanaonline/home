@@ -19,7 +19,7 @@ $.when(
     rows += `<td><a href="abstract_item?id=${items[x].abstract_item}">${items[x].abstract_item}</a></td>
       <td><a href="item?id=${items[x].file}">${items[x].title}</a></td>
       <td><a href="source?pk=${items[x].source}">${source.bib_id}</td>
-      </td>`;
+      </tr>`;
   }
   console.log(rows);
   $('#itemsTable').append(rows);
