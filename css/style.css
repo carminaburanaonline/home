@@ -49,7 +49,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .cbo-dropdown-hover:hover .cbo-dropdown-content{display:block}
 .cbo-dropdown-hover:first-child,.cbo-dropdown-click:hover{background-color:#ccc;color:#000}
 .cbo-dropdown-hover:hover > .cbo-button:first-child,.cbo-dropdown-click:hover > .cbo-button:first-child{background-color:#ccc;color:#000}
-.cbo-dropdown-content{cursor:auto;color:#000;background-color:#fff;display:none;position:absolute;min-width:160px;margin:0;padding:0;z-index:1}
+.cbo-dropdown-content{cursor:auto;color:#000;background-color:#fff;display:none;position:absolute;min-width:180px;margin:0;padding:0;z-index:1}
 .cbo-check,.cbo-radio{width:24px;height:24px;position:relative;top:6px}
 .cbo-sidebar{height:100%;width:200px;background-color:#fff;position:fixed!important;z-index:1;overflow:auto}
 .cbo-bar-block .cbo-dropdown-hover,.cbo-bar-block .cbo-dropdown-click{width:100%}

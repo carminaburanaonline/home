@@ -30,11 +30,17 @@ function itemCoreView(div, item_id) {
       $(`#dropBtn-${item_id}`).click(function () { $(`#dropdownDiv-${item_id}`).toggle(); });
       $(`#openSvg-${item_id}`).click(function(){
         $(`#openText-${item_id}`).removeClass('active');
+        if (svg_based) {
+          $(`#textDropMenu-${item_id}`).hide();
+        }
         $(`#text-${item_id}`).hide();
         $(`#svg-${item_id}`).css("display", "block");
       });
       $(`#openText-${item_id}`).click(function(){
         $(`#openSvg-${item_id}`).removeClass('active');
+        if (svg_based) {
+          $(`#textDropMenu-${item_id}`).show();
+        }
         $(`#svg-${item_id}`).hide();
         $(`#text-${item_id}`).css("display", "block");
       });
