@@ -27,37 +27,54 @@
     <div class="flex-column" style="flex: 20%">
       <!-- add side content here -->
     </div>
-    <div id="metadata" style="flex: 80%;"></div>
-    <script>
-      var source;
-      $.when(
-        $.getJSON("json/sources.json", function(data) {
-          sources = data;
-        })
-      ).then(function() {
-        var source = sources.find((element) => element.pk == source_pk);
-        s = `
-          <h2>${source.bib_id}</a></h1>
-          <h3>${source.location} (${source.country})</h2>`;
+    <div style="flex: 80%;">
+      <div id="metadata"></div>
+      <div id="concordances"></div>
+      <script>
+        var source, items;
+        $.when(
+          $.getJSON("json/sources.json", function(data) {
+            source = data.find((element) => element.pk == source_pk);
+          }),
+          $.getJSON("json/items.json", function(data) {
+            items = data.filter((element) => element.source == source_pk);
+          })
+        ).then(function() {
+          s = `
+            <h2>${source.bib_id}</a></h1>
+            <h3>${source.location} (${source.country})</h2>`;
 
-        if (source.century) {
-          s += `
-            <h4>Datation</h4>
-            <p>${source.century} century.</p>`;
-        }
-        if (source.notation) {
-          s += `
-            <h4>Musical notation</h4>
-            <p>${source.notation}.</p>`;
-        }
-        if (source.url) {
-          s += `
-            <h4>External link</h4>
-            <a href='${source.url}' target='_blank'>${source.url}</a>`;
-        }
-        $("#metadata").html(s);
-      });
-    </script>
+          if (source.century) {
+            s += `
+              <h4>Datation</h4>
+              <p>${source.century} century.</p>`;
+          }
+          if (source.notation) {
+            s += `
+              <h4>Musical notation</h4>
+              <p>${source.notation}.</p>`;
+          }
+          if (source.url) {
+            s += `
+              <h4>External link</h4>
+              <a href='${source.url}' target='_blank'>${source.url}</a>`;
+          }
+          $("#metadata").html(s);
+          s = `<h3>Concordances</h2>
+            <table>
+            <tr class='head'><th>CB #</th><th>Title</th><th>Foliation</th></tr>
+            `;
+          for (var x in items) {
+            var item = items[x];
+            s += `<tr><td><a href='abstract_item?id=${item.abstract_item}'>${item.abstract_item}</a></td><td><a href='item?id=${item.file}'>${item.title}</a></td><td>${item.foliation}</td></tr>`;
+          }
+          s += "</table>";
+          $("#concordances").html(s);
+        });
+      </script>
+    </div>
+
+
   </main>
 
 
