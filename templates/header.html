@@ -2,12 +2,20 @@
   <div class="cbo-bar cbo-white cbo-wide cbo-padding cbo-card">
     <a href="index" class="cbo-bar-item cbo-button"><b>CBO</b> Carmina Burana Online</a>
     <!-- Float links to the right. Hide them on small screens -->
-    <div class="cbo-right cbo-hide-small">
-      <a href="neumes" class="cbo-bar-item cbo-button">Neumes</a>
-      <a href="sources" class="cbo-bar-item cbo-button">Sources</a>
-      <a href="items" class="cbo-bar-item cbo-button">Items</a>
-      <a href="browse-items" class="cbo-bar-item cbo-button">Browse</a>
+    <div class="cbo-right cbo-hide-small" style="display: flex;">
       <a href="about" class="cbo-bar-item cbo-button">About</a>
+      <div class="dropdown">
+        <div class="cbo-bar-item cbo-button cbo-bar-block"><a>Edition</a></div>
+        <div class="cbo-dropdown-content" style="padding-top: 5px;">
+          <a href="items" class="cbo-button">Items</a>
+          <a href="sources" class="cbo-button">Sources</a>
+          <a href="neumes" class="cbo-button">Neumes</a>
+          <a href="browse-items" class="cbo-button">Browse</a>
+        </div>
+      </div>
+      <div><a href="publications" class="cbo-bar-item cbo-button">Publications</a></div>
+      <div><a href="performance" class="cbo-bar-item cbo-button">Performance</a></div>
+      <div><a href="contact" class="cbo-bar-item cbo-button">Contact</a></div>
     </div>
   </div>
 </div>
@@ -15,3 +23,9 @@
 <header class="cbo-display-container cbo-content cbo-wide" style="max-width:1500px;" id="home">
   <img class="cbo-image" src="img/cbo_home.png" alt="CBO" width="1500" height="800">
 </header>
+
+<style>
+  .cbo-dropdown-content {display: none; top: 45px;}
+  .cbo-dropdown-content a {display: block;}
+  .dropdown:hover .cbo-dropdown-content {display: block;}
+</style>

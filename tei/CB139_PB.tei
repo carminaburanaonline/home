@@ -1,0 +1,117 @@
+<TEI>
+  <teiHeader></teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg type="strophe" n="I">
+          <l n="1">
+            <seg type="hemistich">Adieu l’horrible saison,</seg>
+            <seg type="hemistich">le froid hivernal ;</seg>
+          </l>
+          <l n="2">
+            <seg type="hemistich">revient, c’est vraiment plaisant,</seg>
+            <seg type="hemistich">le temps estival,</seg>
+          </l>
+          <l n="3">
+            <seg type="hemistich">que l’Amour revendique</seg>
+            <seg type="hemistich">comme lui appartenant,</seg>
+          </l>
+          <l n="4">
+            <seg type="hemistich">et donc qui aime l’Amour,</seg>
+            <seg type="hemistich">qu’il fasse fête au printemps.</seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="II">
+          <l n="1">
+            <seg type="hemistich">La saison ayant changé,</seg>
+            <seg type="hemistich">la terre porte des fleurs,</seg>
+          </l>
+          <l n="2">
+            <seg type="hemistich">et pour les diverses fleurs</seg>
+            <seg type="hemistich">en varie les couleurs.</seg>
+          </l>
+          <l n="3">
+            <seg type="hemistich">De ces couleurs variées</seg>
+            <seg type="hemistich">les prés sont tout parfumés,</seg>
+          </l>
+          <l n="4">
+            <seg type="hemistich">le rossignol par ses chants</seg>
+            <seg type="hemistich">fait naître maintes amours.</seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="III">
+          <l n="1">
+            <seg type="hemistich">Quiconque aime, qu’il se plaise</seg>
+            <seg type="hemistich">à voir la saison</seg>
+          </l>
+          <l n="2">
+            <seg type="hemistich">où il va enfin pouvoir</seg>
+            <seg type="hemistich">trouver le bonheur,</seg>
+          </l>
+          <l n="3">
+            <seg type="hemistich">et puisque l’Amour fleurit,</seg>
+            <seg type="hemistich">qui veut qu’on soit joyeux,</seg>
+          </l>
+          <l n="4">
+            <seg type="hemistich">que personne parmi nous</seg>
+            <seg type="hemistich">n’ose être malheureux.</seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="IV">
+          <l n="1">
+            <seg type="hemistich">– Je demande seulement</seg>
+            <seg type="hemistich">qu’une me soit donnée,</seg>
+          </l>
+          <l n="2">
+            <seg type="hemistich">celle-là dont le baiser</seg>
+            <seg type="hemistich">peut m’éviter la mort.</seg>
+          </l>
+          <l n="3">
+            <seg type="hemistich">Par le lien de l’amour</seg>
+            <seg type="hemistich">je veux lui être attaché.</seg>
+          </l>
+          <l n="4">
+            <seg type="hemistich">Il est doux d’accepter</seg>
+            <seg type="hemistich">d’être par ce trait blessé !</seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="V">
+          <l n="1">
+            <seg type="hemistich">Si je ris après la blessure,</seg>
+            <seg type="hemistich">douce sera la blessure.</seg>
+          </l>
+          <l n="2">
+            <seg type="hemistich">Si je pleure après ce rire,</seg>
+            <seg type="hemistich">c’est la loi de nature.</seg>
+          </l>
+          <l n="3">
+            <seg type="hemistich">Mais quand sera advenue</seg>
+            <seg type="hemistich">la vieillesse si dure,</seg>
+          </l>
+          <l n="4">
+            <seg type="hemistich">je pleurerai d’avoir aimé,</seg>
+            <seg type="hemistich">vu la douleur future.</seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="VI">
+          <l n="1">
+            <seg type="hemistich">Le fait que je l’aime ainsi,</seg>
+            <seg type="hemistich">c’est bien incroyable :</seg>
+          </l>
+          <l n="2">
+            <seg type="hemistich">c’est un poids qui me ligote,</seg>
+            <seg type="hemistich">presqu’insupportable.</seg>
+          </l>
+          <l n="3">
+            <seg type="hemistich">Je suis sûr qu’à mon sujet</seg>
+            <seg type="hemistich">un seul fait est vrai :</seg>
+          </l>
+          <l n="4">
+            <seg type="hemistich">je meurs si ne m’est donnée</seg>
+            <seg type="hemistich">celle que j’ai préférée.</seg>
+          </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
