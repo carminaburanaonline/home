@@ -228,7 +228,7 @@
                     <seg type="syll" part="F">res</seg>
                   </w>
                 </lem>
-                <note>spat. vac. inter <w>dant<w> et <w>odores</w>; <w>-odores<w> post ras</note>
+                <note>spat. vac. inter <w>dant</w> et <w>odores</w>; <w>-odores</w> post ras</note>
               </app>
               <pc resp="#editor">,</pc>
             </seg>
@@ -878,7 +878,6 @@
                 <seg type="syll" part="F">re</seg>
               </w>
               <app type="text">
-                mte <Superskript e> man. r. cod.
                 <lem>
                   <w>
                     <seg type="syll">mu&#x0364;te</seg>
