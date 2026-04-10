@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader/>
+  <teiHeader />
   <text>
     <body>
       <div type="poem" met="I-III:2x(7pp+6p)">
@@ -144,7 +144,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="7pp+6p/7pp+6p" rhyme="a+b/a+b" >
+        <lg type="strophe" n="III" met="7pp+6p/7pp+6p" rhyme="a+b/a+b">
           <l n="1">
             <seg type="hemistich">
               <w>

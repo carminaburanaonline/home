@@ -2,859 +2,883 @@
   {
     "n": 1,
     "description": "Punctum",
-    "count": 2704,
-    "pattern": "d"
+    "count": 2763,
+    "pattern": null
   },
   {
     "n": 2,
     "description": "3 puncta",
     "count": 1,
-    "pattern": "d++"
+    "pattern": null
   },
   {
     "n": 3,
     "description": "Tractulus",
-    "count": 9,
-    "pattern": "D"
+    "count": 10,
+    "pattern": null
   },
   {
     "n": 4,
     "description": "Stropha",
     "count": 7,
-    "pattern": "u"
+    "pattern": null
   },
   {
     "n": 5,
     "description": "Distropha",
-    "count": 112,
-    "pattern": "u0"
+    "count": 117,
+    "pattern": null
   },
   {
     "n": 6,
     "description": "Tristropha",
     "count": 1,
-    "pattern": "u00"
+    "pattern": null
   },
   {
     "n": 7,
     "description": "Virga",
-    "count": 6005,
-    "pattern": "U"
+    "count": 6135,
+    "pattern": null
   },
   {
     "n": 8,
     "description": "Virga liq.",
-    "count": 249,
-    "pattern": "Ud"
+    "count": 251,
+    "pattern": null
   },
   {
     "n": 9,
     "description": "Special virga (?)",
     "count": 24,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 10,
     "description": "Virga + oriscus",
-    "count": 74,
-    "pattern": "U0"
+    "count": 75,
+    "pattern": null
   },
   {
     "n": 11,
     "description": "Virga + oriscus + 1 subpunctum",
     "count": 79,
-    "pattern": "U0-"
+    "pattern": null
   },
   {
     "n": 12,
     "description": "Virga + oriscus + 1 subpunctum + stropha",
     "count": 1,
-    "pattern": "U0-u"
+    "pattern": null
   },
   {
     "n": 13,
     "description": "Virga + oriscus + 2 subpuncta",
     "count": 2,
-    "pattern": "U0--"
+    "pattern": null
   },
   {
     "n": 14,
     "description": "Virga + oriscus + 2 subpuncta + stropha",
     "count": 1,
-    "pattern": "U0--u"
+    "pattern": null
   },
   {
     "n": 15,
-    "description": "Virga liq. + 1 subpunctum",
+    "description": "Virga + 1 subpunctum",
     "count": 0,
-    "pattern": "Udd"
+    "pattern": null
   },
   {
     "n": 16,
-    "description": "Virga liq. + 2 subpuncta",
+    "description": "Virga liq. + 1 subpunctum",
     "count": 1,
-    "pattern": "Uddd"
+    "pattern": null
   },
   {
     "n": 17,
-    "description": "Virga + 1 subpunctum + substropha",
+    "description": "Virga liq. + 2 subpuncta",
     "count": 8,
-    "pattern": "U--"
+    "pattern": null
   },
   {
     "n": 18,
-    "description": "Virga + 3 subpuncta",
-    "count": 127,
-    "pattern": "U---"
+    "description": "Virga + 1 subpunctum + substropha",
+    "count": 129,
+    "pattern": null
   },
   {
     "n": 19,
-    "description": "Virga + 2 subpuncta + substropha",
+    "description": "Virga + 3 subpuncta",
     "count": 12,
-    "pattern": "U---"
+    "pattern": null
   },
   {
     "n": 20,
-    "description": "Virga + 3 subpuncta + stropha",
+    "description": "Virga + 2 subpuncta + substropha",
     "count": 14,
-    "pattern": "?u---u"
+    "pattern": null
   },
   {
     "n": 21,
-    "description": "Virga + 4 subpuncta",
+    "description": "Virga + 3 subpuncta + stropha",
     "count": 10,
-    "pattern": "U----"
+    "pattern": null
   },
   {
     "n": 22,
-    "description": "Virga + 3 subpuncta + epiphonus",
+    "description": "Virga + 4 subpuncta",
     "count": 8,
-    "pattern": "U----+"
+    "pattern": null
   },
   {
     "n": 23,
-    "description": "Virga + 3 subpuncta + substropha",
+    "description": "Virga + 3 subpuncta + epiphonus",
     "count": 3,
-    "pattern": "U----"
+    "pattern": null
   },
   {
     "n": 24,
-    "description": "Virga + 4 subpuncta + stropha",
+    "description": "Virga + 3 subpuncta + substropha",
     "count": 1,
-    "pattern": "U----u"
+    "pattern": null
   },
   {
     "n": 25,
-    "description": "Virga + 5 subpuncta",
+    "description": "Virga + 4 subpuncta + stropha",
     "count": 1,
-    "pattern": "U-----"
+    "pattern": null
   },
   {
     "n": 26,
-    "description": "Virga with stroke",
+    "description": "Virga + 5 subpuncta",
     "count": 12,
-    "pattern": "U"
+    "pattern": null
   },
   {
     "n": 27,
-    "description": "Virga liq. with stroke",
+    "description": "Virga with stroke",
     "count": 1,
-    "pattern": "Ud"
+    "pattern": null
   },
   {
     "n": 28,
-    "description": "Virga + 2 subpuncta + substropha + stropha",
+    "description": "Virga liq. with stroke",
     "count": 2,
-    "pattern": "U---u"
+    "pattern": null
   },
   {
     "n": 29,
-    "description": "Epiphonus",
-    "count": 77,
-    "pattern": "du"
+    "description": "Virga + 2 subpuncta + substropha + stropha",
+    "count": 78,
+    "pattern": null
   },
   {
     "n": 30,
-    "description": "1 prepunctum + epiphonus",
+    "description": "Epiphonus",
     "count": 10,
-    "pattern": "dUu"
+    "pattern": null
   },
   {
     "n": 31,
-    "description": "Pes",
-    "count": 512,
-    "pattern": "?u"
+    "description": "1 prepunctum + epiphonus",
+    "count": 520,
+    "pattern": null
   },
   {
     "n": 32,
-    "description": "Pes liq.",
-    "count": 15,
-    "pattern": "?ud"
+    "description": "Pes",
+    "count": 16,
+    "pattern": null
   },
   {
     "n": 33,
-    "description": "Pes + 2 subpuncta",
+    "description": "Pes liq.",
     "count": 61,
-    "pattern": "?u--"
+    "pattern": null
   },
   {
     "n": 34,
-    "description": "Pes + 1 subpunctum + substropha",
+    "description": "Pes + 2 subpuncta",
     "count": 1,
-    "pattern": "?u--"
+    "pattern": null
   },
   {
     "n": 35,
-    "description": "Pes + 2 subpuncta + stropha",
-    "count": 6,
-    "pattern": "?u--u"
+    "description": "Pes + 1 subpunctum + substropha",
+    "count": 7,
+    "pattern": null
   },
   {
     "n": 36,
-    "description": "Pes + 3 subpuncta",
+    "description": "Pes + 2 subpuncta + stropha",
     "count": 14,
-    "pattern": "?u---"
+    "pattern": null
   },
   {
     "n": 37,
-    "description": "Pes + 2 subpuncta + substropha",
+    "description": "Pes + 3 subpuncta",
     "count": 2,
-    "pattern": "?u---"
+    "pattern": null
   },
   {
     "n": 38,
-    "description": "Pes + 3 subpuncta + substropha",
+    "description": "Pes + 2 subpuncta + substropha",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 39,
-    "description": "Pes + 3 subpuncta + stropha",
+    "description": "Pes + 3 subpuncta + substropha",
     "count": 3,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 40,
-    "description": "Pes + 2 subpuncta + substropha + stropha",
+    "description": "Pes + 3 subpuncta + stropha",
     "count": 1,
-    "pattern": "?u---u"
+    "pattern": null
   },
   {
     "n": 41,
-    "description": "Pes + 4 subpuncta + stropha",
+    "description": "Pes + 2 subpuncta + substropha + stropha",
     "count": 1,
-    "pattern": "?u----u"
+    "pattern": null
   },
   {
     "n": 42,
-    "description": "1 prepunctum + pes",
+    "description": "Pes + 4 subpuncta",
     "count": 6,
-    "pattern": "?Uu"
+    "pattern": null
   },
   {
     "n": 43,
-    "description": "1 prepunctum + pes liq.",
+    "description": "Pes + 4 subpuncta + stropha",
     "count": 1,
-    "pattern": "?Uud"
+    "pattern": null
   },
   {
     "n": 44,
-    "description": "1 prepunctum + pes + 3 subpuncta",
+    "description": "1 prepunctum + pes",
     "count": 1,
-    "pattern": "?Uu--"
+    "pattern": null
   },
   {
     "n": 45,
-    "description": "Torculus resupinus",
+    "description": "1 prepunctum + pes liq.",
     "count": 13,
-    "pattern": "?udu"
+    "pattern": null
   },
   {
     "n": 46,
-    "description": "Pes + oriscus",
+    "description": "1 prepunctum + pes + 3 subpuncta",
     "count": 1,
-    "pattern": "?u0"
+    "pattern": null
   },
   {
     "n": 47,
-    "description": "Pes + oriscus + 1 subpunctum",
+    "description": "Torculus resupinus",
     "count": 2,
-    "pattern": "?u0-"
+    "pattern": null
   },
   {
     "n": 48,
-    "description": "Ancus",
+    "description": "Pes + oriscus",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 49,
-    "description": "Clivis",
-    "count": 790,
-    "pattern": "Ud"
+    "description": "Pes + oriscus + 1 subpunctum",
+    "count": 807,
+    "pattern": null
   },
   {
     "n": 50,
-    "description": "Clivis liq.",
+    "description": "Ancus",
     "count": 7,
-    "pattern": "Udd"
+    "pattern": null
   },
   {
     "n": 51,
-    "description": "Clivis with stroke above",
+    "description": "Clivis",
     "count": 11,
-    "pattern": "Ud"
+    "pattern": null
   },
   {
     "n": 52,
-    "description": "Clivis with stroke",
+    "description": "Clivis liq.",
     "count": 3,
-    "pattern": "Ud"
+    "pattern": null
   },
   {
     "n": 53,
-    "description": "Clivis + stropha",
-    "count": 6,
-    "pattern": "Udu"
+    "description": "Clivis with stroke above",
+    "count": 7,
+    "pattern": null
   },
   {
     "n": 54,
-    "description": "Clivis liq. + stropha",
+    "description": "Clivis with stroke",
     "count": 1,
-    "pattern": "Uddu"
+    "pattern": null
   },
   {
     "n": 55,
-    "description": "1 prepunctum + clivis",
+    "description": "Clivis + stropha",
     "count": 1,
-    "pattern": "?ud"
+    "pattern": null
   },
   {
     "n": 56,
-    "description": "2 prepuncta + clivis",
+    "description": "Clivis liq. + stropha",
     "count": 7,
-    "pattern": "?uud"
+    "pattern": null
   },
   {
     "n": 57,
-    "description": "2 prepuncta + clivis + stropha",
+    "description": "1 prepunctum + clivis",
     "count": 2,
-    "pattern": "?uudu"
+    "pattern": null
   },
   {
     "n": 58,
-    "description": "Clivis + 2 subpuncta",
+    "description": "2 prepuncta + clivis",
     "count": 5,
-    "pattern": "Ud--"
+    "pattern": null
   },
   {
     "n": 59,
-    "description": "Clivis + 2 subpuncta + stropha",
+    "description": "2 prepuncta + clivis + stropha",
     "count": 1,
-    "pattern": "Ud--u"
+    "pattern": null
   },
   {
     "n": 60,
-    "description": "Clivis + 3 subpuncta",
+    "description": "Clivis + 1 subpunctum",
     "count": 1,
-    "pattern": "Ud---"
+    "pattern": null
   },
   {
     "n": 61,
-    "description": "Torculus",
-    "count": 107,
-    "pattern": "?ud"
+    "description": "Clivis + 2 subpuncta",
+    "count": 108,
+    "pattern": null
   },
   {
     "n": 62,
-    "description": "Torculus + 1 subpunctum",
-    "count": 1,
-    "pattern": "?ud-"
+    "description": "Clivis + 2 subpuncta + stropha",
+    "count": 2,
+    "pattern": null
   },
   {
     "n": 63,
-    "description": "Torculus + oriscus",
+    "description": "Clivis + 3 subpuncta",
     "count": 1,
-    "pattern": "?ud0"
+    "pattern": null
   },
   {
     "n": 64,
-    "description": "Torculus + oriscus + 1 subpunctum",
+    "description": "Torculus",
     "count": 3,
-    "pattern": "?ud0-"
+    "pattern": null
   },
   {
     "n": 65,
-    "description": "1 prepunctum + torculus",
+    "description": "Torculus liq.",
     "count": 1,
-    "pattern": "?Uud"
+    "pattern": null
   },
   {
     "n": 66,
-    "description": "Porrectus",
-    "count": 113,
-    "pattern": "Udu"
+    "description": "Torculus + 1 subpunctum",
+    "count": 114,
+    "pattern": null
   },
   {
     "n": 67,
-    "description": "2 prepuncta + porrectus",
+    "description": "Torculus + oriscus",
     "count": 1,
-    "pattern": "?+Udu"
+    "pattern": null
   },
   {
     "n": 68,
-    "description": "Porrectus liq.",
+    "description": "Torculus + oriscus + 1 subpunctum",
     "count": 1,
-    "pattern": "Udud"
+    "pattern": null
   },
   {
     "n": 69,
-    "description": "Porrectus + oriscus + 1 subpunctum",
+    "description": "1 prepunctum + torculus",
     "count": 1,
-    "pattern": "Udu0-"
+    "pattern": null
   },
   {
     "n": 70,
-    "description": "Quilisma 2 loops + virga",
-    "count": 79,
-    "pattern": ""
+    "description": "Porrectus",
+    "count": 82,
+    "pattern": null
   },
   {
     "n": 71,
-    "description": "Quilisma 2 loops + virga liq.",
-    "count": 5,
-    "pattern": ""
+    "description": "2 prepuncta + porrectus",
+    "count": 6,
+    "pattern": null
   },
   {
     "n": 72,
-    "description": "Quilisma 2 loops + virga + stropha",
+    "description": "Porrectus liq.",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 73,
-    "description": "Quilisma 2 loops + clivis",
+    "description": "Porrectus + oriscus + 1 subpunctum",
     "count": 42,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 74,
-    "description": "Quilisma 2 loops + clivis liq.",
+    "description": "Quilisma 2 loops + virga",
     "count": 2,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 75,
-    "description": "Quilisma 2 loops + clivis + 1 subpunctum",
+    "description": "Quilisma 2 loops + virga liq.",
     "count": 5,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 76,
-    "description": "Quilisma 2 loops + clivis + 2 subpuncta",
+    "description": "Quilisma 2 loops + virga + stropha",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 77,
-    "description": "1 prepunctum + quilisma 2 loops + clivis + 1 subpunctum + stropha",
+    "description": "Quilisma 2 loops + clivis",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 78,
-    "description": "1 prepunctum + quilisma 2 loops + clivis",
+    "description": "Quilisma 2 loops + clivis liq.",
     "count": 2,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 79,
-    "description": "Quilisma 2 loops + clivis + stropha",
+    "description": "Quilisma 2 loops + clivis + 1 subpunctum",
     "count": 4,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 80,
-    "description": "1 prepunctum + quilisma 2 loops + clivis + stropha",
+    "description": "Quilisma 2 loops + clivis + 2 subpuncta",
     "count": 3,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 81,
-    "description": "Quilisma 2 loops + porrectus",
+    "description": "1 prepunctum + quilisma 2 loops + clivis + 1 subpunctum + stropha",
     "count": 12,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 82,
-    "description": "1 prepunctum + quilisma 2 loops + clivis liq.",
+    "description": "1 prepunctum + quilisma 2 loops + clivis",
     "count": 0,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 83,
-    "description": "Quilisma 2 loops + virga + oriscus",
+    "description": "Quilisma 2 loops + clivis + stropha",
     "count": 4,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 84,
-    "description": "Quilisma 2 loops + virga + oriscus + 1 subpunctum",
+    "description": "1 prepunctum + quilisma 2 loops + clivis + stropha",
     "count": 0,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 85,
-    "description": "Quilisma 2 loops + virga + oriscus liq.",
+    "description": "Quilisma 2 loops + porrectus",
     "count": 4,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 86,
-    "description": "Quilisma 2 loops + virga + oriscus liq. + 1 subpunctum",
+    "description": "1 prepunctum + quilisma 2 loops + clivis liq.",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 87,
-    "description": "1 prepunctum + quilisma 2 loops + virga + oriscus liq. + 1 substropha",
+    "description": "Quilisma 2 loops + virga + oriscus",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 88,
-    "description": "1 prepunctum + quilisma 2 loops + virga",
+    "description": "Quilisma 2 loops + virga + oriscus + 1 subpunctum",
     "count": 13,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 89,
-    "description": "Quilisma 2 loops + virga + 2 subpuncta",
+    "description": "Quilisma 2 loops + virga + oriscus liq.",
     "count": 37,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 90,
-    "description": "1 prepunctum + quilisma 2 loops + virga + 2 subpuncta",
+    "description": "Quilisma 2 loops + virga + oriscus liq. + 1 subpunctum",
     "count": 2,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 91,
-    "description": "Quilisma 2 loops + virga + 1 subpunctum + substropha",
+    "description": "1 prepunctum + quilisma 2 loops + virga + oriscus liq. + 1 substropha",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 92,
-    "description": "1 prepunctum + quilisma 2 loops + virga + 1 subpunctum + substropha",
+    "description": "1 prepunctum + quilisma 2 loops + virga",
     "count": 3,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 93,
-    "description": "Quilisma 2 loops + virga + 2 subpuncta + stropha",
+    "description": "Quilisma 2 loops + virga + 2 subpuncta",
     "count": 2,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 94,
-    "description": "1 prepunctum + quilisma 2 loops + virga + 2 subpuncta + stropha",
+    "description": "1 prepunctum + quilisma 2 loops + virga + 2 subpuncta",
     "count": 3,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 95,
-    "description": "Quilisma 2 loops + virga + 3 subpuncta",
+    "description": "Quilisma 2 loops + virga + 1 subpunctum + substropha",
     "count": 2,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 96,
-    "description": "Quilisma 2 loops + virga + 2 subpuncta + substropha",
+    "description": "1 prepunctum + quilisma 2 loops + virga + 1 subpunctum + substropha",
     "count": 3,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 97,
-    "description": "1 prepunctum + quilisma 2 loops + virga + 2 subpuncta + substropha",
+    "description": "Quilisma 2 loops + virga + 2 subpuncta + stropha",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 98,
-    "description": "Quilisma 2 loops + virga + 3 subpuncta + substropha",
+    "description": "1 prepunctum + quilisma 2 loops + virga + 2 subpuncta + stropha",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 99,
-    "description": "Quilisma 2 loops + virga + 4 subpuncta + stropha",
+    "description": "Quilisma 2 loops + virga + 3 subpuncta",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 100,
-    "description": "Quilisma 2 loops + ancus + 2 subpuncta",
+    "description": "Quilisma 2 loops + virga + 2 subpuncta + substropha",
     "count": 0,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 101,
-    "description": "Quilisma 3 loops + virga",
-    "count": 68,
-    "pattern": ""
+    "description": "1 prepunctum + quilisma 2 loops + virga + 2 subpuncta + substropha",
+    "count": 70,
+    "pattern": null
   },
   {
     "n": 102,
-    "description": "Quilisma 3 loops + virga liq.",
+    "description": "Quilisma 2 loops + virga + 3 subpuncta + substropha",
     "count": 3,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 103,
-    "description": "Quilisma 3 loops + ancus",
+    "description": "Quilisma 2 loops + virga + 4 subpuncta + stropha",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 104,
-    "description": "Quilisma 3 loops + clivis",
+    "description": "Quilisma 2 loops + ancus + 2 subpuncta",
     "count": 36,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 105,
-    "description": "Quilisma 3 loops + clivis liq.",
+    "description": "Quilisma 3 loops + virga",
     "count": 5,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 106,
-    "description": "Quilisma 3 loops + clivis + substropha",
+    "description": "Quilisma 3 loops + virga liq.",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 107,
-    "description": "1 prepunctum + quilisma 3 loops + clivis",
+    "description": "Quilisma 3 loops + ancus",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 108,
-    "description": "1 prepunctum + quilisma 3 loops + clivis + 2 subpuncta",
+    "description": "Quilisma 3 loops + clivis",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 109,
-    "description": "Quilisma 3 loops + clivis + 1 subpunctum",
+    "description": "Quilisma 3 loops + clivis liq.",
     "count": 2,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 110,
-    "description": "Quilisma 3 loops + clivis + stropha",
+    "description": "Quilisma 3 loops + clivis + substropha",
     "count": 4,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 111,
-    "description": "1 prepunctum + quilisma 3 loops + clivis + stropha",
+    "description": "1 prepunctum + quilisma 3 loops + clivis",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 112,
-    "description": "Quilisma 3 loops + porrectus",
+    "description": "1 prepunctum + quilisma 3 loops + clivis + 2 subpuncta",
     "count": 10,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 113,
-    "description": "1 prepunctum + quilisma 3 loops + porrectus",
+    "description": "Quilisma 3 loops + clivis + 1 subpunctum",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 114,
-    "description": "Quilisma 3 loops + virga + oriscus",
+    "description": "Quilisma 3 loops + clivis + stropha",
     "count": 5,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 115,
-    "description": "Quilisma 3 loops + virga + oriscus liq.",
+    "description": "1 prepunctum + quilisma 3 loops + clivis + stropha",
     "count": 4,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 116,
-    "description": "Quilisma 3 loops + virga + oriscus + 1 subpunctum",
+    "description": "Quilisma 3 loops + porrectus",
     "count": 0,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 117,
-    "description": "Quilisma 3 loops + virga + oriscus liq. + 1 subpunctum",
+    "description": "1 prepunctum + quilisma 3 loops + porrectus",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 118,
-    "description": "Quilisma 3 loops + virga + 2 subpuncta",
+    "description": "Quilisma 3 loops + virga + oriscus",
     "count": 13,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 119,
-    "description": "1 prepunctum + quilisma 3 loops + virga + 2 subpuncta",
+    "description": "Quilisma 3 loops + virga + oriscus liq.",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 120,
-    "description": "Quilisma 3 loops + virga + 1 subpunctum + substropha",
+    "description": "Quilisma 3 loops + virga + oriscus + 1 subpunctum",
     "count": 3,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 121,
-    "description": "Quilisma 3 loops + virga + 3 subpuncta",
+    "description": "Quilisma 3 loops + virga + oriscus liq. + 1 subpunctum",
     "count": 5,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 122,
-    "description": "Quilisma 3 loops + virga + 2 subpuncta + substropha",
+    "description": "Quilisma 3 loops + virga + 2 subpuncta",
     "count": 8,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 123,
-    "description": "1 prepunctum + quilisma 3 loops + virga + 2 subpuncta + substropha",
+    "description": "1 prepunctum + quilisma 3 loops + virga + 2 subpuncta",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 124,
-    "description": "Quilisma 3 loops + virga + 2 subpuncta + stropha",
+    "description": "Quilisma 3 loops + virga + 1 subpunctum + substropha",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 125,
-    "description": "1 prepunctum + quilisma 3 loops + virga + 2 subpuncta + stropha",
+    "description": "Quilisma 3 loops + virga + 3 subpuncta",
     "count": 2,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 126,
-    "description": "1 prepunctum + Quilisma 3 loops + virga + 2 subpuncta + substropha",
+    "description": "Quilisma 3 loops + virga + 2 subpuncta + substropha",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 127,
-    "description": "1 prepunctum + Quilisma 3 loops + virga",
+    "description": "1 prepunctum + quilisma 3 loops + virga + 2 subpuncta + substropha",
     "count": 5,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 128,
-    "description": "Quilisma 4 loops + virga",
+    "description": "Quilisma 3 loops + virga + 2 subpuncta + stropha",
     "count": 2,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 129,
-    "description": "Quilisma 4 loops + virga + 3 subpuncta",
+    "description": "1 prepunctum + quilisma 3 loops + virga + 2 subpuncta + stropha",
     "count": 1,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 130,
-    "description": "Virga + 2 subpuncta",
-    "count": 511,
-    "pattern": "U--"
+    "description": "1 prepunctum + Quilisma 3 loops + virga + 2 subpuncta + substropha",
+    "count": 522,
+    "pattern": null
   },
   {
     "n": 131,
-    "description": "Virga with stroke + 2 subpuncta",
+    "description": "1 prepunctum + Quilisma 3 loops + virga",
     "count": 2,
-    "pattern": "U--"
+    "pattern": null
   },
   {
     "n": 132,
-    "description": "Virga + 2 subpuncta + epiphonus",
+    "description": "Quilisma 4 loops + virga",
     "count": 11,
-    "pattern": "U---u"
+    "pattern": null
   },
   {
     "n": 133,
-    "description": "Virga + 2 subpuncta + stropha",
-    "count": 84,
-    "pattern": "U--u"
+    "description": "Quilisma 4 loops + virga + 3 subpuncta",
+    "count": 85,
+    "pattern": null
   },
   {
     "n": 134,
-    "description": "Virga + 2 subpuncta + stropha + oriscus + 1 subpunctum",
+    "description": "Virga + 2 subpuncta",
     "count": 4,
-    "pattern": "U--u0-"
+    "pattern": null
   },
   {
     "n": 135,
-    "description": "2 prepuncta + virga + 2 subpuncta",
+    "description": "Virga with stroke + 2 subpuncta<",
     "count": 4,
-    "pattern": "?+U--"
+    "pattern": null
   },
   {
     "n": 136,
-    "description": "2 prepuncta + virga + 2 subpuncta + stropha",
+    "description": "Virga + 2 subpuncta + epiphonus",
     "count": 9,
-    "pattern": "?+U--u"
+    "pattern": null
   },
   {
     "n": 137,
-    "description": "2 prepuncta + virga",
+    "description": "Virga + 2 subpuncta + stropha",
     "count": 46,
-    "pattern": "?+U"
+    "pattern": null
   },
   {
     "n": 138,
-    "description": "2 prepuncta + virga + 3 subpuncta",
+    "description": "Virga + 2 subpuncta + stropha + oriscus + 1subpunctum",
     "count": 4,
-    "pattern": "?+U---"
+    "pattern": null
   },
   {
     "n": 139,
-    "description": "2 prepuncta + virga + 3 subpuncta + stropha",
+    "description": "2 prepuncta + virga + 2 subpuncta",
     "count": 1,
-    "pattern": "?+U---u"
+    "pattern": null
   },
   {
     "n": 140,
-    "description": "2 prepuncta + virga liq.",
+    "description": "2 prepuncta + virga + 2 subpuncta + stropha",
     "count": 1,
-    "pattern": "?+Ud"
+    "pattern": null
   },
   {
     "n": 141,
-    "description": "1 prepunctum + tractulus + virga",
+    "description": "2 prepuncta + virga",
     "count": 10,
-    "pattern": "?+U"
+    "pattern": null
   },
   {
     "n": 142,
-    "description": "1 prepunctum + tractulus + quilisma 3 loops + virga",
+    "description": "2 prepuncta + virga + 3 subpuncta",
     "count": 5,
-    "pattern": ""
+    "pattern": null
   },
   {
     "n": 143,
-    "description": "Trigonus",
+    "description": "2 prepuncta + virga + 3 subpuncta + stropha",
     "count": 8,
-    "pattern": ""
+    "pattern": null
+  },
+  {
+    "n": 144,
+    "description": "2 prepuncta + virga liq.",
+    "count": 0,
+    "pattern": null
+  },
+  {
+    "n": 145,
+    "description": "1 prepunctum + tractulus + virga",
+    "count": 0,
+    "pattern": null
+  },
+  {
+    "n": 146,
+    "description": "1 prepunctum + tractulus + quilisma 3 loops + virga",
+    "count": 0,
+    "pattern": null
+  },
+  {
+    "n": 147,
+    "description": "Trigonus",
+    "count": 0,
+    "pattern": null
   }
 ]

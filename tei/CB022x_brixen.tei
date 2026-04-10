@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader/>
+  <teiHeader />
   <text>
     <body>
       <div type="sequence" met="1-4:2x8p/7pp, 5-6:2x(8p/7pp), 7-10:2x8p/7pp, 11:2x(8p/7pp)">
@@ -94,7 +94,7 @@
         </lg>
         <lg type="versicle" n="9b" met="8p/8p/7pp" rhyme="c/c/b">
           <l n="1"><w>Assunt</w><w>mox</w><w>apparitores</w></l>
-          <l >n="2"><w>mox</w><w>laniste</w><w>mox</w><w>tortores</w></l>
+          <l>n="2"&gt;<w>mox</w><w>laniste</w><w>mox</w><w>tortores</w></l>
           <l n="3"><w>iussa</w><w>complent</w><w>sceleris</w></l>
         </lg>
         <lg type="versicle" n="10a" met="8p/8p/7pp" rhyme="a/a/b">

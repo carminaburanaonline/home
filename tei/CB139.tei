@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader/>
+  <teiHeader />
   <text>
     <body>
       <div type="poem" met="I-VI:4x(7pp+6p), VII:4+3-/4+3-/4/4+3-">
@@ -880,10 +880,10 @@
               <app type="text">
                 <lem>
                   <w>
-                    <seg type="syll">mu&#x0364;te</seg>
+                    <seg type="syll">mu&#868;te</seg>
                   </w>
                 </lem>
-                <note>&#x0364; man. r. cod.</note>
+                <note>&#868; man. r. cod.</note>
               </app>
               <pc resp="#editor">,</pc>
             </seg>
@@ -892,7 +892,7 @@
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">ge</seg>
-                <seg type="syll" part="M">lo&#x0367;</seg>
+                <seg type="syll" part="M">lo&#871;</seg>
                 <seg type="syll" part="F">bet</seg>
               </w>
               <w>
@@ -902,7 +902,7 @@
                 <seg type="syll">der</seg>
               </w>
               <w>
-                <seg type="syll" part="I">gru&#x0366;</seg>
+                <seg type="syll" part="I">gru&#870;</seg>
                 <seg type="syll" part="F">ne</seg>
               </w>
               <w>
@@ -915,7 +915,7 @@
                 <seg type="syll">des</seg>
               </w>
               <w>
-                <seg type="syll">fro&#x0367;et</seg>
+                <seg type="syll">fro&#871;et</seg>
               </w>
               <w>
                 <seg type="syll">sih</seg>
@@ -925,7 +925,7 @@
               </w>
               <w>
                 <seg type="syll" part="I">ge</seg>
-                <seg type="syll" part="M">mu&#x0366;</seg>
+                <seg type="syll" part="M">mu&#870;</seg>
                 <seg type="syll" part="F">te</seg>
               </w>
               <pc resp="#editor">.</pc>
@@ -956,11 +956,11 @@
               <app type="text">
                 <lem>
                   <w>
-                    <seg type="syll" part="I">Vro&#x0364;</seg>
+                    <seg type="syll" part="I">Vro&#868;</seg>
                     <seg type="syll" part="F">de</seg>
                   </w>
                 </lem>
-                <note>&#x0364; man. r. cod.</note>
+                <note>&#868; man. r. cod.</note>
               </app>
               <w>
                 <seg type="syll">han</seg>
@@ -989,11 +989,11 @@
               <app type="text">
                 <lem>
                   <w>
-                    <seg type="syll" part="I">gu&#x0364;</seg>
+                    <seg type="syll" part="I">gu&#868;</seg>
                     <seg type="syll" part="F">te</seg>
                   </w>
                 </lem>
-                <note>&#x0364; man. r. cod.</note>
+                <note>&#868; man. r. cod.</note>
               </app>
               <pc resp="#editor">.</pc>
             </seg>
