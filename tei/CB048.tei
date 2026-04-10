@@ -456,7 +456,8 @@
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="strophe">
+        <lg type="refrain">
+          <head>Refl.</head>
           <l n="1">
             <w>
               <seg type="syll" part="I">Ex<notatedMusic>
@@ -2213,8 +2214,9 @@
         </lg>
         <lg type="strophe" n="VI">
           <l n="1">
+            <pc resp="#editor" pre="true">&#171;</pc>
             <w>
-              <seg type="syll" part="I">&#171;H&#246;rs</seg>
+              <seg type="syll" part="I">Ho&#x0364;rs</seg>
               <seg type="syll" part="F">tu</seg>
             </w>
             <pc resp="#editor">,</pc>
@@ -2263,7 +2265,7 @@
               <seg type="syll">Wir</seg>
             </w>
             <w>
-              <seg type="syll" part="I">m&#251;</seg>
+              <seg type="syll" part="I">mu&#x0366;</seg>
               <seg type="syll" part="F">zen</seg>
             </w>
             <w>
@@ -2324,7 +2326,7 @@
               <seg type="syll">tag</seg>
             </w>
             <w>
-              <seg type="syll">&#251;f</seg>
+              <seg type="syll">u&#x0366;f</seg>
             </w>
             <w>
               <seg type="syll">brach</seg>
@@ -2374,7 +2376,7 @@
               <seg type="syll">we</seg>
             </w>
             <w>
-              <seg type="syll">t&#251;t</seg>
+              <seg type="syll">tu&#x0366;t</seg>
             </w>
             <w>
               <seg type="syll">tach</seg>
@@ -2453,14 +2455,14 @@
               <seg type="syll">Stand</seg>
             </w>
             <w>
-              <seg type="syll">&#251;f</seg>
+              <seg type="syll">u&#x0366;f</seg>
             </w>
             <pc resp="#editor">,</pc>
             <w>
               <seg type="syll" part="I">ri</seg>
               <seg type="syll" part="F">ter</seg>
             </w>
-            <pc resp="#editor">&#187;!</pc>
+            <pc resp="#editor">!&#187;</pc>
           </l>
         </lg>
       </div>
