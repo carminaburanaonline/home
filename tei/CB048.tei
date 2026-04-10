@@ -2,8 +2,8 @@
   <teiHeader />
   <text>
     <body>
-      <div type="poem">
-        <lg type="strophe" n="I">
+      <div type="poem" met="I:10pp/5pp/2x10pp/5pp/3x10pp/5pp/10pp, II:10pp/5pp/2x10pp/5pp/3x10pp/5pp/10pp,9pp, III-V:10pp/5pp/2x10pp/5pp/3x10pp/5pp/10pp, VI:2x(5-/3/5)/2x4/3/5/2-, Refl.: 5p">
+        <lg type="strophe" n="I" met="10pp/5pp/10pp/10pp/5pp/10pp/10pp/10pp/5pp/10pp" rhyme="A/A/A/A/A/A/A/A/A/A">
           <l n="1">
             <w>
               <seg type="syll">Quod<notatedMusic>
@@ -456,7 +456,7 @@
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="refrain">
+        <lg type="refrain" met="5p" rhyme="B">
           <head>Refl.</head>
           <l n="1">
             <w>
@@ -486,7 +486,7 @@
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="strophe" n="II">
+        <lg type="strophe" n="II" met="10pp/5pp/10pp/10pp/5pp/10pp/10pp/10pp/5pp/10pp/9pp" rhyme="A/A/A/A/A/A/A/A/A/A/B'">
           <l n="1">
             <w>
               <seg type="syll">Et<notatedMusic>
@@ -618,23 +618,14 @@
             </w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="4">
-            <w>
-              <seg type="syll" />
-            </w>
-            <pc resp="#editor">]...[</pc>
+          <l n="4" met="[10pp]">
+            <w>[...]</w>
           </l>
-          <l n="5">
-            <w>
-              <seg type="syll" />
-            </w>
-            <pc resp="#editor">]...[</pc>
+          <l n="5" met="[5pp]">
+            <w>[...]</w>
           </l>
-          <l n="6">
-            <w>
-              <seg type="syll" />
-            </w>
-            <pc resp="#editor">]...[</pc>
+          <l n="6" met="[10pp]">
+            <w>[...]</w>
           </l>
           <l n="7">
             <w>
@@ -853,8 +844,8 @@
             <pc resp="#editor">,</pc>
           </l>
         </lg>
-        <lg type="strophe" n="III">
-          <l n="1">
+        <lg type="strophe" n="III" met="10pp/5pp/10pp/10pp/5pp/10pp/10pp/10pp/5pp/10pp" rhyme="A/A/A/A/A/A/A/A/A/A">
+          <l n="1" rhyme="x">
             <w>
               <seg type="syll" part="I">Su<notatedMusic>
                   <neume fontname="buranus" glyph.num="1" label="pu" />
@@ -1301,8 +1292,8 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="IV">
-          <l n="1">
+        <lg type="strophe" n="IV" met="10pp/5pp/10pp/10pp/5pp/10pp/10pp/10pp/5pp/10pp" rhyme="A/A/A/A/A/A/A/A/A/A">
+          <l n="1" rhyme="x">
             <w>
               <seg type="syll">Et<notatedMusic>
                   <neume fontname="buranus" glyph.num="1" label="pu" />
@@ -1761,7 +1752,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="V">
+        <lg type="strophe" n="V" met="10pp/5pp/10pp/10pp/5pp/10pp/10pp/10pp/5pp/10pp" rhyme="a/a/a/a/a/a/a/a/a/a">
           <l n="1">
             <w>
               <seg type="syll" part="I">Ex<notatedMusic>
@@ -2212,7 +2203,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="VI">
+        <lg type="strophe" n="VI" met="5-/3/.5/5-/3/..5/4/4/.3/.5/2-" rhyme="a/b/c/a'/b/c/b/b/d/d/x">
           <l n="1">
             <pc resp="#editor" pre="true">&#171;</pc>
             <w>
