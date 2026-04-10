@@ -1,8 +1,9 @@
 <TEI>
-  <teiHeader></teiHeader>
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I-VI:4x(7pp+6p), VII:4+3-/4+3-/4/4+3-">
+        <head>Item aliud</head>
         <lg type="strophe" n="I" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="a+b/a+b/a+b/a+b">
           <l n="1">
             <seg type="hemistich">
@@ -302,8 +303,8 @@
               <app type="text">
                 <lem wit="HS V T">
                   <w>
-                <seg type="syll">quo</seg>
-              </w>
+                    <seg type="syll">quo</seg>
+                  </w>
                 </lem>
                 <rdg wit="cod."><w>qua</w></rdg>
               </app>
@@ -314,10 +315,10 @@
               <app type="text">
                 <lem wit="HS T">
                   <w>
-                <seg type="syll" part="I">de</seg>
-                <seg type="syll" part="M">be</seg>
-                <seg type="syll" part="F">at</seg>
-              </w>
+                    <seg type="syll" part="I">de</seg>
+                    <seg type="syll" part="M">be</seg>
+                    <seg type="syll" part="F">at</seg>
+                  </w>
                 </lem>
                 <rdg wit="cod. V"><w>gaudia</w></rdg>
               </app>
@@ -326,10 +327,10 @@
               <app type="text">
                 <lem wit="HS T">
                   <w>
-                <seg type="syll" part="I">gau</seg>
-                <seg type="syll" part="M">di</seg>
-                <seg type="syll" part="F">a</seg>
-              </w>
+                    <seg type="syll" part="I">gau</seg>
+                    <seg type="syll" part="M">di</seg>
+                    <seg type="syll" part="F">a</seg>
+                  </w>
                 </lem>
                 <rdg wit="cod. V"><w>debeat</w></rdg>
               </app>
@@ -481,9 +482,9 @@
               <app type="text">
                 <lem wit="HS V T">
                   <w>
-                <seg type="syll" part="I">Hu</seg>
-                <seg type="syll" part="F">ic</seg>
-              </w>
+                    <seg type="syll" part="I">Hu</seg>
+                    <seg type="syll" part="F">ic</seg>
+                  </w>
                 </lem>
                 <rdg wit="cod."><w>hec</w></rdg>
               </app>
@@ -661,10 +662,10 @@
               <app type="text">
                 <lem wit="T">
                   <w>
-                <seg type="syll" part="I">fe</seg>
-                <seg type="syll" part="M">ce</seg>
-                <seg type="syll" part="F">ro</seg>
-              </w>
+                    <seg type="syll" part="I">fe</seg>
+                    <seg type="syll" part="M">ce</seg>
+                    <seg type="syll" part="F">ro</seg>
+                  </w>
                 </lem>
                 <rdg wit="cod. HS V"><w>fecero</w></rdg>
               </app>
@@ -734,13 +735,13 @@
               <app type="text">
                 <lem>
                   <w>
-                <seg type="syll">quo</seg>
-              </w>
-              <w>
-                <seg type="syll" part="I">al</seg>
-                <seg type="syll" part="M">li</seg>
-                <seg type="syll" part="F">gor</seg>
-              </w>
+                    <seg type="syll">quo</seg>
+                  </w>
+                  <w>
+                    <seg type="syll" part="I">al</seg>
+                    <seg type="syll" part="M">li</seg>
+                    <seg type="syll" part="F">gor</seg>
+                  </w>
                 </lem>
                 <note>spat. vac. inter <w>quo</w> et <w>alligor</w>; <w>quo-</w> p. ras. cod.</note>
               </app>
@@ -806,13 +807,13 @@
               <app type="text">
                 <lem>
                   <w>
-                <seg type="syll">quam</seg>
-              </w>
-              <w>
-                <seg type="syll" part="I">e</seg>
-                <seg type="syll" part="M">li</seg>
-                <seg type="syll" part="F">go</seg>
-              </w>
+                    <seg type="syll">quam</seg>
+                  </w>
+                  <w>
+                    <seg type="syll" part="I">e</seg>
+                    <seg type="syll" part="M">li</seg>
+                    <seg type="syll" part="F">go</seg>
+                  </w>
                 </lem>
                 <note>spat. vac. inter <w>quam</w> et <w>eligo</w>; <w>-eligo</w> p. ras. cod.</note>
               </app>
@@ -864,8 +865,8 @@
               <app type="text">
                 <lem>
                   <w>
-                <seg type="syll">mich</seg>
-              </w>
+                    <seg type="syll">mich</seg>
+                  </w>
                 </lem>
                 <note>-r? eras. et corr. s.l. -ch man. r. cod.</note>
               </app>
@@ -880,8 +881,8 @@
                 mte <Superskript e> man. r. cod.
                 <lem>
                   <w>
-                <seg type="syll">mu&#x0364;te</seg>
-              </w>
+                    <seg type="syll">mu&#x0364;te</seg>
+                  </w>
                 </lem>
                 <note>&#x0364; man. r. cod.</note>
               </app>
@@ -988,10 +989,10 @@
               </w>
               <app type="text">
                 <lem>
-                <w>
-                  <seg type="syll" part="I">gu&#x0364;</seg>
-                  <seg type="syll" part="F">te</seg>
-                </w>
+                  <w>
+                    <seg type="syll" part="I">gu&#x0364;</seg>
+                    <seg type="syll" part="F">te</seg>
+                  </w>
                 </lem>
                 <note>&#x0364; man. r. cod.</note>
               </app>
