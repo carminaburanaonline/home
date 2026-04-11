@@ -54,6 +54,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
           <l n="2">
@@ -133,6 +134,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">:</pc>
           </l>
           <l n="4">
@@ -183,6 +185,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
           <l n="5">
@@ -210,6 +213,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
           </l>
           <l n="6">
             <w>
@@ -264,6 +268,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
           <l n="7">
@@ -318,6 +323,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
           <l n="8">
@@ -371,6 +377,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
           <l n="9">
@@ -432,6 +439,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
             <w>
               <seg type="syll">nec<notatedMusic>
@@ -453,6 +461,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">!</pc>
           </l>
         </lg>
@@ -483,6 +492,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">!</pc>
           </l>
         </lg>
@@ -540,6 +550,7 @@
               </seg>
             </w>
           </l>
+          <pc>&#183;</pc>
           <l n="2">
             <w>
               <seg type="syll" part="I">post<notatedMusic>
@@ -616,6 +627,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
           <l n="4" met="[10pp]">
@@ -699,6 +711,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">;</pc>
             <w>
               <seg type="syll" part="I">qui<notatedMusic>
@@ -731,6 +744,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
           <l n="9">
@@ -758,6 +772,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
           </l>
           <l n="10">
             <w>
@@ -812,6 +827,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
           <l n="11">
@@ -832,6 +848,7 @@
               </seg>
               <seg type="syll" part="F">bis</seg>
             </w>
+            <pc>&#183;</pc>
             <w>
               <seg type="syll">est</seg>
             </w>
@@ -841,6 +858,7 @@
               <seg type="syll" part="M">ci</seg>
               <seg type="syll" part="F">us</seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
         </lg>
@@ -895,6 +913,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
           </l>
           <l n="2">
             <w>
@@ -921,6 +940,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
           <l n="3">
@@ -975,6 +995,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
           <l n="4">
@@ -1027,6 +1048,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
           <l n="5">
@@ -1054,6 +1076,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
           <l n="6">
@@ -1108,6 +1131,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
           <l n="7">
@@ -1157,6 +1181,7 @@
               </seg>
               <seg type="syll" part="F">rit</seg>
             </w>
+            <pc>&#183;</pc>
           </l>
           <l n="8">
             <w>
@@ -1208,6 +1233,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
           <l n="9">
@@ -1289,6 +1315,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
@@ -1345,6 +1372,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
           </l>
           <l n="2">
             <w>
@@ -1421,6 +1449,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
           <l n="4">
@@ -1473,6 +1502,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
           </l>
           <l n="5">
             <w>
@@ -1521,6 +1551,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <w>
               <seg type="syll">qui<notatedMusic>
                   <neume fontname="buranus" glyph.num="51" label="cl" />
@@ -1552,6 +1583,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
           <l n="7">
@@ -1608,6 +1640,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
           <l n="8">
@@ -1664,6 +1697,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
           <l n="9">
@@ -1693,6 +1727,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
           </l>
           <l n="10">
             <w>
@@ -1749,6 +1784,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
@@ -1852,6 +1888,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <w>
               <seg type="syll" part="I">at<notatedMusic>
                   <neume fontname="buranus" glyph.num="51" label="cl" />
@@ -1881,6 +1918,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
           <l n="4">
@@ -1931,6 +1969,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
           <l n="5">
@@ -2011,6 +2050,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
           <l n="7">
@@ -2146,6 +2186,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
           <l n="10">
@@ -2200,6 +2241,7 @@
                 </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
@@ -2233,6 +2275,7 @@
               <seg type="syll" part="I">cin</seg>
               <seg type="syll" part="F">ne</seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
           <l n="2">
@@ -2249,6 +2292,7 @@
               <seg type="syll" part="I">ver</seg>
               <seg type="syll" part="F">iach</seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">?</pc>
           </l>
           <l n="3">
@@ -2277,6 +2321,7 @@
             <w>
               <seg type="syll">man</seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
           <l n="4">
@@ -2322,6 +2367,7 @@
             <w>
               <seg type="syll">brach</seg>
             </w>
+            <pc>&#183;</pc>
           </l>
           <l n="6">
             <w>
@@ -2349,6 +2395,7 @@
               <seg type="syll" part="I">en</seg>
               <seg type="syll" part="F">tran</seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
           <l n="7">
@@ -2362,6 +2409,7 @@
               <seg type="syll" part="I">senf</seg>
               <seg type="syll" part="F">te</seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
             <w>
               <seg type="syll">we</seg>
@@ -2372,6 +2420,7 @@
             <w>
               <seg type="syll">tach</seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
           <l n="8">
@@ -2409,6 +2458,7 @@
             <w>
               <seg type="syll">niht</seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
           <l n="10">
@@ -2439,6 +2489,7 @@
             <w>
               <seg type="syll">lieht</seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
           <l n="11">
@@ -2453,6 +2504,7 @@
               <seg type="syll" part="I">ri</seg>
               <seg type="syll" part="F">ter</seg>
             </w>
+            <pc>&#183;</pc>
             <pc resp="#editor">!&#187;</pc>
           </l>
         </lg>
