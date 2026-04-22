@@ -410,7 +410,7 @@
         </sp>
         <stage n="4"><w>Postea</w><w>Daniel</w><w>procedat</w><pc resp="#editor">,</pc><w>prophetiam</w><w>suam</w><w>exprimens</w><pc resp="#editor">:</pc></stage>
         <sp n="4">
-          <div type="poem" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a/a">
+          <div type="poem" met="I-II:4x(6pp+6pp)" rhyme="a/a/a/a">
             <lg type="strophe" n="I" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a/a">
               <l n="1">
                 <seg type="hemistich">
@@ -719,7 +719,7 @@
                 </seg>
               </l>
             </lg>
-            <lg type="strophe" n="II" met="6pp+6p/6pp+6p/6pp+6p/6pp+6p" rhyme="a/a/a/a">
+            <lg type="strophe" n="II" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a/a">
               <l n="1">
                 <seg type="hemistich">
                   <w>
@@ -2433,7 +2433,7 @@
         <sp n="10">
           <div type="poem" met="7pp+8p/7pp+8p/7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/b/b/b/b">
             <lg type="strophe" met="7pp+8p/7pp+8p/7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/b/b/b/b">
-              <l n="1" met="5pp">
+              <l n="1" met="5pp+8p">
                 <seg type="hemistich">
                   <w>
                     <seg type="syll">Ut<notatedMusic>
@@ -14301,7 +14301,7 @@
         </sp>
         <stage n="54"><w>Post</w><w>hec</w><w>Herodes</w><w>maxime</w><w>indignatus</w><w>vocari</w><w>faciat</w><w>archisynagogus</w><w>cum</w><w>Iudeis</w><w>suis</w><w>dicens</w><pc resp="#editor">:</pc></stage>
         <sp n="54">
-          <div type="poem" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a">
+          <div type="poem" met="4x(7pp+7pp)">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a">
               <l n="1">
                 <seg type="hemistich">
@@ -14443,7 +14443,7 @@
         </sp>
         <stage n="55"><w>Modo</w><w>veniat</w><w>archigynagogus</w><w>cum</w><w>magna</w><w>superbia</w><w>et</w><w>Iudeis</w><w>suis</w><pc resp="#editor">,</pc><w>cui</w><w>dicat</w><w>Herodes</w><pc resp="#editor">:</pc></stage>
         <sp n="55">
-          <div type="poem" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a">
+          <div type="poem" met="4x(7pp+7pp)">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a">
               <l n="1">
                 <seg type="hemistich">
@@ -14590,7 +14590,7 @@
         </sp>
         <stage n="56"><w>Respondeat</w><w>archisynagogus</w><w>cum</w><w>magna</w><w>sapientia</w><w>et</w><w>eloquentia</w><pc resp="#editor">:</pc></stage>
         <sp n="56">
-          <div type="poem" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a">
+          <div type="poem" met="4x(7pp+7pp)">
             <lg type="strophe" n="I" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a">
               <l n="1">
                 <seg type="hemistich">
@@ -14886,7 +14886,7 @@
         </sp>
         <stage n="57"><w>Respondent</w><w>reges</w><pc resp="#editor">:</pc></stage>
         <sp n="57">
-          <div type="poem" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a">
+          <div type="poem" met="4x(7pp+7pp)">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a">
               <l n="1">
                 <seg type="hemistich">
@@ -15039,7 +15039,7 @@
         </sp>
         <stage n="58"><w>Herodes</w><w>respondet</w><pc resp="#editor">:</pc></stage>
         <sp n="58">
-          <div type="poem" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a">
+          <div type="poem" met="4x(7pp+7pp)">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a">
               <l n="1">
                 <seg type="hemistich">
@@ -15189,7 +15189,7 @@
         </sp>
         <stage n="59"><w>Ab</w><w>Herode</w><w>discedant</w><w>tres</w><w>magi</w><w>paulatim</w><w>inspicientes</w><w>stellam</w><w>et</w><w>disputantes</w><w>de</w><w>illa</w><pc resp="#editor">.</pc><w>Interim</w><w>angelus</w><w>appareat</w><w>pastoribus</w><w>et</w><w>dicat</w><pc resp="#editor">:</pc></stage>
         <sp n="59">
-          <div type="poem" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a">
+          <div type="poem" met="4x(7pp+7pp)">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a">
               <l n="1">
                 <seg type="hemistich">
@@ -15340,7 +15340,7 @@
         </sp>
         <stage n="60"><w>Pastoribus</w><w>euntibus</w><w>dicat</w><w>diabolus</w><pc resp="#editor">:</pc></stage>
         <sp n="60">
-          <div type="poem" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a">
+          <div type="poem" met="4x(7pp+7pp)">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a">
               <l n="1">
                 <seg type="hemistich">
@@ -15488,7 +15488,7 @@
         </sp>
         <stage n="61"><w>Iterum</w><w>pastoribus</w><w>ad</w><w>negocium</w><w>suum</w><w>redeuntibus</w><w>dicat</w><w>angelus</w><pc resp="#editor">:</pc></stage>
         <sp n="61">
-          <div type="poem" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a/a">
+          <div type="poem" met="4x(6pp+6pp)">
             <lg type="strophe" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a/a">
               <l n="1" met="6pp+7pp">
                 <seg type="hemistich">
@@ -15625,7 +15625,7 @@
         </sp>
         <stage n="62"><w>Iterum</w><w>pastoribus</w><w>abeuntibus</w><w>dicat</w><w>diabolus</w><w>ad</w><w>aures</w><w>eorum</w><pc resp="#editor">:</pc></stage>
         <sp n="62">
-          <div type="poem" met="7pp+6pp/7pp+6pp/7pp+6pp/7pp+6pp" rhyme="a/a/a/a">
+          <div type="poem" met="4x(7pp+6pp)">
             <lg type="strophe" met="7pp+6pp/7pp+6pp/7pp+6pp/7pp+6pp" rhyme="a/a/a/a">
               <l n="1">
                 <seg type="hemistich">
@@ -15765,7 +15765,7 @@
         </sp>
         <stage n="63"><w>Mirentur</w><w>pastores</w><w>et</w><w>unus</w><w>dicat</w><w>ad</w><w>alterum</w><pc resp="#editor">:</pc></stage>
         <sp n="63">
-          <div type="poem" met="7pp+6pp/7pp+6pp/7pp+6pp/7pp+6pp" rhyme="a/a/a/a">
+          <div type="poem" met="4x(7pp+6pp)">
             <lg type="strophe" met="7pp+6pp/7pp+6pp/7pp+6pp/7pp+6pp" rhyme="a/a/a/a">
               <l n="1">
                 <seg type="hemistich">
@@ -15906,7 +15906,7 @@
         </sp>
         <stage n="64"><w>Dicat</w><w>iterum</w><w>angelus</w><w>ad</w><w>pastores</w><pc resp="#editor">:</pc></stage>
         <sp n="64">
-          <div type="poem" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a">
+          <div type="poem" met="4x(7pp+7pp)">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a">
               <l n="1">
                 <seg type="hemistich">
@@ -16060,9 +16060,9 @@
         </sp>
         <stage n="65"><w>Dicat</w><w>iterum</w><w>euntibus</w><w>diabolus</w><pc resp="#editor">:</pc></stage>
         <sp n="65">
-          <div type="poem" met="7pp+7p/7pp+7p/7pp+7p/7pp+7p" rhyme="a/a/a/a">
-            <lg type="strophe" met="7pp+7p/7pp+7p/7pp+7p/7pp+7p" rhyme="a/a/a/a">
-              <l n="1" met="7pp+8pp">
+          <div type="poem" met="4x(7pp+.6p)">
+            <lg type="strophe" met="7pp+.6p/7pp+.6p/7pp+.6p/7pp+.6p" rhyme="a/a/a/a">
+              <l n="1">
                 <seg type="hemistich">
                   <w>
                     <seg type="syll">O</seg>
@@ -16085,17 +16085,14 @@
                     <seg type="syll">et</seg>
                   </w>
                   <app type="text">
-                    <lem wit="cod. V">
+                    <lem wit="HS T">
                       <w>
-                        <seg type="syll">in</seg>
-                      </w>
-                    </lem>
-                    <note>om. HS T</note>
-                  </app>
-                  <w>
                     <seg type="syll" part="I">sen</seg>
                     <seg type="syll" part="F">su</seg>
                   </w>
+                    </lem>
+                    <rdg wit="cod. V"><w>in</w><w>sensu</w></rdg>
+                  </app>
                   <w>
                     <seg type="syll" part="I">vul</seg>
                     <seg type="syll" part="M">ne</seg>
@@ -16219,7 +16216,7 @@
         </sp>
         <stage n="66"><w>Iterum</w><w>pastores</w><w>ad</w><w>socios</w><w>suos</w><pc resp="#editor">:</pc></stage>
         <sp n="66">
-          <div type="poem" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a">
+          <div type="poem" met="4x(7pp+7pp)">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a">
               <l n="1">
                 <seg type="hemistich">

@@ -205,7 +205,7 @@
     "url": "https://daten.digitale-sammlungen.de/0003/bsb00031110/images/index.html?id=00031110&groesser=&fip=qrssdasxdsydxdsydxswxdsydeayafsdrqrs&no=12&seite=305",
     "concordances": "CB014* Planctus ante nescia, 150r",
     "notes": "Cantionale, Geistliche Lieder mit Melodien. Münchner Marienklage. Contains latin monophonic and polyphonic pieces, also german sacred songs (marian songs)\r\nProvenance: Tegernsee, benedictine abbey\r\nDate: third third of the 15th century\r\n\r\nRism catalogue description: https://opac.rism.info/rism/Record/rism456052828",
-    "IIIF_manifest": ""
+    "IIIF_manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00031110/manifest"
   },
   {
     "pk": 17,
@@ -1361,7 +1361,7 @@
     "notation": "",
     "url": "http://www.manuscriptorium.com/apps/index.php?direct=record&pid=AIPDIG-NKCR__XII_D_8A____0M79F84-cs",
     "concordances": "CB014* Planctus ante nescia, f. 148r-149v (text only)",
-    "notes": "The ms. is a breviarum de tempore.\r\nPossible origin: St. George's convent, castle of Prague.",
+    "notes": "The ms. is a breviarum de tempore. Possible origin: St. George's convent, castle of Prague.",
     "IIIF_manifest": ""
   },
   {
@@ -1400,8 +1400,7 @@
     "notation": "Hufnagel",
     "url": "https://gams.uni-graz.at/cocoon/toHTM?source=http%3A%2F%2Ffedora%3A8380%2Farchive%2Fget%2Fo%3Acantus.brixen%2FDC%2F2023-04-03T11%3A33%3A05.443Z&style=https%3A%2F%2Fgams.uni-graz.at%2Farchive%2Fobjects%2Fcirilo%3ABackbone%2Fdatastreams%2FOBJECTtoMIRADORHTML%2Fcontent&mode=http%3A%2F%2Fgams.uni-graz.at%2Farchive%2Fobjects%2Fo%3Acantus.brixen%2Fmethods%2Fsdef%3ATEI%2Fget&locale=&model=&context=&view=ImageView&manifest=https%3A%2F%2Fiiifp-mufo.oeaw.ac.at%2Fmahss%2FI-BREmdTaisten%2Fmanifest&canvas=https%3A%2F%2F",
     "concordances": "CB022* Hac in die, 269-270v",
-    "notes": "IIIF Manifest\r\nhttps://iiifp-mufo.oeaw.ac.at/mahss/I-BREmdTaisten/manifest",
-    "IIIF_manifest": ""
+    "IIIF_manifest": "https://iiifp-mufo.oeaw.ac.at/mahss/I-BREmdTaisten/manifest"
   },
   {
     "pk": 109,
