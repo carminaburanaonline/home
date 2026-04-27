@@ -66,19 +66,8 @@
               <w>illicitas</w>
             </seg>
             <seg type="hemistich">
-              <app type="text">
-                <lem wit="cod.">
-                  <w>liciter</w>
-                </lem>
-                <rdg wit="HS V Tc T"><w>licite</w></rdg>
-              </app>
-              <app type="text">
-                <lem wit="cod.">
-                  <w>accedunt</w>
-                </lem>
-                <rdg wit="HS Tc T"><w>recedunt</w></rdg>
-                <rdg wit="V"><w>procedunt</w></rdg>
-              </app>
+              <w>liciter</w>
+              <w>accedunt</w>
               <pc>&#183;</pc>
               <pc resp="#editor">.</pc>
             </seg>
@@ -108,7 +97,7 @@
               <w>mente</w>
               <w>quivis</w>
               <app type="text">
-                <lem wit="HS V Tc T">
+                <lem wit="CB O Om HS V Tc T">
                   <w>anxia</w>
                 </lem>
                 <rdg wit="cod."><w>noxia</w></rdg>
@@ -161,23 +150,13 @@
           </l>
           <l n="2">
             <seg type="hemistich">
-              <app type="text">
-                <lem wit="cod. V">
-                  <w>hoc</w>
-                  <w>verbum</w>
-                </lem>
-                <rdg wit="HS Tc T"><w>verbum</w><w>hoc</w></rdg>
-              </app>
+              <w>verbum</w>
+              <w>hoc</w>
               <w>pre</w>
               <w>ceteris</w>
             </seg>
             <seg type="hemistich">
-              <app type="text">
-                <lem wit="cod.">
-                  <w>volunt</w>
-                </lem>
-                <rdg wit="HS V Tc T"><w>norunt</w></rdg>
-              </app>
+              <w>volunt</w>
               <w>ignorare</w>
             </seg>
           </l>
