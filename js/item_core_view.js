@@ -110,7 +110,6 @@ function itemCoreView(div, item_id) {
         else {
           template = ""
           for (var x = 1; x < item.SVGfiles; x++) {
-            files[x-1] = `img/mzsc/${item_id}-${x}.svg`
             template += `<img src="img/mzsc/${item_id}-${x}.svg" style="width: 100%; margin-bottom: -12.5%;"/>`;
           }
           template += `<img src="img/mzsc/${item_id}-${x}.svg" style="width: 100%;"/>`;
