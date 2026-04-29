@@ -11,8 +11,8 @@
 
   <xsl:template match="body">
     <xsl:if test=".//app[@type='text']">
-      <div class="text-font font-small">
-        <p class="text-font"><b>Critical apparatus (text)</b></p>
+      <div class="editorial font-small">
+        <p class="editorial"><b>Critical apparatus (text)</b></p>
         <div class="flex-wrapper">
           <xsl:apply-templates select=".//app[@type='text']" />
         </div>
@@ -40,7 +40,7 @@
   </xsl:template>
 
   <xsl:template match="lem">
-    <span class="flex-wrapper lem text-font">
+    <span class="flex-wrapper lem editorial">
       <xsl:apply-templates />
       <xsl:if test="@wit">
         <i style="margin-left: 6px;"><xsl:value-of select="@wit" /></i>
@@ -66,7 +66,7 @@
   </xsl:template>
 
   <xsl:template match="w">
-    <span class="word text-font">
+    <span class="word editorial">
       <xsl:apply-templates />
     </span>
   </xsl:template>

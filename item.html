@@ -24,21 +24,12 @@
   </script>
 
   <!-- Add additional CSS in static file -->
-  <link rel="stylesheet" href="css/style.css"/>
+  <link rel="stylesheet" href="css/ui-components.css"/>
   <link rel="stylesheet" href="css/layout-generic.css"/>
   <link rel="stylesheet" href="css/neumed-text.css" />
 
   <style>
-    .verse {
-      break-inside: avoid;
-    }
-
-    .no-break {
-      break-inside: avoid;
-
-    }
-
-    p {
+    .verse, .no-break, .p {
       break-inside: avoid;
     }
 
@@ -72,10 +63,6 @@
       font-size: 16px;
       border: none;
       cursor: pointer;
-    }
-
-    .dropdown {
-      margin-left: auto;
     }
 
     .dropbtn:hover, .dropbtn:focus {
@@ -206,7 +193,7 @@
       </script>
 
       <div style="display: flex;">
-        <div id="itemLeft" class="cbo-border-inset cbo-border-sand flex-column" style="width: 50%;"></div>
+        <div id="itemLeft" class="sand-border flex-column" style="width: 50%;"></div>
         <script>
           itemCoreView($("#itemLeft"), item_id);
         </script>
@@ -276,7 +263,7 @@
           });
         </script>
 
-        <div class="cbo-border-inset cbo-border-sand" style="flex: 1;">
+        <div class="sand-border" style="flex: 1;">
           <div class="tab cbo-white cbo-wide cbo-padding cbo-card right">
             <button id="defaultOpenRight" class="tablinks cbo-bar-item cbo-button activable" onclick="openRightTab(this, 'msImage')">Manuscript</button>
             <button class="tablinks cbo-bar-item cbo-button activable" onclick="openRightTab(this, 'commentary')">Critical commentary</button>

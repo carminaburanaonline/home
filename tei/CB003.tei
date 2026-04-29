@@ -272,9 +272,8 @@
         <lg type="refrain" met="[6p]" rhyme="[A]">
           <head>[Refl.]</head>
           <l n="1">
-            <pc resp="#editor" pre="true">[</pc>
             <w>
-              <seg type="syll" part="I">Om</seg>
+              <seg type="syll" part="I">[Om</seg>
               <seg type="syll" part="F">nes</seg>
             </w>
             <w>
@@ -283,9 +282,8 @@
             </w>
             <w>
               <seg type="syll" part="I">le</seg>
-              <seg type="syll" part="F">dunt</seg>
+              <seg type="syll" part="F">dunt...]</seg>
             </w>
-            <pc resp="#editor">...]</pc>
           </l>
         </lg>
         <lg type="strophe" n="III" met="7pp+6p/7pp+6p/7pp+6p" rhyme="a+b/a+b/a+b">

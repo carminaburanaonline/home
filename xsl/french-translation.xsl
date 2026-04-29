@@ -4,7 +4,7 @@
   <xsl:template match="teiHeader"/>
 
   <xsl:template match="body">
-    <div class="text-font" style="font-size: 16px;">
+    <div class="editorial" style="font-size: 16px;">
       <xsl:apply-templates />
     </div>
   </xsl:template>
@@ -53,7 +53,7 @@
   </xsl:template>
 
   <xsl:template match="p">
-    <p class="text-font"><xsl:apply-templates /></p>
+    <p class="editorial"><xsl:apply-templates /></p>
   </xsl:template>
 
   <xsl:template match="div[@type='sequence']">

@@ -4,7 +4,7 @@
   <xsl:template match="teiHeader"/>
 
   <xsl:template match="body">
-    <div class="text-font" style="font-size: 16px;">
+    <div class="editorial" style="font-size: 16px;">
       <xsl:apply-templates />
     </div>
   </xsl:template>
@@ -53,7 +53,7 @@
   </xsl:template>
 
   <xsl:template match="p">
-    <p class="text-font flex-wrapper"><xsl:apply-templates /></p>
+    <p class="editorial flex-wrapper"><xsl:apply-templates /></p>
   </xsl:template>
 
   <xsl:template match="div[@type='sequence']">
@@ -157,7 +157,7 @@
   <!--<xsl:include href="word-and-syll.xsl"/>-->
 
   <xsl:template match="w">
-    <span class="word text-font" style="vertical-align: bottom;">
+    <span class="word editorial" style="vertical-align: bottom;">
       <xsl:if test="@rend='italic'">
           <xsl:attribute name="data-rend">italic</xsl:attribute>
       </xsl:if>
@@ -168,7 +168,7 @@
   <xsl:template match="seg[@type='syll']">
     <xsl:variable name="text"><xsl:value-of select="./text()"/></xsl:variable>
     <span class="neumed-syll">
-      <span class="syl text-font">
+      <span class="syl editorial">
         <xsl:if test="@part='I' or  @part='M'">
           <xsl:attribute name="data-dash">dashed</xsl:attribute>
         </xsl:if>

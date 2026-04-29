@@ -9,7 +9,7 @@
 
   <xsl:template match="lg[@type='strophe']">
     <div class="strophe">
-      <div class="text-font strophe-heading"><xsl:value-of select="@n"/></div>
+      <div class="editorial strophe-heading"><xsl:value-of select="@n"/></div>
       <xsl:apply-templates>
         <xsl:with-param name="strophepos" select="position()"/>
       </xsl:apply-templates>
@@ -43,7 +43,7 @@
   </xsl:template>
 
   <xsl:template match="seg[@type='word']">
-  <div class="word text-font">
+  <div class="word editorial">
     <xsl:apply-templates/>
   </div>
   </xsl:template>

@@ -84,7 +84,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .cbo-hide{display:none!important}.cbo-show-block,.cbo-show{display:block!important}.cbo-show-inline-block{display:inline-block!important}
 @media (max-width:1205px){.cbo-auto{max-width:95%}}
 @media (max-width:600px){.cbo-modal-content{margin:0 10px;width:auto!important}.cbo-modal{padding-top:30px}
-.cbo-dropdown-hover.cbo-mobile .cbo-dropdown-content,.cbo-dropdown-click.cbo-mobile .cbo-dropdown-content{position:relative}
+.cbo-dropdown-hover.cbo-mobile .cbo-dropdown-contcbo-dropdown-content,.cbo-dropdown-click.cbo-mobile .cbo-dropdown-content{position:relative}
 .cbo-hide-small{display:none!important}.cbo-mobile{display:block;width:100%!important}.cbo-bar-item.cbo-mobile,.cbo-dropdown-hover.cbo-mobile,.cbo-dropdown-click.cbo-mobile{text-align:center}
 .cbo-dropdown-hover.cbo-mobile,.cbo-dropdown-hover.cbo-mobile .cbo-btn,.cbo-dropdown-hover.cbo-mobile .cbo-button,.cbo-dropdown-click.cbo-mobile,.cbo-dropdown-click.cbo-mobile .cbo-btn,.cbo-dropdown-click.cbo-mobile .cbo-button{width:100%}}
 @media (max-width:768px){.cbo-modal-content{width:500px}.cbo-modal{padding-top:50px}}

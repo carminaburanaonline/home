@@ -2,7 +2,7 @@
 
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:template match="w">
-    <span class="word text-font" style="vertical-align: bottom;">
+    <span class="word editorial" style="vertical-align: bottom;">
       <xsl:if test="@rend='italic'">
           <xsl:attribute name="data-rend">italic</xsl:attribute>
       </xsl:if>
@@ -13,7 +13,7 @@
   <xsl:template match="seg[@type='syll']">
     <xsl:variable name="text"><xsl:value-of select="./text()"/></xsl:variable>
     <span class="neumed-syll">
-      <span class="syl text-font">
+      <span class="syl editorial">
         <xsl:if test="@part='I' or  @part='M'">
           <xsl:attribute name="data-dash">dashed</xsl:attribute>
         </xsl:if>

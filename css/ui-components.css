@@ -1,0 +1,88 @@
+/* ============================================================
+   UI COMPONENTS – Buttons, Tabs, Dropdowns
+   Restores legacy visual style (header-consistent)
+   ============================================================ */
+
+/* -------------------------
+   Shared button / tab style
+   ------------------------- */
+
+.sand-border {
+  border-color:#fdf5e6;
+  border-style: inset;
+}
+
+.resizer {
+  width: 10px;
+}
+
+button,
+.tablinks {
+  background-color: #ffffff;
+  border: none;
+  padding: 8px 14px;
+  font: inherit;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+button:hover,
+.tablinks:hover {
+  background-color: #f0d870; /* dark yellow */
+}
+
+button.active,
+.tablinks.active {
+  background-color: #ffed7f; /* light yellow */
+}
+
+button:focus {
+  outline: none;
+}
+
+/* -------------------------
+   Tabs container
+   ------------------------- */
+
+.tab {
+  display: flex;
+  border-bottom: 1px solid #ccc;
+}
+
+.tabcontent {
+  padding: 10px;
+}
+
+/* -------------------------
+   Dropdown menu
+   ------------------------- */
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-menu {
+  display: none; /* hidden by default */
+  position: absolute;
+  top: 100%;
+  background-color: white;
+  min-width: 160px;
+  z-index: 1000;
+}
+
+.dropdown-menu button {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: 8px 12px;
+}
+
+.dropdown-menu button:hover {
+  background-color: #f0d870; /* dark yellow */
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
