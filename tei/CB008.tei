@@ -243,18 +243,12 @@
               <seg type="syll" part="M">mo</seg>
               <seg type="syll" part="F">nis</seg>
             </w>
-            <app type="text">
-              <lem wit="cod. V T">
-                <w>
-                  <seg type="syll" part="I">of</seg>
-                  <seg type="syll" part="M">fi</seg>
-                  <seg type="syll" part="M">ci</seg>
-                  <seg type="syll" part="F">o</seg>
-                </w>
-              </lem>
-              <rdg wit="Ca HS Tc"><w>auspicio</w></rdg>
-              <rdg wit="To"><w>aspitio</w></rdg>
-            </app>
+            <w>
+              <seg type="syll" part="I">of</seg>
+              <seg type="syll" part="M">fi</seg>
+              <seg type="syll" part="M">ci</seg>
+              <seg type="syll" part="F">o</seg>
+            </w>
             <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
