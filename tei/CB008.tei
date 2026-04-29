@@ -277,27 +277,20 @@
             <pc resp="#editor">,</pc>
           </l>
           <l n="8">
-            <app type="text">
-              <lem wit="cod. V T">
-                <w>
-                  <seg type="syll">et</seg>
-                </w>
-                <w>
-                  <seg type="syll">sic</seg>
-                </w>
-                <w>
-                  <seg type="syll">fit</seg>
-                </w>
-                <w>
-                  <seg type="syll" part="I">Ie</seg>
-                  <seg type="syll" part="M">zi</seg>
-                  <seg type="syll" part="F">ta</seg>
-                </w>
-              </lem>
-              <rdg wit="T"><w>et</w><w>sic</w><w>fit</w><w>Giezita</w></rdg>
-              <rdg wit="Ca HS Tc"><w>sic</w><w>fit</w><w>Giezita</w></rdg>
-              <rdg wit="To"><w>effigiet</w><w>ita</w></rdg>
-            </app>
+            <w>
+              <seg type="syll">et</seg>
+            </w>
+            <w>
+              <seg type="syll">sic</seg>
+            </w>
+            <w>
+              <seg type="syll">fit</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">Ie</seg>
+              <seg type="syll" part="M">zi</seg>
+              <seg type="syll" part="F">ta</seg>
+            </w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
