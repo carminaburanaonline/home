@@ -84,7 +84,7 @@
                 </seg>
               </w>
               <app type="text">
-                <lem wit="HS T">
+                <lem wit="F R W1 HS T">
                   <w>
                     <seg type="syll">id<notatedMusic>
                       <neume fontname="buranus" glyph.num="7" label="vi" />
@@ -146,21 +146,16 @@
           </l>
           <l n="3">
             <seg type="hemistich">
-              <app type="text">
-                <lem wit="cod. V T">
-                  <w>
-                    <seg type="syll" part="I">pre<notatedMusic>
-                      <neume fontname="buranus" glyph.num="1" label="pu" />
-                    </notatedMusic>
-                    </seg>
-                    <seg type="syll" part="F">bet<notatedMusic>
-                      <neume fontname="buranus" glyph.num="7" label="vi" />
-                    </notatedMusic>
-                    </seg>
-                  </w>
-                </lem>
-                <rdg wit="HS"><w>vovet</w></rdg>
-              </app>
+              <w>
+                <seg type="syll" part="I">pre<notatedMusic>
+                  <neume fontname="buranus" glyph.num="1" label="pu" />
+                </notatedMusic>
+                </seg>
+                <seg type="syll" part="F">bet<notatedMusic>
+                  <neume fontname="buranus" glyph.num="7" label="vi" />
+                </notatedMusic>
+                </seg>
+              </w>
               <w>
                 <seg type="syll">cum<notatedMusic>
                   <neume fontname="buranus" glyph.num="7" label="vi" />
@@ -184,7 +179,7 @@
             </seg>
             <seg type="hemistich">
               <app type="text">
-                <lem wit="HS T">
+                <lem wit="F R W1 HS T">
                   <w>
                     <seg type="syll" part="I">ta<notatedMusic>
                       <neume fontname="buranus" glyph.num="1" label="pu" />
@@ -229,7 +224,7 @@
                 </seg>
               </w>
               <app type="text">
-                <lem wit="HS V T">
+                <lem wit="F R W1 HS V T">
                   <w>
                     <seg type="syll">si<notatedMusic>
                       <neume fontname="buranus" glyph.num="1" label="pu" />
@@ -294,7 +289,7 @@
           <l n="5">
             <seg type="hemistich">
               <app type="text">
-                <lem wit="HS V T">
+                <lem wit="F R W1 HS V T">
                   <w>
                     <seg type="syll">vis<notatedMusic>
                       <neume fontname="buranus" glyph.num="1" label="pu" />
@@ -548,25 +543,20 @@
                 </notatedMusic>
                 </seg>
               </w>
-              <app type="text">
-                <lem wit="cod. V T">
-                  <w>
-                    <seg type="syll" part="I">cor<notatedMusic>
-                      <neume fontname="buranus" glyph.num="7" label="vi" />
-                    </notatedMusic>
-                    </seg>
-                    <seg type="syll" part="M">ru<notatedMusic>
-                      <neume fontname="buranus" glyph.num="1" label="pu" />
-                    </notatedMusic>
-                    </seg>
-                    <seg type="syll" part="F">it<notatedMusic>
-                      <neume fontname="buranus" glyph.num="7" label="vi" />
-                    </notatedMusic>
-                    </seg>
-                  </w>
-                </lem>
-                <rdg wit="HS"><w>occidit</w></rdg>
-              </app>
+              <w>
+                <seg type="syll" part="I">cor<notatedMusic>
+                  <neume fontname="buranus" glyph.num="7" label="vi" />
+                </notatedMusic>
+                </seg>
+                <seg type="syll" part="M">ru<notatedMusic>
+                  <neume fontname="buranus" glyph.num="1" label="pu" />
+                </notatedMusic>
+                </seg>
+                <seg type="syll" part="F">it<notatedMusic>
+                  <neume fontname="buranus" glyph.num="7" label="vi" />
+                </notatedMusic>
+                </seg>
+              </w>
               <pc>&#183;</pc>
               <pc resp="#editor">.</pc>
             </seg>
@@ -866,15 +856,10 @@
         <lg type="strophe" n="III" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a+b/a+b/c+d/c+d/c+d/c+d">
           <l n="1">
             <seg type="hemistich">
-              <app type="text">
-                <lem wit="cod. V">
-                  <w>
-                    <seg type="syll" part="I">Cep</seg>
-                    <seg type="syll" part="F">ti</seg>
-                  </w>
-                </lem>
-                <rdg wit="HS T"><w>Facti</w></rdg>
-              </app>
+              <w>
+                <seg type="syll" part="I">Cep</seg>
+                <seg type="syll" part="F">ti</seg>
+              </w>
               <w>
                 <seg type="syll" part="I">di</seg>
                 <seg type="syll" part="M">mi</seg>
@@ -938,7 +923,7 @@
           <l n="3">
             <seg type="hemistich">
               <app type="text">
-                <lem wit="HS T">
+                <lem wit="F R W1 HS T">
                   <w>
                     <seg type="syll">non</seg>
                   </w>
@@ -972,15 +957,10 @@
           </l>
           <l n="4">
             <seg type="hemistich">
-              <app type="text">
-                <lem wit="cod. V">
-                  <w>
-                    <seg type="syll" part="I">ve</seg>
-                    <seg type="syll" part="F">rum</seg>
-                  </w>
-                </lem>
-                <rdg wit="HS T"><w>nedum</w></rdg>
-              </app>
+              <w>
+                <seg type="syll" part="I">ve</seg>
+                <seg type="syll" part="F">rum</seg>
+              </w>
               <w>
                 <seg type="syll" part="I">sol</seg>
                 <seg type="syll" part="M">li</seg>
@@ -1102,7 +1082,7 @@
                 <seg type="syll">dat</seg>
               </w>
               <app type="text">
-                <lem wit="HS T">
+                <lem wit="F R HS T">
                   <w>
                     <seg type="syll">hoc</seg>
                   </w>
@@ -1129,6 +1109,7 @@
                   </w>
                 </lem>
                 <rdg wit="cod. V"><w>in</w></rdg>
+                <rdg wit="F R"><w>id</w></rdg>
               </app>
               <w>
                 <seg type="syll" part="I">bra</seg>
@@ -1142,7 +1123,7 @@
           <l n="3">
             <seg type="hemistich">
               <app type="text">
-                <lem wit="HS T">
+                <lem wit="F R HS T">
                   <w>
                     <seg type="syll" part="I">Is</seg>
                     <seg type="syll" part="F">te</seg>
@@ -1209,7 +1190,7 @@
           <l n="5">
             <seg type="hemistich">
               <app type="text">
-                <lem wit="HS T">
+                <lem wit="F HS T">
                   <w>
                     <seg type="syll">nam</seg>
                   </w>
@@ -1219,6 +1200,7 @@
                   </w>
                 </lem>
                 <rdg wit="cod. V"><w>dum</w><w>formam</w></rdg>
+                <rdg wit="R"><w>nam</w><w>formam</w></rdg>
               </app>
               <w>
                 <seg type="syll" part="I">an</seg>
@@ -1257,17 +1239,12 @@
               </w>
             </seg>
             <seg type="hemistich">
+              <w>
+                <seg type="syll" part="I">va</seg>
+                <seg type="syll" part="F">na</seg>
+              </w>
               <app type="text">
-                <lem wit="cod. V">
-                  <w>
-                    <seg type="syll" part="I">va</seg>
-                    <seg type="syll" part="F">na</seg>
-                  </w>
-                </lem>
-                <rdg wit="HS T"><w>vaga</w></rdg>
-              </app>
-              <app type="text">
-                <lem wit="HS T">
+                <lem wit="F R HS T">
                   <w>
                     <seg type="syll" part="I">mo</seg>
                     <seg type="syll" part="M">bi</seg>
@@ -1328,7 +1305,7 @@
             </seg>
             <seg type="hemistich">
               <app type="text">
-                <lem wit="HS V">
+                <lem wit="F R HS V">
                   <w>
                     <seg type="syll" part="I">for</seg>
                     <seg type="syll" part="F">mas</seg>
@@ -1348,7 +1325,7 @@
           <l n="3">
             <seg type="hemistich">
               <app type="text">
-                <lem wit="HS V">
+                <lem wit="F R HS V">
                   <w>
                     <seg type="syll" part="I">Vul</seg>
                     <seg type="syll" part="F">tum</seg>
@@ -1425,14 +1402,9 @@
               <pc resp="#editor">;</pc>
             </seg>
             <seg type="hemistich">
-              <app type="text">
-                <lem wit="cod. V T">
-                  <w>
-                    <seg type="syll">dat</seg>
-                  </w>
-                </lem>
-                <rdg wit="HS"><w>dans</w></rdg>
-              </app>
+              <w>
+                <seg type="syll">dat</seg>
+              </w>
               <w>
                 <seg type="syll" part="I">fi</seg>
                 <seg type="syll" part="F">nem</seg>
@@ -1453,7 +1425,7 @@
                 <seg type="syll" part="F">tans</seg>
               </w>
               <app type="text">
-                <lem wit="V T">
+                <lem wit="F V T">
                   <w>
                     <seg type="syll" part="I">in</seg>
                     <seg type="syll" part="M">va</seg>
@@ -1461,7 +1433,7 @@
                     <seg type="syll" part="F">a</seg>
                   </w>
                 </lem>
-                <rdg wit="cod. HS"><w>in</w><w>varia</w></rdg>
+                <rdg wit="cod. R HS"><w>in</w><w>varia</w></rdg>
               </app>
             </seg>
             <seg type="hemistich">

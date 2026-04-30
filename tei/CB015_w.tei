@@ -33,10 +33,7 @@
           </l>
           <l n="3">
             <seg type="hemistich">
-              <app type="text">
-                <lem wit="cod. HS"><w>vovet</w></lem>
-                <rdg wit="V T"><w>prebet</w></rdg>
-              </app>
+              <w>vovet</w>
               <w>cum</w>
               <w>animi</w>
             </seg>
@@ -109,10 +106,7 @@
             <seg type="hemistich">
               <w>domus</w>
               <w>que</w>
-              <app type="text">
-                <lem wit="cod. HS"><w>occidit</w></lem>
-                <rdg wit="V T"><w>corruit</w></rdg>
-              </app>
+              <w>occidit</w>
               <pc>&#183;</pc>
               <pc resp="#editor">.</pc>
             </seg>
@@ -175,10 +169,7 @@
         <lg type="strophe" n="III" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a+b/a+b/c+d/c+d/c+d/c+d">
           <l n="1">
             <seg type="hemistich">
-              <app type="text">
-                <lem wit="cod. HS T"><w>Facti</w></lem>
-                <rdg wit="V"><w>Cepti</w></rdg>
-              </app>
+              <w>Facti</w>
               <w>dimidium</w>
             </seg>
             <seg type="hemistich">
@@ -218,10 +209,7 @@
           </l>
           <l n="4">
             <seg type="hemistich">
-              <app type="text">
-                <lem wit="cod. HS T"><w>nedum</w></lem>
-                <rdg wit="V"><w>verum</w></rdg>
-              </app>
+              <w>nedum</w>
               <w>sollicitus</w>
             </seg>
             <seg type="hemistich">

@@ -12,14 +12,8 @@
               <w>ambulant</w>
             </seg>
             <seg type="hemistich">
-              <app type="text">
-                <lem wit="cod. Tc">
-                  <w>fere</w>
-                  <w>passu</w>
-                </lem>
-                <rdg wit="V"><w>passu</w><w>fere</w></rdg>
-                <rdg wit="HS T"><w>pene</w><w>passu</w></rdg>
-              </app>
+              <w>fere</w>
+              <w>passu</w>
               <w>pari</w>
               <pc resp="#editor">,</pc>
             </seg>
