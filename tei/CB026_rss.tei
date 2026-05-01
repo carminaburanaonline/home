@@ -82,7 +82,10 @@
             <w>cum</w>
             <w>fructus</w>
             <w>nullos</w>
-            <w>afferas</w>
+            <app type="text">
+              <lem><w>afferas</w></lem>
+              <note><w>aufferas</w> u exp. cod.</note>
+            </app>
             <pc resp="#editor">!</pc>
           </l>
         </lg>
@@ -178,7 +181,10 @@
           <l n="3">
             <w>sine</w>
             <w>veste</w>
-            <w>nuptiali</w>
+            <app type="text">
+              <lem><w>nuptiali</w></lem>
+              <note><w>nuperciali</w> cod.</note>
+            </app>
             <pc resp="#editor">,</pc>
           </l>
           <l n="4">

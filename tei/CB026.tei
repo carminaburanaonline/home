@@ -373,11 +373,18 @@
             <w>
               <seg type="syll">Et</seg>
             </w>
-            <w>
-              <seg type="syll" part="I">in</seg>
-              <seg type="syll" part="M">vi</seg>
-              <seg type="syll" part="F">ta</seg>
-            </w>
+            <app type="text">
+              <lem wit="Bu F Rss HS T">
+                <w>
+                  <seg type="syll" part="I">in</seg>
+                  <seg type="syll" part="M">vi</seg>
+                  <seg type="syll" part="F">ta</seg>
+                </w>
+              </lem>
+              <rdg wit="cod. Br"><w>invicta</w></rdg>
+              <rdg wit="Da"><w>in</w><w>vita</w></rdg>
+              <rdg wit="V"><w>inficta</w></rdg>
+            </app>
           </l>
           <l n="11">
             <w>
