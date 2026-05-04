@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I-IV:2x(8p/5pp)/5pp/2x8p/5pp, V:2x(4-/3)/3/2x4-/3">
@@ -181,14 +181,14 @@
                   <seg type="syll" part="F">men</seg>
                 </w>
               </lem>
-              <rdg wit="HS T"><w>lumen</w></rdg>
+              <rdg wit="HSB T"><w>lumen</w></rdg>
               <note><w>hec</w><w>chore-</w> scr., exp. et del; corr. s.l. man. r. <w>est</w></note>
             </app>
             <w>
               <seg type="syll">a</seg>
             </w>
             <app type="text">
-              <lem wit="HS V T">
+              <lem wit="HSB V T">
                 <w>
                   <seg type="syll" part="I">Phe</seg>
                   <seg type="syll" part="M" met="+">be</seg>
@@ -243,7 +243,7 @@
                 <seg type="syll" part="F">lam</seg>
               </w>
               <app type="text">
-                <lem wit="cod. HS">
+                <lem wit="cod. HSB">
                   <w>
                     <seg type="syll" part="I" met="+">co</seg>
                     <seg type="syll" part="F">lo</seg>
@@ -261,7 +261,7 @@
                 <seg type="syll" part="F">am</seg>
               </w>
               <app type="text">
-                <lem wit="cod. HS">
+                <lem wit="cod. HSB">
                   <w>
                     <seg type="syll" part="I" met="+">vo</seg>
                     <seg type="syll" part="F">lo</seg>
@@ -308,7 +308,7 @@
               <seg type="syll" part="F">ror</seg>
             </w>
             <app type="text">
-              <lem wit="cod. HS T">
+              <lem wit="cod. HSB T">
                 <w>
                   <seg type="syll">tam</seg>
                 </w>
@@ -333,7 +333,7 @@
           </l>
           <l n="3">
             <app type="text">
-              <lem wit="cod. HS">
+              <lem wit="cod. HSB">
                 <w>
                   <seg type="syll">quo</seg>
                 </w>
@@ -449,7 +449,7 @@
           </l>
           <l n="2">
             <app type="text">
-              <lem wit="HS V T">
+              <lem wit="HSB V T">
                 <w>
                   <seg type="syll">spe</seg>
                 </w>

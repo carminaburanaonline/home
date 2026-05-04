@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I-IV:4x10pp/2p">
@@ -100,7 +100,7 @@
               </lem>
               <rdg wit="cod."><w>testantur</w></rdg>
               <rdg wit="CB V"><w>ut</w><w>fatentur</w></rdg>
-              <rdg wit="S HS T"><w>nunc</w><w>fatetur</w></rdg>
+              <rdg wit="S HSB T"><w>nunc</w><w>fatetur</w></rdg>
             </app>
             <w>vera</w>
             <w>proverbia</w>
@@ -122,7 +122,7 @@
         <lg type="strophe" n="IV" met="10pp/10pp/10pp/10pp" rhyme="a/a/a/a">
           <l n="1">
             <app type="text">
-              <lem wit="CB S HS V T">
+              <lem wit="CB S HSB V T">
                 <w>Quot</w>
               </lem>
               <rdg wit="cod. L"><w>Quod</w></rdg>

@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I-IV:4x(7pp+6p)">
@@ -29,7 +29,7 @@
                 <lem>
                   <w>immutantur</w>
                 </lem>
-                <rdg wit="imp. W HS"><w>imitantur</w></rdg>
+                <rdg wit="imp. W HSB"><w>imitantur</w></rdg>
               </app>
               <w>mores</w>
               <pc resp="#editor">.</pc>
@@ -95,7 +95,7 @@
               <w>gramina</w>
               <w>et</w>
               <app type="text">
-                <lem wit="imp. HS">
+                <lem wit="imp. HSB">
                   <w>plant&#230;</w>
                 </lem>
                 <rdg wit="W"><w>plant&#230;</w><w>[quae]</w></rdg>

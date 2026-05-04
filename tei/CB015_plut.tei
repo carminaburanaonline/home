@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I-V:6x(6pp+6pp)" rhyme="a+b/a+b/c+d/c+d/c+d/c+d">
@@ -133,7 +133,7 @@
             </seg>
             <seg type="hemistich">
               <app type="text">
-                <lem wit="CB R W1 HS V T">
+                <lem wit="CB R W1 HSB V T">
                   <w>sic</w>
                   <w>sta</w>
                   <w>ne</w>
@@ -194,7 +194,7 @@
             <seg type="hemistich">
               <w>si</w>
               <app type="text">
-                <lem wit="CB R W1 HS V T"><w>non</w></lem>
+                <lem wit="CB R W1 HSB V T"><w>non</w></lem>
                 <rdg wit="cod."><w>nom</w></rdg>
               </app>
               <w>omiserit</w>
@@ -206,7 +206,7 @@
             <seg type="hemistich">
               <w>non</w>
               <app type="text">
-                <lem wit="CB R W1 HS V T"><w>tantum</w></lem>
+                <lem wit="CB R W1 HSB V T"><w>tantum</w></lem>
                 <rdg wit="cod."><w>tatum</w></rdg>
               </app>
               <w>deditus</w>
@@ -251,7 +251,7 @@
             </seg>
             <seg type="hemistich">
               <app type="text">
-                <lem wit="CB R W1 HS V T"><w>preceps</w></lem>
+                <lem wit="CB R W1 HSB V T"><w>preceps</w></lem>
                 <rdg wit="cod."><w>princeps</w></rdg>
               </app>
               <w>incuria</w>
@@ -285,7 +285,7 @@
               <w>metam</w>
               <pc resp="#editor">,</pc>
               <app type="text">
-                <lem wit="HS T"><w>is</w></lem>
+                <lem wit="HSB T"><w>is</w></lem>
                 <rdg wit="cod. R"><w>id</w></rdg>
                 <rdg wit="CB V"><w>in</w></rdg>
               </app>
@@ -297,7 +297,7 @@
             <seg type="hemistich">
               <w>Iste</w>
               <app type="text">
-                <lem wit="CB R HS V T"><w>quod</w></lem>
+                <lem wit="CB R HSB V T"><w>quod</w></lem>
                 <rdg wit="cod."><w>qui</w></rdg>
               </app>
               <w>tribuit</w>

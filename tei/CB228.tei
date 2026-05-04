@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="drama">
@@ -22,7 +22,7 @@
                   <w>Ab</w>
                   <w>estatis</w>
                   <app type="text">
-                    <lem wit="HS V T">
+                    <lem wit="HSB V T">
                       <w>foribus</w>
                     </lem>
                     <rdg wit="cod."><w>floribus</w></rdg>
@@ -114,7 +114,7 @@
               <l n="5">
                 <w>regna</w>
                 <app type="text">
-                  <lem wit="HS V T">
+                  <lem wit="HSB V T">
                     <w>Iovis</w>
                   </lem>
                   <rdg wit="cod."><w>iuvis</w></rdg>
@@ -231,7 +231,7 @@
                     <lem wit="cod. V">
                       <w>hiis</w>
                     </lem>
-                    <rdg wit="HS T"><w>his</w></rdg>
+                    <rdg wit="HSB T"><w>his</w></rdg>
                   </app>
                   <w>secte</w>
                   <w>multiformes</w>
@@ -353,7 +353,7 @@
                     <lem wit="cod. V">
                       <w>gaudia</w>
                     </lem>
-                    <rdg wit="HS T"><w>frivola</w></rdg>
+                    <rdg wit="HSB T"><w>frivola</w></rdg>
                   </app>
                 </seg>
                 <seg type="hemistich">
@@ -398,7 +398,7 @@
                       <w>hac</w>
                       <w>viciis</w>
                     </lem>
-                    <rdg wit="HS"><w>hac</w>...<w>vitiis</w></rdg>
+                    <rdg wit="HSB"><w>hac</w>...<w>vitiis</w></rdg>
                     <rdg wit="V"><w>hac</w><w>simul</w><w>vitiis</w></rdg>
                     <rdg wit="T"><w>hac</w><w>via</w><w>vitiis</w></rdg>
                   </app>
@@ -590,7 +590,7 @@
               <l n="1">
                 <w>Honor</w>
                 <app type="text">
-                  <lem wit="HS T">
+                  <lem wit="HSB T">
                     <w>Iovi</w>
                   </lem>
                   <rdg wit="cod. V"><w>Iovis</w></rdg>
@@ -705,7 +705,7 @@
                   <lem wit="cod. V">
                     <w>dii</w>
                   </lem>
-                  <rdg wit="HS T"><w>di</w></rdg>
+                  <rdg wit="HSB T"><w>di</w></rdg>
                 </app>
                 <w>fugati</w>
                 <w>fugierunt</w>
@@ -1403,7 +1403,7 @@
                   <w>tibi</w>
                   <w>tota</w>
                   <app type="text">
-                    <lem wit="cod. HS T">
+                    <lem wit="cod. HSB T">
                       <w>mente</w>
                     </lem>
                     <rdg wit="V"><w>menteque</w></rdg>
@@ -1531,7 +1531,7 @@
               <l n="2">
                 <seg type="hemistich">
                   <app type="text">
-                    <lem wit="HS V T">
+                    <lem wit="HSB V T">
                       <w>cum</w>
                       <w>roderis</w>
                     </lem>

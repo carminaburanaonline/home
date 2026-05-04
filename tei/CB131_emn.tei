@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="4x6pp/4x8p/2x(8pp/7p)">
@@ -64,14 +64,14 @@
             <w>Vel</w>
             <w>in</w>
             <app type="text">
-              <lem wit="HS">
+              <lem wit="HSB">
                 <w>fiscella</w>
               </lem>
               <rdg wit="cod."><w>fisella</w></rdg>
               <rdg wit="V T"><w>viscella</w></rdg>
             </app>
             <app type="text">
-              <lem wit="HS T">
+              <lem wit="HSB T">
                 <w>scirpea</w>
               </lem>
               <rdg wit="cod."><w>cirpea</w></rdg>

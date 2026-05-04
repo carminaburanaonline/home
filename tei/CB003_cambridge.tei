@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I-IV:3x(7pp+6p), Ref.: 6p/7pp+6p">
@@ -97,7 +97,7 @@
               <w>mente</w>
               <w>quivis</w>
               <app type="text">
-                <lem wit="CB O Om HS V Tc T">
+                <lem wit="CB O Om HSB V Tc T">
                   <w>anxia</w>
                 </lem>
                 <rdg wit="cod."><w>noxia</w></rdg>
@@ -187,7 +187,7 @@
           <l n="1">
             <seg type="hemistich">
               <app type="text">
-                <lem wit="HS V Tc T">
+                <lem wit="HSB V Tc T">
                   <w>Cunctis</w>
                 </lem>
                 <rdg wit="cod."><w>cuntis</w></rdg>

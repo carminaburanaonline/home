@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I: 13x8pp, II:8pp/4pp+4pp/8pp/2x7p/4p+4p/8pp/4pp/2x8pp/7p, III:8pp/4pp/8p/6p/4pp/3x8pp, IV:5x8pp">
@@ -374,7 +374,7 @@
               <seg type="syll">Et</seg>
             </w>
             <app type="text">
-              <lem wit="Bu F Rss HS T">
+              <lem wit="Bu F Rss HSB T">
                 <w>
                   <seg type="syll" part="I">in</seg>
                   <seg type="syll" part="M">vi</seg>

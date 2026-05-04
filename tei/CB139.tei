@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I-VI:4x(7pp+6p), VII:2x(4+3-)/4/4+3-">
@@ -315,7 +315,7 @@
                 <seg type="syll">in</seg>
               </w>
               <app type="text">
-                <lem wit="HS V T">
+                <lem wit="HSB V T">
                   <w>
                     <seg type="syll">quo</seg>
                   </w>
@@ -327,7 +327,7 @@
                 <seg type="syll" part="F">a</seg>
               </w>
               <app type="text">
-                <lem wit="HS T">
+                <lem wit="HSB T">
                   <w>
                     <seg type="syll" part="I">de</seg>
                     <seg type="syll" part="M">be</seg>
@@ -339,7 +339,7 @@
             </seg>
             <seg type="hemistich">
               <app type="text">
-                <lem wit="HS T">
+                <lem wit="HSB T">
                   <w>
                     <seg type="syll" part="I">gau</seg>
                     <seg type="syll" part="M">di</seg>
@@ -501,7 +501,7 @@
           <l n="3">
             <seg type="hemistich">
               <app type="text">
-                <lem wit="HS V T">
+                <lem wit="HSB V T">
                   <w>
                     <seg type="syll" part="I">Hu</seg>
                     <seg type="syll" part="F">ic</seg>
@@ -696,7 +696,7 @@
                     <seg type="syll" part="F">ro</seg>
                   </w>
                 </lem>
-                <rdg wit="cod. HS V"><w>fecero</w></rdg>
+                <rdg wit="cod. HSB V"><w>fecero</w></rdg>
               </app>
             </seg>
             <seg type="hemistich">

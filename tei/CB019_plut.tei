@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I-V:3x(7pp+6p)/5pp/7pp+6p" rhyme="a/a/a/b/b+a">
@@ -237,7 +237,7 @@
           </l>
           <l n="4" met="7pp" rhyme="c">
             <app type="text">
-              <lem wit="CB Cc Ly HS V Tc T">
+              <lem wit="CB Cc Ly HSB V Tc T">
                 <w>famam</w>
                 <w>muneris</w>
               </lem>
@@ -302,7 +302,7 @@
             <seg type="hemistich">
               <w>male</w>
               <app type="text">
-                <lem wit="CB Ly HS V Tc T"><w>non</w></lem>
+                <lem wit="CB Ly HSB V Tc T"><w>non</w></lem>
                 <rdg wit="cod."><w>ne</w></rdg>
               </app>
               <w>effundas</w>
@@ -313,7 +313,7 @@
           <l n="4" met="4pp">
             <w>In</w>
             <app type="text">
-              <lem wit="CB Ly HS V Tc T"><w>te</w></lem>
+              <lem wit="CB Ly HSB V Tc T"><w>te</w></lem>
               <note>om. cod.</note>
             </app>
             <w>glorior</w>

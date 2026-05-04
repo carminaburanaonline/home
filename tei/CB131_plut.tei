@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I-III:4x6pp/4x8p/2x(8pp/7p), Ia-IVa:2x(6p/7p)/7pp/2x4pp/7p/7pp/7p/5pp/8p">
@@ -64,14 +64,14 @@
             <w>Vel</w>
             <w>in</w>
             <app type="text">
-              <lem wit="HS">
+              <lem wit="HSB">
                 <w>fiscella</w>
               </lem>
               <rdg wit="cod."><w>ficella</w></rdg>
               <rdg wit="V T"><w>viscella</w></rdg>
             </app>
             <app type="text">
-              <lem wit="HS T">
+              <lem wit="HSB T">
                 <w>scirpea</w>
               </lem>
               <rdg wit="cod."><w>cirpea</w></rdg>
@@ -122,7 +122,7 @@
             <w>Non</w>
             <w>sum</w>
             <app type="text">
-              <lem wit="HS">
+              <lem wit="HSB">
                 <w>quo</w>
             <w>mussitas</w>
               </lem>
@@ -154,7 +154,7 @@
             <w>in</w>
             <w>bisso</w>
             <app type="text">
-              <lem wit="cod. HS T">
+              <lem wit="cod. HSB T">
                 <w>vel</w>
               </lem>
               <rdg wit="V"><w>nec</w><w>in</w></rdg>
@@ -170,7 +170,7 @@
               <lem wit="cod.">
                 <w>vel</w>
               </lem>
-              <rdg wit="HS V T"><w>nec</w></rdg>
+              <rdg wit="HSB V T"><w>nec</w></rdg>
             </app>
             <w>in</w>
             <w>bulla</w>
@@ -243,7 +243,7 @@
           <l n="6">
             <w>neque</w>
             <app type="text">
-              <lem wit="HS V T">
+              <lem wit="HSB V T">
                 <w>David</w>
               </lem>
               <rdg wit="cod."><w>davit</w></rdg>
@@ -328,7 +328,7 @@
               <lem wit="cod.">
                 <w>supprimitur</w>
               </lem>
-              <rdg wit="HS V T"><w>opprimitur</w></rdg>
+              <rdg wit="HSB V T"><w>opprimitur</w></rdg>
             </app>
             <pc resp="#editor">,</pc>
           </l>
@@ -392,7 +392,7 @@
               <lem wit="cod.">
                 <w>nam</w>
               </lem>
-              <rdg wit="HS V T"><w>iam</w></rdg>
+              <rdg wit="HSB V T"><w>iam</w></rdg>
             </app>
             <w>etiamsi</w>
             <w>fores</w>
@@ -400,7 +400,7 @@
           <l n="5" met="7p">
             <app type="text">
               quem audiit Orpheus HS&#61533; Orpheus quem audiit cod.; quem audit Orpheus T; Orpheus quem audiit V
-              <lem wit="HS">
+              <lem wit="HSB">
                 <w>quem</w>
             <w>audiit</w>
             <pc resp="#editor">,</pc>
@@ -462,7 +462,7 @@
             <w>vitam</w>
             <w>pretendas</w>
               </lem>
-              <rdg wit="HS V T"><w>vitam</w><w>frustra</w><w>commendas</w></rdg>
+              <rdg wit="HSB V T"><w>vitam</w><w>frustra</w><w>commendas</w></rdg>
             </app>
             <pc resp="#editor">,</pc>
           </l>
@@ -473,7 +473,7 @@
               <lem wit="cod.">
                 <w>commendas</w>
               </lem>
-              <rdg wit="HS V T"><w>pretendas</w></rdg>
+              <rdg wit="HSB V T"><w>pretendas</w></rdg>
             </app>
             <pc resp="#editor">,</pc>
           </l>
@@ -513,7 +513,7 @@
           </l>
           <l n="11">
             <app type="text">
-              <lem wit="cod. HS T">
+              <lem wit="cod. HSB T">
                 <w>paris</w>
               </lem>
               <rdg wit="V"><w>pari</w></rdg>
@@ -537,7 +537,7 @@
           <l n="2">
             <app type="text">
               Danen HS T&#61533; dampnem cod.
-              <lem wit="HS T">
+              <lem wit="HSB T">
                 <w>Danem</w>
               </lem>
               <rdg wit="cod."><w>dampnem</w></rdg>
@@ -598,7 +598,7 @@
               <lem wit="cod.">
                 <w>rectius</w>
               </lem>
-              <rdg wit="HS T"><w>iustius</w></rdg>
+              <rdg wit="HSB T"><w>iustius</w></rdg>
             </app>
             <pc resp="#editor">,</pc>
           </l>

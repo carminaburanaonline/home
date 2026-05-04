@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I-III:2x(2x7pp/7p)/2x(7pp+6p)/7pp/4p+7pp, IV:2x(3/4)/2x3-/3+3-/4+3-/4/4+3">
@@ -108,7 +108,7 @@
                   <seg type="syll" part="F">cunt</seg>
                 </w>
               </lem>
-              <rdg wit="HS T"><w>concalescunt</w></rdg>
+              <rdg wit="HSB T"><w>concalescunt</w></rdg>
             </app>
             <pc resp="#editor">,</pc>
           </l>
@@ -144,7 +144,7 @@
                   </w>
                 </lem>
                 <rdg wit="cod."><w>ludus</w><w>incitatur</w></rdg>
-                <rdg wit="HS"><w>ludens</w><w>irretitur</w></rdg>
+                <rdg wit="HSB"><w>ludens</w><w>irretitur</w></rdg>
               </app>
               <pc>&#183;</pc>
               <pc resp="#editor">:</pc>
@@ -181,7 +181,7 @@
                   </w>
                 </lem>
                 <rdg wit="cod. V T"><w>reparatur</w></rdg>
-                <rdg wit="HS"><w>reperitur</w></rdg>
+                <rdg wit="HSB"><w>reperitur</w></rdg>
               </app>
               <pc>&#183;</pc>
               <pc resp="#editor">.</pc>
@@ -208,7 +208,7 @@
           <l n="10">
             <seg type="hemistich">
               <app type="text">
-                <lem wit="HS V T">
+                <lem wit="HSB V T">
                   <w>
                     <seg type="syll">cum</seg>
                   </w>
@@ -256,7 +256,7 @@
                   <seg type="syll" part="F">mus</seg>
                 </w>
               </lem>
-              <rdg wit="HS T"><w>salutamus</w></rdg>
+              <rdg wit="HSB T"><w>salutamus</w></rdg>
             </app>
             <pc resp="#editor">,</pc>
             <w>
@@ -339,7 +339,7 @@
           </l>
           <l n="6">
             <app type="text">
-              <lem wit="HS T">
+              <lem wit="HSB T">
                 <w>
                   <seg type="syll" part="I">lu</seg>
                   <seg type="syll" part="M">da</seg>
@@ -413,7 +413,7 @@
                     <seg type="syll" part="F">lis</seg>
                   </w>
                 </lem>
-                <rdg wit="cod. HS V T"><w>pro</w><w>poculis</w></rdg>
+                <rdg wit="cod. HSB V T"><w>pro</w><w>poculis</w></rdg>
               </app>
             </seg>
             <seg type="hemistich">
@@ -431,7 +431,7 @@
                   </w>
                 </lem>
                 <rdg wit="cod. V"><w>mittantur</w></rdg>
-                <rdg wit="HS T"><w>mutuantur</w></rdg>
+                <rdg wit="HSB T"><w>mutuantur</w></rdg>
               </app>
               <pc>&#183;</pc>
               <pc resp="#editor">!</pc>

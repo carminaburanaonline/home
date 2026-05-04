@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I-II:4x(6pp+6pp)/6pp/6pp+6pp">
@@ -89,7 +89,7 @@
           <l n="4">
             <seg type="hemistich">
               <app type="text">
-                <lem wit="F M Ma HS V T">
+                <lem wit="F M Ma HSB V T">
                   <w>
                 <seg type="syll">sic</seg>
               </w>
@@ -251,7 +251,7 @@
           <l n="4">
             <seg type="hemistich">
               <app type="text">
-                <lem wit="F M HS V T">
+                <lem wit="F M HSB V T">
                   <w>
                 <seg type="syll">sed</seg>
               </w>

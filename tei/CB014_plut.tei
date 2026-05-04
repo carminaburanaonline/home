@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="8x(4pp+6pp)">
@@ -18,7 +18,7 @@
           <l n="2">
             <seg type="hemistich">
               <app type="text">
-                <lem wit="CB Fau R HS V T"><w>dans</w></lem>
+                <lem wit="CB Fau R HSB V T"><w>dans</w></lem>
                 <rdg wit="cod."><w>dat</w> corr. ex <w>dan</w></rdg>
               </app>
               <w>dubium</w>
@@ -92,7 +92,7 @@
           <l n="8"><seg type="hemistich">
             <w>de</w>
             <app type="text">
-              <lem wit="CB R HS V T"><w>rhetore</w></lem>
+              <lem wit="CB R HSB V T"><w>rhetore</w></lem>
               <rdg wit="cod."><w>recthore</w></rdg>
             </app>
           </seg>

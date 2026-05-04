@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="5x(4pp+6pp)/6pp/4pp+6pp/4p+6pp/2x(4pp+6pp)">
@@ -23,7 +23,7 @@
             <seg type="hemistich">
               <w>tribunal</w>
               <app type="text">
-                <lem wit="CB F R HS V T"><w>iudicum</w></lem>
+                <lem wit="CB F R HSB V T"><w>iudicum</w></lem>
                 <rdg wit="cod."><w>iudicium</w></rdg>
               </app>
               <pc resp="#editor">,</pc>
@@ -36,7 +36,7 @@
             </seg>
             <seg type="hemistich">
               <app type="text">
-                <lem wit="F R HS T"><w>paras</w></lem>
+                <lem wit="F R HSB T"><w>paras</w></lem>
                 <rdg wit="cod."><w>panis</w></rdg>
                 <rdg wit="CB V"><w>parans</w></rdg>
               </app>
@@ -71,7 +71,7 @@
           <l n="6">
             <app type="text">
               <lem><w>tamen</w></lem>
-              <rdg wit="R HS V T"><w>dans</w><w>dubia</w><w>tamen</w></rdg>
+              <rdg wit="R HSB V T"><w>dans</w><w>dubia</w><w>tamen</w></rdg>
               <rdg wit="CB V"><w>dans</w><w>dubia</w><w>tandem</w></rdg>
               <rdg wit="F"><w>dans</w><w>premia</w><w>tamen</w></rdg>
             </app>

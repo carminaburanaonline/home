@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I-VIII:4x8p/3x7pp/6p">
@@ -199,7 +199,7 @@
           </l>
           <l n="4">
             <app type="text">
-              <lem wit="Ca To HS V Tc T">
+              <lem wit="Ca To HSB V Tc T">
                 <w>
                   <seg type="syll">hac</seg>
                 </w>
@@ -626,7 +626,7 @@
           </l>
           <l n="4">
             <app type="text">
-              <lem wit="HS Tc T">
+              <lem wit="HSB Tc T">
                 <w>
                   <seg type="syll" part="I">re</seg>
                   <seg type="syll" part="F">num</seg>
@@ -733,7 +733,7 @@
           </l>
           <l n="2">
             <app type="text">
-              <lem wit="A Ca CM E1 O To Wr Z HS V Tc T">
+              <lem wit="A Ca CM E1 O To Wr Z HSB V Tc T">
                 <w>
                   <seg type="syll" part="I">ti</seg>
                   <seg type="syll" part="F">ment</seg>
@@ -742,7 +742,7 @@
               <rdg wit="cod."><w>timet</w></rdg>
             </app>
             <app type="text">
-              <lem wit="A Ca CM E1 O To Wr Z HS Tc">
+              <lem wit="A Ca CM E1 O To Wr Z HSB Tc">
                 <w>
                   <seg type="syll" part="I">an</seg>
                   <seg type="syll" part="F">nos</seg>
@@ -772,7 +772,7 @@
                   <seg type="syll" part="F">ma</seg>
                 </w>
               </lem>
-              <rdg wit="cod. Ca CM E1 O To Wr HS V Tc T"><w>ne</w><w>fortuna</w></rdg>
+              <rdg wit="cod. Ca CM E1 O To Wr HSB V Tc T"><w>ne</w><w>fortuna</w></rdg>
             </app>
             <w>
               <seg type="syll" part="I">de</seg>
@@ -788,7 +788,7 @@
               <seg type="syll" part="F">sit</seg>
             </w>
             <app type="text">
-              <lem wit="A Ca CM O To Wr Z HS V Tc T">
+              <lem wit="A Ca CM O To Wr Z HSB V Tc T">
                 <w>
                   <seg type="syll" part="I">e</seg>
                   <seg type="syll" part="F">is</seg>
@@ -816,7 +816,7 @@
               <seg type="syll">dum</seg>
             </w>
             <app type="text">
-              <lem wit="A Ca CM E1O Wr Z HS V Tc T">
+              <lem wit="A Ca CM E1O Wr Z HSB V Tc T">
                 <w>
                   <seg type="syll" part="I">que</seg>
                   <seg type="syll" part="F">runt</seg>
@@ -835,7 +835,7 @@
           </l>
           <l n="6">
             <app type="text">
-              <lem wit="A Ca E1 O To Z HS V Tc T">
+              <lem wit="A Ca E1 O To Z HSB V Tc T">
                 <w>
                   <seg type="syll" part="I">ver</seg>
                   <seg type="syll" part="F">gunt</seg>
@@ -874,7 +874,7 @@
           </l>
           <l n="8">
             <app type="text">
-              <lem wit="Ca CM E1 To HS Tc T">
+              <lem wit="Ca CM E1 To HSB Tc T">
                 <w>
                   <seg type="syll" part="I">spe</seg>
                   <seg type="syll" part="M">ci</seg>
@@ -1145,7 +1145,7 @@
               <seg type="syll" part="F">cit</seg>
             </w>
             <app type="text">
-              <lem wit="Ca HS V Tc T">
+              <lem wit="Ca HSB V Tc T">
                 <w>
                   <seg type="syll" part="I">per</seg>
                   <seg type="syll" part="M">vi</seg>

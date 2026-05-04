@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I-VI:4x8p/3x7pp/6p">
@@ -41,7 +41,7 @@
           </l>
           <l n="7">
             <app type="text">
-              <lem wit="A Ca CB CM Ct Mi O Om P To Wr Z HS V Tc T">
+              <lem wit="A Ca CB CM Ct Mi O Om P To Wr Z HSB V Tc T">
                 <w>imitantur</w>
               </lem>
               <rdg wit="cod.">
@@ -149,7 +149,7 @@
           </l>
           <l n="7">
             <app type="text">
-              <lem wit="A Ca CB CM O Om Wr HS V Tc T">
+              <lem wit="A Ca CB CM O Om Wr HSB V Tc T">
                 <w>tenplo</w>
               </lem>
               <rdg wit="cod."><w>tenplum</w></rdg>
@@ -184,7 +184,7 @@
           <l n="4">
             <w>desit</w>
             <app type="text">
-              <lem wit="A Ca CM O To Wr Z HS V Tc T">
+              <lem wit="A Ca CM O To Wr Z HSB V Tc T">
                 <w>eis</w>
               </lem>
               <rdg wit="cod."><w>illis</w></rdg>
