@@ -1,0 +1,14 @@
+<TEI>
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="prose">
+        <p>
+          <w>Et</w>
+          <w>gaudebit</w>
+          <pc resp="#editor">.</pc>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
