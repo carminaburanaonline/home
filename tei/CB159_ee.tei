@@ -1,0 +1,174 @@
+<TEI>
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="poem" met="I-IV:3x8pp/4pp, Ref.:8pp/4pp">
+        <lg type="strophe" n="I" met="8pp/8pp/8pp/4pp" rhyme="a/a/a/B">
+          <l n="1">
+            <app type="text">
+              <lem wit="CB1 CB2 D HSB V T">
+                <w>Veris</w>
+              </lem>
+              <rdg wit="cod."><w>Veri</w></rdg>
+            </app>
+            <w>dulcis</w>
+            <w>in</w>
+            <w>tempore</w>
+          </l>
+          <l n="2">
+            <w>florenti</w>
+            <w>stat</w>
+            <w>sub</w>
+            <w>arbore</w>
+          </l>
+          <l n="3">
+            <w>Iuliana</w>
+            <app type="text">
+              <lem wit="CB1 CB2 HSB V T">
+                <w>cum</w>
+              </lem>
+              <rdg wit="cod."><w>cu</w></rdg>
+            </app>
+            <w>sorore</w>
+            <pc resp="#editor">.</pc>
+          </l>
+          <l n="4">
+            <w>dulcis</w>
+            <w>amor</w>
+            <pc resp="#editor">!</pc>
+          </l>
+        </lg>
+        <lg type="refrain" met="8pp/4pp" rhyme="a/B">
+          <l n="1">
+            <w>Qui</w>
+            <w>te</w>
+            <w>charet</w>
+            <app type="text">
+              <lem wit="CB1 CB2 HSB D V T">
+                <w>hoc</w>
+              </lem>
+              <rdg wit="cod."><w>in</w></rdg>
+            </app>
+            <w>tempore</w>
+          </l>
+          <l n="2">
+            <w>fit</w>
+            <w>vilior</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="II" met="8pp/8pp/8pp/4pp" rhyme="a/a/a/B">
+          <l n="1">
+            <w>Ecce</w>
+            <app type="text">
+              <lem wit="CB1 CB2 HSB D V T">
+                <w>florescunt</w>
+              </lem>
+              <rdg wit="cod."><w>florescut</w></rdg>
+            </app>
+            <app type="text">
+              <lem wit="CB1 CB2 HSB D V T">
+                <w>arbores</w>
+              </lem>
+              <rdg wit="cod."><w>arbore</w></rdg>
+              <note>ut vid.</note>
+            </app>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="2">
+            <w>lascive</w>
+            <w>canunt</w>
+            <w>volucres</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="3">
+            <w>inde</w>
+            <app type="text">
+              <lem wit="CB1 CB2 HSB D V T">
+                <w>tepescunt</w>
+              </lem>
+              <rdg wit="cod."><w>tepescut</w></rdg>
+            </app>
+            <w>virgines</w>
+            <pc resp="#editor">.</pc>
+          </l>
+          <l n="4">
+            <w>dulcis</w>
+            <w>amor</w>
+            <pc resp="#editor">!</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="III" met="8pp/8pp/8pp/4pp" rhyme="a/a/a/B">
+          <l n="1">
+            <w>Ecce</w>
+            <w>florescunt</w>
+            <w>gramina</w>
+          </l>
+          <l n="2">
+            <w>et</w>
+            <app type="text">
+              <lem wit="D T">
+                <w>virginum</w>
+              </lem>
+              <rdg wit="cod. CB1 CB2 HSB V"><w>virgines</w></rdg>
+            </app>
+            <w>dant</w>
+            <w>agmina</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="3">
+            <w>sumo</w>
+            <app type="text">
+              <lem wit="CB1 CB2 HSB D V T">
+                <w>deorum</w>
+              </lem>
+              <rdg wit="cod."><w>dolorum</w></rdg>
+            </app>
+            <w>carmina</w>
+            <pc resp="#editor">.</pc>
+          </l>
+          <l n="4">
+            <w>dul[cis</w>
+            <w>amor]</w>
+            <pc resp="#editor">!</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="IV" met="8pp/8pp/8pp/4pp" rhyme="a/a/a/B">
+          <l n="1">
+            <w>Si</w>
+            <app type="text">
+              viderem D T] viterem cod. vitarem HSB
+              <lem wit="D T">
+                <w>viderem</w>
+              </lem>
+              <rdg wit="cod."><w>viterem</w></rdg>
+              <rdg wit="HSB"><w>vitarem</w></rdg>
+            </app>
+            <w>quod</w>
+            <w>cupio</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="2">
+            <w>pro</w>
+            <w>scribis</w>
+            <w>sub</w>
+            <w>exxilio</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="3" met="7pp">
+            <w>vel</w>
+            <w>pro</w>
+            <w>regis</w>
+            <w>filio</w>
+            <pc resp="#editor">.</pc>
+          </l>
+          <l n="4">
+            <w>Dul[cis</w>
+            <w>amor]</w>
+            <pc resp="#editor">!</pc>
+          </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

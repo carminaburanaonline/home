@@ -1,0 +1,13 @@
+Repositorien
+Re3data.org -> search engine for repositories
+Dasch -> Geistwissenschaftliche Daten
+InK -> Tabea Lurk (interne Lösung)
+CCdigitallaw.ch -> Questions of licence/Datenschütz
+
+Auffindbarkeit
+nFdI Culture -> metadata suchen
+cessda -> Data catalogue (Europa)
+Google Dataset Search -> Fokus auf Forschungsdaten
+OpenAlex -> Alle Forschungsergebnisse
+Data Paper -> Describes how the dataset works and links to the dataset (ex: The Annotated Beethoven Corpus): enhance visibility
+ETHZürich: Archivtaugliche Dateiformate

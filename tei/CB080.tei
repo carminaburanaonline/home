@@ -502,7 +502,7 @@
                     </seg>
                   </w>
                 </lem>
-                <note>corr. ex <w>hyem?s</w> man. r.</note>
+                <note>corr. ex <w>hyem?s</w> man. r. cod.</note>
               </app>
               <w>
                 <seg type="syll" part="I">e<notatedMusic>
@@ -722,7 +722,7 @@
                   <seg type="syll" part="F">re</seg>
                 </w>
               </lem>
-              <note>corr. <w>vuluere</w> sic man. r.</note>
+              <note>corr. <w>vuluere</w> sic man. r. cod.</note>
             </app>
             <app type="text">
               <lem>
@@ -732,7 +732,7 @@
                   <seg type="syll" part="F">da</seg>
                 </w>
               </lem>
-              <note>corr. <w>languido</w> sic man. r.</note>
+              <note>corr. <w>languido</w> sic man. r. cod.</note>
             </app>
             <pc resp="#editor">.</pc>
           </l>

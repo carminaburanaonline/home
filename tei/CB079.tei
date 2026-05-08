@@ -183,7 +183,7 @@
                   </app>
                 </w>
               </lem>
-              <note>-e exp.</note>
+              <note>-e exp. cod.</note>
             </app>
             <w>
               <seg type="syll" part="I">de<notatedMusic>
@@ -224,7 +224,7 @@
                   </seg>
                 </w>
               </lem>
-              <note>f- exp. spat. vac.</note>
+              <note>f- exp. spat. vac. cod.</note>
             </app>
             <w>
               <seg type="syll">et<notatedMusic>
@@ -704,7 +704,7 @@
                   </seg>
                 </w>
               </lem>
-              <note>d corr. ex <w>paraclytus</w> man. r.</note>
+              <note>corr. ex <w>paraclytus</w> man. r. cod.</note>
             </app>
             <w>
               <seg type="syll">hic<notatedMusic>
@@ -779,7 +779,7 @@
                   </app>
                 </w>
               </lem>
-              <note>add. marg. ext. man. not.</note>
+              <note>add. marg. ext. man. not. cod.</note>
             </app>
             <w>
               <seg type="syll" part="I">ple<notatedMusic>
@@ -1107,7 +1107,7 @@
                   <seg type="syll" part="F">vi</seg>
                 </w>
               </lem>
-              <note>corr. ex <w>asservi</w> ut vid.</note>
+              <note>corr. ex <w>asservi</w> ut vid. cod.</note>
             </app>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>

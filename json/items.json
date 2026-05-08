@@ -810,20 +810,6 @@
     ]
   },
   {
-    "abstract_item": "CB085",
-    "source": 35,
-    "foliation": "287",
-    "title": "Veris dulcis in tempore",
-    "file": "CB085_ee",
-    "SVGfiles": 1,
-    "IIIF_canvasIndex": "572",
-    "IIIF_canvasId": "",
-    "alternative_img_link": "",
-    "language": [
-      1
-    ]
-  },
-  {
     "abstract_item": "CB090",
     "source": 106,
     "foliation": "38v",
@@ -1253,6 +1239,20 @@
     "title": "Veris dulcis in tempore",
     "file": "CB159",
     "IIIF_canvasIndex": "130",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB159",
+    "source": 35,
+    "foliation": "287",
+    "title": "Veris dulcis in tempore",
+    "file": "CB159_ee",
+    "SVGfiles": 1,
+    "IIIF_canvasIndex": "572",
     "IIIF_canvasId": "",
     "alternative_img_link": "",
     "language": [

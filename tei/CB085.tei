@@ -197,11 +197,16 @@
             <w>
               <seg type="syll">et</seg>
             </w>
-            <w>
-              <seg type="syll" part="I">vir</seg>
-              <seg type="syll" part="M">gi</seg>
-              <seg type="syll" part="F">nes</seg>
-            </w>
+            <app type="text">
+              <lem wit="D T">
+                <w>
+                  <seg type="syll" part="I">vir</seg>
+                  <seg type="syll" part="M">gi</seg>
+                  <seg type="syll" part="F">num</seg>
+                </w>
+              </lem>
+              <rdg wit="cod. CB2 E HSB V"><w>virgines</w></rdg>
+            </app>
             <w>
               <seg type="syll">dant</seg>
             </w>
@@ -254,9 +259,14 @@
               <seg type="syll" part="M">ne</seg>
               <seg type="syll" part="F">rem</seg>
             </w>
-            <w>
-              <seg type="syll">quam</seg>
-            </w>
+            <app type="text">
+              <lem>
+                <w>
+                  <seg type="syll">quam</seg>
+                </w>
+              </lem>
+              <note>corr. ex <w>quas</w> vel <w>quod</w> man. r. cod.</note>
+            </app>
             <w>
               <seg type="syll" part="I">cu</seg>
               <seg type="syll" part="M">pi</seg>

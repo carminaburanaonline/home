@@ -237,7 +237,7 @@
             <w>quo</w>
             <app type="text">
               <lem wit="cod. O2 T">
-                <w>revertentur</w>
+                <w>reverentur</w>
               </lem>
               <rdg wit="HSB"><w>revertentur</w></rdg>
             </app>
@@ -290,27 +290,22 @@
           <l n="12">
             <seg type="hemistich">
               <w>cui</w>
-            <w>distulit</w>
-            <pc resp="#editor">,</pc>
+              <w>distulit</w>
+              <pc resp="#editor">,</pc>
             </seg>
             <seg type="hemistich">
               <w>sed</w>
-            <app type="text">
-              <lem wit="O2 HSB T">
-                <w>animam</w>
-              </lem>
-              <rdg wit="cod."><w>nunc</w><w>impinguat</w><w>animam</w></rdg>
-            </app>
+              <app type="text">
+                <lem wit="O2 HSB T">
+                  <w>animam</w>
+                </lem>
+                <rdg wit="cod."><w>nunc</w><w>impinguat</w><w>animam</w></rdg>
+              </app>
             </seg>
           </l>
           <l n="13">
-            <app type="text">
-              <lem wit="O2 HSB T">
-                <w>nunc</w>
-                <w>impinguat</w>
-              </lem>
-              <note>om. cod.</note>
-            </app>
+            <w>nunc</w>
+            <w>impinguat</w>
             <w>ad</w>
             <w>victimam</w>
           </l>

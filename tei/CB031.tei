@@ -146,7 +146,7 @@
           <l n="5">
             <seg type="hemistich">
               <app type="text">
-                <lem wit="HSB T">
+                <lem wit="F HSB T">
                   <w>
                     <seg type="syll">sed<notatedMusic>
                       <neume fontname="buranus" glyph.num="1" label="pu"/>

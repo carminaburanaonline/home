@@ -37,14 +37,14 @@
             <w>Magistra</w>
             <w>morum</w>
             <app type="text">
-              <lem wit="HSB V W T"><w>doceat</w></lem>
+              <lem wit="CB Ka Lh O Ob HSB V W T"><w>doceat</w></lem>
               <rdg wit="cod."><w>ratio</w></rdg>
             </app>
           </l>
           <l n="6">
             <w>te</w>
             <app type="text">
-              <lem wit="HSB V W T"><w>ratio</w></lem>
+              <lem wit="CB Ka Lh O Ob HSB V W T"><w>ratio</w></lem>
               <rdg wit="cod."><w>doceat</w></rdg>
             </app>
             <pc>&#183;</pc>
