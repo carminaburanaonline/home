@@ -275,11 +275,25 @@
   {
     "abstract_item": "CB022",
     "source": 88,
-    "foliation": "46v-47",
+    "foliation": "46v-47r",
     "title": "Et gaudebit",
-    "file": "CB022_plut_1",
+    "file": "CB022_plut_cl3",
     "SVGfiles": 3,
     "IIIF_canvasIndex": "101",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB022",
+    "source": 88,
+    "foliation": "99v-100r",
+    "title": "Non vos relinquam",
+    "file": "CB022_plut_non",
+    "SVGfiles": 4,
+    "IIIF_canvasIndex": "207",
     "IIIF_canvasId": "",
     "alternative_img_link": "",
     "language": [

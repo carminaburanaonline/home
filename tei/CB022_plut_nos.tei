@@ -1,0 +1,31 @@
+<TEI>
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="prose">
+        <p>
+          <w>Non</w>
+          <w>vos</w>
+          <w>relinquam</w>
+          <w>orphanos</w>
+          <pc>&#183;</pc>
+          <pc resp="#editor">.</pc>
+        </p>
+        <p>
+          <w>Vado</w>
+          <w>et</w>
+          <w>venio</w>
+          <w>ad</w>
+          <w>vos</w>
+          <pc resp="#editor">.</pc>
+        </p>
+        <p>
+          <w>Et</w>
+          <w>gaudebit</w>
+          <pc>&#183;</pc>
+          <pc resp="#editor">.</pc>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
