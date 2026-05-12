@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader/>
+  <teiHeader />
   <text>
     <body>
       <div type="poem">
@@ -29,7 +29,7 @@
         <lg type="strophe" n="IV">
           <l n="1">Si je voyais celle que je veux</l>
           <l n="2">au lieu des scribes de Silos</l>
-          <l n="3">ou même du fils du roi !</l>
+          <l n="3">ou m&#234;me du fils du roi !</l>
           <l n="4" rend="indent(1)">Amour-douceur !</l>
         </lg>
       </div>
