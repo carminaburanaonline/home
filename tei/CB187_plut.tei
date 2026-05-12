@@ -11,7 +11,7 @@
           </l>
           <l n="2">
             <app type="text">
-              <lem wit="HSB V T">
+              <lem wit="CB O HSB V T">
                 <w>quos</w>
               </lem>
               <rdg wit="cod."><w>quas</w></rdg>
@@ -100,7 +100,7 @@
             <w>spem</w>
             <w>vanam</w>
             <app type="text">
-              <lem wit="HSB V T">
+              <lem wit="CB O HSB V T">
                 <w>concipis</w>
               </lem>
               <rdg wit="cod."><w>concipit</w></rdg>
@@ -109,10 +109,11 @@
           </l>
           <l n="5">
             <app type="text">
-              <lem wit="V">
+              <lem wit="CB V">
                 <w>tenui</w>
               </lem>
-              <rdg wit="cod. HSB T"><w>tenuis</w></rdg>
+              <rdg wit="cod. O HSB T"><w>tenuis</w></rdg>
+              <note><w>tenuis</w> corr. ex <w>tenui</w> O</note>
             </app>
             <w>fortuna</w>
             <pc resp="#editor">.</pc>
@@ -126,7 +127,7 @@
           </l>
           <l n="8">
             <app type="text">
-              <lem wit="HSB V T">
+              <lem wit="CB O HSB V T">
                 <w>omnium</w>
               </lem>
               <rdg wit="cod."><w>hominum</w></rdg>
@@ -140,10 +141,11 @@
             <w>a</w>
             <w>quo</w>
             <app type="text">
-              <lem wit="HSB V T">
+              <lem wit="CB HSB V T">
                 <w>nil</w>
               </lem>
               <rdg wit="cod."><w>nichil</w></rdg>
+              <note>om. O</note>
             </app>
             <w>emungitur</w>
             <pc resp="#editor">,</pc>
@@ -164,13 +166,8 @@
             <pc resp="#editor">&#8217;</pc>
           </l>
           <l n="12">
-            <app type="text">
-              <lem wit="cod. HSB">
-                <w>tenent</w>
+            <w>tenent</w>
             <w>omnes</w>
-              </lem>
-              <rdg wit="V T"><w>omnes</w><w>tenent</w></rdg>
-            </app>
             <w>ad</w>
             <w>litteram</w>
             <pc>&#183;</pc>
@@ -181,7 +178,7 @@
           <l n="1">
             <w>In</w>
             <app type="text">
-              <lem wit="HSB V T">
+              <lem wit="CB O HSB V T">
                 <w>levum</w>
               </lem>
               <rdg wit="cod."><w>lucrum</w></rdg>
@@ -231,12 +228,7 @@
           <l n="10">
             <w>rei</w>
             <w>pena</w>
-            <app type="text">
-              <lem wit="cod.">
-                <w>minuitur</w>
-              </lem>
-              <rdg wit="HSB V T"><w>diluitur</w></rdg>
-            </app>
+            <w>minuitur</w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>

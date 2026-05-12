@@ -109,18 +109,8 @@
             <pc resp="#editor">?</pc>
           </l>
           <l n="3">
-            <app type="text">
-              <lem wit="cod.">
-                <w>Hiis</w>
-              </lem>
-              <rdg wit="HSB V T"><w>id</w></rdg>
-            </app>
-            <app type="text">
-              <lem wit="cod. HSB">
-                <w>prius</w>
-              </lem>
-              <rdg wit="V T"><w>primum</w></rdg>
-            </app>
+            <w>Hiis</w>
+            <w>prius</w>
             <w>explices</w>
             <pc>&#183;</pc>
             <pc resp="#editor">!</pc>
@@ -143,22 +133,12 @@
             <w>viciis</w>
           </l>
           <l n="7">
-            <app type="text">
-              <lem wit="cod. HSB">
-                <w>ipsorum</w>
-              </lem>
-              <rdg wit="V T"><w>illorum</w></rdg>
-            </app>
+            <w>ipsorum</w>
             <w>implices</w>
             <pc resp="#editor">.</pc>
           </l>
           <l n="8">
-            <app type="text">
-              <lem wit="cod. HSB">
-                <w>Carus</w>
-              </lem>
-              <rdg wit="V T"><w>Gratus</w></rdg>
-            </app>
+            <w>Carus</w>
             <w>eris</w>
             <pc resp="#editor">,</pc>
             <w>si</w>
@@ -166,12 +146,7 @@
           </l>
           <l n="9">
             <w>in</w>
-            <app type="text">
-              <lem wit="cod. HSB">
-                <w>prelatis</w>
-              </lem>
-              <rdg wit="V T"><w>prelato</w></rdg>
-            </app>
+            <w>prelatis</w>
             <w>vite</w>
             <w>mendas</w>
             <pc>&#183;</pc>
@@ -192,12 +167,7 @@
             <w>ceteris</w>
           </l>
           <l n="13">
-            <app type="text">
-              <lem wit="cod. HSB T">
-                <w>sacri</w>
-              </lem>
-              <rdg wit="V"><w>nostri</w></rdg>
-            </app>
+            <w>sacri</w>
             <w>pontifices</w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
@@ -240,12 +210,7 @@
             <pc resp="#editor">;</pc>
           </l>
           <l n="7">
-            <app type="text">
-              <lem wit="cod. V">
-                <w>dare</w>
-              </lem>
-              <rdg wit="HSB T"><w>dari</w></rdg>
-            </app>
+            <w>dare</w>
             <w>famam</w>
             <w>doleo</w>
           </l>
@@ -259,10 +224,11 @@
           <l n="9">
             <w>nec</w>
             <app type="text">
-              <lem wit="HSB V T">
+              <lem wit="CB O HSB V T">
                 <w>impinguo</w>
               </lem>
-              <rdg wit="cod."><w>impingo</w></rdg>
+              <rdg wit="cod. Da"><w>impingo</w></rdg>
+              <note><w>impinguo</w> corr. ex <w>impingo</w> O</note>
             </app>
             <w>capita</w>
           </l>
@@ -294,12 +260,7 @@
           </l>
           <l n="4">
             <w>multos</w>
-            <app type="text">
-              <lem wit="cod.">
-                <w>facit</w>
-              </lem>
-              <rdg wit="HSB V T"><w>fecit</w></rdg>
-            </app>
+            <w>facit</w>
             <w>exules</w>
             <pc>&#183;</pc>
             <pc resp="#editor">!</pc>
@@ -449,11 +410,13 @@
           </l>
           <l n="8">
             <app type="text">
-              <lem wit="HSB T">
+              <lem>
                 <w>Gyesi</w>
               </lem>
               <rdg wit="cod."><w>Gysi</w></rdg>
-              <rdg wit="V"><w>in</w><w>Iezy</w></rdg>
+              <rdg wit="O HSB T"><w>Gyezi</w></rdg>
+              <rdg wit="CB V"><w>in</w><w>Iezy</w></rdg>
+              <note><w>Iezy</w> corr. ex <w>Iecy</w> man. r. CB</note>
             </app>
             <w>participes</w>
             <pc>&#183;</pc>
