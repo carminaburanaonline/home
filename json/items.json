@@ -1135,6 +1135,20 @@
     ]
   },
   {
+    "abstract_item": "CB138",
+    "source": 106,
+    "foliation": "57-57v",
+    "title": "Veris leta facies / In liehter varwe",
+    "file": "CB138",
+    "IIIF_canvasIndex": "116",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "",
+    "language": [
+      1,
+      2
+    ]
+  },
+  {
     "abstract_item": "CB139",
     "source": 106,
     "foliation": "57v-58",
@@ -1485,7 +1499,7 @@
     "abstract_item": "CB189",
     "source": 106,
     "foliation": "83-83v",
-    "title": "Aristippe quamvis sero",
+    "title": "Aristipe quamvis sero",
     "file": "CB189",
     "IIIF_canvasIndex": "168",
     "IIIF_canvasId": "",
@@ -1512,7 +1526,7 @@
     "abstract_item": "CB189",
     "source": 88,
     "foliation": "416-417 (381-382)",
-    "title": "Aristippe quamvis sero",
+    "title": "Aristirpe quamvis sero",
     "file": "CB189_plut",
     "SVGfiles": 2,
     "IIIF_canvasIndex": "770",

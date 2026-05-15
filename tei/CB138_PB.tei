@@ -1,0 +1,80 @@
+<TEI>
+  <teiHeader></teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg type="strophe" n="I">
+          <l n="1">
+            <seg type="hemistich">Le gai visage du printemps</seg>
+            <seg type="hemistich">désaltère le monde,</seg>
+          </l>
+          <l n="2">
+            <seg type="hemistich">l’armée de l’hiver</seg>
+            <seg type="hemistich">vaincue est en déroute.</seg>
+          </l>
+          <l n="3">
+            <seg type="hemistich">Dans ses habits multicolores</seg>
+            <seg type="hemistich">Flore marche en princesse,</seg>
+          </l>
+          <l n="4">
+            <seg type="hemistich">célébrée dans les bois</seg>
+            <seg type="hemistich">de chants mélodieux.</seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="II">
+          <l n="1">
+            <seg type="hemistich">En ce renouveau Phébus,</seg>
+            <seg type="hemistich">renversé dans ses bras, </seg>
+          </l>
+          <l n="2">
+            <seg type="hemistich">sourit à Flore, noyée</seg>
+            <seg type="hemistich">sous ce fouillis de fleurs variées.</seg>
+          </l>
+          <l n="3">
+            <seg type="hemistich">Zéphyre va diffusant</seg>
+            <seg type="hemistich">de délicieux parfums.</seg>
+          </l>
+          <l n="4">
+            <seg type="hemistich">A l’envi, courons pour gagner</seg>
+            <seg type="hemistich">la récompense d’amour !</seg>
+          </l>
+          <l n="5">					</l>
+          <l n="6">
+            <seg type="hemistich">La noble fleur des jeunes filles</seg>
+            <seg type="hemistich">appelle à soi les lettrés,</seg>
+          </l>
+          <l n="7">
+            <seg type="hemistich">mais déteste absolument</seg>
+            <seg type="hemistich">le cœur brutal des illettrés.</seg>
+          </l>
+          <l n="8">
+            <seg type="hemistich">Amour les entraîne tous</seg>
+            <seg type="hemistich">sous l’astre de l’été,</seg>
+          </l>
+          <l n="9">
+            <seg type="hemistich">Vénus se répand en tous</seg>
+            <seg type="hemistich">en gardant le même nom. 	 </seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="III">
+          <l n="1">
+            <seg type="hemistich">Le rossignol charmeur</seg>
+            <seg type="hemistich">exécute sa chanson,</seg>
+          </l>
+          <l n="2">
+            <seg type="hemistich">les prés désormais sereins</seg>
+            <seg type="hemistich">rient de toutes leurs fleurs.</seg>
+          </l>
+          <l n="3">
+            <seg type="hemistich">des volées d’oiseaux jaillissent</seg>
+            <seg type="hemistich">dans les plaisantes forêts,</seg>
+          </l>
+          <l n="4">
+            <seg type="hemistich">déjà le chœur des fillettes</seg>
+            <seg type="hemistich">nous procure mille joies.</seg>
+          </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
