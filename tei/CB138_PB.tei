@@ -38,25 +38,26 @@
             <seg type="hemistich">A l’envi, courons pour gagner</seg>
             <seg type="hemistich">la récompense d’amour !</seg>
           </l>
-          <l n="5">					</l>
-          <l n="6">
+        </lg>
+        <lg type="strophe" n="III">
+          <l n="1">
             <seg type="hemistich">La noble fleur des jeunes filles</seg>
             <seg type="hemistich">appelle à soi les lettrés,</seg>
           </l>
-          <l n="7">
+          <l n="2">
             <seg type="hemistich">mais déteste absolument</seg>
             <seg type="hemistich">le cœur brutal des illettrés.</seg>
           </l>
-          <l n="8">
+          <l n="3">
             <seg type="hemistich">Amour les entraîne tous</seg>
             <seg type="hemistich">sous l’astre de l’été,</seg>
           </l>
-          <l n="9">
+          <l n="4">
             <seg type="hemistich">Vénus se répand en tous</seg>
             <seg type="hemistich">en gardant le même nom. 	 </seg>
           </l>
         </lg>
-        <lg type="strophe" n="III">
+        <lg type="strophe" n="IV">
           <l n="1">
             <seg type="hemistich">Le rossignol charmeur</seg>
             <seg type="hemistich">exécute sa chanson,</seg>
