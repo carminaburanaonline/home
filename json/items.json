@@ -512,9 +512,9 @@
     "title": "Benedicamus Domino",
     "file": "CB034_bnf",
     "SVGfiles": 4,
-    "IIIF_canvasIndex": "",
+    "IIIF_canvasIndex": "450",
     "IIIF_canvasId": "",
-    "alternative_img_link": "https://gallica.bnf.fr/view3if/ga/ark:/12148/btv1b8432457p/f224",
+    "alternative_img_link": "",
     "language": [
       1
     ]
