@@ -77,8 +77,6 @@ function itemCoreView(div, item_id) {
       $(`#toggleMetricButton-${item_id}`).click(function(){
         $(`#itemCoreView-${item_id} .verse-met`).toggle();
         $(`#itemCoreView-${item_id} .poem-met`).toggle();
-      });
-      $(`#toggleRhymeButton-${item_id}`).click(function(){
         $(`#itemCoreView-${item_id} .verse-rhyme`).toggle();
       });
       $(`#togglePunctuationButton-${item_id}`).click(function(){
