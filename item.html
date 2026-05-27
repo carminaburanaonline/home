@@ -203,7 +203,7 @@
           // Controls the horizontal window resizer
           const r = document.getElementById('dragResizer');
 
-          const left = r.previousElementSibling;
+          const left = document.getElementById('itemLeft');
           let startX, startWidth;
 
           const move = e => {
