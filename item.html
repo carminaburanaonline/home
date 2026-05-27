@@ -201,32 +201,29 @@
         <div id="dragResizer" class="resizer"></div>
         <script>
           // Controls the horizontal window resizer
-          $(document).ready(function() {
-            // Query the element
-            const r = document.getElementById('dragResizer');
-            if (!r) return;
+          const r = document.getElementById('dragResizer');
+          if (!r) return;
 
-            const left = r.previousElementSibling;
-            let startX, startWidth;
+          const left = r.previousElementSibling;
+          let startX, startWidth;
 
-            const move = e => {
-              const dx = e.clientX - startX;
-              left.style.width = ((startWidth + dx) * 100 / r.parentNode.clientWidth) + '%';
-              document.body.style.cursor = 'col-resize';
-            };
+          const move = e => {
+            const dx = e.clientX - startX;
+            left.style.width = ((startWidth + dx) * 100 / r.parentNode.clientWidth) + '%';
+            document.body.style.cursor = 'col-resize';
+          };
 
-            const stop = () => {
-              document.removeEventListener('mousemove', move);
-              document.removeEventListener('mouseup', stop);
-              document.body.style.removeProperty('cursor');
-            };
+          const stop = () => {
+            document.removeEventListener('mousemove', move);
+            document.removeEventListener('mouseup', stop);
+            document.body.style.removeProperty('cursor');
+          };
 
-            r.addEventListener('mousedown', e => {
-              startX = e.clientX;
-              startWidth = left.getBoundingClientRect().width;
-              document.addEventListener('mousemove', move);
-              document.addEventListener('mouseup', stop);
-            });
+          r.addEventListener('mousedown', e => {
+            startX = e.clientX;
+            startWidth = left.getBoundingClientRect().width;
+            document.addEventListener('mousemove', move);
+            document.addEventListener('mouseup', stop);
           });
         </script>
 
