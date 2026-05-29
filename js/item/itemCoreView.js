@@ -84,8 +84,11 @@ function textToSvgElement(text) {
   wrapper.setAttribute("width", "100%");
   wrapper.innerHTML = text;
   const svgEl = wrapper.querySelector("svg");
-  svgEl.setAttribute("width", "100%");
+  svgEl.setAttribute("preserveAspectRatio", "xMinYMin meet");
   return svgEl;
+
+
+
 }
 
 async function addSvgImages(container, item) {
@@ -107,6 +110,7 @@ async function addSvgImages(container, item) {
   }
   else {
     for (var x = 1; x <= item.SVGfiles; x++) {
+      const svgText = await fetch(`img/mzsc/${itemId}-${x}.svg`).then(r => r.text());
       svgContainer.appendChild(textToSvgElement(svgText));
     }
   }

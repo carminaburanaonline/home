@@ -123,3 +123,10 @@ p {
 .border-blue {
   border-color: blue;
 }
+
+svg {
+  width: 100%;
+  height: auto;
+  vertical-align: top;
+  display: block;
+}
