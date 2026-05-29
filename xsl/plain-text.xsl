@@ -4,7 +4,7 @@
   <xsl:template match="teiHeader"/>
 
   <xsl:template match="body">
-    <div class="editorial" style="font-size: 16px;">
+    <div class="text-font" style="font-size: 16px;">
       <xsl:apply-templates />
     </div>
   </xsl:template>
@@ -140,7 +140,7 @@
   </xsl:template>
 
   <xsl:template match="w">
-  <span class="word editorial">
+  <span class="word text-font">
     <xsl:apply-templates/>
   </span>
   </xsl:template>
@@ -159,7 +159,7 @@
 
   <xsl:template match="app[@type='text']">
     <span class="apparatus-in-text app-text">
-      <div class="apparatus-note font-small cbo-border-red">
+      <div class="apparatus-note font-small border-red">
         <xsl:apply-templates select="./rdg" />
         <xsl:apply-templates select="./note" />
       </div>

@@ -9,8 +9,8 @@
       </xsl:attribute>
       <span class="flex-wrapper">
         <xsl:attribute name="class">
-          <xsl:if test="@type='text'">apparatus-note font-small cbo-border-red</xsl:if>
-          <xsl:if test="@type='neume'">apparatus-note font-small cbo-border-blue toggle-neumes</xsl:if>
+          <xsl:if test="@type='text'">apparatus-note font-small border-red</xsl:if>
+          <xsl:if test="@type='neume'">apparatus-note font-small border-blue toggle-neumes</xsl:if>
         </xsl:attribute>
         <xsl:apply-templates select="./rdg" />
         <xsl:apply-templates select="./note" />

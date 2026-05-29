@@ -4,7 +4,7 @@
   <xsl:template match="teiHeader"/>
 
   <xsl:template match="body">
-    <div class="editorial" style="font-size: 16px;">
+    <div class="text-font" style="font-size: 16px;">
       <xsl:apply-templates />
     </div>
   </xsl:template>
@@ -53,7 +53,7 @@
   </xsl:template>
 
   <xsl:template match="p">
-    <p class="editorial"><xsl:apply-templates /></p>
+    <p class="text-font"><xsl:apply-templates /></p>
   </xsl:template>
 
   <xsl:template match="div[@type='sequence']">
@@ -121,7 +121,7 @@
     <div class="verse">
       <xsl:if test="@rend">
         <xsl:variable name="rend" select="@rend"/>
-        <xsl:variable name="indent" select="substring-after($rend, '(')"></xsl:variable>
+        <xsl:variable name="indent" select="substring-after($rend, '(')" />
         <xsl:attribute name="data-indent"><xsl:value-of select="substring-before($indent, ')')" /></xsl:attribute>
       </xsl:if>
       <div class="verse-number non-selectable">

@@ -4,7 +4,7 @@
   <xsl:template match="teiHeader"/>
 
   <xsl:template match="body">
-    <div class="editorial flex-wrapper" style="font-size: 16px;">
+    <div class="editorial flex-wrapper" style="font-size: 16px; gap: 6px;">
       <xsl:apply-templates />
     </div>
   </xsl:template>
@@ -12,11 +12,11 @@
   <xsl:template match="castList" />
 
   <xsl:template match="head">
-    <b style="margin-left: 8px;"><xsl:apply-templates /></b>
+    <b><xsl:apply-templates /></b>
   </xsl:template>
 
   <xsl:template match="lg[@type='refrain']/head">
-    <i style="margin-left: 8px;"><xsl:apply-templates /></i>
+    <i><xsl:apply-templates /></i>
   </xsl:template>
 
   <xsl:template match="prologue">
@@ -136,8 +136,8 @@
       </xsl:attribute>
       <span class="flex-wrapper">
         <xsl:attribute name="class">
-          <xsl:if test="@type='text'">apparatus-note font-small cbo-border-red</xsl:if>
-          <xsl:if test="@type='neume'">apparatus-note font-small cbo-border-blue toggle-neumes</xsl:if>
+          <xsl:if test="@type='text'">apparatus-note font-small border-red</xsl:if>
+          <xsl:if test="@type='neume'">apparatus-note font-small border-blue toggle-neumes</xsl:if>
         </xsl:attribute>
         <xsl:apply-templates select="./rdg" />
         <xsl:apply-templates select="./note" />

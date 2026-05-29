@@ -5,7 +5,7 @@
 
   <xsl:template match="body">
     <xsl:if test=".//app[@type='neume']">
-      <div class="editorial font-small">
+      <div class="text-font font-small">
         <p><b>Critical apparatus (neumes)</b></p>
         <div class="flex-wrapper">
           <xsl:apply-templates select=".//app[@type='neume']" />
@@ -41,11 +41,11 @@
 
   <xsl:template match="seg[@type='syll']">
     <xsl:variable name="text"><xsl:value-of select="./text()"/></xsl:variable>
-    <span class="syl-dash editorial">
+    <span class="syl-dash text-font">
       <xsl:if test="@part='M' or  @part='F'"><xsl:text>-</xsl:text></xsl:if>
     </span>
     <span class="neumed-syll">
-      <span class="syl-text editorial">
+      <span class="syl-text text-font">
         <xsl:if test="@part='M' or  @part='F'"><xsl:text>-</xsl:text></xsl:if>
         <xsl:value-of select="normalize-space($text)"/>
         <xsl:if test="@part='I' or  @part='M'"><xsl:text>-</xsl:text></xsl:if>

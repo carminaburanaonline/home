@@ -19,13 +19,9 @@ body {
   margin: 0;
 }
 
-h1, h2, h3, h4, h5, h6 { font-weight: 400; margin: 10px 0; }
-h1 { font-size: 30px; }
-h2 { font-size: 24px; }
-h3 { font-size: 20px; }
-h4 { font-size: 18px; }
-h5 { font-size: 16px; }
-h6 { font-size: 15px; }
+h1 { font-size: 2.4rem; font-weight: 500; margin: 1rem 0; }
+h2 { font-size: 2rem; font-weight: 400; }
+h3 { font-size: 1.6rem; }
 
 a {
   color: inherit;
@@ -39,7 +35,7 @@ a {
 
 main {
   flex: 1;
-  padding: 0 20px 0 20px;
+  padding: 0 10px 0 10px;
 }
 
 .flex-column {
@@ -99,7 +95,7 @@ main {
 }
 
 .font-small {
-  font-size: 14px;
+  font-size: 12px;
 }
 
 .volpiano {
@@ -172,6 +168,12 @@ main {
   color: white;
   text-align: center;
   padding: 1rem;
+}
+
+/* =========================   Items table   ========================= */
+
+.highlight-row {
+  background-color: Linen;
 }
 
 .non-selectable { user-select: none; }

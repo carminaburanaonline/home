@@ -1,15 +1,14 @@
 /* ============================================================
    UI COMPONENTS – Buttons, Tabs, Dropdowns
-   Restores legacy visual style (header-consistent)
    ============================================================ */
-
-/* -------------------------
-   Shared button / tab style
-   ------------------------- */
 
 .sand-border {
   border-color:#fdf5e6;
   border-style: inset;
+}
+
+.main {
+  padding: 10px;
 }
 
 .resizer {
@@ -51,6 +50,8 @@ button:focus {
 
 .tabcontent {
   padding: 10px;
+  height: 1200px;
+  overflow-y: scroll;
 }
 
 /* -------------------------
@@ -84,5 +85,10 @@ button:focus {
 
 .dropdown:hover .dropdown-menu {
   display: block;
+}
+
+img.download-logo {
+  height: 40px;
+  width: 40px;
 }
 

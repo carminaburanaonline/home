@@ -1,423 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>CBO</title>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <meta charset="utf-8" />
+  <title>CBO – Item</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
   <script src="https://unpkg.com/mirador@^3/dist/mirador.min.js"></script>
-  <script type="application/javascript" src="js/html2pdf.bundle.min.js"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
-  <script src="js/XSLtransform.js"></script>
-  <script src="js/buttons.js"></script>
-  <script src="js/verse_numbers.js"></script>
-  <script src="js/indent_verses.js"></script>
-  <script src="js/words_and_syllables.js"></script>
-  <script src="js/set_leading_consonants.js"></script>
-  <script src="js/highlight_words.js"></script>
-  <script src="js/item_core_view.js"></script>
+  <script src="js/libs/jspdf.umd.js"></script>
+  <script type="application/javascript" src="js/libs/html2pdf.bundle.min.js"></script>
 
-  <script>
-    const params = new URLSearchParams(document.location.search);
-    const item_id = params.get("id");
-  </script>
-
-  <!-- Add additional CSS in static file -->
-  <link rel="stylesheet" href="css/ui-components.css"/>
-  <link rel="stylesheet" href="css/layout-generic.css"/>
+  <link rel="stylesheet" href="css/layout-generic.css" />
+  <link rel="stylesheet" href="css/ui-components.css" />
   <link rel="stylesheet" href="css/neumed-text.css" />
-
-  <style>
-    .verse, .no-break, .p {
-      break-inside: avoid;
-    }
-
-    .resizer {
-      cursor: ew-resize;
-      height: 1200px;
-      width: 6px;
-    }
-
-    .tab{
-      box-sizing: border-box;
-      display: inline-flex;
-      width: 100%;
-    }
-
-    .active {
-      background-color: #ffed7f;
-    }
-
-    .tabcontent {
-      display: none;
-      padding: 6px;
-      height: 1200px;
-      overflow-y: scroll;
-    }
-
-    .dropbtn {
-      background-color: #3498DB;
-      color: white;
-      padding: 16px;
-      font-size: 16px;
-      border: none;
-      cursor: pointer;
-    }
-
-    .dropbtn:hover, .dropbtn:focus {
-      background-color: #2980B9;
-    }
-
-    #itemRightTitle {
-      margin-left: auto;
-      margin-right: auto;
-    }
-
-    .download-logo {
-      height: 40px;
-      width: 40px;
-    }
-    </style>
-
 </head>
 <body>
-<div class="page-container">
-  <!-- Navbar + header -->
-  <div data-include="header"></div>
+  <div class="page-container">
+    <div data-include="header"></div>
 
-  <main style="display: flex; flex: 1;">
-
-    <div style="width: 100%;">
-      <div style="display: flex">
-        <div id="metadata" style="flex: 2"></div>
-        <script>
-          var items, source;
-          $.when(
-            $.getJSON("json/items.json", function(data) {
-              items = data;
-            }),
-            $.getJSON("json/sources.json", function(data) {
-              sources = data;
-            })
-          ).then(function() {
-            var item = items.find((element) => element.file == item_id);
-            var source = sources.find((element) => element.pk == item.source);
-            $("#metadata").append(`
-              <h1><a href="abstract_item.html?id=${item.abstract_item}">${item.abstract_item}</a></h1>
-              <h2>${item.title}</h2>
-              <p>Source: <a href="source.html?pk=${source.pk}">${source.bib_id}</a> (${source.location})</p>
-              <p>Folio: ${item.foliation}</p>
-            `);
-          });
-        </script>
-        <div id="download" style="flex: 1; padding: 5px;"></div>
-        <script>
-          $("#download").append(`<h4>Download options</h4>
-          <a href="tei/${item_id}.tei" download="${item_id}.tei"><img class="download-logo" src="img/TEI_Logo.svg" /></a>
-          <a href="html/${item_id}.html" download="${item_id}.html"><img class="download-logo" src="img/HTML_Logo.svg" /></a>
-          <a id="pdf-download" style="cursor: pointer;"><img class="download-logo" src="img/PDF_Logo.svg" /></a>
-          <h6>French translation</h6>
-          <a href="tei/${item_id}_PB.tei" download="${item_id}_french.tei"><img class="download-logo" src="img/TEI_Logo.svg" /></a>
-          <a href="html/${item_id}_PB.html" download="${item_id}_french.html"><img class="download-logo" src="img/HTML_Logo.svg" /></a>
-          <a id="pdf-download-french" style="cursor: pointer;"><img class="download-logo" src="img/PDF_Logo.svg" /></a>`
-          );
-        </script>
-      </div>
-
-      <script>
-        // Downloading PDF (through the html2pdf tool)
-        $("#pdf-download").click(function() {
-          var pdfHead = document.createElement("div");
-          pdfHead.innerHTML = $("#metadata").html();
-          pdfHead.innerHTML += "<p style='margin-top: 200px;'>Carmina Burana Online Project<p><p>Edited by C. Cazaux, L. Albiero, U. Bindini, M. Romanens</p>";
-          headOpt = {
-            margin: [20, 15, 20, 15],
-            image: { type: 'jpeg', quality: 1 },
-            html2canvas: { scrollY: 0, y: 0, scale: 4, letterRendering: true }
-          };
-
-          //TODO: svg based?
-          if (item_is_svg_based) {
-            var opt = {
-              margin: [0, 0, 0, 0],
-              filename: `${item_id}.pdf`,
-              pagebreak: { mode: 'css' },
-              image: { type: 'jpeg', quality: 1 },
-              html2canvas: { scrollY: 0, y: 0, scale: 4, letterRendering: true }
-            };
-            var element = document.createElement("div");
-            //TODO: create pdf template
-            //element.innerHTML = '{{ item.pdf_template }}'
-            html2pdf().set(headOpt).from(pdfHead).toPdf().get('pdf').then(function (pdf) {
-              pdf.addPage();
-            }).set(opt).from(element).toContainer().toCanvas().toPdf().save();
-          }
-          else {
-            var opt = {
-              margin: [17, 15, 16, 15],
-              filename: `${item_id}.pdf`,
-              pagebreak: { mode: 'css', avoid: '.lg-heading' },
-              image: { type: 'jpeg', quality: 1 },
-              html2canvas: { scrollY: 0, y: 0, scale: 4, letterRendering: true }
-            };
-            var element = document.getElementById(`mainContainer-${item_id}`);
-            html2pdf().set(headOpt).from(pdfHead).toPdf().get('pdf').then(function (pdf) {
-              pdf.addPage();
-            }).set(opt).from(element).toContainer().toCanvas().toPdf().save();
-          }
-        });
-        $("#pdf-download-french").click(function() {
-          var pdfHead = document.createElement("div");
-          $("#translationButton").click();
-          pdfHead.innerHTML += $("#metadata").html();
-          pdfHead.innerHTML += "<p style='margin-top: 200px;'>Carmina Burana Online Project<p><p>Edited by C. Cazaux, L. Albiero, U. Bindini, M. Romanens</p>";
-          pdfHead.innerHTML += "<p style='margin-top: 200px;'>French translation by Pascale Bourgain<p>";
-          headOpt = {
-            margin: [20, 15, 20, 15],
-            image: { type: 'jpeg', quality: 1 },
-            html2canvas: { scrollY: 0, y: 0, scale: 4, letterRendering: true }
-          };
-          var opt = {
-            margin: [17, 15, 16, 15],
-            filename: `${item_id}_french.pdf`,
-            pagebreak: { mode: 'css', avoid: '.lg-heading' },
-            image: { type: 'jpeg', quality: 1 },
-            html2canvas: { scrollY: 0, y: 0, scale: 4, letterRendering: true }
-          };
-          var element = $("#translation")[0];
-          html2pdf().set(headOpt).from(pdfHead).toPdf().get('pdf').then(function (pdf) {
-            pdf.addPage();
-          }).set(opt).from(element).toContainer().toCanvas().toPdf().save();
-        });
-      </script>
-
-      <div style="display: flex;">
-        <div id="itemLeft" class="sand-border flex-column" style="width: 50%;"></div>
-        <script>
-          itemCoreView($("#itemLeft"), item_id);
-        </script>
-
-        <div id="dragResizer" class="resizer"></div>
-        <script>
-          // Controls the horizontal window resizer
-          const r = document.getElementById('dragResizer');
-
-          const left = document.getElementById('itemLeft');
-          let startX, startWidth;
-
-          const move = e => {
-            const dx = e.clientX - startX;
-            left.style.width = ((startWidth + dx) * 100 / r.parentNode.clientWidth) + '%';
-            document.body.style.cursor = 'col-resize';
-          };
-
-          const stop = () => {
-            document.removeEventListener('mousemove', move);
-            document.removeEventListener('mouseup', stop);
-            document.body.style.removeProperty('cursor');
-          };
-
-          r.addEventListener('mousedown', e => {
-            startX = e.clientX;
-            startWidth = left.getBoundingClientRect().width;
-            document.addEventListener('mousemove', move);
-            document.addEventListener('mouseup', stop);
-          });
-        </script>
-
-        <div class="sand-border" style="flex: 1;">
-          <div class="tab cbo-white cbo-wide cbo-padding cbo-card right">
-            <button id="defaultOpenRight" class="tablinks cbo-bar-item cbo-button activable" onclick="openRightTab(this, 'msImage')">Manuscript</button>
-            <button class="tablinks cbo-bar-item cbo-button activable" onclick="openRightTab(this, 'commentary')">Critical commentary</button>
-            <button id="translationButton" class="tablinks cbo-bar-item cbo-button activable" onclick="openRightTab(this, 'translation')">French translation</button>
-            <button id="itemsRight" class="tablinks cbo-bar-item cbo-button activable" onclick="openRightTab(this, 'itemRight')">Item...</button>
-          </div>
-
-          <div id="msImage" class="tabcontent right"></div>
-          <script>
-            // Making msImage work (Mirador)
-            var items, source;
-            $.when(
-              $.getJSON("json/items.json", function(data) {
-                items = data;
-              }),
-              $.getJSON("json/sources.json", function(data) {
-                sources = data;
-              })
-            ).then(function() {
-              var item = items.find((element) => element.file == item_id);
-              var source = sources.find((element) => element.pk == item.source);
-
-              // Filling data into msImage div
-              if (!source.IIIF_manifest.length) {
-                if (item.alternative_img_link.length) {
-                  $("#msImage").append(`Unable to display manuscript images due to copyright restrictions.
-                    <a target="_blank" href="${item.alternative_img_link}"><i class="fa fa-arrow-right" style="margin-right: 5px;"></i>Open external website.</a>`
-                    );
-                }
-                else {
-                  $("#msImage").append("Manuscript images not available for this item.")
-                }
-              }
-              else {
-                $("#msImage").append(`<div id="mirador" style="position: relative; width: 100%; height: 1000px;"></div>`)
-              }
-
-              // Mirador
-              var source_manifest = source.IIIF_manifest;
-              var canvasIndex = item.IIIF_canvasIndex;
-              var canvasId = item.IIIF_canvasId;
-              var mirador_windows = [];
-              if (canvasIndex.length) {
-                mirador_windows = [
-                  {
-                    manifestId: source_manifest,
-                    canvasIndex: canvasIndex
-                  }
-                ]
-              }
-              else {
-                mirador_windows = [
-                  {
-                    manifestId: source_manifest,
-                    canvasId: canvasId
-                  }
-                ]
-              }
-              var mirador = Mirador.viewer({
-                "id": "mirador",
-                selectedTheme: 'light',
-                window: {
-                  defaultView: "single",
-                  views: [
-                    { key: "single", behaviors: ["individuals", "paged"] },
-                    { key: "book", behaviors: ["individuals"] },
-                    { key: "scroll", behaviors: ["continuous"] },
-                    { key: "gallery" }
-                  ]
-                },
-                windows: mirador_windows
-              });
-            });
-          </script>
-
-          <div id="commentary" class="tabcontent right">
-            In preparation...
-          </div>
-
-          <div id="translation" class="tabcontent right"></div>
-          <script>
-            $("#translation").append(XSLtransform(`tei/${item_id}_PB.tei`, "xsl/french-translation.xsl"));
-          </script>
-
-          <div id="itemRight" class="tabcontent right">
-            <div id="itemsTable"></div>
-            <script>
-              // Filling the items' table in the right tab
-              function formatToTr(item, source) {
-                return `<tr>
-                      <td style="white-space: nowrap;">${item.abstract_item}</td>
-                      <td><a href="javascript:openItemRight('${item.file}');">${item.title}</a></td>
-                      <td style="white-space: nowrap;">${source.bib_id}</td>
-                    </tr>`;
-              }
-
-              var items, sources;
-              $.when(
-                $.getJSON("json/items.json", function(data) {
-                  items = data;
-                }),
-                $.getJSON("json/sources.json", function(data) {
-                  sources = data;
-                })
-              ).then(function() {
-                current_item = items.find((element) => element.file == item_id);
-                abstract_item = current_item.abstract_item;
-                siblings_table = "";
-                others_table = "";
-                for (var x in items) {
-                  if (items[x].file != item_id) {
-                    var source = sources.find((element) => element.pk == items[x].source)
-                    if (items[x].abstract_item == abstract_item) {
-                      siblings_table += formatToTr(items[x], source);
-                    }
-                    else {
-                      others_table += formatToTr(items[x], source);
-                    }
-                  }
-                }
-                if (siblings_table.length) {
-                  $("#itemsTable").append("<table>" + siblings_table + "<tr><td colspan='3'><hr/></td></tr>" + others_table + "</table>");
-                }
-                else {
-                  $("#itemsTable").append("<table>" + others_table + "</table>");
-                }
-              });
-            </script>
-            <table id="itemRightTitle"></table>
-            <div id="itemRightNav" style="display: flex; align-items: center;">
-              <a href="javascript:itemsRightBack()" style="margin-left: 10px;"><i class="fa fa-arrow-left" style="margin-right: 5px;"></i>Back to items' list</a>
-              <div style="flex: 1; height: 50px;"></div>
-              <a id="itemRightDetailView" href="blank"  style="margin-right: 10px;">Open item's detailed view<i class="fa fa-arrow-right" style="margin-left: 5px;"></i></a>
-            </div>
-            <div id="selectedItemRight"></div>
-          </div>
-        </div>
+    <div class="main" style="display: flex">
+      <div id="metadata" style="flex: 2"></div>
+      <div id="download" style="flex: 1; padding: 5px;">
+        <h4>Download options</h4>
+        <a id="tei-download"><img class="download-logo" src="img/TEI_Logo.svg" /></a>
+        <a id="html-download"><img class="download-logo" src="img/HTML_Logo.svg" /></a>
+        <a id="pdf-download" style="cursor: pointer;"><img class="download-logo" src="img/PDF_Logo.svg" /></a>
+        <h5>French translation</h5>
+        <a id="tei-download-french"><img class="download-logo" src="img/TEI_Logo.svg" /></a>
+        <a id="html-download-french"><img class="download-logo" src="img/HTML_Logo.svg" /></a>
+        <a id="pdf-download-french" style="cursor: pointer;"><img class="download-logo" src="img/PDF_Logo.svg" /></a>
       </div>
     </div>
 
-    <script>
-      function openRightTab(tab, tabName) {
-        $('.tabcontent.right').hide();
-        $('.right > .tablinks').removeClass('active');
-        $("#" + tabName).css("display","block");
-        $(tab).addClass('active');
-        $("#itemsTable").show();
-        $("#selectedItemRight").hide();
-        $("#itemRightNav").hide();
-      }
+    <main style="display:flex; flex: 1;">
+      <article id="itemLeft" class="panel sand-border" style="width:50%"></article>
+      <div id="dragResizer" class="resizer"></div>
+      <section class="panel sand-border" style="flex:1">
+        <div class="tab">
+          <button id="defaultOpenRight" class="tablinks activable" data-tab-target="msImage">Manuscript</button>
+          <button class="tablinks activable" data-tab-target="commentary">Critical commentary</button>
+          <button class="tablinks activable" data-tab-target="translation">French translation</button>
+          <button id="itemRightButton" class="tablinks activable" data-tab-target="itemRight">Item...</button>
+        </div>
 
-      function openItemRight(item_right_id) {
-        $("#itemsTable").hide();
-        itemCoreView($("#selectedItemRight"), item_right_id);
-        var item, source;
-        $.when(
-          $.getJSON("json/items.json", function(data) {
-            item = data.find((element) => element.file == item_right_id);
-          }),
-          $.getJSON("json/sources.json", function(data) {
-            source = data.find((element) => element.pk == item.source);
-          })
-        ).then(function() {
-          $("#itemRightTitle").html(`${item.abstract_item} ${item.title}, ${source.bib_id}`);
-        });
-        $("#itemRightDetailView").attr("href", `item?id=${item_right_id}`);
-        $("#selectedItemRight").show();
-        $("#itemRightNav").show();
-      }
+        <div id="msImage" class="tabcontent right panel"></div>
+        <div id="commentary" class="tabcontent right panel">In preparation...</div>
+        <div id="translation" class="tabcontent right panel editorial"></div>
 
-      function itemsRightBack() {
-        $("#itemsRight").click();
-      }
+        <div id="itemRight" class="tabcontent right panel">
+          <div id="itemsTable"></div>
+          <div id="itemRightTitleDiv" style="text-align: center;"><a id="itemRightTitle"></a></div>
+          <div id="selectedItemRight"></div>
+        </div>
+      </section>
+    </main>
 
-      $(document).ready(function() {
-        $("#defaultOpenRight").click();
-        $("#selectedItemRight").hide();
-        $("#itemRightNav").hide();
-      });
-    </script>
-  </main>
+    <div data-include="footer"></div>
+  </div>
 
-  <!-- Footer -->
-  <footer class="cbo-center cbo-black cbo-padding-16" data-include="footer"></footer>
-</div>
-
-<script src="js/data_include.js"></script>
-
+  <script type="module">
+    import { initItemPage } from './js/item/itemPage.js';
+    initItemPage();
+  </script>
+  <script type="module" src="js/includes.js"></script>
 </body>
 </html>
-
-
-
-

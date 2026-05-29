@@ -1,33 +1,55 @@
-<!-- The template for SVG-based items -->
+<!-- Harmonized template for SVG-based items -->
 
 <div id="itemCoreView" class="item-specific">
 
-  <div class="tab cbo-white cbo-wide cbo-padding cbo-card">
-    <button id="openSvg" class="item-specific tablinks cbo-bar-item cbo-button activable">Music</button>
-    <button id="openText" class="item-specific tablinks cbo-bar-item cbo-button activable">Text</button>
-    <div id="textDropMenu" class="item-specific cbo-dropdown-hover" style="z-index: 1200; margin-left: auto; display: none;">
-      <button id="dropBtn" class="item-specific cbo-bar-item cbo-button"><i style="pointer-events: none;" class="fa fa-bars"></i></button>
-      <div id="dropdownDiv" class="item-specific flex-column cbo-dropdown-content cbo-bar-block" style="right: 0px;">
-        <button id="toggleSyllablesButton" class="item-specific cbo-button cbo-bar-item toggleable">Syllabation</button>
-        <button id="toggleMetricButton" class="item-specific cbo-button cbo-bar-item toggleable">Versification</button>
-        <button id="togglePunctuationButton" class="item-specific cbo-button cbo-bar-item toggleable">Original punctuation</button>
-        <button id="toggleCriticalApparatus" class="item-specific cbo-button cbo-bar-item toggleable active">Critical apparatus</button>
+  <!-- Button / tab bar -->
+  <div class="tab">
+
+    <button id="openSvg"
+            class="item-specific tablinks activable"
+            data-tab-target="svg">
+      Music
+    </button>
+
+    <button id="openText"
+            class="item-specific tablinks activable"
+            data-tab-target="text">
+      Text
+    </button>
+
+    <!-- Dropdown -->
+    <div class="dropdown" style="margin-left:auto">
+      <button id="dropBtn" class="item-specific">☰</button>
+
+      <div class="dropdown-menu">
+        <button id="toggleMetricButton" class="item-specific toggleable">Metrical analysis</button>
+        <button id="toggleRhymeButton" class="item-specific toggleable">Rhyme scheme</button>
+        <button id="togglePunctuationButton" class="item-specific toggleable">Original punctuation</button>
+        <button id="toggleCriticalApparatus" class="item-specific toggleable active">Critical apparatus</button>
       </div>
     </div>
+
   </div>
 
-  <div class="tabcontent" style="display: block;">
-    <div id="mainContainer" class="item-specific" style="height: 100%;">
+  <!-- Tab content -->
+  <div class="tabcontent">
+
+    <div id="mainContainer" class="item-specific editorial">
+
       <div id="svg" class="item-specific"></div>
 
-      <div id="text" class="item-specific">
-        <input type="text" id="searchInput" onkeyup="highlightWords()" placeholder="Search word..." style="width: 95%;">
+      <div id="text" class="item-specific hidden">
+        <input type="text" id="searchInput" class="item-specific" placeholder="Search word...">
+
         <div id="formattedText" class="item-specific"></div>
+
         <div id="apparatusText" class="item-specific no-break">
-          <hr/>
+          <hr />
         </div>
       </div>
+
     </div>
+
   </div>
 
 </div>

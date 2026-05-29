@@ -1,9 +1,9 @@
-// Control the behaviour of different classes of buttons
-$(document).ready(function() {
-  $(".activable").click(function() {
-    $(this).addClass('active');
-  });
-  $(".toggleable").click(function() {
-    $(this).toggleClass('active');
-  });
+document.addEventListener('DOMContentLoaded', () => {
+  document.querySelectorAll('.activable').forEach(el =>
+    el.addEventListener('click', () => el.classList.add('active'))
+  );
+
+  document.querySelectorAll('.toggleable').forEach(el =>
+    el.addEventListener('click', () => el.classList.toggle('active'))
+  );
 });

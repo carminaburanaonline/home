@@ -4,7 +4,7 @@
   <xsl:template match="teiHeader"/>
 
   <xsl:template match="body">
-    <div class="editorial" style="font-size: 16px;">
+    <div class="text-font" style="font-size: 16px;">
       <xsl:apply-templates />
     </div>
   </xsl:template>
@@ -31,13 +31,13 @@
   <xsl:template match="lg[@type='refrain']/head" />
 
   <xsl:template match="div[@type='drama']">
-    <div class="prose-text flex-column">
+    <div class="prose-text">
       <xsl:apply-templates/>
     </div>
   </xsl:template>
 
   <xsl:template match="move | stage">
-    <p class="stage flex-wrapper"><span class="stage-number" style="color: gray"><xsl:value-of select="@n" /></span><xsl:apply-templates /></p>
+    <p class="stage"><span class="stage-number" style="color: gray"><xsl:value-of select="@n" /></span><xsl:apply-templates /></p>
   </xsl:template>
 
   <xsl:template match="sp">
@@ -47,31 +47,24 @@
   </xsl:template>
 
   <xsl:template match="div[@type='prose']">
-    <div class="prose-text flex-column">
+    <div class="prose-text">
       <xsl:apply-templates />
     </div>
   </xsl:template>
 
   <xsl:template match="p">
-    <p class="editorial flex-wrapper"><xsl:apply-templates /></p>
+    <p class="text-font flex-wrapper"><xsl:apply-templates /></p>
   </xsl:template>
 
-  <xsl:template match="div[@type='sequence']">
-    <div class="flex-column" data-type="poem">
-      <div class="poem-met" style="width: 100%; text-align: right; font-family: Verdana; font-size: 12px; margin-right: 6px;"><xsl:value-of select="@met" /></div>
-      <xsl:apply-templates />
-    </div>
-  </xsl:template>
-
-  <xsl:template match="div[@type='poem']">
-    <div class="flex-column" data-type="poem">
-      <div class="poem-met" style="width: 100%; text-align: right; font-family: Verdana; font-size: 12px;"><xsl:value-of select="@met" /></div>
+  <xsl:template match="div[@type='poem'] | div[@type='sequence']">
+    <div data-type="poem">
+      <div class="poem-met sans-font hidden" style="width: 100%; text-align: right; font-size: 12px; margin-right: 6px;"><xsl:value-of select="@met" /></div>
       <xsl:apply-templates />
     </div>
   </xsl:template>
 
   <xsl:template match="lg[@type='strophe']">
-    <div class="flex-column strophe" data-type="strophe">
+    <div class="strophe" data-type="strophe">
       <xsl:attribute name="data-met"><xsl:value-of select="@met" /></xsl:attribute>
       <xsl:attribute name="data-rhyme"><xsl:value-of select="@rhyme" /></xsl:attribute>
       <xsl:choose>
@@ -90,7 +83,7 @@
   </xsl:template>
 
   <xsl:template match="lg[@type='refrain']">
-    <div class="flex-column refrain" data-type="strophe">
+    <div class="refrain" data-type="strophe">
       <xsl:attribute name="data-met"><xsl:value-of select="@met" /></xsl:attribute>
       <xsl:attribute name="data-rhyme"><xsl:value-of select="@rhyme" /></xsl:attribute>
       <xsl:apply-templates>
@@ -100,7 +93,7 @@
   </xsl:template>
 
   <xsl:template match="lg[@type='versicle']">
-    <div class="flex-column strophe" data-type="strophe">
+    <div class="strophe" data-type="strophe">
       <xsl:attribute name="data-met"><xsl:value-of select="@met" /></xsl:attribute>
       <xsl:attribute name="data-rhyme"><xsl:value-of select="@rhyme" /></xsl:attribute>
       <xsl:apply-templates>
@@ -133,16 +126,16 @@
       <div class="verse-text selectable">
         <xsl:apply-templates/>
       </div>
-      <div class="verse-met non-selectable">
-        <xsl:if test="@met">
-          <!-- a variation in the metric -->
-          <xsl:attribute name="data-met"><xsl:value-of select="@met" /></xsl:attribute>
-        </xsl:if>
-      </div>
-      <div class="verse-rhyme non-selectable">
+      <div class="verse-rhyme sans-font non-selectable hidden">
         <xsl:if test="@rhyme">
           <!-- a variation in the rhyme -->
           <xsl:attribute name="data-rhyme"><xsl:value-of select="@rhyme" /></xsl:attribute>
+        </xsl:if>
+      </div>
+      <div class="verse-met sans-font non-selectable hidden">
+        <xsl:if test="@met">
+          <!-- a variation in the metric -->
+          <xsl:attribute name="data-met"><xsl:value-of select="@met" /></xsl:attribute>
         </xsl:if>
       </div>
     </div>
@@ -168,7 +161,7 @@
   <xsl:template match="seg[@type='syll']">
     <xsl:variable name="text"><xsl:value-of select="./text()"/></xsl:variable>
     <span class="neumed-syll">
-      <span class="syl editorial">
+      <span class="syl text-font">
         <xsl:if test="@part='I' or  @part='M'">
           <xsl:attribute name="data-dash">dashed</xsl:attribute>
         </xsl:if>
@@ -231,14 +224,14 @@
         <xsl:if test="@type='text'">apparatus-in-text app-type-text apparatus-active</xsl:if>
         <xsl:if test="@type='neume'">apparatus-in-text app-type-neume apparatus-active</xsl:if>
       </xsl:attribute>
-      <span class="flex-wrapper">
+      <div>
         <xsl:attribute name="class">
-          <xsl:if test="@type='text'">apparatus-note font-small cbo-border-red</xsl:if>
-          <xsl:if test="@type='neume'">apparatus-note font-small cbo-border-blue toggle-neumes</xsl:if>
+          <xsl:if test="@type='text'">apparatus-note font-small border-red</xsl:if>
+          <xsl:if test="@type='neume'">apparatus-note font-small border-blue toggle-neumes</xsl:if>
         </xsl:attribute>
         <xsl:apply-templates select="./rdg" />
         <xsl:apply-templates select="./note" />
-      </span>
+      </div>
       <xsl:apply-templates select="./lem" />
     </span>
   </xsl:template>
@@ -248,18 +241,19 @@
   </xsl:template>
 
   <xsl:template match="rdg">
-    <span class="flex-wrapper rdg" style="margin-left: 6px;">
-      <i>
-        <xsl:apply-templates />
-      </i>
-      <i style="margin-left: 6px;"><xsl:value-of select="@wit" /></i>
-    <xsl:if test="../note">;</xsl:if>
+    <span class="rdg">
+      <xsl:apply-templates />
+      <span class="wit editorial-italic"><xsl:value-of select="@wit" /><xsl:if test="../note">;</xsl:if></span>
     </span>
   </xsl:template>
 
   <xsl:template match="note">
-    <i style="margin-left: 6px;">
+    <i>
+      <xsl:if test="../rdg">
+        <xsl:attribute name="style">margin-left: 8px;</xsl:attribute>
+      </xsl:if>
       <xsl:apply-templates />
     </i>
   </xsl:template>
+
 </xsl:stylesheet>

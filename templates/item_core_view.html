@@ -1,35 +1,55 @@
-<!-- The template for text-based items (possibly with neumes) -->
+<!-- Harmonized template for text-based items -->
 
 <div id="itemCoreView" class="item-specific">
 
-  <div id="buttonBar" class="tab cbo-white cbo-wide cbo-padding cbo-card">
-    <button id="openFormattedText" class="item-specific tablinks cbo-bar-item cbo-button activable">Formatted</button>
-    <button id="openContinuousText"class="item-specific tablinks cbo-bar-item cbo-button activable">Continuous</button>
+  <!-- Button / tab bar -->
+  <div class="tab">
+
+    <button id="openFormattedText"
+            class="item-specific tablinks activable"
+            data-tab-target="formattedText">
+      Formatted
+    </button>
+
+    <button id="openContinuousText"
+            class="item-specific tablinks activable"
+            data-tab-target="continuousText">
+      Continuous
+    </button>
+
+    <!-- Dropdown -->
     <div class="dropdown" style="margin-left:auto">
       <button id="dropBtn" class="item-specific">☰</button>
 
-      <div class="dropdown-menu" style="right: 0px;">
+      <div class="dropdown-menu" style="right: 0;">
         <button id="toggleNeumesButton" class="item-specific toggleable active">Neumes</button>
         <button id="toggleSyllablesButton" class="item-specific toggleable">Syllabation</button>
-        <button id="toggleMetricButton" class="item-specific toggleable">Versification</button>
+        <button id="toggleVersificationButton" class="item-specific toggleable">Versification</button>
         <button id="togglePunctuationButton" class="item-specific toggleable">Original punctuation</button>
         <button id="toggleCriticalApparatus" class="item-specific toggleable active">Critical apparatus</button>
       </div>
     </div>
+
   </div>
 
+  <!-- Tab content -->
+  <div class="tabcontent">
 
+    <input type="text" id="searchInput" class="item-specific" placeholder="Search word..." style="margin-bottom: 2px;">
 
-  <div class="tabcontent" style="display: block;">
-    <div id="mainContainer" class="item-specific" style="height: 100%;">
-      <input type="text" id="searchInput" class="item-specific" placeholder="Search word..." style="width: 95%;">
+    <div id="mainContainer" class="item-specific editorial">
+
       <div id="formattedText" class="item-specific"></div>
-      <div id="continuousText" class="item-specific"></div>
+      <div id="continuousText" class="item-specific hidden"></div>
+
       <div id="apparatusText" class="item-specific no-break">
-        <hr/>
+        <hr />
       </div>
+
       <div id="apparatusNeume" class="item-specific no-break"></div>
+
     </div>
+
   </div>
 
 </div>

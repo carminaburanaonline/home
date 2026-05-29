@@ -11,8 +11,8 @@
 
   <xsl:template match="body">
     <xsl:if test=".//app[@type='text']">
-      <div class="editorial font-small">
-        <p class="editorial"><b>Critical apparatus (text)</b></p>
+      <div class="text-font font-small">
+        <p class="text-font"><b>Critical apparatus (text)</b></p>
         <div class="flex-wrapper">
           <xsl:apply-templates select=".//app[@type='text']" />
         </div>
@@ -22,7 +22,7 @@
 
   <xsl:template match="app[@type='text']">
     <!-- Numbering -->
-    <b style="margin-left: 6px;">
+    <b style="margin-right: 8px;">
       <xsl:if test="ancestor::sp"><xsl:value-of select="ancestor::sp/@n" />.</xsl:if>
       <xsl:choose>
         <xsl:when test="ancestor::lg[@type='refrain']">Refl.<xsl:value-of select="ancestor::l/@n"/></xsl:when>
@@ -40,7 +40,7 @@
   </xsl:template>
 
   <xsl:template match="lem">
-    <span class="flex-wrapper lem editorial">
+    <span class="lem" style="margin-right: 8px;">
       <xsl:apply-templates />
       <xsl:if test="@wit">
         <i style="margin-left: 6px;"><xsl:value-of select="@wit" /></i>
@@ -50,17 +50,14 @@
   </xsl:template>
 
   <xsl:template match="rdg">
-    <span class="flex-wrapper rdg" style="margin-left: 6px;">
-      <i>
-        <xsl:apply-templates />
-      </i>
-      <i style="margin-left: 6px;"><xsl:value-of select="@wit" /></i>
-    <xsl:if test="../note">;</xsl:if>
+    <span class="rdg" style="margin-right: 8px;">
+      <xsl:apply-templates />
+      <span class="wit editorial-italic"><xsl:value-of select="@wit" /><xsl:if test="../note">;</xsl:if></span>
     </span>
   </xsl:template>
 
   <xsl:template match="note">
-    <i style="margin-left: 6px;">
+    <i style="margin-right: 8px;">
       <xsl:apply-templates />
     </i>
   </xsl:template>

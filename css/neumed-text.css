@@ -1,113 +1,81 @@
-.break {
-  flex-basis: 100%;
-  height: 0;
-}
+/* Neumed text layout */
 
-.margin-6px {
-  margin: 6px;
-}
-
-.font-small {
-  font-size: 14px!important;
-}
-
-.font-0-container {
-  font-size: 0;
-}
-
-.font-0-container > * {
-  font-size: 16px;
-}
-
-.stage {
-  margin-top: 6px;
-  margin-left: 6px;
-  font-style: italic;
-}
-
-.stage .word, .stage .pc {
-  font-style: italic;
-}
-
-.stage-number {
-  font-style: normal;
-}
+.break { flex-basis: 100%; height: 0; }
 
 p {
-  margin-block-start: 3px;
-  margin-block-end: 3px;
+  margin-block: 3px;
   break-inside: avoid;
 }
 
-.strophe,.refrain {
-  margin-bottom: 24px;
-}
+.strophe, .refrain { margin-bottom: 24px; }
 
 .lg-heading {
   margin-left: 30px;
+}
+.strophe .lg-heading {
+  font-weight: bold;
 }
 
 .refrain .lg-heading {
   font-style: italic;
 }
 
-.strophe .lg-heading {
-  font-weight: bold;
-}
-
 .verse {
-  display: flex;
-}
-
-.verse-number {
-  display: flex;
-  justify-content: flex-end;
-  align-items: flex-end;
-  width: 25px;
-  margin: 0 5px 0 0;
-  padding-bottom: 1px;
-  color: gray;
-  font-size: 13px;
-}
-
-.verse-text {
-  display: flex;
-  align-items: flex-end;
-  box-sizing: border-box;
-  flex: 80%;
-  margin: 0 20px 0 0;
-}
-
-.verse-met,.verse-rhyme {
-  display: flex;
-  align-items: flex-end;
-  padding-bottom: 3px;
-  flex: 10%;
-  margin: 0 3px 0 3px;
-  font-family: Verdana;
-  font-size: 12px;
+  display: block;
 }
 
 .hemistich {
-  display: flex;
-  align-items: flex-end;
-  margin: 0 20px 0 0;
+  display: inline-flex;
+  gap: 8px;
+}
+
+.hemistich + .hemistich {
+  margin-left: 20px;
+}
+
+.verse-number {
+  display: inline-block;
+  width: 25px;
+  margin-right: 5px;
+  font-size: 13px;
+  color: gray;
+  text-align: right;
+}
+
+.verse-text, .rdg, .note, .wit {
+  display: inline-flex;
+  gap: 8px;
+}
+
+.verse-met {
+  display: inline-block;
+  font-size: 12px;
+  float: right;
+  width: 60px;
+}
+
+.verse-rhyme {
+  display: inline-block;
+  font-size: 12px;
+  float: right;
+  width: 30px;
+}
+
+.wit {
+  white-space: nowrap;
 }
 
 .word {
   display: inline-flex;
-  align-items: flex-end;
-  margin-left: 8px;
-}
-
-.pc {
-  display: inline-flex;
-  align-items: flex-end;
+  white-space: nowrap;
+  word-spacing: 0;
 }
 
 .neumed-syll {
   display: inline-flex;
   flex-direction: column-reverse;
+  margin: 0;
+  padding: 0;
 }
 
 .neumes {
@@ -116,110 +84,42 @@ p {
   height: 24px;
 }
 
-.neume {
-  scale: 80%;
-}
-
-.neume-small {
-  scale: 60%;
-}
-
-.consonant-space {
-  background-color: transparent;
-  color: transparent;
-}
-
-.syl {
-  display: inline-flex;
-}
-
-.syl-dash {
-  display: inline-flex;
-}
+.neume { scale: 0.8; }
+.neume-small { scale: 0.6; }
 
 .apparatus-in-text {
   position: relative;
   display: inline-flex;
+  gap: 8px;
 }
 
 .apparatus-active {
+  top: 1px;
   border-bottom: 1px dotted black;
-  margin-bottom: -1px;
 }
 
-.app-type-text {
-  margin-left: 8px;
-}
-
-.app-type-text > .word:nth-of-type(2) {
-  margin-left: 0px;
-}
-
-.apparatus-in-text .apparatus-note {
-  visibility: hidden;
+.apparatus-note {
   display: inline-block;
-  background-color: white;
-  border-style: inset;
-  border-radius: 5px;
-  border-width: 3px;
-  padding: 3px 10px 3px 2px;
+  visibility: hidden;
   position: absolute;
-  z-index: 1;
   bottom: 100%;
   left: 50%;
   margin-left: -10px;
   margin-right: -290px;
-  opacity: 1;
-  transition: opacity 0.4s;
-}
-
-.apparatus-in-text .apparatus-note:hover {
-  z-index: 50;
-}
-
-.apparatus-in-text .apparatus-note::after {
-  content: "";
-  position: absolute;
-  top: 100%;
-  left: 20px;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color: #555 transparent transparent transparent;
+  padding: 3px 10px;
+  background: white;
+  border: inset 3px;
+  border-radius: 5px;
 }
 
 .apparatus-active:hover .apparatus-note {
   visibility: visible;
-  opacity: 1;
 }
 
-.apparatus-note .word {
-  margin-left: 4px;
-  margin-right: 4px;
+.border-red {
+  border-color: red;
 }
 
-.lem,.rdg {
-  display: inline-flex;
-}
-
-.wit {
-  margin-right: 10px;
-}
-
-.app-note {
-  display: inline-flex;
-  align-items: flex-end;
-  flex-wrap: per-wrap;
-  margin-right: 10px;
-  margin-left: 5px;
-  white-space: pre-wrap;
-  font-style: italic;
-}
-
-.prose-text {
-  margin-bottom: 30px;
-}
-
-.spoken-text {
-  margin-left: 10px;
+.border-blue {
+  border-color: blue;
 }
