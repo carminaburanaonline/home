@@ -79,18 +79,6 @@ export async function SVGitemCoreView(container, item) {
   wireWordHighlighter(container, itemId);
 }
 
-function textToSvgElement(text) {
-  const wrapper = document.createElement("div");
-  wrapper.setAttribute("width", "100%");
-  wrapper.innerHTML = text;
-  const svgEl = wrapper.querySelector("svg");
-  svgEl.setAttribute("preserveAspectRatio", "xMinYMin meet");
-  return svgEl;
-
-
-
-}
-
 async function addSvgImages(container, item) {
   const itemId = item.file
 
@@ -114,6 +102,15 @@ async function addSvgImages(container, item) {
       svgContainer.appendChild(textToSvgElement(svgText));
     }
   }
+}
+
+function textToSvgElement(text) {
+  const wrapper = document.createElement("div");
+  wrapper.setAttribute("width", "100%");
+  wrapper.innerHTML = text;
+  const svgEl = wrapper.querySelector("svg");
+  svgEl.setAttribute("preserveAspectRatio", "xMinYMin meet");
+  return svgEl;
 }
 
 async function renderXslViews(container, itemId) {
