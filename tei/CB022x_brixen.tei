@@ -1,123 +1,123 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="sequence" met="1-4:2x8p/7pp, 5-6:2x(8p/7pp), 7-10:2x8p/7pp, 11:2x(8p/7pp)">
-        <lg type="versicle" n="1a" met="8p/8p/7pp" rhyme="a/a/b">
-          <l n="1" met="4p+4p" rhyme="a+a"><w>Hac</w><w>in</w><w>die</w><w>laudes</w><w>pie</w></l>
-          <l n="2"><w>celi</w><w>iungant</w><w>armonie</w></l>
-          <l n="3"><w>plausus</w><w>et</w><w>tripudia<pc>&#183;</pc></w></l>
+        <lg type="versicle" n="1a" met="8p/8p/7pp" rhyme="a/a/b" xml:id="CB022x_brixen-lg-1">
+          <l n="1" met="4p+4p" rhyme="a+a" xml:id="CB022x_brixen-l-1"><w>Hac</w><w>in</w><w>die</w><w>laudes</w><w>pie</w></l>
+          <l n="2" xml:id="CB022x_brixen-l-2"><w>celi</w><w>iungant</w><w>armonie</w></l>
+          <l n="3" xml:id="CB022x_brixen-l-3"><w>plausus</w><w>et</w><w>tripudia<pc>&#183;</pc></w></l>
         </lg>
-        <lg type="versicle" n="1b" met="8p/8p/7pp" rhyme="c/c/b">
-          <l n="1"><w>Qua</w><w>conscendit</w><w>ad</w><w>divina</w></l>
-          <l n="2"><w>Christi</w><w>sponsa</w><w>Katherina</w></l>
-          <l n="3"><w>sublimi</w><w>victoria</w></l>
+        <lg type="versicle" n="1b" met="8p/8p/7pp" rhyme="c/c/b" xml:id="CB022x_brixen-lg-2">
+          <l n="1" xml:id="CB022x_brixen-l-4"><w>Qua</w><w>conscendit</w><w>ad</w><w>divina</w></l>
+          <l n="2" xml:id="CB022x_brixen-l-5"><w>Christi</w><w>sponsa</w><w>Katherina</w></l>
+          <l n="3" xml:id="CB022x_brixen-l-6"><w>sublimi</w><w>victoria</w></l>
         </lg>
-        <lg type="versicle" n="2a" met="8p/8p/7pp" rhyme="a/a/b">
-          <l n="1"><w>Virgo</w><w>dolens</w><w>christianos</w></l>
-          <l n="2"><w>a</w><w>profanis</w><w>ut</w><w>profanos</w></l>
-          <l n="3"><w>subici</w><w>martyrio<pc>&#183;</pc></w></l>
+        <lg type="versicle" n="2a" met="8p/8p/7pp" rhyme="a/a/b" xml:id="CB022x_brixen-lg-3">
+          <l n="1" xml:id="CB022x_brixen-l-7"><w>Virgo</w><w>dolens</w><w>christianos</w></l>
+          <l n="2" xml:id="CB022x_brixen-l-8"><w>a</w><w>profanis</w><w>ut</w><w>profanos</w></l>
+          <l n="3" xml:id="CB022x_brixen-l-9"><w>subici</w><w>martyrio<pc>&#183;</pc></w></l>
         </lg>
-        <lg type="versicle" n="2b" met="8p/8p/7pp" rhyme="c/c/b">
-          <l n="1"><w>Christum</w><w>palam</w><w>confitetur</w></l>
-          <l n="2"><w>neque</w><w>super</w><w>hoc</w><w>veretur</w></l>
-          <l n="3"><w>obponi</w><w>Maxencio</w></l>
+        <lg type="versicle" n="2b" met="8p/8p/7pp" rhyme="c/c/b" xml:id="CB022x_brixen-lg-4">
+          <l n="1" xml:id="CB022x_brixen-l-10"><w>Christum</w><w>palam</w><w>confitetur</w></l>
+          <l n="2" xml:id="CB022x_brixen-l-11"><w>neque</w><w>super</w><w>hoc</w><w>veretur</w></l>
+          <l n="3" xml:id="CB022x_brixen-l-12"><w>obponi</w><w>Maxencio</w></l>
         </lg>
-        <lg type="versicle" n="3a" met="8p/8p/7pp" rhyme="a/a/b">
-          <l n="1"><w>Cuius</w><w>victus</w><w>documentis</w></l>
-          <l n="2"><w>et</w><w>conclusus</w><w>argumentis</w></l>
-          <l n="3"><w>querit</w><w>adiutoria<pc>&#183;</pc></w></l>
+        <lg type="versicle" n="3a" met="8p/8p/7pp" rhyme="a/a/b" xml:id="CB022x_brixen-lg-5">
+          <l n="1" xml:id="CB022x_brixen-l-13"><w>Cuius</w><w>victus</w><w>documentis</w></l>
+          <l n="2" xml:id="CB022x_brixen-l-14"><w>et</w><w>conclusus</w><w>argumentis</w></l>
+          <l n="3" xml:id="CB022x_brixen-l-15"><w>querit</w><w>adiutoria<pc>&#183;</pc></w></l>
         </lg>
-        <lg type="versicle" n="3b" met="8p/8p/7pp" rhyme="c/c/b">
-          <l n="1"><w>Grecos</w><w>querit</w><w>oratores</w></l>
-          <l n="2"><w>et</w><w>in</w><w>Grecis</w><w>meliores</w></l>
-          <l n="3"><w>hic</w><w>surgunt</w><w>litigia</w></l>
+        <lg type="versicle" n="3b" met="8p/8p/7pp" rhyme="c/c/b" xml:id="CB022x_brixen-lg-6">
+          <l n="1" xml:id="CB022x_brixen-l-16"><w>Grecos</w><w>querit</w><w>oratores</w></l>
+          <l n="2" xml:id="CB022x_brixen-l-17"><w>et</w><w>in</w><w>Grecis</w><w>meliores</w></l>
+          <l n="3" xml:id="CB022x_brixen-l-18"><w>hic</w><w>surgunt</w><w>litigia</w></l>
         </lg>
-        <lg type="versicle" n="4a" met="8p/8p/7pp" rhyme="a/a/b">
-          <l n="1"><w>Ad</w><w>certamen</w><w>accersitur</w></l>
-          <l n="2" met="4p+4p" rhyme="a+a"><w>locus</w><w>datur</w><w>disputatur</w></l>
-          <l n="3"><w>subcumbit</w><w>rethorica<pc>&#183;</pc></w></l>
+        <lg type="versicle" n="4a" met="8p/8p/7pp" rhyme="a/a/b" xml:id="CB022x_brixen-lg-7">
+          <l n="1" xml:id="CB022x_brixen-l-19"><w>Ad</w><w>certamen</w><w>accersitur</w></l>
+          <l n="2" met="4p+4p" rhyme="a+a" xml:id="CB022x_brixen-l-20"><w>locus</w><w>datur</w><w>disputatur</w></l>
+          <l n="3" xml:id="CB022x_brixen-l-21"><w>subcumbit</w><w>rethorica<pc>&#183;</pc></w></l>
         </lg>
-        <lg type="versicle" n="4b" met="8p/8p/7pp" rhyme="c/c/b">
-          <l n="1"><w>Virgo</w><w>gaudet</w><w>rex</w><w>inflatur</w></l>
-          <l n="2"><w>credit</w><w>et</w><w>martirizatur</w></l>
-          <l n="3"><w>turba</w><w>phylosophyca</w></l>
+        <lg type="versicle" n="4b" met="8p/8p/7pp" rhyme="c/c/b" xml:id="CB022x_brixen-lg-8">
+          <l n="1" xml:id="CB022x_brixen-l-22"><w>Virgo</w><w>gaudet</w><w>rex</w><w>inflatur</w></l>
+          <l n="2" xml:id="CB022x_brixen-l-23"><w>credit</w><w>et</w><w>martirizatur</w></l>
+          <l n="3" xml:id="CB022x_brixen-l-24"><w>turba</w><w>phylosophyca</w></l>
         </lg>
-        <lg type="versicle" n="5a" met="8p/7pp/8p/7pp" rhyme="x/a/x/a">
-          <l n="1"><w>Virgo</w><w>decus</w><w>puellare</w></l>
-          <l n="2"><w>virgo</w><w>proles</w><w>regia</w></l>
-          <l n="3"><w>formae</w><w>comprovincialies</w></l>
-          <l n="4"><w>vincens</w><w>elegancia</w></l>
+        <lg type="versicle" n="5a" met="8p/7pp/8p/7pp" rhyme="x/a/x/a" xml:id="CB022x_brixen-lg-9">
+          <l n="1" xml:id="CB022x_brixen-l-25"><w>Virgo</w><w>decus</w><w>puellare</w></l>
+          <l n="2" xml:id="CB022x_brixen-l-26"><w>virgo</w><w>proles</w><w>regia</w></l>
+          <l n="3" xml:id="CB022x_brixen-l-27"><w>formae</w><w>comprovincialies</w></l>
+          <l n="4" xml:id="CB022x_brixen-l-28"><w>vincens</w><w>elegancia</w></l>
         </lg>
-        <lg type="versicle" n="5b" met="8p/7pp/8p/7pp" rhyme="x/a/x/a">
-          <l n="1"><w>Tua</w><w>stet</w><w>in</w><w>dicione</w></l>
-          <l n="2"><w>res</w><w>imperatoria</w></l>
-          <l n="3"><w>tantum</w><w>deis</w><w>non</w><w>detractes</w></l>
-          <l n="4"><w>dare</w><w>sacrificia</w></l>
+        <lg type="versicle" n="5b" met="8p/7pp/8p/7pp" rhyme="x/a/x/a" xml:id="CB022x_brixen-lg-10">
+          <l n="1" xml:id="CB022x_brixen-l-29"><w>Tua</w><w>stet</w><w>in</w><w>dicione</w></l>
+          <l n="2" xml:id="CB022x_brixen-l-30"><w>res</w><w>imperatoria</w></l>
+          <l n="3" xml:id="CB022x_brixen-l-31"><w>tantum</w><w>deis</w><w>non</w><w>detractes</w></l>
+          <l n="4" xml:id="CB022x_brixen-l-32"><w>dare</w><w>sacrificia</w></l>
         </lg>
-        <lg type="versicle" n="6a" met="8p/7pp/8p/7pp" rhyme="x/a/x/a">
-          <l n="1"><w>Ad</w><w>hec</w><w>virgo</w><w>dic</w><w>Maxenti</w></l>
-          <l n="2"><w>quid</w><w>dixisti</w><w>bestia</w></l>
-          <l n="3"><w>nescit</w><w>verus</w><w>declinari</w></l>
-          <l n="4"><w>deus</w><w>per</w><w>pluralia<pc>&#183;</pc></w></l>
+        <lg type="versicle" n="6a" met="8p/7pp/8p/7pp" rhyme="x/a/x/a" xml:id="CB022x_brixen-lg-11">
+          <l n="1" xml:id="CB022x_brixen-l-33"><w>Ad</w><w>hec</w><w>virgo</w><w>dic</w><w>Maxenti</w></l>
+          <l n="2" xml:id="CB022x_brixen-l-34"><w>quid</w><w>dixisti</w><w>bestia</w></l>
+          <l n="3" xml:id="CB022x_brixen-l-35"><w>nescit</w><w>verus</w><w>declinari</w></l>
+          <l n="4" xml:id="CB022x_brixen-l-36"><w>deus</w><w>per</w><w>pluralia<pc>&#183;</pc></w></l>
         </lg>
-        <lg type="versicle" n="6b" met="8p/7pp/8p/7pp" rhyme="x/a/x/a">
-          <l n="1"><w>Unde</w><w>si</w><w>diis</w><w>plura</w><w>tuis</w></l>
-          <l n="2"><w>das</w><w>articularia</w></l>
-          <l n="3"><w>miser</w><w>a</w><w>divinitate</w></l>
-          <l n="4"><w>transis</w><w>ad</w><w>demonia</w></l>
+        <lg type="versicle" n="6b" met="8p/7pp/8p/7pp" rhyme="x/a/x/a" xml:id="CB022x_brixen-lg-12">
+          <l n="1" xml:id="CB022x_brixen-l-37"><w>Unde</w><w>si</w><w>diis</w><w>plura</w><w>tuis</w></l>
+          <l n="2" xml:id="CB022x_brixen-l-38"><w>das</w><w>articularia</w></l>
+          <l n="3" xml:id="CB022x_brixen-l-39"><w>miser</w><w>a</w><w>divinitate</w></l>
+          <l n="4" xml:id="CB022x_brixen-l-40"><w>transis</w><w>ad</w><w>demonia</w></l>
         </lg>
-        <lg type="versicle" n="7a" met="8p/8p/7pp" rhyme="a/a/b">
-          <l n="1"><w>Resipisce</w><w>resipisce</w></l>
-          <l n="2"><w>veritatis</w><w>viam</w><w>disce</w></l>
-          <l n="3"><w>Christo</w><w>te</w><w>concilia</w></l>
+        <lg type="versicle" n="7a" met="8p/8p/7pp" rhyme="a/a/b" xml:id="CB022x_brixen-lg-13">
+          <l n="1" xml:id="CB022x_brixen-l-41"><w>Resipisce</w><w>resipisce</w></l>
+          <l n="2" xml:id="CB022x_brixen-l-42"><w>veritatis</w><w>viam</w><w>disce</w></l>
+          <l n="3" xml:id="CB022x_brixen-l-43"><w>Christo</w><w>te</w><w>concilia</w></l>
         </lg>
-        <lg type="versicle" n="7b" met="8p/8p/7pp" rhyme="c/c/b">
-          <l n="1"><w>Cecus</w><w>ceca</w><w>veneraris</w></l>
-          <l n="2"><w>falsus</w><w>falsa</w><w>deprecaris</w></l>
-          <l n="3"><w>similis</w><w>similia</w></l>
+        <lg type="versicle" n="7b" met="8p/8p/7pp" rhyme="c/c/b" xml:id="CB022x_brixen-lg-14">
+          <l n="1" xml:id="CB022x_brixen-l-44"><w>Cecus</w><w>ceca</w><w>veneraris</w></l>
+          <l n="2" xml:id="CB022x_brixen-l-45"><w>falsus</w><w>falsa</w><w>deprecaris</w></l>
+          <l n="3" xml:id="CB022x_brixen-l-46"><w>similis</w><w>similia</w></l>
         </lg>
-        <lg type="versicle" n="8a" met="8p/8p/7pp" rhyme="a/a/b">
-          <l n="1"><w>Rex</w><w>ad</w><w>ista</w><w>pertubatur</w></l>
-          <l n="2"><w>furit</w><w>frendet</w><w>stomachatur</w></l>
-          <l n="3"><w>latrat</w><w>exit</w><w>hominem</w></l>
+        <lg type="versicle" n="8a" met="8p/8p/7pp" rhyme="a/a/b" xml:id="CB022x_brixen-lg-15">
+          <l n="1" xml:id="CB022x_brixen-l-47"><w>Rex</w><w>ad</w><w>ista</w><w>pertubatur</w></l>
+          <l n="2" xml:id="CB022x_brixen-l-48"><w>furit</w><w>frendet</w><w>stomachatur</w></l>
+          <l n="3" xml:id="CB022x_brixen-l-49"><w>latrat</w><w>exit</w><w>hominem</w></l>
         </lg>
-        <lg type="versicle" n="8b" met="8p/8p/7pp" rhyme="a/a/b">
-          <l n="1"><w>Rota</w><w>fieri</w><w>mandatur</w></l>
-          <l n="2"><w>paganorum</w><w>dum</w><w>rotatur</w></l>
-          <l n="3"><w>sternit</w><w>multitudinem</w></l>
+        <lg type="versicle" n="8b" met="8p/8p/7pp" rhyme="a/a/b" xml:id="CB022x_brixen-lg-16">
+          <l n="1" xml:id="CB022x_brixen-l-50"><w>Rota</w><w>fieri</w><w>mandatur</w></l>
+          <l n="2" xml:id="CB022x_brixen-l-51"><w>paganorum</w><w>dum</w><w>rotatur</w></l>
+          <l n="3" xml:id="CB022x_brixen-l-52"><w>sternit</w><w>multitudinem</w></l>
         </lg>
-        <lg type="versicle" n="9a" met="8p/8p/7pp" rhyme="a/a/b">
-          <l n="1"><w>Hinc</w><w>hinc</w><w>maga</w><w>rapiatur</w></l>
-          <l n="2"><w>hinc</w><w>venefica</w><w>trahatur</w></l>
-          <l n="3"><w>ad</w><w>squalorem</w><w>carceris</w></l>
+        <lg type="versicle" n="9a" met="8p/8p/7pp" rhyme="a/a/b" xml:id="CB022x_brixen-lg-17">
+          <l n="1" xml:id="CB022x_brixen-l-53"><w>Hinc</w><w>hinc</w><w>maga</w><w>rapiatur</w></l>
+          <l n="2" xml:id="CB022x_brixen-l-54"><w>hinc</w><w>venefica</w><w>trahatur</w></l>
+          <l n="3" xml:id="CB022x_brixen-l-55"><w>ad</w><w>squalorem</w><w>carceris</w></l>
         </lg>
-        <lg type="versicle" n="9b" met="8p/8p/7pp" rhyme="c/c/b">
-          <l n="1"><w>Assunt</w><w>mox</w><w>apparitores</w></l>
-          <l>n="2"&gt;<w>mox</w><w>laniste</w><w>mox</w><w>tortores</w></l>
-          <l n="3"><w>iussa</w><w>complent</w><w>sceleris</w></l>
+        <lg type="versicle" n="9b" met="8p/8p/7pp" rhyme="c/c/b" xml:id="CB022x_brixen-lg-18">
+          <l n="1" xml:id="CB022x_brixen-l-56"><w>Assunt</w><w>mox</w><w>apparitores</w></l>
+          <l xml:id="CB022x_brixen-l-57">n="2"&gt;<w>mox</w><w>laniste</w><w>mox</w><w>tortores</w></l>
+          <l n="3" xml:id="CB022x_brixen-l-58"><w>iussa</w><w>complent</w><w>sceleris</w></l>
         </lg>
-        <lg type="versicle" n="10a" met="8p/8p/7pp" rhyme="a/a/b">
-          <l n="1"><w>Virgo</w><w>constans</w><w>decollatur</w></l>
-          <l n="2"><w>pro</w><w>cruore</w><w>derivatur</w></l>
-          <l n="3"><w>lac</w><w>ab</w><w>eius</w><w>corpore</w></l>
+        <lg type="versicle" n="10a" met="8p/8p/7pp" rhyme="a/a/b" xml:id="CB022x_brixen-lg-19">
+          <l n="1" xml:id="CB022x_brixen-l-59"><w>Virgo</w><w>constans</w><w>decollatur</w></l>
+          <l n="2" xml:id="CB022x_brixen-l-60"><w>pro</w><w>cruore</w><w>derivatur</w></l>
+          <l n="3" xml:id="CB022x_brixen-l-61"><w>lac</w><w>ab</w><w>eius</w><w>corpore</w></l>
         </lg>
-        <lg type="versicle" n="10b" met="8p/8p/7pp" rhyme="c/c/b">
-          <l n="1"><w>Sponsa</w><w>sponso</w><w>sit</w><w>unitur</w></l>
-          <l n="2"><w>corpus</w><w>Syria</w><w>sepelitur</w></l>
-          <l n="3"><w>angelorum</w><w>opere</w></l>
+        <lg type="versicle" n="10b" met="8p/8p/7pp" rhyme="c/c/b" xml:id="CB022x_brixen-lg-20">
+          <l n="1" xml:id="CB022x_brixen-l-62"><w>Sponsa</w><w>sponso</w><w>sit</w><w>unitur</w></l>
+          <l n="2" xml:id="CB022x_brixen-l-63"><w>corpus</w><w>Syria</w><w>sepelitur</w></l>
+          <l n="3" xml:id="CB022x_brixen-l-64"><w>angelorum</w><w>opere</w></l>
         </lg>
-        <lg type="versicle" n="11" met="8p/7pp/8p/7pp" rhyme="x/a/x/a">
-          <l n="1">
+        <lg type="versicle" n="11" met="8p/7pp/8p/7pp" rhyme="x/a/x/a" xml:id="CB022x_brixen-lg-21">
+          <l n="1" xml:id="CB022x_brixen-l-65">
             <w>Tibi</w><w>Christe</w><w>sit</w><w>perhennis</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB022x_brixen-l-66">
             <w>decus</w><w>et</w><w>imperium</w>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB022x_brixen-l-67">
             <w>Tu</w><w>beate</w><w>Katherine</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB022x_brixen-l-68">
             <w>nobis</w><w>da</w><w>consorcium</w>
           </l>
         </lg>

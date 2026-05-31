@@ -1,10 +1,10 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I-II:4x(6pp+6pp)/6pp/6pp+6pp">
-        <lg type="strophe" n="I" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp/6pp/6pp+6pp" rhyme="A+B/A+B/A+B/A+B/B/A+B">
-          <l n="1">
+        <lg type="strophe" n="I" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp/6pp/6pp+6pp" rhyme="A+B/A+B/A+B/A+B/B/A+B" xml:id="CB012_5539-lg-1">
+          <l n="1" xml:id="CB012_5539-l-1">
             <seg type="hemistich">
               <w>Procurans</w>
               <w>odium</w>
@@ -14,7 +14,7 @@
               <w>proprio</w>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB012_5539-l-2">
             <seg type="hemistich">
               <app type="text">
                 <lem wit="CB Ma HSB V T">
@@ -31,7 +31,7 @@
               <pc resp="#editor">.</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB012_5539-l-3">
             <seg type="hemistich">
               <w>Nexus</w>
               <w>est</w>
@@ -43,7 +43,7 @@
               <pc resp="#editor">:</pc>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB012_5539-l-4">
             <seg type="hemistich">
               <w>sic</w>
               <w>per</w>
@@ -55,13 +55,13 @@
               <w>nescio</w>
             </seg>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB012_5539-l-5">
             <w>fit</w>
             <w>hic</w>
             <w>provisio</w>
             <pc resp="#editor">:</pc>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB012_5539-l-6">
             <seg type="hemistich">
               <w>in</w>
               <w>hoc</w>
@@ -79,8 +79,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp/6pp/6pp+6pp" rhyme="A+B/A+B/A+B/A+B/B/A+B">
-          <l n="1">
+        <lg type="strophe" n="II" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp/6pp/6pp+6pp" rhyme="A+B/A+B/A+B/A+B/B/A+B" xml:id="CB012_5539-lg-2">
+          <l n="1" xml:id="CB012_5539-l-7">
             <seg type="hemistich">
               <w>Insultus</w>
               <w>talium</w>
@@ -91,7 +91,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB012_5539-l-8">
             <seg type="hemistich">
               <w>tollendi</w>
               <w>tedium</w>
@@ -108,7 +108,7 @@
               <pc resp="#editor">.</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB012_5539-l-9">
             <seg type="hemistich">
               <app type="text">
                 <lem wit="CB F; HSB V T">
@@ -130,7 +130,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB012_5539-l-10">
             <seg type="hemistich">
               <w>sed</w>
               <w>desiderium</w>
@@ -141,11 +141,11 @@
               <pc resp="#editor">:</pc>
             </seg>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB012_5539-l-11">
             <w>tali</w>
             <w>remedio</w>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB012_5539-l-12">
             <seg type="hemistich">
               <w>de</w>
               <w>spinis</w>

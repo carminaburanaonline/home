@@ -1,32 +1,32 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="sequence" met="1:4x6pp/2x(6pp/4pp+3p), 2:2x6pp/8pp/4pp/8pp/4pp/6pp, 3:2x(6pp/6p)/4pp/7pp/7p, 4:2x(8pp/4pp)/7pp/7p/2x7pp/4pp+3p">
-        <lg type="versicle" n="1a" met="6pp/6pp/6pp/6pp/6pp/4pp+3p/6pp/4pp+3p" rhyme="a/b/a/b/c/c+d/e/e+d">
-          <l n="1">
+        <lg type="versicle" n="1a" met="6pp/6pp/6pp/6pp/6pp/4pp+3p/6pp/4pp+3p" rhyme="a/b/a/b/c/c+d/e/e+d" xml:id="CB067_plut-lg-1">
+          <l n="1" xml:id="CB067_plut-l-1">
             <w>A</w>
             <w>globo</w>
             <w>veteri</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB067_plut-l-2">
             <w>cum</w>
             <w>rerum</w>
             <w>faciem</w>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB067_plut-l-3">
             <w>traxissent</w>
             <w>superi</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB067_plut-l-4">
             <w>mundique</w>
             <w>seriem</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB067_plut-l-5">
             <w>prudens</w>
             <w>explicuit</w>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB067_plut-l-6">
             <seg type="hemistich">
               <w>et</w>
               <w>texuit</w>
@@ -36,12 +36,12 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB067_plut-l-7">
             <w>iam</w>
             <w>preconceperat</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB067_plut-l-8">
             <seg type="hemistich">
               <w>quod</w>
               <w>fuerat</w>
@@ -52,34 +52,34 @@
             </seg>
           </l>
         </lg>
-        <lg type="versicle" n="1b" met="6pp/6pp/6pp/6pp/6pp/4pp+3p/6pp/4pp+3p" rhyme="f/g/f/g/c/c+h/i/i+h">
-          <l n="1">
+        <lg type="versicle" n="1b" met="6pp/6pp/6pp/6pp/6pp/4pp+3p/6pp/4pp+3p" rhyme="f/g/f/g/c/c+h/i/i+h" xml:id="CB067_plut-lg-2">
+          <l n="1" xml:id="CB067_plut-l-9">
             <w>Que</w>
             <w>causas</w>
             <w>machine</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB067_plut-l-10">
             <w>mundane</w>
             <w>suscitans</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB067_plut-l-11">
             <w>de</w>
             <w>nostra</w>
             <w>virgine</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB067_plut-l-12">
             <w>iam</w>
             <w>dudum</w>
             <w>cogitans</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB067_plut-l-13">
             <w>Plus</w>
             <w>hanc</w>
             <w>excoluit</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB067_plut-l-14">
             <seg type="hemistich">
               <w>plus</w>
               <w>prebuit</w>
@@ -89,11 +89,11 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB067_plut-l-15">
             <w>dans</w>
             <w>privilegium</w>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB067_plut-l-16">
             <seg type="hemistich">
               <w>et</w>
               <w>pretium</w>
@@ -104,115 +104,115 @@
             </seg>
           </l>
         </lg>
-        <lg type="versicle" n="2" met="6pp/6pp/8pp/4pp/8pp/4pp/6pp" rhyme="a/a/b/b/c/c/b">
-          <l n="1">
+        <lg type="versicle" n="2" met="6pp/6pp/8pp/4pp/8pp/4pp/6pp" rhyme="a/a/b/b/c/c/b" xml:id="CB067_plut-lg-3">
+          <l n="1" xml:id="CB067_plut-l-17">
             <w>In</w>
             <w>hac</w>
             <w>pre</w>
             <w>ceteris</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB067_plut-l-18">
             <w>totius</w>
             <w>operis</w>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB067_plut-l-19">
             <w>Nature</w>
             <w>lucet</w>
             <w>opera</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB067_plut-l-20">
             <w>Tot</w>
             <w>munera</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB067_plut-l-21">
             <w>nulli</w>
             <w>favoris</w>
             <w>contulit</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB067_plut-l-22">
             <w>sed</w>
             <w>extulit</w>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB067_plut-l-23">
             <w>hanc</w>
             <w>ultra</w>
             <w>cetera</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="3" met="6pp/6p/6pp/6p/4pp/7pp/7p" rhyme="a/b/a/b/c/c/d">
-          <l n="1">
+        <lg type="versicle" n="3" met="6pp/6p/6pp/6p/4pp/7pp/7p" rhyme="a/b/a/b/c/c/d" xml:id="CB067_plut-lg-4">
+          <l n="1" xml:id="CB067_plut-l-24">
             <w>Nature</w>
             <w>studio</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB067_plut-l-25">
             <w>longe</w>
             <w>venustata</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB067_plut-l-26">
             <w>contendit</w>
             <w>lilio</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB067_plut-l-27">
             <w>rugis</w>
             <w>non</w>
             <w>crispata</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB067_plut-l-28">
             <w>frons</w>
             <w>nivea</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB067_plut-l-29">
             <w>Simplices</w>
             <w>siderea</w>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB067_plut-l-30">
             <w>luce</w>
             <w>micant</w>
             <w>ocelli</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="4" met="8pp/4pp/8pp/4pp/7pp/7p/7pp/7pp/4pp+3p" rhyme="a/b/a/b/c/d/c/e/e+d">
-          <l n="1">
+        <lg type="versicle" n="4" met="8pp/4pp/8pp/4pp/7pp/7p/7pp/7pp/4pp+3p" rhyme="a/b/a/b/c/d/c/e/e+d" xml:id="CB067_plut-lg-5">
+          <l n="1" xml:id="CB067_plut-l-31">
             <w>Ab</w>
             <w>utriusque</w>
             <w>luminis</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB067_plut-l-32">
             <w>confinio</w>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB067_plut-l-33">
             <w>moderati</w>
             <w>libraminis</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB067_plut-l-34">
             <w>iudicio</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB067_plut-l-35">
             <w>naris</w>
             <w>eminentia</w>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB067_plut-l-36">
             <w>producitur</w>
             <w>venuste</w>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB067_plut-l-37">
             <w>quadam</w>
             <w>temperantia</w>
             <pc resp="#editor">:</pc>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB067_plut-l-38">
             <w>nec</w>
             <w>nimis</w>
             <w>erigitur</w>
           </l>
-          <l n="9">
+          <l n="9" xml:id="CB067_plut-l-39">
             <seg type="hemistich">
               <w>nec</w>
               <w>premitur</w>

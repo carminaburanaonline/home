@@ -1,36 +1,36 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem">
-        <lg type="strophe" n="I">
-          <l n="1">Au temps du doux printemps</l>
-          <l n="2">voil&#224; Julienne avec sa s&#339;ur</l>
-          <l n="3" rend="indent(1)">sous l'arbre en fleur.</l>
-          <l n="4" rend="indent(1)">Amour-douceur!</l>
+        <lg type="strophe" n="I" xml:id="CB159_ee_PB-lg-1">
+          <l n="1" xml:id="CB159_ee_PB-l-1">Au temps du doux printemps</l>
+          <l n="2" xml:id="CB159_ee_PB-l-2">voil&#224; Julienne avec sa s&#339;ur</l>
+          <l n="3" rend="indent(1)" xml:id="CB159_ee_PB-l-3">sous l'arbre en fleur.</l>
+          <l n="4" rend="indent(1)" xml:id="CB159_ee_PB-l-4">Amour-douceur!</l>
         </lg>
-        <lg type="refrain">
+        <lg type="refrain" xml:id="CB159_ee_PB-lg-2">
           <head>Refrain</head>
-          <l n="1">Qui se passe de toi &#224; cette heure</l>
-          <l n="2" rend="indent(1)">perd sa valeur.</l>
+          <l n="1" xml:id="CB159_ee_PB-l-5">Qui se passe de toi &#224; cette heure</l>
+          <l n="2" rend="indent(1)" xml:id="CB159_ee_PB-l-6">perd sa valeur.</l>
         </lg>
-        <lg type="strophe" n="II">
-          <l n="1">Les arbres sont en fleur,</l>
-          <l n="2">les oiseaux chantent avec ardeur,</l>
-          <l n="3">les vierges en sentent la ti&#233;deur.</l>
-          <l n="4" rend="indent(1)">Amour-douceur!</l>
+        <lg type="strophe" n="II" xml:id="CB159_ee_PB-lg-3">
+          <l n="1" xml:id="CB159_ee_PB-l-7">Les arbres sont en fleur,</l>
+          <l n="2" xml:id="CB159_ee_PB-l-8">les oiseaux chantent avec ardeur,</l>
+          <l n="3" xml:id="CB159_ee_PB-l-9">les vierges en sentent la ti&#233;deur.</l>
+          <l n="4" rend="indent(1)" xml:id="CB159_ee_PB-l-10">Amour-douceur!</l>
         </lg>
-        <lg type="strophe" n="III">
-          <l n="1">Les herbes sont en fleur,</l>
-          <l n="2">les vierges en ch&#339;ur</l>
-          <l n="3">chantent pour le plus haut des dieux.</l>
-          <l n="4" rend="indent(1)">Amour-douceur!</l>
+        <lg type="strophe" n="III" xml:id="CB159_ee_PB-lg-4">
+          <l n="1" xml:id="CB159_ee_PB-l-11">Les herbes sont en fleur,</l>
+          <l n="2" xml:id="CB159_ee_PB-l-12">les vierges en ch&#339;ur</l>
+          <l n="3" xml:id="CB159_ee_PB-l-13">chantent pour le plus haut des dieux.</l>
+          <l n="4" rend="indent(1)" xml:id="CB159_ee_PB-l-14">Amour-douceur!</l>
         </lg>
-        <lg type="strophe" n="IV">
-          <l n="1">Si je voyais celle que je veux</l>
-          <l n="2">au lieu des scribes de Silos</l>
-          <l n="3">ou m&#234;me du fils du roi !</l>
-          <l n="4" rend="indent(1)">Amour-douceur !</l>
+        <lg type="strophe" n="IV" xml:id="CB159_ee_PB-lg-5">
+          <l n="1" xml:id="CB159_ee_PB-l-15">Si je voyais celle que je veux</l>
+          <l n="2" xml:id="CB159_ee_PB-l-16">au lieu des scribes de Silos</l>
+          <l n="3" xml:id="CB159_ee_PB-l-17">ou m&#234;me du fils du roi !</l>
+          <l n="4" rend="indent(1)" xml:id="CB159_ee_PB-l-18">Amour-douceur !</l>
         </lg>
       </div>
     </body>

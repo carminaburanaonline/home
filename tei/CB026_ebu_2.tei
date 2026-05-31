@@ -1,46 +1,46 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="leich" met="8pp/4pp/8p/6p/4pp/3x8pp" rhyme="a/a/b/b/c/c/d/d">
-        <lg type="strophe" met="8pp/4pp/8p/6p/4pp/8pp/8pp/8pp" rhyme="a/a/b/b/c/c/d/d">
-          <l n="1">
+        <lg type="strophe" met="8pp/4pp/8p/6p/4pp/8pp/8pp/8pp" rhyme="a/a/b/b/c/c/d/d" xml:id="CB026_ebu_2-lg-1">
+          <l n="1" xml:id="CB026_ebu_2-l-1">
             <w>Si</w>
             <w>vocatus</w>
             <w>ad</w>
             <w>nuptias</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB026_ebu_2-l-2">
             <w>advenias</w>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB026_ebu_2-l-3">
             <w>sine</w>
             <w>veste</w>
             <w>nuptiali</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB026_ebu_2-l-4">
             <w>a</w>
             <w>curia</w>
             <w>regali</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB026_ebu_2-l-5">
             <w>expelleris</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB026_ebu_2-l-6">
             <w>et</w>
             <w>obviam</w>
             <w>si</w>
             <w>veneris</w>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB026_ebu_2-l-7">
             <w>sponso</w>
             <w>lampade</w>
             <w>vacua</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB026_ebu_2-l-8">
             <w>es</w>
             <w>quasi</w>
             <w>virgo</w>

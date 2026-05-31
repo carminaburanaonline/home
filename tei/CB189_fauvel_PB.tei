@@ -1,22 +1,22 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem">
-        <lg type="strophe">
-          <l n="1">Arri&#232;re, arri&#232;re, Satan !</l>
-          <l n="2">Arr&#234;te avec tes histoires !</l>
-          <l n="3">Car quel que soit ton conseil,</l>
-          <l n="4">les paroles mensong&#232;res,</l>
-          <l n="5">les voix des adulateurs,</l>
-          <l n="6" rend="indent(1)">je les maudis,</l>
-          <l n="7">et je ne cajole personne</l>
-          <l n="8">en favorisant son vice ;</l>
-          <l n="9">j&#8217;&#233;vite le nom de Flatteur,</l>
-          <l n="10">car j&#8217;ai toujours refus&#233;</l>
-          <l n="11">ses man&#339;uvres de trompeur.</l>
-          <l n="12">Reconnais ta mauvaiset&#233;,</l>
-          <l n="13">dis : j&#8217;ai fait erreur.</l>
+        <lg type="strophe" xml:id="CB189_fauvel_PB-lg-1">
+          <l n="1" xml:id="CB189_fauvel_PB-l-1">Arri&#232;re, arri&#232;re, Satan !</l>
+          <l n="2" xml:id="CB189_fauvel_PB-l-2">Arr&#234;te avec tes histoires !</l>
+          <l n="3" xml:id="CB189_fauvel_PB-l-3">Car quel que soit ton conseil,</l>
+          <l n="4" xml:id="CB189_fauvel_PB-l-4">les paroles mensong&#232;res,</l>
+          <l n="5" xml:id="CB189_fauvel_PB-l-5">les voix des adulateurs,</l>
+          <l n="6" rend="indent(1)" xml:id="CB189_fauvel_PB-l-6">je les maudis,</l>
+          <l n="7" xml:id="CB189_fauvel_PB-l-7">et je ne cajole personne</l>
+          <l n="8" xml:id="CB189_fauvel_PB-l-8">en favorisant son vice ;</l>
+          <l n="9" xml:id="CB189_fauvel_PB-l-9">j&#8217;&#233;vite le nom de Flatteur,</l>
+          <l n="10" xml:id="CB189_fauvel_PB-l-10">car j&#8217;ai toujours refus&#233;</l>
+          <l n="11" xml:id="CB189_fauvel_PB-l-11">ses man&#339;uvres de trompeur.</l>
+          <l n="12" xml:id="CB189_fauvel_PB-l-12">Reconnais ta mauvaiset&#233;,</l>
+          <l n="13" xml:id="CB189_fauvel_PB-l-13">dis : j&#8217;ai fait erreur.</l>
         </lg>
       </div>
     </body>

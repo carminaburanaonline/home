@@ -1,10 +1,10 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="5x8pp/4pp/4x8pp">
-        <lg type="strophe" met="8pp/8pp/8pp/8pp/8pp/4pp/8pp/8pp/8pp/8pp" rhyme="a/b/b/b/c/a/c/d/d/c">
-          <l n="1">
+        <lg type="strophe" met="8pp/8pp/8pp/8pp/8pp/4pp/8pp/8pp/8pp/8pp" rhyme="a/b/b/b/c/a/c/d/d/c" xml:id="CB033_plut-lg-1">
+          <l n="1" xml:id="CB033_plut-l-1">
             <w>Non</w>
             <w>te</w>
             <w>lusisse</w>
@@ -12,28 +12,28 @@
             <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB033_plut-l-2">
             <w>sed</w>
             <w>ludum</w>
             <w>non</w>
             <w>incidere</w>
             <pc>&#183;</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB033_plut-l-3">
             <w>et</w>
             <w>que</w>
             <w>lusisti</w>
             <w>temere</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB033_plut-l-4">
             <w>ad</w>
             <w>vite</w>
             <w>frugem</w>
             <w>vertere</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB033_plut-l-5">
             <w>Magistra</w>
             <w>morum</w>
             <app type="text">
@@ -41,7 +41,7 @@
               <rdg wit="cod."><w>ratio</w></rdg>
             </app>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB033_plut-l-6">
             <w>te</w>
             <app type="text">
               <lem wit="CB Ka Lh O Ob HSB V W T"><w>ratio</w></lem>
@@ -50,24 +50,24 @@
             <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB033_plut-l-7">
             <w>ut</w>
             <w>dignus</w>
             <w>pontificio</w>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB033_plut-l-8">
             <w>divini</w>
             <w>dono</w>
             <w>numinis</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="9">
+          <l n="9" xml:id="CB033_plut-l-9">
             <w>ad</w>
             <w>laudem</w>
             <w>Christi</w>
             <w>nominis</w>
           </l>
-          <l n="10">
+          <l n="10" xml:id="CB033_plut-l-10">
             <w>fungaris</w>
             <w>sacerdocio</w>
             <pc>&#183;</pc>

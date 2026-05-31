@@ -1,10 +1,10 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I-IV:3x8pp/4pp, Ref.:8pp/4pp">
-        <lg type="strophe" n="I" met="8pp/8pp/8pp/4pp" rhyme="a/a/a/B">
-          <l n="1">
+        <lg type="strophe" n="I" met="8pp/8pp/8pp/4pp" rhyme="a/a/a/B" xml:id="CB159_ee-lg-1">
+          <l n="1" xml:id="CB159_ee-l-1">
             <app type="text">
               <lem wit="CB1 CB2 D HSB V T">
                 <w>Veris</w>
@@ -15,13 +15,13 @@
             <w>in</w>
             <w>tempore</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB159_ee-l-2">
             <w>florenti</w>
             <w>stat</w>
             <w>sub</w>
             <w>arbore</w>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB159_ee-l-3">
             <w>Iuliana</w>
             <app type="text">
               <lem wit="CB1 CB2 HSB V T">
@@ -32,14 +32,14 @@
             <w>sorore</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB159_ee-l-4">
             <w>dulcis</w>
             <w>amor</w>
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="refrain" met="8pp/4pp" rhyme="a/B">
-          <l n="1">
+        <lg type="refrain" met="8pp/4pp" rhyme="a/B" xml:id="CB159_ee-lg-2">
+          <l n="1" xml:id="CB159_ee-l-5">
             <w>Qui</w>
             <w>te</w>
             <w>charet</w>
@@ -51,14 +51,14 @@
             </app>
             <w>tempore</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB159_ee-l-6">
             <w>fit</w>
             <w>vilior</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="8pp/8pp/8pp/4pp" rhyme="a/a/a/B">
-          <l n="1">
+        <lg type="strophe" n="II" met="8pp/8pp/8pp/4pp" rhyme="a/a/a/B" xml:id="CB159_ee-lg-3">
+          <l n="1" xml:id="CB159_ee-l-7">
             <w>Ecce</w>
             <app type="text">
               <lem wit="CB1 CB2 HSB D V T">
@@ -75,13 +75,13 @@
             </app>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB159_ee-l-8">
             <w>lascive</w>
             <w>canunt</w>
             <w>volucres</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB159_ee-l-9">
             <w>inde</w>
             <app type="text">
               <lem wit="CB1 CB2 HSB D V T">
@@ -92,19 +92,19 @@
             <w>virgines</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB159_ee-l-10">
             <w>dulcis</w>
             <w>amor</w>
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="8pp/8pp/8pp/4pp" rhyme="a/a/a/B">
-          <l n="1">
+        <lg type="strophe" n="III" met="8pp/8pp/8pp/4pp" rhyme="a/a/a/B" xml:id="CB159_ee-lg-4">
+          <l n="1" xml:id="CB159_ee-l-11">
             <w>Ecce</w>
             <w>florescunt</w>
             <w>gramina</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB159_ee-l-12">
             <w>et</w>
             <app type="text">
               <lem wit="D T">
@@ -116,7 +116,7 @@
             <w>agmina</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB159_ee-l-13">
             <w>sumo</w>
             <app type="text">
               <lem wit="CB1 CB2 HSB D V T">
@@ -127,14 +127,14 @@
             <w>carmina</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB159_ee-l-14">
             <w>dul[cis</w>
             <w>amor]</w>
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="8pp/8pp/8pp/4pp" rhyme="a/a/a/B">
-          <l n="1">
+        <lg type="strophe" n="IV" met="8pp/8pp/8pp/4pp" rhyme="a/a/a/B" xml:id="CB159_ee-lg-5">
+          <l n="1" xml:id="CB159_ee-l-15">
             <w>Si</w>
             <app type="text">
               viderem D T] viterem cod. vitarem HSB
@@ -148,21 +148,21 @@
             <w>cupio</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB159_ee-l-16">
             <w>pro</w>
             <w>scribis</w>
             <w>sub</w>
             <w>exxilio</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3" met="7pp">
+          <l n="3" met="7pp" xml:id="CB159_ee-l-17">
             <w>vel</w>
             <w>pro</w>
             <w>regis</w>
             <w>filio</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB159_ee-l-18">
             <w>Dul[cis</w>
             <w>amor]</w>
             <pc resp="#editor">!</pc>

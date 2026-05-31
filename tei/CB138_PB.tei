@@ -1,77 +1,77 @@
 <TEI>
-  <teiHeader></teiHeader>
+  <teiHeader/>
   <text>
     <body>
       <div type="poem">
-        <lg type="strophe" n="I">
-          <l n="1">
+        <lg type="strophe" n="I" xml:id="CB138_PB-lg-1">
+          <l n="1" xml:id="CB138_PB-l-1">
             <seg type="hemistich">Le gai visage du printemps</seg>
-            <seg type="hemistich">désaltère le monde,</seg>
+            <seg type="hemistich">d&#233;salt&#232;re le monde,</seg>
           </l>
-          <l n="2">
-            <seg type="hemistich">l’armée de l’hiver</seg>
-            <seg type="hemistich">vaincue est en déroute.</seg>
+          <l n="2" xml:id="CB138_PB-l-2">
+            <seg type="hemistich">l&#8217;arm&#233;e de l&#8217;hiver</seg>
+            <seg type="hemistich">vaincue est en d&#233;route.</seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB138_PB-l-3">
             <seg type="hemistich">Dans ses habits multicolores</seg>
             <seg type="hemistich">Flore marche en princesse,</seg>
           </l>
-          <l n="4">
-            <seg type="hemistich">célébrée dans les bois</seg>
-            <seg type="hemistich">de chants mélodieux.</seg>
+          <l n="4" xml:id="CB138_PB-l-4">
+            <seg type="hemistich">c&#233;l&#233;br&#233;e dans les bois</seg>
+            <seg type="hemistich">de chants m&#233;lodieux.</seg>
           </l>
         </lg>
-        <lg type="strophe" n="II">
-          <l n="1">
-            <seg type="hemistich">En ce renouveau Phébus,</seg>
-            <seg type="hemistich">renversé dans ses bras, </seg>
+        <lg type="strophe" n="II" xml:id="CB138_PB-lg-2">
+          <l n="1" xml:id="CB138_PB-l-5">
+            <seg type="hemistich">En ce renouveau Ph&#233;bus,</seg>
+            <seg type="hemistich">renvers&#233; dans ses bras, </seg>
           </l>
-          <l n="2">
-            <seg type="hemistich">sourit à Flore, noyée</seg>
-            <seg type="hemistich">sous ce fouillis de fleurs variées.</seg>
+          <l n="2" xml:id="CB138_PB-l-6">
+            <seg type="hemistich">sourit &#224; Flore, noy&#233;e</seg>
+            <seg type="hemistich">sous ce fouillis de fleurs vari&#233;es.</seg>
           </l>
-          <l n="3">
-            <seg type="hemistich">Zéphyre va diffusant</seg>
-            <seg type="hemistich">de délicieux parfums.</seg>
+          <l n="3" xml:id="CB138_PB-l-7">
+            <seg type="hemistich">Z&#233;phyre va diffusant</seg>
+            <seg type="hemistich">de d&#233;licieux parfums.</seg>
           </l>
-          <l n="4">
-            <seg type="hemistich">A l’envi, courons pour gagner</seg>
-            <seg type="hemistich">la récompense d’amour !</seg>
+          <l n="4" xml:id="CB138_PB-l-8">
+            <seg type="hemistich">A l&#8217;envi, courons pour gagner</seg>
+            <seg type="hemistich">la r&#233;compense d&#8217;amour !</seg>
           </l>
         </lg>
-        <lg type="strophe" n="III">
-          <l n="1">
+        <lg type="strophe" n="III" xml:id="CB138_PB-lg-3">
+          <l n="1" xml:id="CB138_PB-l-9">
             <seg type="hemistich">La noble fleur des jeunes filles</seg>
-            <seg type="hemistich">appelle à soi les lettrés,</seg>
+            <seg type="hemistich">appelle &#224; soi les lettr&#233;s,</seg>
           </l>
-          <l n="2">
-            <seg type="hemistich">mais déteste absolument</seg>
-            <seg type="hemistich">le cœur brutal des illettrés.</seg>
+          <l n="2" xml:id="CB138_PB-l-10">
+            <seg type="hemistich">mais d&#233;teste absolument</seg>
+            <seg type="hemistich">le c&#339;ur brutal des illettr&#233;s.</seg>
           </l>
-          <l n="3">
-            <seg type="hemistich">Amour les entraîne tous</seg>
-            <seg type="hemistich">sous l’astre de l’été,</seg>
+          <l n="3" xml:id="CB138_PB-l-11">
+            <seg type="hemistich">Amour les entra&#238;ne tous</seg>
+            <seg type="hemistich">sous l&#8217;astre de l&#8217;&#233;t&#233;,</seg>
           </l>
-          <l n="4">
-            <seg type="hemistich">Vénus se répand en tous</seg>
-            <seg type="hemistich">en gardant le même nom. 	 </seg>
+          <l n="4" xml:id="CB138_PB-l-12">
+            <seg type="hemistich">V&#233;nus se r&#233;pand en tous</seg>
+            <seg type="hemistich">en gardant le m&#234;me nom. 	 </seg>
           </l>
         </lg>
-        <lg type="strophe" n="IV">
-          <l n="1">
+        <lg type="strophe" n="IV" xml:id="CB138_PB-lg-4">
+          <l n="1" xml:id="CB138_PB-l-13">
             <seg type="hemistich">Le rossignol charmeur</seg>
-            <seg type="hemistich">exécute sa chanson,</seg>
+            <seg type="hemistich">ex&#233;cute sa chanson,</seg>
           </l>
-          <l n="2">
-            <seg type="hemistich">les prés désormais sereins</seg>
+          <l n="2" xml:id="CB138_PB-l-14">
+            <seg type="hemistich">les pr&#233;s d&#233;sormais sereins</seg>
             <seg type="hemistich">rient de toutes leurs fleurs.</seg>
           </l>
-          <l n="3">
-            <seg type="hemistich">des volées d’oiseaux jaillissent</seg>
-            <seg type="hemistich">dans les plaisantes forêts,</seg>
+          <l n="3" xml:id="CB138_PB-l-15">
+            <seg type="hemistich">des vol&#233;es d&#8217;oiseaux jaillissent</seg>
+            <seg type="hemistich">dans les plaisantes for&#234;ts,</seg>
           </l>
-          <l n="4">
-            <seg type="hemistich">déjà le chœur des fillettes</seg>
+          <l n="4" xml:id="CB138_PB-l-16">
+            <seg type="hemistich">d&#233;j&#224; le ch&#339;ur des fillettes</seg>
             <seg type="hemistich">nous procure mille joies.</seg>
           </l>
         </lg>

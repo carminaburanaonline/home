@@ -1,10 +1,10 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" xml:lang="latin" met="I-VI:3x(8p/7pp)">
-        <lg type="strophe" n="I" met="8p/7pp/8p/7pp/8p/7pp" rhyme="a/b/a/b/a/b">
-          <l n="1">
+        <lg type="strophe" n="I" met="8p/7pp/8p/7pp/8p/7pp" rhyme="a/b/a/b/a/b" xml:id="CB020x-lg-1">
+          <l n="1" xml:id="CB020x-l-1">
             <w>
               <seg type="syll" part="I">Pan</seg>
               <seg type="syll" part="F">ge</seg>
@@ -21,7 +21,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB020x-l-2">
             <w>
               <seg type="syll" part="I">vir</seg>
               <seg type="syll" part="M">gi</seg>
@@ -36,7 +36,7 @@
             <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB020x-l-3">
             <w>
               <seg type="syll" part="I">gem</seg>
               <seg type="syll" part="F">me</seg>
@@ -53,7 +53,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB020x-l-4">
             <w>
               <seg type="syll" part="I">de</seg>
               <seg type="syll" part="M">scen</seg>
@@ -70,7 +70,7 @@
             <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB020x-l-5">
             <w>
               <seg type="syll">ut</seg>
             </w>
@@ -86,7 +86,7 @@
               <seg type="syll" part="F">se</seg>
             </w>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB020x-l-6">
             <w>
               <seg type="syll" part="I">men</seg>
               <seg type="syll" part="F">tis</seg>
@@ -102,8 +102,8 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="8p/7pp/8p/7pp/8p/7pp" rhyme="a/b/a/b/a/b">
-          <l n="1">
+        <lg type="strophe" n="II" met="8p/7pp/8p/7pp/8p/7pp" rhyme="a/b/a/b/a/b" xml:id="CB020x-lg-2">
+          <l n="1" xml:id="CB020x-l-7">
             <w>
               <seg type="syll" part="I">Im</seg>
               <seg type="syll" part="M">mi</seg>
@@ -118,7 +118,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB020x-l-8">
             <w>
               <seg type="syll" part="I">vir</seg>
               <seg type="syll" part="F">go</seg>
@@ -134,7 +134,7 @@
             </w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB020x-l-9">
             <w>
               <seg type="syll" part="I">as</seg>
               <seg type="syll" part="M">se</seg>
@@ -151,7 +151,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB020x-l-10">
             <w>
               <seg type="syll">quod</seg>
             </w>
@@ -168,7 +168,7 @@
               <seg type="syll" part="F">rit</seg>
             </w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB020x-l-11">
             <w>
               <seg type="syll" part="I">su</seg>
               <seg type="syll" part="F">o</seg>
@@ -187,7 +187,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB020x-l-12">
             <w>
               <seg type="syll" part="I">me</seg>
               <seg type="syll" part="F">i</seg>
@@ -205,8 +205,8 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="8p/7pp/8p/7pp/8p/7pp" rhyme="a/b/a/b/a/b">
-          <l n="1">
+        <lg type="strophe" n="III" met="8p/7pp/8p/7pp/8p/7pp" rhyme="a/b/a/b/a/b" xml:id="CB020x-lg-3">
+          <l n="1" xml:id="CB020x-l-13">
             <w>
               <seg type="syll">In</seg>
             </w>
@@ -225,7 +225,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB020x-l-14">
             <w>
               <seg type="syll" part="I">flu</seg>
               <seg type="syll" part="F">it</seg>
@@ -243,7 +243,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB020x-l-15">
             <w>
               <seg type="syll" part="I">an</seg>
               <seg type="syll" part="M">ge</seg>
@@ -257,7 +257,7 @@
               <seg type="syll" part="F">tur</seg>
             </w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB020x-l-16">
             <w>
               <seg type="syll" part="I">cor</seg>
               <seg type="syll" part="F">pus</seg>
@@ -270,7 +270,7 @@
               <seg type="syll" part="F">ne</seg>
             </w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB020x-l-17">
             <w>
               <seg type="syll">et</seg>
             </w>
@@ -285,7 +285,7 @@
               <seg type="syll" part="F">tur</seg>
             </w>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB020x-l-18">
             <w>
               <seg type="syll">in</seg>
             </w>
@@ -303,8 +303,8 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="8p/7pp/8p/7pp/8p/7pp" rhyme="a/b/a/b/a/b">
-          <l n="1">
+        <lg type="strophe" n="IV" met="8p/7pp/8p/7pp/8p/7pp" rhyme="a/b/a/b/a/b" xml:id="CB020x-lg-4">
+          <l n="1" xml:id="CB020x-l-19">
             <w>
               <seg type="syll">Hoc</seg>
             </w>
@@ -324,7 +324,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB020x-l-20">
             <w>
               <seg type="syll" part="I">me</seg>
               <seg type="syll" part="M">ri</seg>
@@ -339,7 +339,7 @@
             <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB020x-l-21">
             <w>
               <seg type="syll">quod</seg>
             </w>
@@ -360,7 +360,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB020x-l-22">
             <w>
               <seg type="syll" part="I">in</seg>
               <seg type="syll" part="M">ces</seg>
@@ -374,7 +374,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB020x-l-23">
             <w>
               <seg type="syll" part="I">cu</seg>
               <seg type="syll" part="F">ius</seg>
@@ -392,7 +392,7 @@
               <seg type="syll" part="F">nat</seg>
             </w>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB020x-l-24">
             <w>
               <seg type="syll" part="I">do</seg>
               <seg type="syll" part="M">lo</seg>
@@ -408,8 +408,8 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="V" met="8p/7pp/8p/7pp/8p/7pp" rhyme="a/b/a/b/a/b">
-          <l n="1">
+        <lg type="strophe" n="V" met="8p/7pp/8p/7pp/8p/7pp" rhyme="a/b/a/b/a/b" xml:id="CB020x-lg-5">
+          <l n="1" xml:id="CB020x-l-25">
             <w>
               <seg type="syll">Cum</seg>
             </w>
@@ -426,7 +426,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB020x-l-26">
             <w>
               <seg type="syll">ut</seg>
             </w>
@@ -444,7 +444,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB020x-l-27">
             <w>
               <seg type="syll">sic</seg>
             </w>
@@ -461,7 +461,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB020x-l-28">
             <w>
               <seg type="syll" part="I">mun</seg>
               <seg type="syll" part="F">det</seg>
@@ -478,7 +478,7 @@
             <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB020x-l-29">
             <w>
               <seg type="syll">ut</seg>
             </w>
@@ -495,7 +495,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB020x-l-30">
             <w>
               <seg type="syll" part="I">do</seg>
               <seg type="syll" part="F">lor</seg>
@@ -513,8 +513,8 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="VI" met="8p/7pp/8p/7pp/8p/7pp" rhyme="a/b/a/b/a/b">
-          <l n="1">
+        <lg type="strophe" n="VI" met="8p/7pp/8p/7pp/8p/7pp" rhyme="a/b/a/b/a/b" xml:id="CB020x-lg-6">
+          <l n="1" xml:id="CB020x-l-31">
             <w>
               <seg type="syll" part="I">Glo</seg>
               <seg type="syll" part="M">ri</seg>
@@ -533,7 +533,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB020x-l-32">
             <w>
               <seg type="syll" part="I">ti</seg>
               <seg type="syll" part="F">bi</seg>
@@ -551,7 +551,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB020x-l-33">
             <w>
               <seg type="syll">qui</seg>
             </w>
@@ -570,7 +570,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB020x-l-34">
             <w>
               <seg type="syll" part="I">ad</seg>
               <seg type="syll" part="M">iu</seg>
@@ -584,7 +584,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB020x-l-35">
             <w>
               <seg type="syll">et</seg>
             </w>
@@ -603,7 +603,7 @@
               <seg type="syll" part="F">ne</seg>
             </w>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB020x-l-36">
             <w>
               <seg type="syll" part="I">vin</seg>
               <seg type="syll" part="M">cen</seg>

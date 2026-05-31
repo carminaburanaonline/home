@@ -1,9 +1,9 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="prose">
-        <p>
+        <p xml:id="CB022_plut_non-p-1">
           <w>Non</w>
           <w>vos</w>
           <w>relinquam</w>
@@ -11,7 +11,7 @@
           <pc>&#183;</pc>
           <pc resp="#editor">.</pc>
         </p>
-        <p>
+        <p xml:id="CB022_plut_non-p-2">
           <w>Vado</w>
           <w>et</w>
           <w>venio</w>
@@ -19,7 +19,7 @@
           <w>vos</w>
           <pc resp="#editor">.</pc>
         </p>
-        <p>
+        <p xml:id="CB022_plut_non-p-3">
           <w>Et</w>
           <w>gaudebit</w>
           <pc>&#183;</pc>

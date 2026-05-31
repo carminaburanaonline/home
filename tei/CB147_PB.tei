@@ -1,50 +1,50 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem">
-        <lg type="strophe" n="I">
-          <l n="1">Si je vivais comme &#224; l&#8217;ordinaire</l>
-          <l n="2">joyeusement, avec honneur,</l>
-          <l n="3">je n&#8217;aurais pas &#224; &#233;grener</l>
-          <l n="4">le livre de peine et douleur.</l>
-          <l n="5">Je c&#233;l&#233;brerais l&#8217;herbe neuve,</l>
-          <l n="6">je vivrais en moi le printemps,</l>
-          <l n="7">je ferais pour tous nouveaux chants.</l>
+        <lg type="strophe" n="I" xml:id="CB147_PB-lg-1">
+          <l n="1" xml:id="CB147_PB-l-1">Si je vivais comme &#224; l&#8217;ordinaire</l>
+          <l n="2" xml:id="CB147_PB-l-2">joyeusement, avec honneur,</l>
+          <l n="3" xml:id="CB147_PB-l-3">je n&#8217;aurais pas &#224; &#233;grener</l>
+          <l n="4" xml:id="CB147_PB-l-4">le livre de peine et douleur.</l>
+          <l n="5" xml:id="CB147_PB-l-5">Je c&#233;l&#233;brerais l&#8217;herbe neuve,</l>
+          <l n="6" xml:id="CB147_PB-l-6">je vivrais en moi le printemps,</l>
+          <l n="7" xml:id="CB147_PB-l-7">je ferais pour tous nouveaux chants.</l>
         </lg>
-        <lg type="strophe" n="II">
-          <l n="1">Pourtant je chante, mais &#224; propos</l>
-          <l n="2">des caprices de ma V&#233;nus :</l>
-          <l n="3">je suis son P&#226;ris et son apprenti</l>
-          <l n="4">comme les autres, qui ont appris</l>
-          <l n="5">
+        <lg type="strophe" n="II" xml:id="CB147_PB-lg-2">
+          <l n="1" xml:id="CB147_PB-l-8">Pourtant je chante, mais &#224; propos</l>
+          <l n="2" xml:id="CB147_PB-l-9">des caprices de ma V&#233;nus :</l>
+          <l n="3" xml:id="CB147_PB-l-10">je suis son P&#226;ris et son apprenti</l>
+          <l n="4" xml:id="CB147_PB-l-11">comme les autres, qui ont appris</l>
+          <l n="5" xml:id="CB147_PB-l-12">
             <seg type="hemistich">&#224; entonner</seg>
             <seg type="hemistich">des chants vari&#233;s,</seg>
           </l>
-          <l n="6">&#224; exprimer les agr&#233;ments</l>
-          <l n="7" rend="indent(1)">du doux printemps.</l>
+          <l n="6" xml:id="CB147_PB-l-13">&#224; exprimer les agr&#233;ments</l>
+          <l n="7" rend="indent(1)" xml:id="CB147_PB-l-14">du doux printemps.</l>
         </lg>
-        <lg type="strophe" n="III">
-          <l n="1">&#192; la palestre, Hypermnestre,</l>
-          <l n="2">vas-y &#233;nergiquement !</l>
-          <l n="3">Parmi les fr&#232;res, un seul survit,</l>
-          <l n="4">sans que la mort l&#8217;ait regard&#233;.</l>
-          <l n="5">Car si demain elle m&#8217;appelle,</l>
-          <l n="6">plus s&#251;rement cela doit arriver,</l>
-          <l n="7">voir l&#8217;exemple de Mucius.</l>
+        <lg type="strophe" n="III" xml:id="CB147_PB-lg-3">
+          <l n="1" xml:id="CB147_PB-l-15">&#192; la palestre, Hypermnestre,</l>
+          <l n="2" xml:id="CB147_PB-l-16">vas-y &#233;nergiquement !</l>
+          <l n="3" xml:id="CB147_PB-l-17">Parmi les fr&#232;res, un seul survit,</l>
+          <l n="4" xml:id="CB147_PB-l-18">sans que la mort l&#8217;ait regard&#233;.</l>
+          <l n="5" xml:id="CB147_PB-l-19">Car si demain elle m&#8217;appelle,</l>
+          <l n="6" xml:id="CB147_PB-l-20">plus s&#251;rement cela doit arriver,</l>
+          <l n="7" xml:id="CB147_PB-l-21">voir l&#8217;exemple de Mucius.</l>
         </lg>
-        <lg type="strophe" n="IV">
-          <l n="1">Mon corps dess&#232;che, par le manque</l>
-          <l n="2" rend="indent(1)">de joie au c&#339;ur.</l>
-          <l n="3">Je me consume de souci, craignant</l>
-          <l n="4" rend="indent(1)">pour l&#8217;avenir ;</l>
-          <l n="5">je ne peux pas compagnonner</l>
-          <l n="6" rend="indent(1)">avec ceux-l&#224;,</l>
-          <l n="7">
+        <lg type="strophe" n="IV" xml:id="CB147_PB-lg-4">
+          <l n="1" xml:id="CB147_PB-l-22">Mon corps dess&#232;che, par le manque</l>
+          <l n="2" rend="indent(1)" xml:id="CB147_PB-l-23">de joie au c&#339;ur.</l>
+          <l n="3" xml:id="CB147_PB-l-24">Je me consume de souci, craignant</l>
+          <l n="4" rend="indent(1)" xml:id="CB147_PB-l-25">pour l&#8217;avenir ;</l>
+          <l n="5" xml:id="CB147_PB-l-26">je ne peux pas compagnonner</l>
+          <l n="6" rend="indent(1)" xml:id="CB147_PB-l-27">avec ceux-l&#224;,</l>
+          <l n="7" xml:id="CB147_PB-l-28">
             <seg type="hemistich">ni supporter</seg>
             <seg type="hemistich">d&#8217;&#234;tre abaiss&#233;</seg>
           </l>
-          <l n="8" rend="indent(1)">sous mes rivaux.</l>
+          <l n="8" rend="indent(1)" xml:id="CB147_PB-l-29">sous mes rivaux.</l>
         </lg>
       </div>
     </body>

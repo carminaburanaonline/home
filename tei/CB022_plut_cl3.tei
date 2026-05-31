@@ -1,9 +1,9 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="prose">
-        <p>
+        <p xml:id="CB022_plut_cl3-p-1">
           <w>Et</w>
           <w>gaudebit</w>
           <pc resp="#editor">.</pc>

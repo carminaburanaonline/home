@@ -1,14 +1,14 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem">
-        <lg type="strophe">
-          <l n="1">Veille donc &#224; ne pas dormir,</l>
-          <l n="2">mais reste &#233;veill&#233; pour ouvrir</l>
-          <l n="3">au Seigneur, quand il frappera.</l>
-          <l n="4">Heureux celui qu'il trouvera</l>
-          <l n="5">vigilant quand il reviendra !</l>
+        <lg type="strophe" xml:id="CB026_ebu_1_PB-lg-1">
+          <l n="1" xml:id="CB026_ebu_1_PB-l-1">Veille donc &#224; ne pas dormir,</l>
+          <l n="2" xml:id="CB026_ebu_1_PB-l-2">mais reste &#233;veill&#233; pour ouvrir</l>
+          <l n="3" xml:id="CB026_ebu_1_PB-l-3">au Seigneur, quand il frappera.</l>
+          <l n="4" xml:id="CB026_ebu_1_PB-l-4">Heureux celui qu'il trouvera</l>
+          <l n="5" xml:id="CB026_ebu_1_PB-l-5">vigilant quand il reviendra !</l>
         </lg>
       </div>
     </body>

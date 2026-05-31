@@ -1,30 +1,30 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I-IV:2x(6p/7p)/7pp/2x4pp/7p/7pp/7p/5pp/8p">
-        <lg type="strophe" n="I" met="6p/7p/6p/7p/7pp/4pp/4pp/7p/7pp/7p/5pp/8p" rhyme="a/a/a/a/b/b/b/a/b/a/b/a">
-          <l n="1">
+        <lg type="strophe" n="I" met="6p/7p/6p/7p/7pp/4pp/4pp/7p/7pp/7p/5pp/8p" rhyme="a/a/a/a/b/b/b/a/b/a/b/a" xml:id="CB131_egerton_274-lg-1">
+          <l n="1" xml:id="CB131_egerton_274-l-1">
             <w>Bulla</w>
             <w>fulminante</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB131_egerton_274-l-2">
             <w>sub</w>
             <w>iudice</w>
             <w>tonante</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB131_egerton_274-l-3">
             <w>reo</w>
             <w>appellante</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB131_egerton_274-l-4">
             <w>sententia</w>
             <w>gravante</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB131_egerton_274-l-5">
             <w>veritas</w>
             <app type="text">
               <lem wit="cod.">
@@ -34,25 +34,25 @@
             </app>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB131_egerton_274-l-6">
             <w>distrahitur</w>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB131_egerton_274-l-7">
             <w>et</w>
             <w>venditur</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB131_egerton_274-l-8">
             <w>iusticia</w>
             <w>prostante</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="9">
+          <l n="9" xml:id="CB131_egerton_274-l-9">
             <w>Itur</w>
             <w>et</w>
             <w>recurritur</w>
           </l>
-          <l n="10">
+          <l n="10" xml:id="CB131_egerton_274-l-10">
             <w>ad</w>
             <w>curiam</w>
             <pc resp="#editor">,</pc>
@@ -60,35 +60,35 @@
             <w>ante</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="11">
+          <l n="11" xml:id="CB131_egerton_274-l-11">
             <w>quid</w>
             <w>consequitur</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="12">
+          <l n="12" xml:id="CB131_egerton_274-l-12">
             <w>quam</w>
             <w>exuitur</w>
             <w>quadrante</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="6p/7p/6p/7p/7pp/4pp/4pp/7p/7pp/7p/5pp/8p" rhyme="a/a/a/a/b/b/b/a/b/a/b/a">
-          <l n="1">
+        <lg type="strophe" n="II" met="6p/7p/6p/7p/7pp/4pp/4pp/7p/7pp/7p/5pp/8p" rhyme="a/a/a/a/b/b/b/a/b/a/b/a" xml:id="CB131_egerton_274-lg-2">
+          <l n="1" xml:id="CB131_egerton_274-l-13">
             <w>Pape</w>
             <w>ianitores</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB131_egerton_274-l-14">
             <w>Cerbero</w>
             <w>surdiores</w>
             <pc resp="#editor">!</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB131_egerton_274-l-15">
             <w>In</w>
             <w>spe</w>
             <w>vana</w>
             <w>plores</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB131_egerton_274-l-16">
             <app type="text">
               <lem wit="cod.">
                 <w>nam</w>
@@ -98,7 +98,7 @@
             <w>etiamsi</w>
             <w>fores</w>
           </l>
-          <l n="5" met="7p">
+          <l n="5" met="7p" xml:id="CB131_egerton_274-l-17">
             <app type="text">
               <lem wit="HSB V T">
                 <w>quem</w>
@@ -110,51 +110,51 @@
             </app>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="6" met="4p">
+          <l n="6" met="4p" xml:id="CB131_egerton_274-l-18">
             <w>Pluton</w>
             <pc resp="#editor">,</pc>
             <w>deus</w>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB131_egerton_274-l-19">
             <w>Tartareus</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB131_egerton_274-l-20">
             <w>non</w>
             <w>ideo</w>
             <w>perores</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="9">
+          <l n="9" xml:id="CB131_egerton_274-l-21">
             <w>malleus</w>
             <w>argenteus</w>
           </l>
-          <l n="10">
+          <l n="10" xml:id="CB131_egerton_274-l-22">
             <w>ni</w>
             <w>feriat</w>
             <w>ad</w>
             <w>fores</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="11" met="5p">
+          <l n="11" met="5p" xml:id="CB131_egerton_274-l-23">
             <w>ubi</w>
             <w>Protheus</w>
           </l>
-          <l n="12">
+          <l n="12" xml:id="CB131_egerton_274-l-24">
             <w>variat</w>
             <w>mille</w>
             <w>colores</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="6p/7p/6p/7p/7pp/4pp/4pp/7p/7pp/7p/5pp/8p" rhyme="a/a/a/a/b/b/b/a/b/a/b/a">
-          <l n="1">
+        <lg type="strophe" n="III" met="6p/7p/6p/7p/7pp/4pp/4pp/7p/7pp/7p/5pp/8p" rhyme="a/a/a/a/b/b/b/a/b/a/b/a" xml:id="CB131_egerton_274-lg-3">
+          <l n="1" xml:id="CB131_egerton_274-l-25">
             <w>Si</w>
             <w>queris</w>
             <w>prebendas</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB131_egerton_274-l-26">
             <app type="text">
               frustra vitam pretendas cod.&#61533; vitam frustra commendas HS V T
               <lem wit="cod.">
@@ -166,122 +166,122 @@
             </app>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB131_egerton_274-l-27">
             <w>mores</w>
             <w>non</w>
             <w>commendas</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB131_egerton_274-l-28">
             <w>ne</w>
             <w>iudicem</w>
             <w>offendas</w>
             <pc resp="#editor">!</pc>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB131_egerton_274-l-29">
             <w>Frustra</w>
             <w>tuis</w>
             <w>litteris</w>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB131_egerton_274-l-30">
             <w>inniteris</w>
             <pc resp="#editor">:</pc>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB131_egerton_274-l-31">
             <w>moraberis</w>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB131_egerton_274-l-32">
             <w>per</w>
             <w>plurimas</w>
             <w>kalendas</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="9">
+          <l n="9" xml:id="CB131_egerton_274-l-33">
             <w>tandem</w>
             <w>expectaveris</w>
           </l>
-          <l n="10">
+          <l n="10" xml:id="CB131_egerton_274-l-34">
             <w>a</w>
             <w>ceteris</w>
             <w>ferendas</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="11">
+          <l n="11" xml:id="CB131_egerton_274-l-35">
             <w>paris</w>
             <w>ponderis</w>
           </l>
-          <l n="12">
+          <l n="12" xml:id="CB131_egerton_274-l-36">
             <w>precio</w>
             <w>nisi</w>
             <w>contendas</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="6p/7p/6p/7p/7pp/4pp/4pp/7p/7pp/7p/5pp/8p" rhyme="a/a/a/a/b/b/b/a/b/a/b/a">
-          <l n="1">
+        <lg type="strophe" n="IV" met="6p/7p/6p/7p/7pp/4pp/4pp/7p/7pp/7p/5pp/8p" rhyme="a/a/a/a/b/b/b/a/b/a/b/a" xml:id="CB131_egerton_274-lg-4">
+          <l n="1" xml:id="CB131_egerton_274-l-37">
             <w>Jupiter</w>
             <pc resp="#editor">,</pc>
             <w>dum</w>
             <w>orat</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB131_egerton_274-l-38">
             <w>Danem</w>
             <pc resp="#editor">,</pc>
             <w>frustra</w>
             <w>laborat</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB131_egerton_274-l-39">
             <w>sed</w>
             <w>eam</w>
             <w>deflorat</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB131_egerton_274-l-40">
             <w>auro</w>
             <w>dum</w>
             <w>se</w>
             <w>colorat</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB131_egerton_274-l-41">
             <w>Auro</w>
             <w>nil</w>
             <w>potencius</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB131_egerton_274-l-42">
             <w>nil</w>
             <w>gratius</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB131_egerton_274-l-43">
             <w>nec</w>
             <w>Tullius</w>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB131_egerton_274-l-44">
             <w>facundius</w>
             <w>perorat</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="9">
+          <l n="9" xml:id="CB131_egerton_274-l-45">
             <w>Sed</w>
             <w>hos</w>
             <w>urit</w>
             <w>acrius</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="10">
+          <l n="10" xml:id="CB131_egerton_274-l-46">
             <w>quos</w>
             <w>amplius</w>
             <w>honorat</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="11">
+          <l n="11" xml:id="CB131_egerton_274-l-47">
             <w>nichil</w>
             <w>iustius</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="12">
+          <l n="12" xml:id="CB131_egerton_274-l-48">
             <w>calidum</w>
             <w>Crassus</w>
             <w>dum</w>

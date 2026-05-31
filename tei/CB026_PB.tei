@@ -1,54 +1,54 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem">
-        <lg type="strophe" n="I">
-          <l n="1">Reviens &#224; toi et &#224; ton c&#339;ur,</l>
-          <l n="2">homme au sort si mis&#233;rable !</l>
-          <l n="3">Pourquoi n&#233;gliges-tu de vivre,</l>
-          <l n="4">pourquoi t&#8217;adonnes-tu aux vices ?</l>
-          <l n="5">Pourquoi te complais-tu au mal ?</l>
-          <l n="6">Pourquoi rester dans tes exc&#232;s</l>
-          <l n="7">sans vouloir diriger tes pas</l>
-          <l n="8">sur les voies de la justice ?</l>
-          <l n="9">mais chaque jour tu exasp&#232;res</l>
-          <l n="10">le courroux de Dieu contre toi.</l>
-          <l n="11">Tremble donc qu'il n'arrache en toi</l>
-          <l n="12">la souche du figuier st&#233;rile,</l>
-          <l n="13">toi qui ne portes pas de fruit !</l>
+        <lg type="strophe" n="I" xml:id="CB026_PB-lg-1">
+          <l n="1" xml:id="CB026_PB-l-1">Reviens &#224; toi et &#224; ton c&#339;ur,</l>
+          <l n="2" xml:id="CB026_PB-l-2">homme au sort si mis&#233;rable !</l>
+          <l n="3" xml:id="CB026_PB-l-3">Pourquoi n&#233;gliges-tu de vivre,</l>
+          <l n="4" xml:id="CB026_PB-l-4">pourquoi t&#8217;adonnes-tu aux vices ?</l>
+          <l n="5" xml:id="CB026_PB-l-5">Pourquoi te complais-tu au mal ?</l>
+          <l n="6" xml:id="CB026_PB-l-6">Pourquoi rester dans tes exc&#232;s</l>
+          <l n="7" xml:id="CB026_PB-l-7">sans vouloir diriger tes pas</l>
+          <l n="8" xml:id="CB026_PB-l-8">sur les voies de la justice ?</l>
+          <l n="9" xml:id="CB026_PB-l-9">mais chaque jour tu exasp&#232;res</l>
+          <l n="10" xml:id="CB026_PB-l-10">le courroux de Dieu contre toi.</l>
+          <l n="11" xml:id="CB026_PB-l-11">Tremble donc qu'il n'arrache en toi</l>
+          <l n="12" xml:id="CB026_PB-l-12">la souche du figuier st&#233;rile,</l>
+          <l n="13" xml:id="CB026_PB-l-13">toi qui ne portes pas de fruit !</l>
         </lg>
-        <lg type="strophe" n="II">
-          <l n="1">&#212; condition de mis&#232;re !</l>
-          <l n="2">Consid&#232;re</l>
-          <l n="3">combien am&#232;re</l>
-          <l n="4">est cette vie, autre mort</l>
-          <l n="5">qui change ainsi notre sort !</l>
-          <l n="6">Pourquoi ne pas purger ta faute</l>
-          <l n="7">sans nul d&#233;lai,</l>
-          <l n="8">puisque l'heure</l>
-          <l n="9">de la mort t'est inconnue,</l>
-          <l n="10">et que charit&#233; malgr&#233; soi,</l>
-          <l n="11">qui ne peut servir &#224; rien,</l>
-          <l n="12">n&#8217;a pas d&#8217;effet et dispara&#238;t</l>
-          <l n="13">sans &#234;tre utile au salut.</l>
+        <lg type="strophe" n="II" xml:id="CB026_PB-lg-2">
+          <l n="1" xml:id="CB026_PB-l-14">&#212; condition de mis&#232;re !</l>
+          <l n="2" xml:id="CB026_PB-l-15">Consid&#232;re</l>
+          <l n="3" xml:id="CB026_PB-l-16">combien am&#232;re</l>
+          <l n="4" xml:id="CB026_PB-l-17">est cette vie, autre mort</l>
+          <l n="5" xml:id="CB026_PB-l-18">qui change ainsi notre sort !</l>
+          <l n="6" xml:id="CB026_PB-l-19">Pourquoi ne pas purger ta faute</l>
+          <l n="7" xml:id="CB026_PB-l-20">sans nul d&#233;lai,</l>
+          <l n="8" xml:id="CB026_PB-l-21">puisque l'heure</l>
+          <l n="9" xml:id="CB026_PB-l-22">de la mort t'est inconnue,</l>
+          <l n="10" xml:id="CB026_PB-l-23">et que charit&#233; malgr&#233; soi,</l>
+          <l n="11" xml:id="CB026_PB-l-24">qui ne peut servir &#224; rien,</l>
+          <l n="12" xml:id="CB026_PB-l-25">n&#8217;a pas d&#8217;effet et dispara&#238;t</l>
+          <l n="13" xml:id="CB026_PB-l-26">sans &#234;tre utile au salut.</l>
         </lg>
-        <lg type="strophe" n="III">
-          <l n="1">Si lorsqu'on t'invite &#224; des noces</l>
-          <l n="2">tu y vas</l>
-          <l n="3">sans l'habit nuptial,</l>
-          <l n="4">on te chassera</l>
-          <l n="5">de la cour royale,</l>
-          <l n="6">et si tu vas &#224; la rencontre</l>
-          <l n="7">de l&#8217;&#201;poux sans huile &#224; ta lampe,</l>
-          <l n="8">tu n'es qu'une vierge folle.</l>
+        <lg type="strophe" n="III" xml:id="CB026_PB-lg-3">
+          <l n="1" xml:id="CB026_PB-l-27">Si lorsqu'on t'invite &#224; des noces</l>
+          <l n="2" xml:id="CB026_PB-l-28">tu y vas</l>
+          <l n="3" xml:id="CB026_PB-l-29">sans l'habit nuptial,</l>
+          <l n="4" xml:id="CB026_PB-l-30">on te chassera</l>
+          <l n="5" xml:id="CB026_PB-l-31">de la cour royale,</l>
+          <l n="6" xml:id="CB026_PB-l-32">et si tu vas &#224; la rencontre</l>
+          <l n="7" xml:id="CB026_PB-l-33">de l&#8217;&#201;poux sans huile &#224; ta lampe,</l>
+          <l n="8" xml:id="CB026_PB-l-34">tu n'es qu'une vierge folle.</l>
         </lg>
-        <lg type="strophe" n="IV">
-          <l n="1">Veille donc &#224; ne pas dormir,</l>
-          <l n="2">mais reste &#233;veill&#233; pour ouvrir</l>
-          <l n="3">au Seigneur, quand il frappera.</l>
-          <l n="4">Heureux celui qu'il trouvera</l>
-          <l n="5">vigilant quand il reviendra !</l>
+        <lg type="strophe" n="IV" xml:id="CB026_PB-lg-4">
+          <l n="1" xml:id="CB026_PB-l-35">Veille donc &#224; ne pas dormir,</l>
+          <l n="2" xml:id="CB026_PB-l-36">mais reste &#233;veill&#233; pour ouvrir</l>
+          <l n="3" xml:id="CB026_PB-l-37">au Seigneur, quand il frappera.</l>
+          <l n="4" xml:id="CB026_PB-l-38">Heureux celui qu'il trouvera</l>
+          <l n="5" xml:id="CB026_PB-l-39">vigilant quand il reviendra !</l>
         </lg>
       </div>
     </body>

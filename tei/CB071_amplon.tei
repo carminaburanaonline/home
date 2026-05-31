@@ -1,10 +1,10 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="sequence" met="1-2:2x(7pp+6p), 3:5p+5p/7pp+6p, 4:2x(6p+6p), 5:2x(5p/4pp)/5p, 6:6x7pp, 7:3x(5p/6p), 8:2x(5p/3p)">
-        <lg type="versicle" n="1a" met="7pp+6p/7pp+6p" rhyme="a+b/a+b">
-          <l n="1">
+        <lg type="versicle" n="1a" met="7pp+6p/7pp+6p" rhyme="a+b/a+b" xml:id="CB071_amplon-lg-1">
+          <l n="1" xml:id="CB071_amplon-l-1">
             <seg type="hemistich">
               <w>Axe</w>
               <w>Phebus</w>
@@ -15,7 +15,7 @@
               <w>lustrat</w>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB071_amplon-l-2">
             <seg type="hemistich">
               <w>et</w>
               <w>nitore</w>
@@ -28,8 +28,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="versicle" n="1b" met="7pp+6p/7pp+6p" rhyme="c+d/c+d">
-          <l n="1" met="7p+6p">
+        <lg type="versicle" n="1b" met="7pp+6p/7pp+6p" rhyme="c+d/c+d" xml:id="CB071_amplon-lg-2">
+          <l n="1" met="7p+6p" xml:id="CB071_amplon-l-3">
             <seg type="hemistich">
               <w>Venustata</w>
               <w>Cybele</w>
@@ -39,7 +39,7 @@
               <w>florente</w>
             </seg>
           </l>
-          <l n="2" met="7p+6p">
+          <l n="2" met="7p+6p" xml:id="CB071_amplon-l-4">
             <seg type="hemistich">
               <w>florem</w>
               <w>nato</w>
@@ -53,8 +53,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="versicle" n="2a" met="7pp+6p/7pp+6p" rhyme="a+b/a+b">
-          <l n="1">
+        <lg type="versicle" n="2a" met="7pp+6p/7pp+6p" rhyme="a+b/a+b" xml:id="CB071_amplon-lg-3">
+          <l n="1" xml:id="CB071_amplon-l-5">
             <seg type="hemistich">
               <w>Aurarum</w>
               <w>suavium</w>
@@ -64,7 +64,7 @@
               <w>iuvante</w>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB071_amplon-l-6">
             <seg type="hemistich">
               <w>sonat</w>
               <w>nemus</w>
@@ -77,8 +77,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="versicle" n="2b" met="7pp+6p/7p+6pp" rhyme="c+d/c+d">
-          <l n="1">
+        <lg type="versicle" n="2b" met="7pp+6p/7p+6pp" rhyme="c+d/c+d" xml:id="CB071_amplon-lg-4">
+          <l n="1" xml:id="CB071_amplon-l-7">
             <seg type="hemistich">
               <w>Philomena</w>
               <w>querule</w>
@@ -89,7 +89,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB071_amplon-l-8">
             <seg type="hemistich">
               <w>dum</w>
               <w>canendo</w>
@@ -102,8 +102,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="versicle" n="3a" met="5p+5p/7pp+6p" rhyme="a+a/b+c">
-          <l n="1">
+        <lg type="versicle" n="3a" met="5p+5p/7pp+6p" rhyme="a+a/b+c" xml:id="CB071_amplon-lg-5">
+          <l n="1" xml:id="CB071_amplon-l-9">
             <seg type="hemistich">
               <w>Iam</w>
               <w>Dionea</w>
@@ -113,7 +113,7 @@
               <w>chorea</w>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB071_amplon-l-10">
             <seg type="hemistich">
               <w>sedula</w>
             <w>resonat</w>
@@ -125,8 +125,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="versicle" n="3b" met="5p+5p/7pp+6p" rhyme="d+d/b+c">
-          <l n="1">
+        <lg type="versicle" n="3b" met="5p+5p/7pp+6p" rhyme="d+d/b+c" xml:id="CB071_amplon-lg-6">
+          <l n="1" xml:id="CB071_amplon-l-11">
             <seg type="hemistich">
               <w>Iamque</w>
               <w>Dione</w>
@@ -137,7 +137,7 @@
               <w>agone</w>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB071_amplon-l-12">
             <seg type="hemistich">
               <w>relevat</w>
             <pc resp="#editor">,</pc>
@@ -150,8 +150,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="versicle" n="4a" met="6p+6p/6p+6p" rhyme="a/a">
-          <l n="1">
+        <lg type="versicle" n="4a" met="6p+6p/6p+6p" rhyme="a/a" xml:id="CB071_amplon-lg-7">
+          <l n="1" xml:id="CB071_amplon-l-13">
             <seg type="hemistich">
               <w>Me</w>
               <w>quoque</w>
@@ -162,7 +162,7 @@
               <w>sopori</w>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB071_amplon-l-14">
             <seg type="hemistich">
               <w>invigilareque</w>
             </seg>
@@ -173,8 +173,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="versicle" n="4b" met="6p+6p/6p+6p" rhyme="b/b">
-          <l n="1">
+        <lg type="versicle" n="4b" met="6p+6p/6p+6p" rhyme="b/b" xml:id="CB071_amplon-lg-8">
+          <l n="1" xml:id="CB071_amplon-l-15">
             <seg type="hemistich">
               <w>Tela</w>
               <w>Cupidinis</w>
@@ -185,7 +185,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB071_amplon-l-16">
             <seg type="hemistich">
               <w>igne</w>
               <w>cremantia</w>
@@ -197,186 +197,186 @@
             </seg>
           </l>
         </lg>
-        <lg type="versicle" n="5a" met="5p/4pp/5p/4pp/5p" rhyme="a/b/a/b/c">
-          <l n="1">
+        <lg type="versicle" n="5a" met="5p/4pp/5p/4pp/5p" rhyme="a/b/a/b/c" xml:id="CB071_amplon-lg-9">
+          <l n="1" xml:id="CB071_amplon-l-17">
             <w>Quod</w>
             <w>mihi</w>
             <w>datur</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB071_amplon-l-18">
             <w>expaveo</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB071_amplon-l-19">
             <w>quodque</w>
             <w>negatur</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB071_amplon-l-20">
             <w>hoc</w>
             <w>aveo</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB071_amplon-l-21">
             <w>mente</w>
             <w>severa</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="5b" met="5p/4pp/5p/4pp/5p" rhyme="d/e/d/e/c">
-          <l n="1">
+        <lg type="versicle" n="5b" met="5p/4pp/5p/4pp/5p" rhyme="d/e/d/e/c" xml:id="CB071_amplon-lg-10">
+          <l n="1" xml:id="CB071_amplon-l-22">
             <w>Que</w>
             <w>michi</w>
             <w>cedit</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB071_amplon-l-23">
             <w>hanc</w>
             <w>fugio</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB071_amplon-l-24">
             <w>que</w>
             <w>non</w>
             <w>obedit</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB071_amplon-l-25">
             <w>hanc</w>
             <w>cupio</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB071_amplon-l-26">
             <w>sumque</w>
             <w>re</w>
             <w>vera</w>
           </l>
         </lg>
-        <lg type="versicle" n="6" met="7pp/7pp/7pp/7pp/7pp/7pp" rhyme="a/a/b/b/b/b">
-          <l n="1">
+        <lg type="versicle" n="6" met="7pp/7pp/7pp/7pp/7pp/7pp" rhyme="a/a/b/b/b/b" xml:id="CB071_amplon-lg-11">
+          <l n="1" xml:id="CB071_amplon-l-27">
             <w>Felix</w>
             <pc resp="#editor">,</pc>
             <w>seu</w>
             <w>peream</w>
           </l>
-          <l n="2" met="7p">
+          <l n="2" met="7p" xml:id="CB071_amplon-l-28">
             <w>seu</w>
             <w>relever</w>
             <w>per</w>
             <w>eam</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB071_amplon-l-29">
             <w>plus</w>
             <w>renuo</w>
             <w>debitum</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB071_amplon-l-30">
             <w>plus</w>
             <w>libet</w>
             <w>illicitum</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB071_amplon-l-31">
             <w>plus</w>
             <w>feror</w>
             <w>in</w>
             <w>vetitum</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB071_amplon-l-32">
             <w>plus</w>
             <w>libet</w>
             <w>illicitum</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="7a" met="5p/6p/5p/6p/5p/6p" rhyme="a/b/a/b/a/b">
-          <l n="1">
+        <lg type="versicle" n="7a" met="5p/6p/5p/6p/5p/6p" rhyme="a/b/a/b/a/b" xml:id="CB071_amplon-lg-12">
+          <l n="1" xml:id="CB071_amplon-l-33">
             <w>O</w>
             <w>metuenda</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB071_amplon-l-34">
             <w>Dione</w>
             <w>decreta</w>
             <pc resp="#editor">!</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB071_amplon-l-35">
             <w>O</w>
             <w>fugienda</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB071_amplon-l-36">
             <w>venena</w>
             <w>secreta</w>
             <pc resp="#editor">!</pc>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB071_amplon-l-37">
             <w>Fraude</w>
             <w>verenda</w>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB071_amplon-l-38">
             <w>doloque</w>
             <w>repleta</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="7b" met="5p/6p/5p/6p" rhyme="c/d/c/d">
-          <l n="1">
+        <lg type="versicle" n="7b" met="5p/6p/5p/6p" rhyme="c/d/c/d" xml:id="CB071_amplon-lg-13">
+          <l n="1" xml:id="CB071_amplon-l-39">
             <w>Docta</w>
             <w>furoris</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB071_amplon-l-40">
             <w>urentis</w>
             <w>et</w>
             <w>ire</w>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB071_amplon-l-41">
             <w>vite</w>
             <w>que</w>
             <w>cogit</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB071_amplon-l-42">
             <w>amara</w>
             <w>subire</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="8a" met="5p/3p/5p/3p" rhyme="a/b/a/b">
-          <l n="1">
+        <lg type="versicle" n="8a" met="5p/3p/5p/3p" rhyme="a/b/a/b" xml:id="CB071_amplon-lg-14">
+          <l n="1" xml:id="CB071_amplon-l-43">
             <w>Hinc</w>
             <w>mihi</w>
             <w>metus</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB071_amplon-l-44">
             <w>abundat</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB071_amplon-l-45">
             <w>hinc</w>
             <w>ora</w>
             <w>fletus</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB071_amplon-l-46">
             <w>inundat</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="8b" met="5p/3p/5p/3p" rhyme="c/d/c/d">
-          <l n="1">
+        <lg type="versicle" n="8b" met="5p/3p/5p/3p" rhyme="c/d/c/d" xml:id="CB071_amplon-lg-15">
+          <l n="1" xml:id="CB071_amplon-l-47">
             <w>Hinc</w>
             <w>michi</w>
             <w>pallor</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB071_amplon-l-48">
             <w>in</w>
             <w>ore</w>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB071_amplon-l-49">
             <w>est</w>
             <w>quia</w>
             <w>fallor</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB071_amplon-l-50">
             <w>amore</w>
             <pc resp="#editor">.</pc>
           </l>

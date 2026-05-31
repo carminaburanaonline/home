@@ -1,92 +1,92 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="sequence" met="1:2x7pp/6p, 2:4x7pp, 3:2x(3p+3p/5p), 4:4x7pp, 5:6pp/5p/3p+3p/5p, 6:2x(7pp+6p), 7:4x5p, 8-9:5x7pp, 10:2x(7pp+6p), 11-12:4x7pp, 13:4x7pp/6p, 14:4x7pp">
-        <lg type="versicle" n="1a" met="7pp/7pp/6p" rhyme="a/a/b">
-          <l n="1">
+        <lg type="versicle" n="1a" met="7pp/7pp/6p" rhyme="a/a/b" xml:id="CB014x_rouen-lg-1">
+          <l n="1" xml:id="CB014x_rouen-l-1">
             <w>Planctus</w>
             <w>ante</w>
             <w>nescia</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-2">
             <w>planctu</w>
             <w>lassor</w>
             <w>anxia</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-3">
             <w>crucior</w>
             <w>dolore</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="1b" met="7pp/7pp/6p" rhyme="c/c/b">
-          <l n="1">
+        <lg type="versicle" n="1b" met="7pp/7pp/6p" rhyme="c/c/b" xml:id="CB014x_rouen-lg-2">
+          <l n="1" xml:id="CB014x_rouen-l-4">
             <w>Orbat</w>
             <w>orbem</w>
             <w>radio</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-5">
             <w>me</w>
             <w>Iudea</w>
             <w>filio</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-6">
             <w>gaudio</w>
             <w>dulcore</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="2a" met="7pp/7pp/7pp/7pp" rhyme="a/b/a/b">
-          <l n="1">
+        <lg type="versicle" n="2a" met="7pp/7pp/7pp/7pp" rhyme="a/b/a/b" xml:id="CB014x_rouen-lg-3">
+          <l n="1" xml:id="CB014x_rouen-l-7">
             <w>Fili</w>
             <pc resp="#editor">,</pc>
             <w>dulcor</w>
             <w>unice</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-8">
             <w>singulare</w>
             <w>gaudium</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-9">
             <w>matrem</w>
             <w>flentem</w>
             <w>respice</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-10">
             <w>conferens</w>
             <w>solatium</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="2b" met="7pp/7pp/7pp/7pp" rhyme="c/d/c/d">
-          <l n="1">
+        <lg type="versicle" n="2b" met="7pp/7pp/7pp/7pp" rhyme="c/d/c/d" xml:id="CB014x_rouen-lg-4">
+          <l n="1" xml:id="CB014x_rouen-l-11">
             <w>Pectus</w>
             <pc resp="#editor">,</pc>
             <w>mentem</w>
             <pc resp="#editor">,</pc>
             <w>lumina</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-12">
             <w>torquent</w>
             <w>tua</w>
             <w>vulnera</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-13">
             <w>Que</w>
             <w>mater</w>
             <pc resp="#editor">,</pc>
             <w>que</w>
             <w>femina</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-14">
             <w>tam</w>
             <w>felix</w>
             <pc resp="#editor">,</pc>
@@ -95,8 +95,8 @@
             <pc resp="#editor">?</pc>
           </l>
         </lg>
-        <lg type="versicle" n="3a" met="3p+3p/5p/3p+3p/5p" rhyme="a+a/b/c+c/b">
-          <l n="1">
+        <lg type="versicle" n="3a" met="3p+3p/5p/3p+3p/5p" rhyme="a+a/b/c+c/b" xml:id="CB014x_rouen-lg-5">
+          <l n="1" xml:id="CB014x_rouen-l-15">
             <seg type="hemistich">
               <w>Flos</w>
               <w>florum</w>
@@ -108,12 +108,12 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-16">
             <w>venie</w>
             <w>vena</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-17">
             <seg type="hemistich">
               <w>quam</w>
               <w>gravis</w>
@@ -123,15 +123,15 @@
               <w>clavis</w>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-18">
             <w>est</w>
             <w>tibi</w>
             <w>pena</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="3b" met="3p+3p/5p/3p+3p/5p" rhyme="d+d/e/f+f/e">
-          <l n="1">
+        <lg type="versicle" n="3b" met="3p+3p/5p/3p+3p/5p" rhyme="d+d/e/f+f/e" xml:id="CB014x_rouen-lg-6">
+          <l n="1" xml:id="CB014x_rouen-l-19">
             <seg type="hemistich">
               <w>Pro</w>
               <w>dolor</w>
@@ -142,12 +142,12 @@
               <w>color</w>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-20">
             <w>effugit</w>
             <w>oris</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-21">
             <seg type="hemistich">
               <w>hinc</w>
               <w>ruit</w>
@@ -158,79 +158,79 @@
               <w>fluit</w>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-22">
             <w>unda</w>
             <w>cruoris</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="4a" met="7pp/7pp/7pp/7pp" rhyme="a/b/a/b">
-          <l n="1">
+        <lg type="versicle" n="4a" met="7pp/7pp/7pp/7pp" rhyme="a/b/a/b" xml:id="CB014x_rouen-lg-7">
+          <l n="1" xml:id="CB014x_rouen-l-23">
             <w>O</w>
             <w>quam</w>
             <w>sero</w>
             <w>deditus</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-24">
             <w>quam</w>
             <w>cito</w>
             <w>me</w>
             <w>deseris</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-25">
             <w>o</w>
             <w>quam</w>
             <w>digne</w>
             <w>genitus</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-26">
             <w>quam</w>
             <w>abiecte</w>
             <w>moreris</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="4b" met="7pp/7pp/7pp/7pp" rhyme="c/d/c/d">
-          <l n="1">
+        <lg type="versicle" n="4b" met="7pp/7pp/7pp/7pp" rhyme="c/d/c/d" xml:id="CB014x_rouen-lg-8">
+          <l n="1" xml:id="CB014x_rouen-l-27">
             <w>O</w>
             <w>quis</w>
             <w>amor</w>
             <w>corporis</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-28">
             <w>fecit</w>
             <w>tibi</w>
             <w>spolia</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-29">
             <w>o</w>
             <w>quam</w>
             <w>dulcis</w>
             <w>pignoris</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-30">
             <w>quam</w>
             <w>amara</w>
             <w>premia</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="5a" met="6pp/5p/3p+3p/5p" rhyme="a/b/c+c/b">
-          <l n="1">
+        <lg type="versicle" n="5a" met="6pp/5p/3p+3p/5p" rhyme="a/b/c+c/b" xml:id="CB014x_rouen-lg-9">
+          <l n="1" xml:id="CB014x_rouen-l-31">
             <w>O</w>
             <w>pia</w>
             <w>gratia</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-32">
             <w>sic</w>
             <w>morientis</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-33">
             <seg type="hemistich">
               <w>o</w>
               <w>zelus</w>
@@ -241,23 +241,23 @@
               <w>scelus</w>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-34">
             <w>invide</w>
             <w>gentis</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="5b" met="6pp/5p/3p+3p/5p" rhyme="a/b/d+d/b">
-          <l n="1">
+        <lg type="versicle" n="5b" met="6pp/5p/3p+3p/5p" rhyme="a/b/d+d/b" xml:id="CB014x_rouen-lg-10">
+          <l n="1" xml:id="CB014x_rouen-l-35">
             <w>O</w>
             <w>fera</w>
             <w>dextera</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-36">
             <w>crucifigentis</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-37">
             <seg type="hemistich">
               <w>o</w>
               <w>lenis</w>
@@ -267,14 +267,14 @@
               <w>penis</w>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-38">
             <w>mens</w>
             <w>patientis</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="6a" met="7pp+6p/7pp+6p" rhyme="a+b/a+b">
-          <l n="1">
+        <lg type="versicle" n="6a" met="7pp+6p/7pp+6p" rhyme="a+b/a+b" xml:id="CB014x_rouen-lg-11">
+          <l n="1" xml:id="CB014x_rouen-l-39">
             <seg type="hemistich">
               <w>O</w>
             <w>verum</w>
@@ -285,7 +285,7 @@
             <w>Symeonis</w>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-40">
             <seg type="hemistich">
               <w>quem</w>
             <w>promisit</w>
@@ -299,8 +299,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="versicle" n="6b" met="7pp+6p/7pp+6p" rhyme="c+b/c+b">
-          <l n="1">
+        <lg type="versicle" n="6b" met="7pp+6p/7pp+6p" rhyme="c+b/c+b" xml:id="CB014x_rouen-lg-12">
+          <l n="1" xml:id="CB014x_rouen-l-41">
             <seg type="hemistich">
               <w>Gemitus</w>
             <pc resp="#editor">,</pc>
@@ -312,7 +312,7 @@
             <w>foris</w>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-42">
             <seg type="hemistich">
               <w>vulneris</w>
             <w>indicia</w>
@@ -324,70 +324,70 @@
             </seg>
           </l>
         </lg>
-        <lg type="versicle" n="7a" met="5p/5p/5p/5p" rhyme="a/a/a/b">
-          <l n="1">
+        <lg type="versicle" n="7a" met="5p/5p/5p/5p" rhyme="a/a/a/b" xml:id="CB014x_rouen-lg-13">
+          <l n="1" xml:id="CB014x_rouen-l-43">
             <w>Parcito</w>
             <w>proli</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-44">
             <w>mors</w>
             <pc resp="#editor">,</pc>
             <w>michi</w>
             <w>soli</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-45">
             <w>tunc</w>
             <w>mihi</w>
             <w>soli</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-46">
             <w>sola</w>
             <w>mederis</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="7b" met="5p/5p/5p/5p" rhyme="c/c/c/b">
-          <l n="1">
+        <lg type="versicle" n="7b" met="5p/5p/5p/5p" rhyme="c/c/c/b" xml:id="CB014x_rouen-lg-14">
+          <l n="1" xml:id="CB014x_rouen-l-47">
             <w>Morte</w>
             <pc resp="#editor">,</pc>
             <w>beate</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-48">
             <w>separer</w>
             <w>a</w>
             <w>te</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-49">
             <w>dummodo</w>
             <pc resp="#editor">,</pc>
             <w>nate</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-50">
             <w>non</w>
             <w>crucieris</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="8a" met="7pp/7pp/7pp/7pp/7pp" rhyme="a/a/a/a/b">
-          <l n="1">
+        <lg type="versicle" n="8a" met="7pp/7pp/7pp/7pp/7pp" rhyme="a/a/a/a/b" xml:id="CB014x_rouen-lg-15">
+          <l n="1" xml:id="CB014x_rouen-l-51">
             <w>Quod</w>
             <w>crimen</w>
             <pc resp="#editor">,</pc>
             <w>que</w>
             <w>scelera</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-52">
             <w>gens</w>
             <w>commisit</w>
             <w>effera</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-53">
             <w>vincla</w>
             <pc resp="#editor">,</pc>
             <w>virgas</w>
@@ -395,22 +395,22 @@
             <w>vulnera</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-54">
             <w>sputa</w>
             <pc resp="#editor">,</pc>
             <w>spinas</w>
             <pc resp="#editor">,</pc>
             <w>cetera</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB014x_rouen-l-55">
             <w>sine</w>
             <w>culpa</w>
             <w>patitur</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="8b" met="7pp/7pp/7pp/7pp/7pp" rhyme="c/c/c/c/b">
-          <l n="1">
+        <lg type="versicle" n="8b" met="7pp/7pp/7pp/7pp/7pp" rhyme="c/c/c/c/b" xml:id="CB014x_rouen-lg-16">
+          <l n="1" xml:id="CB014x_rouen-l-56">
             <w>Nato</w>
             <pc resp="#editor">,</pc>
             <w>queso</w>
@@ -418,90 +418,90 @@
             <w>parcite</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-57">
             <w>matrem</w>
             <w>crucifigite</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-58">
             <w>aut</w>
             <w>in</w>
             <w>crucis</w>
             <w>stipite</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-59">
             <w>nos</w>
             <w>simul</w>
             <w>affigite</w>
             <pc resp="#editor">:</pc>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB014x_rouen-l-60">
             <w>male</w>
             <w>solus</w>
             <w>moritur</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="9a" met="7pp/7pp/7pp/7pp/7pp" rhyme="a/a/b/b/c">
-          <l n="1">
+        <lg type="versicle" n="9a" met="7pp/7pp/7pp/7pp/7pp" rhyme="a/a/b/b/c" xml:id="CB014x_rouen-lg-17">
+          <l n="1" xml:id="CB014x_rouen-l-61">
             <w>Reddite</w>
             <w>mestissime</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-62">
             <w>corpus</w>
             <w>vel</w>
             <w>exanime</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-63">
             <w>ut</w>
             <w>sic</w>
             <w>minoratus</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-64">
             <w>crescat</w>
             <w>cruciatus</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB014x_rouen-l-65">
             <w>osculis</w>
             <pc resp="#editor">,</pc>
             <w>amplexibus</w>
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="versicle" n="9b" met="7pp/7pp/7pp/7pp/7pp" rhyme="d/d/e/e/c">
-          <l n="1">
+        <lg type="versicle" n="9b" met="7pp/7pp/7pp/7pp/7pp" rhyme="d/d/e/e/c" xml:id="CB014x_rouen-lg-18">
+          <l n="1" xml:id="CB014x_rouen-l-66">
             <w>Utinam</w>
             <w>sic</w>
             <w>doleam</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-67">
             <w>ut</w>
             <w>dolore</w>
             <w>peream</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-68">
             <w>nam</w>
             <w>plus</w>
             <w>est</w>
             <w>dolori</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-69">
             <w>sine</w>
             <w>morte</w>
             <w>mori</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB014x_rouen-l-70">
             <w>quam</w>
             <w>perire</w>
             <w>citius</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="10a" met="7pp/6p/7pp/6p" rhyme="a/b/a/b">
-          <l n="1">
+        <lg type="versicle" n="10a" met="7pp/6p/7pp/6p" rhyme="a/b/a/b" xml:id="CB014x_rouen-lg-19">
+          <l n="1" xml:id="CB014x_rouen-l-71">
             <w>Quid</w>
             <w>stupes</w>
             <pc resp="#editor">,</pc>
@@ -509,95 +509,95 @@
             <w>misera</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-72">
             <w>terram</w>
             <w>se</w>
             <w>movere</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-73">
             <w>obscurari</w>
             <w>sidera</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-74">
             <w>languidos</w>
             <w>lugere</w>
             <pc resp="#editor">?</pc>
           </l>
         </lg>
-        <lg type="versicle" n="10b" met="7pp/6p/7pp/6p" rhyme="c/d/c/d">
-          <l n="1">
+        <lg type="versicle" n="10b" met="7pp/6p/7pp/6p" rhyme="c/d/c/d" xml:id="CB014x_rouen-lg-20">
+          <l n="1" xml:id="CB014x_rouen-l-75">
             <w>Solem</w>
             <w>privas</w>
             <w>lumine</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-76">
             <w>quomodo</w>
             <w>luceret</w>
             <pc resp="#editor">?</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-77">
             <w>egrum</w>
             <w>medicamine</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-78">
             <w>unde</w>
             <w>convaleret</w>
             <pc resp="#editor">?</pc>
           </l>
         </lg>
-        <lg type="versicle" n="11a" met="7pp/7pp/7pp/7pp" rhyme="a/b/a/b">
-          <l n="1">
+        <lg type="versicle" n="11a" met="7pp/7pp/7pp/7pp" rhyme="a/b/a/b" xml:id="CB014x_rouen-lg-21">
+          <l n="1" xml:id="CB014x_rouen-l-79">
             <w>Homicidam</w>
             <w>liberas</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-80">
             <w>Iesum</w>
             <w>das</w>
             <w>supplicio</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-81">
             <w>egre</w>
             <w>pacem</w>
             <w>toleras</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-82">
             <w>veniet</w>
             <w>seditio</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="11b" met="7pp/7pp/7pp/7pp" rhyme="c/d/c/d">
-          <l n="1">
+        <lg type="versicle" n="11b" met="7pp/7pp/7pp/7pp" rhyme="c/d/c/d" xml:id="CB014x_rouen-lg-22">
+          <l n="1" xml:id="CB014x_rouen-l-83">
             <w>Famis</w>
             <pc resp="#editor">,</pc>
             <w>cedis</w>
             <pc resp="#editor">,</pc>
             <w>pestium</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-84">
             <w>scies</w>
             <w>docta</w>
             <w>pondere</w>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-85">
             <w>Iesum</w>
             <w>tibi</w>
             <w>mortuum</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-86">
             <w>Barrabamque</w>
             <w>vivere</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="12a" met="7pp/7pp/7pp/7pp" rhyme="a/b/a/b">
-          <l n="1">
+        <lg type="versicle" n="12a" met="7pp/7pp/7pp/7pp" rhyme="a/b/a/b" xml:id="CB014x_rouen-lg-23">
+          <l n="1" xml:id="CB014x_rouen-l-87">
             <w>Gens</w>
             <w>ceca</w>
             <pc resp="#editor">,</pc>
@@ -605,17 +605,17 @@
             <w>flebilis</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-88">
             <w>age</w>
             <w>penitentiam</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-89">
             <w>dum</w>
             <w>tibi</w>
             <w>flexibilis</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-90">
             <w>Iesus</w>
             <w>stat</w>
             <w>ad</w>
@@ -623,106 +623,106 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="12b" met="7pp/7pp/7pp/7pp" rhyme="c/d/c/d">
-          <l n="1">
+        <lg type="versicle" n="12b" met="7pp/7pp/7pp/7pp" rhyme="c/d/c/d" xml:id="CB014x_rouen-lg-24">
+          <l n="1" xml:id="CB014x_rouen-l-91">
             <w>Quod</w>
             <w>fecisti</w>
             <pc resp="#editor">,</pc>
             <w>fontium</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-92">
             <w>prosint</w>
             <w>tibi</w>
             <w>flumina</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-93">
             <w>sitim</w>
             <w>sedant</w>
             <w>omnium</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-94">
             <w>cuncta</w>
             <w>lavant</w>
             <w>crimina</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="13a" met="7pp/7pp/7pp/7pp/6p" rhyme="a/a/a/a/b">
-          <l n="1">
+        <lg type="versicle" n="13a" met="7pp/7pp/7pp/7pp/6p" rhyme="a/a/a/a/b" xml:id="CB014x_rouen-lg-25">
+          <l n="1" xml:id="CB014x_rouen-l-95">
             <w>Flete</w>
             <pc resp="#editor">,</pc>
             <w>Syon</w>
             <w>filie</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-96">
             <w>tante</w>
             <w>date</w>
             <w>gracie</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-97">
             <w>iuvenis</w>
             <w>angustie</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-98">
             <w>sunt</w>
             <w>sibi</w>
             <w>delicie</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB014x_rouen-l-99">
             <w>pro</w>
             <w>vestris</w>
             <w>offensis</w>
           </l>
         </lg>
-        <lg type="versicle" n="13b" met="7pp/7pp/7pp/7pp/6p" rhyme="c/c/c/c/b">
-          <l n="1">
+        <lg type="versicle" n="13b" met="7pp/7pp/7pp/7pp/6p" rhyme="c/c/c/c/b" xml:id="CB014x_rouen-lg-26">
+          <l n="1" xml:id="CB014x_rouen-l-100">
             <w>In</w>
             <w>amplexus</w>
             <w>ruite</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-101">
             <w>dum</w>
             <w>pendet</w>
             <w>in</w>
             <w>stipite</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-102">
             <w>mutuis</w>
             <w>amplexibus</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-103">
             <w>se</w>
             <w>parat</w>
             <w>amantibus</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB014x_rouen-l-104">
             <w>brachiis</w>
             <w>protensis</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="versicle" n="14" met="7pp/7pp/7pp/7pp" rhyme="a/a/b/b">
-          <l n="1">
+        <lg type="versicle" n="14" met="7pp/7pp/7pp/7pp" rhyme="a/a/b/b" xml:id="CB014x_rouen-lg-27">
+          <l n="1" xml:id="CB014x_rouen-l-105">
             <w>In</w>
             <w>hoc</w>
             <w>solo</w>
             <w>gaudeo</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB014x_rouen-l-106">
             <w>quod</w>
             <w>pro</w>
             <w>vobis</w>
             <w>doleo</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB014x_rouen-l-107">
             <w>vicem</w>
             <pc resp="#editor">,</pc>
             <w>queso</w>
@@ -730,7 +730,7 @@
             <w>pendite</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB014x_rouen-l-108">
             <w>matris</w>
             <w>dapnum</w>
             <w>plangite</w>

@@ -1,10 +1,10 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="[6pp]+6pp/6pp/6pp+6pp">
-        <lg type="strophe" met="[6pp]+6pp/6pp/6pp+6pp" rhyme="a+b/b/a+b">
-          <l n="4">
+        <lg type="strophe" met="[6pp]+6pp/6pp/6pp+6pp" rhyme="a+b/b/a+b" xml:id="CB012_cjec-lg-1">
+          <l n="4" xml:id="CB012_cjec-l-1">
             <seg type="hemistich">
               <w>[...]trarium</w>
             </seg>
@@ -14,13 +14,13 @@
               <w>nescio</w>
             </seg>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB012_cjec-l-2">
             <w>fit</w>
             <w>hic</w>
             <w>provisio</w>
             <pc resp="#editor">:</pc>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB012_cjec-l-3">
             <seg type="hemistich">
               <w>in</w>
               <w>hoc</w>

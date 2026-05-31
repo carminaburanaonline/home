@@ -1,10 +1,10 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="4x(6pp+6pp)/6pp/6pp+6pp">
-        <lg type="strophe" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp/6pp/6pp+6pp" rhyme="a+b/a+b/a+b/a+b/b/a+b">
-          <l n="1">
+        <lg type="strophe" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp/6pp/6pp+6pp" rhyme="a+b/a+b/a+b/a+b/b/a+b" xml:id="CB012_emn-lg-1">
+          <l n="1" xml:id="CB012_emn-l-1">
             <seg type="hemistich">
               <w>Procurans</w>
               <w>hodium</w>
@@ -19,7 +19,7 @@
               <w>proprio</w>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB012_emn-l-2">
             <seg type="hemistich">
               <w>vix</w>
               <w>detrahentium</w>
@@ -30,7 +30,7 @@
               <pc resp="#editor">.</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB012_emn-l-3">
             <seg type="hemistich">
               <w>Nexus</w>
               <w>est</w>
@@ -42,7 +42,7 @@
               <pc resp="#editor">:</pc>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB012_emn-l-4">
             <seg type="hemistich">
               <w>sic</w>
               <w>per</w>
@@ -54,7 +54,7 @@
               <w>nescio</w>
             </seg>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB012_emn-l-5">
             <w>fit</w>
             <app type="text">
               <lem wit="CB F M HSB V T">
@@ -65,7 +65,7 @@
             <w>provisio</w>
             <pc resp="#editor">:</pc>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB012_emn-l-6">
             <seg type="hemistich">
               <w>in</w>
               <w>hoc</w>

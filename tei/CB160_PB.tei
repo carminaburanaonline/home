@@ -1,25 +1,25 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem">
-        <lg type="strophe" n="I">
-          <l n="1">En ce d&#233;but de printemps,</l>
-          <l n="2" rend="indent(1)">la saison si douce,</l>
-          <l n="3">sous un soleil triomphant</l>
-          <l n="4" rend="indent(1)">qui le froid repousse,</l>
+        <lg type="strophe" n="I" xml:id="CB160_PB-lg-1">
+          <l n="1" xml:id="CB160_PB-l-1">En ce d&#233;but de printemps,</l>
+          <l n="2" rend="indent(1)" xml:id="CB160_PB-l-2">la saison si douce,</l>
+          <l n="3" xml:id="CB160_PB-l-3">sous un soleil triomphant</l>
+          <l n="4" rend="indent(1)" xml:id="CB160_PB-l-4">qui le froid repousse,</l>
         </lg>
-        <lg type="strophe" n="II">
-          <l n="1">l&#8217;amour d&#8217;une unique fille</l>
-          <l n="2" rend="indent(1)">m&#8217;a bless&#233;</l>
-          <l n="3">d&#8217;une douleur infinie</l>
-          <l n="4" rend="indent(1)">dont je suis bris&#233;.</l>
+        <lg type="strophe" n="II" xml:id="CB160_PB-lg-2">
+          <l n="1" xml:id="CB160_PB-l-5">l&#8217;amour d&#8217;une unique fille</l>
+          <l n="2" rend="indent(1)" xml:id="CB160_PB-l-6">m&#8217;a bless&#233;</l>
+          <l n="3" xml:id="CB160_PB-l-7">d&#8217;une douleur infinie</l>
+          <l n="4" rend="indent(1)" xml:id="CB160_PB-l-8">dont je suis bris&#233;.</l>
         </lg>
-        <lg type="strophe" n="III">
-          <l n="1">Ah, qu&#8217;elle ait piti&#233; de moi</l>
-          <l n="2" rend="indent(1)">et me soit complice,</l>
-          <l n="3">et se penche jusqu&#8217;&#224; moi</l>
-          <l n="4" rend="indent(1)">et qu&#8217;on en finisse.</l>
+        <lg type="strophe" n="III" xml:id="CB160_PB-lg-3">
+          <l n="1" xml:id="CB160_PB-l-9">Ah, qu&#8217;elle ait piti&#233; de moi</l>
+          <l n="2" rend="indent(1)" xml:id="CB160_PB-l-10">et me soit complice,</l>
+          <l n="3" xml:id="CB160_PB-l-11">et se penche jusqu&#8217;&#224; moi</l>
+          <l n="4" rend="indent(1)" xml:id="CB160_PB-l-12">et qu&#8217;on en finisse.</l>
         </lg>
       </div>
     </body>

@@ -1,53 +1,53 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem">
-        <lg type="strophe" n="I">
-          <l n="1">Voil&#224; que la probit&#233; fl&#233;trit,</l>
-          <l n="2">que la vertu s&#8217;engloutit,</l>
-          <l n="3">d&#233;sormais largesse est avare,</l>
-          <l n="4">avarice s&#8217;&#233;tend largement,</l>
-          <l n="5">la fausset&#233; dit le vrai</l>
-          <l n="6">et la v&#233;rit&#233; le faux.</l>
+        <lg type="strophe" n="I" xml:id="CB003_cambridge_PB-lg-1">
+          <l n="1" xml:id="CB003_cambridge_PB-l-1">Voil&#224; que la probit&#233; fl&#233;trit,</l>
+          <l n="2" xml:id="CB003_cambridge_PB-l-2">que la vertu s&#8217;engloutit,</l>
+          <l n="3" xml:id="CB003_cambridge_PB-l-3">d&#233;sormais largesse est avare,</l>
+          <l n="4" xml:id="CB003_cambridge_PB-l-4">avarice s&#8217;&#233;tend largement,</l>
+          <l n="5" xml:id="CB003_cambridge_PB-l-5">la fausset&#233; dit le vrai</l>
+          <l n="6" xml:id="CB003_cambridge_PB-l-6">et la v&#233;rit&#233; le faux.</l>
         </lg>
-        <lg type="refrain">
+        <lg type="refrain" xml:id="CB003_cambridge_PB-lg-2">
           <head>Refrain</head>
-          <l n="1">Tous bafouent le droit</l>
-          <l n="2">et retournent &#224; leurs errements</l>
-          <l n="3">fort licitement.</l>
+          <l n="1" xml:id="CB003_cambridge_PB-l-7">Tous bafouent le droit</l>
+          <l n="2" xml:id="CB003_cambridge_PB-l-8">et retournent &#224; leurs errements</l>
+          <l n="3" xml:id="CB003_cambridge_PB-l-9">fort licitement.</l>
         </lg>
-        <lg type="strophe" n="II">
-          <l n="1">L&#8217;avarice domine,</l>
-          <l n="2">les avares aussi !</l>
-          <l n="3">Chacun f&#233;brilement</l>
-          <l n="4">recherche son profit,</l>
-          <l n="5">puisque rien ne surpasse</l>
-          <l n="6">la gloire d&#8217;un bon gain.</l>
+        <lg type="strophe" n="II" xml:id="CB003_cambridge_PB-lg-3">
+          <l n="1" xml:id="CB003_cambridge_PB-l-10">L&#8217;avarice domine,</l>
+          <l n="2" xml:id="CB003_cambridge_PB-l-11">les avares aussi !</l>
+          <l n="3" xml:id="CB003_cambridge_PB-l-12">Chacun f&#233;brilement</l>
+          <l n="4" xml:id="CB003_cambridge_PB-l-13">recherche son profit,</l>
+          <l n="5" xml:id="CB003_cambridge_PB-l-14">puisque rien ne surpasse</l>
+          <l n="6" xml:id="CB003_cambridge_PB-l-15">la gloire d&#8217;un bon gain.</l>
         </lg>
-        <lg type="refrain">
+        <lg type="refrain" xml:id="CB003_cambridge_PB-lg-4">
           <head>Refrain</head>
-          <l n="1">Tous...</l>
+          <l n="1" xml:id="CB003_cambridge_PB-l-16">Tous...</l>
         </lg>
-        <lg type="strophe" n="III">
-          <l n="1">Bien dur &#224; conjuguer,</l>
-          <l n="2">ce seul verbe &#8216;donner&#8217; !</l>
-          <l n="3">Ils savent l&#8217;ignorer</l>
-          <l n="4">bien mieux que tous les autres,</l>
-          <l n="5">les riches, qu&#8217;on peut bien</l>
-          <l n="6">comparer &#224; la mer.</l>
+        <lg type="strophe" n="III" xml:id="CB003_cambridge_PB-lg-5">
+          <l n="1" xml:id="CB003_cambridge_PB-l-17">Bien dur &#224; conjuguer,</l>
+          <l n="2" xml:id="CB003_cambridge_PB-l-18">ce seul verbe &#8216;donner&#8217; !</l>
+          <l n="3" xml:id="CB003_cambridge_PB-l-19">Ils savent l&#8217;ignorer</l>
+          <l n="4" xml:id="CB003_cambridge_PB-l-20">bien mieux que tous les autres,</l>
+          <l n="5" xml:id="CB003_cambridge_PB-l-21">les riches, qu&#8217;on peut bien</l>
+          <l n="6" xml:id="CB003_cambridge_PB-l-22">comparer &#224; la mer.</l>
         </lg>
-        <lg type="refrain">
+        <lg type="refrain" xml:id="CB003_cambridge_PB-lg-6">
           <head>Refrain</head>
-          <l n="1">Tous...</l>
+          <l n="1" xml:id="CB003_cambridge_PB-l-23">Tous...</l>
         </lg>
-        <lg type="strophe" n="IV">
-          <l n="1">Chez tous le d&#233;sir avide</l>
-          <l n="2">est pareillement inn&#233; ;</l>
-          <l n="3">la foi p&#233;rit honteusement,</l>
-          <l n="4">nul n&#8217;est fid&#232;le &#224; c&#339;ur fid&#232;le,</l>
-          <l n="5">ni Jupiter &#224; Junon,</l>
-          <l n="6">ni envers &#201;n&#233;e Didon.</l>
+        <lg type="strophe" n="IV" xml:id="CB003_cambridge_PB-lg-7">
+          <l n="1" xml:id="CB003_cambridge_PB-l-24">Chez tous le d&#233;sir avide</l>
+          <l n="2" xml:id="CB003_cambridge_PB-l-25">est pareillement inn&#233; ;</l>
+          <l n="3" xml:id="CB003_cambridge_PB-l-26">la foi p&#233;rit honteusement,</l>
+          <l n="4" xml:id="CB003_cambridge_PB-l-27">nul n&#8217;est fid&#232;le &#224; c&#339;ur fid&#232;le,</l>
+          <l n="5" xml:id="CB003_cambridge_PB-l-28">ni Jupiter &#224; Junon,</l>
+          <l n="6" xml:id="CB003_cambridge_PB-l-29">ni envers &#201;n&#233;e Didon.</l>
         </lg>
       </div>
     </body>

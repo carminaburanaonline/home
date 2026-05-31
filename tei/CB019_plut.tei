@@ -1,10 +1,10 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I-V:3x(7pp+6p)/5pp/7pp+6p" rhyme="a/a/a/b/b+a">
-        <lg type="strophe" n="I" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p" rhyme="a/a/a/b/b+a">
-          <l n="1">
+        <lg type="strophe" n="I" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p" rhyme="a/a/a/b/b+a" xml:id="CB019_plut-lg-1">
+          <l n="1" xml:id="CB019_plut-l-1">
             <seg type="hemistich">
               <w>Fas</w>
               <w>et</w>
@@ -19,7 +19,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB019_plut-l-2">
             <seg type="hemistich">
               <w>prodigus</w>
               <w>non</w>
@@ -32,7 +32,7 @@
               <pc resp="#editor">;</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB019_plut-l-3">
             <seg type="hemistich">
               <w>virtus</w>
               <w>temperantia</w>
@@ -42,11 +42,11 @@
               <w>singulari</w>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB019_plut-l-4">
             <w>debet</w>
             <w>medium</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB019_plut-l-5">
             <seg type="hemistich">
               <w>ad</w>
               <w>utrumque</w>
@@ -60,8 +60,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p" rhyme="a/a/a/b/b+a">
-          <l n="1">
+        <lg type="strophe" n="II" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p" rhyme="a/a/a/b/b+a" xml:id="CB019_plut-lg-2">
+          <l n="1" xml:id="CB019_plut-l-6">
             <seg type="hemistich">
               <w>Si</w>
               <w>legisse</w>
@@ -73,7 +73,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB019_plut-l-7">
             <seg type="hemistich">
               <w>in</w>
               <w>qua</w>
@@ -90,7 +90,7 @@
               <pc resp="editor">&#8217;,</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB019_plut-l-8">
             <seg type="hemistich">
               <w>cum</w>
               <w>ad</w>
@@ -104,11 +104,11 @@
               <pc resp="editor">,</pc>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB019_plut-l-9">
             <w>supra</w>
             <w>cetera</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB019_plut-l-10">
             <seg type="hemistich">
               <w>primum</w>
               <w>hoc</w>
@@ -124,8 +124,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p" rhyme="a/a/a/b/b+a">
-          <l n="1">
+        <lg type="strophe" n="III" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p" rhyme="a/a/a/b/b+a" xml:id="CB019_plut-lg-3">
+          <l n="1" xml:id="CB019_plut-l-11">
             <seg type="hemistich">
               <w>Vultu</w>
               <w>licet</w>
@@ -138,7 +138,7 @@
               <w>blando</w>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB019_plut-l-12">
             <seg type="hemistich">
               <w>sis</w>
               <w>equalis</w>
@@ -154,7 +154,7 @@
               <pc resp="#editor">:</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB019_plut-l-13">
             <seg type="hemistich">
               <w>si</w>
               <w>vis</w>
@@ -168,11 +168,11 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB019_plut-l-14">
             <w>primum</w>
             <w>videas</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB019_plut-l-15">
             <seg type="hemistich">
               <w>granum</w>
               <w>inter</w>
@@ -189,8 +189,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p" rhyme="a/a/a/b/b+a">
-          <l n="1">
+        <lg type="strophe" n="IV" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p" rhyme="a/a/a/b/b+a" xml:id="CB019_plut-lg-4">
+          <l n="1" xml:id="CB019_plut-l-16">
             <seg type="hemistich">
               <w>Dare</w>
               <w>non</w>
@@ -206,7 +206,7 @@
               <pc resp="editor">,</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB019_plut-l-17">
             <seg type="hemistich">
               <w>bonum</w>
               <w>est</w>
@@ -221,7 +221,7 @@
               <pc resp="#editor">.</pc>
             </seg>
           </l>
-          <l n="3" rhyme="b+a">
+          <l n="3" rhyme="b+a" xml:id="CB019_plut-l-18">
             <seg type="hemistich">
               <w>digne</w>
               <w>dare</w>
@@ -235,7 +235,7 @@
               <pc>&#183;</pc>
             </seg>
           </l>
-          <l n="4" met="7pp" rhyme="c">
+          <l n="4" met="7pp" rhyme="c" xml:id="CB019_plut-l-19">
             <app type="text">
               <lem wit="CB Cc Ly HSB V Tc T">
                 <w>famam</w>
@@ -246,7 +246,7 @@
             <pc>&#61936;</pc>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB019_plut-l-20">
             <seg type="hemistich">
               <w>si</w>
               <w>me</w>
@@ -263,8 +263,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="V" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p" rhyme="a/a/a/b/b+a">
-          <l n="1">
+        <lg type="strophe" n="V" met="7pp+6p/7pp+6p/7pp+6p/5pp/7pp+6p" rhyme="a/a/a/b/b+a" xml:id="CB019_plut-lg-5">
+          <l n="1" xml:id="CB019_plut-l-21">
             <seg type="hemistich">
               <w>Si</w>
               <w>prudenter</w>
@@ -277,7 +277,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB019_plut-l-22">
             <seg type="hemistich">
               <w>famam</w>
               <w>emis</w>
@@ -294,7 +294,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB019_plut-l-23">
             <seg type="hemistich">
               <w>largitatis</w>
               <w>oleum</w>
@@ -310,7 +310,7 @@
               <pc resp="#editor">.</pc>
             </seg>
           </l>
-          <l n="4" met="4pp">
+          <l n="4" met="4pp" xml:id="CB019_plut-l-24">
             <w>In</w>
             <app type="text">
               <lem wit="CB Ly HSB V Tc T"><w>te</w></lem>
@@ -319,7 +319,7 @@
             <w>glorior</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB019_plut-l-25">
             <seg type="hemistich">
               <w>quia</w>
               <w>Codro</w>

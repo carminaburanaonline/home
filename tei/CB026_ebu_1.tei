@@ -1,10 +1,10 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="leich" met="5x8pp" rhyme="a/a/b/b/b">
-        <lg type="strophe" met="8pp/8pp/8pp/8pp/8pp" rhyme="a/a/b/b/b">
-          <l n="1">
+        <lg type="strophe" met="8pp/8pp/8pp/8pp/8pp" rhyme="a/a/b/b/b" xml:id="CB026_ebu_1-lg-1">
+          <l n="1" xml:id="CB026_ebu_1-l-1">
             <w>Ergo</w>
             <w>vide</w>
             <pc resp="#editor">,</pc>
@@ -12,24 +12,24 @@
             <w>dormias</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB026_ebu_1-l-2">
             <w>set</w>
             <w>vigilans</w>
             <w>aperias</w>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB026_ebu_1-l-3">
             <w>Domino</w>
             <pc resp="#editor">,</pc>
             <w>cum</w>
             <w>pulsaverit</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB026_ebu_1-l-4">
             <w>Beatus</w>
             <w>quem</w>
             <w>invenerit</w>
           </l>
-          <l n="5" met="9pp">
+          <l n="5" met="9pp" xml:id="CB026_ebu_1-l-5">
             <w>vigilantem</w>
             <w>cum</w>
             <w>invenerit</w>

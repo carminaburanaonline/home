@@ -1,42 +1,42 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="2x8p/2x(8pp/7p)">
-        <lg type="strophe" met="[8p]/[8p]/[8pp]/[7p]/8pp/7p" rhyme="[c]/[c]/d/[e]/d/e">
-          <l n="7">
+        <lg type="strophe" met="[8p]/[8p]/[8pp]/[7p]/8pp/7p" rhyme="[c]/[c]/d/[e]/d/e" xml:id="CB131_frag-lg-1">
+          <l n="7" xml:id="CB131_frag-l-1">
             <pc resp="#editor" pre="true">...</pc>
             <w>[cu]m</w>
             <w>Nerone</w>
             <pc resp="#editor">?</pc>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB131_frag-l-2">
             <w>aut</w>
             <w>in</w>
             <w>antro</w>
             <w>cum</w>
             <pc resp="#editor">...</pc>
           </l>
-          <l n="9">
+          <l n="9" xml:id="CB131_frag-l-3">
             <w>[Ve]l</w>
             <w>in</w>
             <w>fiscella</w>
             <pc resp="#editor">...</pc>
           </l>
-          <l n="10">
+          <l n="10" xml:id="CB131_frag-l-4">
             <pc resp="#editor" pre="true">...</pc>
             <w>Moyse</w>
             <w>plorante</w>
             <pc resp="#editor">?</pc>
           </l>
-          <l n="11">
+          <l n="11" xml:id="CB131_frag-l-5">
             <w>Vel</w>
             <w>in</w>
             <w>domo</w>
             <w>Romulea</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="12">
+          <l n="12" xml:id="CB131_frag-l-6">
             <w>cum</w>
             <w>bulla</w>
             <w>fulminante</w>

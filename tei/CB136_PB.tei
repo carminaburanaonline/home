@@ -1,58 +1,58 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem">
-        <lg type="strophe" n="I">
-          <l n="1">
+        <lg type="strophe" n="I" xml:id="CB136_PB-lg-1">
+          <l n="1" xml:id="CB136_PB-l-1">
             <seg type="hemistich">Pur et l&#233;ger, le soleil</seg>
             <seg type="hemistich">gouverne toutes choses,</seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB136_PB-l-2">
             <seg type="hemistich">le frais visage d&#8217;avril</seg>
             <seg type="hemistich">se d&#233;voile au monde.</seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB136_PB-l-3">
             <seg type="hemistich">La pens&#233;e des damoiseaux</seg>
             <seg type="hemistich">s&#8217;&#233;lance vers l&#8217;amour,</seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB136_PB-l-4">
             <seg type="hemistich">et le dieu enfant commande</seg>
             <seg type="hemistich">&#224; ses joyeux d&#233;v&#244;ts.</seg>
           </l>
         </lg>
-        <lg type="strophe" n="II">
-          <l n="1">
+        <lg type="strophe" n="II" xml:id="CB136_PB-lg-2">
+          <l n="1" xml:id="CB136_PB-l-5">
             <seg type="hemistich">En ce printemps solennel</seg>
             <seg type="hemistich">o&#249; tout se renouvelle,</seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB136_PB-l-6">
             <seg type="hemistich">l&#8217;autorit&#233; du printemps</seg>
             <seg type="hemistich">nous oblige &#224; la joie :</seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB136_PB-l-7">
             <seg type="hemistich">reprends le chemin connu,</seg>
             <seg type="hemistich">tiens bon qui est &#224; toi :</seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB136_PB-l-8">
             <seg type="hemistich">L&#8217;honn&#234;te fid&#233;lit&#233;,</seg>
             <seg type="hemistich">c&#8217;est de t&#8217;en tenir au tien.</seg>
           </l>
         </lg>
-        <lg type="strophe" n="III">
-          <l n="1">
+        <lg type="strophe" n="III" xml:id="CB136_PB-lg-3">
+          <l n="1" xml:id="CB136_PB-l-9">
             <seg type="hemistich">Aime-moi fid&#232;lement,</seg>
             <seg type="hemistich">vois ma fid&#233;lit&#233;</seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB136_PB-l-10">
             <seg type="hemistich">totalement, de tout c&#339;ur</seg>
             <seg type="hemistich">et de toute mon &#226;me ;</seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB136_PB-l-11">
             <seg type="hemistich">car je suis pr&#233;sentement</seg>
             <seg type="hemistich">absent en lieu lointain.</seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB136_PB-l-12">
             <seg type="hemistich">Qui aime en ces conditions</seg>
             <seg type="hemistich">souffre grave supplice.</seg>
           </l>

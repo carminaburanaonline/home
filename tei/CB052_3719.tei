@@ -1,10 +1,10 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I:5x(7pp+7pp), II:3x(4p+4p/7pp), III:4x(7pp+7pp), IV:3x(4p+4p/7pp), V:4x(7pp+7pp), VI:3x(4p+4p/8p), Ref.:5pp/6pp/3x7pp/3x8pp">
-        <lg type="strophe" n="I" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a/a">
-          <l n="1">
+        <lg type="strophe" n="I" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a/a" xml:id="CB052_3719-lg-1">
+          <l n="1" xml:id="CB052_3719-l-1">
             <seg type="hemistich">
               <w>Nomen</w>
               <w>a</w>
@@ -16,7 +16,7 @@
               <pc resp="#editor">;</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB052_3719-l-2">
             <seg type="hemistich">
               <w>sollemnizent</w>
               <w>igitur</w>
@@ -28,7 +28,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB052_3719-l-3">
             <seg type="hemistich">
               <w>qui</w>
               <w>sibi</w>
@@ -41,7 +41,7 @@
               <pc resp="#editor">;</pc>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB052_3719-l-4">
             <seg type="hemistich">
               <w>illum</w>
               <w>hinc</w>
@@ -53,7 +53,7 @@
               <pc resp="#editor">;</pc>
             </seg>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB052_3719-l-5">
             <seg type="hemistich">
               <w>ipse</w>
               <w>solus</w>
@@ -67,8 +67,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="4p+4p/7pp/4p+4p/7pp/4p+4p/7pp" rhyme="a+a/b/c+c/b/d+d/b">
-          <l n="1">
+        <lg type="strophe" n="II" met="4p+4p/7pp/4p+4p/7pp/4p+4p/7pp" rhyme="a+a/b/c+c/b/d+d/b" xml:id="CB052_3719-lg-2">
+          <l n="1" xml:id="CB052_3719-l-6">
             <seg type="hemistich">
               <w>Exsultemus</w>
             </seg>
@@ -77,12 +77,12 @@
               <w>letemur</w>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB052_3719-l-7">
             <w>canticum</w>
             <w>leticie</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB052_3719-l-8">
             <seg type="hemistich">
               <w>ac</w>
               <w>reddamus</w>
@@ -92,13 +92,13 @@
               <w>debemus</w>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB052_3719-l-9">
             <w>laudes</w>
             <w>regi</w>
             <w>glorie</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB052_3719-l-10">
             <seg type="hemistich">
               <w>qui</w>
               <w>salvavit</w>
@@ -108,61 +108,61 @@
               <w>Davit</w>
             </seg>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB052_3719-l-11">
             <w>a</w>
             <w>paganis</w>
             <w>hodie</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="refrain" met="5pp/6pp/7pp/7pp/7pp/8pp/8pp/8pp" rhyme="A/A/A/A/A/A/A/A">
+        <lg type="refrain" met="5pp/6pp/7pp/7pp/7pp/8pp/8pp/8pp" rhyme="A/A/A/A/A/A/A/A" xml:id="CB052_3719-lg-3">
           <head>[R.]</head>
-          <l n="1">
+          <l n="1" xml:id="CB052_3719-l-12">
             <w>Festum</w>
             <w>agitur</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB052_3719-l-13">
             <w>dies</w>
             <w>recolitur</w>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB052_3719-l-14">
             <w>in</w>
             <w>qua</w>
             <w>Dagon</w>
             <w>frangitur</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB052_3719-l-15">
             <w>et</w>
             <w>Amalec</w>
             <w>vincitur</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB052_3719-l-16">
             <w>natis</w>
             <w>Agar</w>
             <w>pellitur</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB052_3719-l-17">
             <w>Ierusalem</w>
             <w>eripitur</w>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB052_3719-l-18">
             <w>et</w>
             <w>christianis</w>
             <w>redditur</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB052_3719-l-19">
             <w>diem</w>
             <w>colamus</w>
             <w>igitur</w>
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="b+a/b+a/a/a">
-          <l n="1">
+        <lg type="strophe" n="III" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="b+a/b+a/a/a" xml:id="CB052_3719-lg-4">
+          <l n="1" xml:id="CB052_3719-l-20">
             <seg type="hemistich">
               <w>Hec</w>
               <w>urbs</w>
@@ -175,7 +175,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB052_3719-l-21">
             <seg type="hemistich">
               <w>in</w>
               <w>hac</w>
@@ -188,7 +188,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB052_3719-l-22">
             <seg type="hemistich">
               <w>in</w>
               <w>ac</w>
@@ -201,7 +201,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB052_3719-l-23">
             <seg type="hemistich">
               <w>hic</w>
               <w>super</w>
@@ -214,8 +214,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="4p+4p/7pp/4p+4p/7pp/4p+4p/7pp" rhyme="a+a/b/c+c/b/d+d/b">
-          <l n="1">
+        <lg type="strophe" n="IV" met="4p+4p/7pp/4p+4p/7pp/4p+4p/7pp" rhyme="a+a/b/c+c/b/d+d/b" xml:id="CB052_3719-lg-5">
+          <l n="1" xml:id="CB052_3719-l-24">
             <seg type="hemistich">
               <w>Urbs</w>
               <w>in</w>
@@ -228,12 +228,12 @@
               <w>ignis</w>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB052_3719-l-25">
             <w>venit</w>
             <w>an[n]is</w>
             <w>singulis</w>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB052_3719-l-26">
             <seg type="hemistich">
               <w>quo</w>
               <w>monstratur</w>
@@ -243,12 +243,12 @@
               <w>amatur</w>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB052_3719-l-27">
             <w>omnibus</w>
             <w>in</w>
             <w>seculis</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB052_3719-l-28">
             <seg type="hemistich">
               <w>honoranda</w>
             </seg>
@@ -256,23 +256,23 @@
               <w>frequentanda</w>
             </seg>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB052_3719-l-29">
             <w>regibus</w>
             <w>in</w>
             <w>populis</w>
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="refrain" met="5pp" rhyme="A">
+        <lg type="refrain" met="5pp" rhyme="A" xml:id="CB052_3719-lg-6">
           <head>[R.]</head>
-          <l n="1">
+          <l n="1" xml:id="CB052_3719-l-30">
             <w>Festum</w>
             <w>agitur</w>
             <pc resp="#editor">...</pc>
           </l>
         </lg>
-        <lg type="strophe" n="V" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a">
-          <l n="1">
+        <lg type="strophe" n="V" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB052_3719-lg-7">
+          <l n="1" xml:id="CB052_3719-l-31">
             <seg type="hemistich">
               <w>Urbs</w>
               <w>sacrata</w>
@@ -286,7 +286,7 @@
               <pc resp="#editor">;</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB052_3719-l-32">
             <seg type="hemistich">
               <w>regis</w>
               <w>tabernaculum</w>
@@ -299,7 +299,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB052_3719-l-33">
             <seg type="hemistich">
               <w>hospitatem</w>
               <w>pauperum</w>
@@ -311,7 +311,7 @@
               <pc resp="#editor">!</pc>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB052_3719-l-34">
             <seg type="hemistich">
               <w>non</w>
               <w>timebis</w>
@@ -327,8 +327,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="VI" met="4p+4p/8p/4p+4p/8p/4p+4p/8p" rhyme="a+b/c/a+b/c/a+x/c">
-          <l n="1">
+        <lg type="strophe" n="VI" met="4p+4p/8p/4p+4p/8p/4p+4p/8p" rhyme="a+b/c/a+b/c/a+x/c" xml:id="CB052_3719-lg-8">
+          <l n="1" xml:id="CB052_3719-l-35">
             <seg type="hemistich">
               <w>Tanto</w>
               <w>lucis</w>
@@ -337,13 +337,13 @@
               <w>claritate</w>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB052_3719-l-36">
             <w>superatur</w>
             <w>sole</w>
             <w>luna</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB052_3719-l-37">
             <seg type="hemistich">
               <w>Tanto</w>
               <w>vicit</w>
@@ -352,7 +352,7 @@
               <w>sanctitate</w>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB052_3719-l-38">
             <w>omnes</w>
             <w>urbes</w>
             <w>hec</w>
@@ -360,7 +360,7 @@
             <w>una</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB052_3719-l-39">
             <seg type="hemistich">
               <w>non</w>
               <w>elegit</w>
@@ -370,15 +370,15 @@
               <w>locum</w>
             </seg>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB052_3719-l-40">
             <w>Gebuseus</w>
             <w>Areuna</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="refrain" met="[5pp]" rhyme="[A]">
+        <lg type="refrain" met="[5pp]" rhyme="[A]" xml:id="CB052_3719-lg-9">
           <head>[R.]</head>
-          <l n="1">
+          <l n="1" xml:id="CB052_3719-l-41">
             <w>Festum</w>
             <pc resp="#editor">...</pc>
           </l>

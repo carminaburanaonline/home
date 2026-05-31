@@ -1,84 +1,84 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="sequence">
-        <lg type="versicle" n="1a">
-          <l n="1">Nagu&#232;re ignorant les pleurs,</l>
-          <l n="2">me voici bris&#233;e de plaintes,</l>
-          <l n="3">crucifi&#233;e par la douleur.</l>
+        <lg type="versicle" n="1a" xml:id="CB014x_PB-lg-1">
+          <l n="1" xml:id="CB014x_PB-l-1">Nagu&#232;re ignorant les pleurs,</l>
+          <l n="2" xml:id="CB014x_PB-l-2">me voici bris&#233;e de plaintes,</l>
+          <l n="3" xml:id="CB014x_PB-l-3">crucifi&#233;e par la douleur.</l>
         </lg>
-        <lg type="versicle" n="1b">
-          <l n="1">Les Juifs privent la terre</l>
-          <l n="2">de lumi&#232;re, moi de mon fils,</l>
-          <l n="3">et les esprits de douceur.</l>
+        <lg type="versicle" n="1b" xml:id="CB014x_PB-lg-2">
+          <l n="1" xml:id="CB014x_PB-l-4">Les Juifs privent la terre</l>
+          <l n="2" xml:id="CB014x_PB-l-5">de lumi&#232;re, moi de mon fils,</l>
+          <l n="3" xml:id="CB014x_PB-l-6">et les esprits de douceur.</l>
         </lg>
-        <lg type="versicle" n="2a">
-          <l n="1">Fils, mon unique douceur,</l>
-          <l n="2">ma joie singuli&#232;re,</l>
-          <l n="3">regarde ta m&#232;re en pleurs</l>
-          <l n="4">et soulage ma douleur.</l>
+        <lg type="versicle" n="2a" xml:id="CB014x_PB-lg-3">
+          <l n="1" xml:id="CB014x_PB-l-7">Fils, mon unique douceur,</l>
+          <l n="2" xml:id="CB014x_PB-l-8">ma joie singuli&#232;re,</l>
+          <l n="3" xml:id="CB014x_PB-l-9">regarde ta m&#232;re en pleurs</l>
+          <l n="4" xml:id="CB014x_PB-l-10">et soulage ma douleur.</l>
         </lg>
-        <lg type="versicle" n="2b">
-          <l n="1">Mon c&#339;ur, mon esprit, mes yeux</l>
-          <l n="2">sont perc&#233;s par tes blessures.</l>
-          <l n="3">Peut-on trouver m&#232;re ou femme</l>
-          <l n="4">si heureuse et si mis&#233;rable ?</l>
+        <lg type="versicle" n="2b" xml:id="CB014x_PB-lg-4">
+          <l n="1" xml:id="CB014x_PB-l-11">Mon c&#339;ur, mon esprit, mes yeux</l>
+          <l n="2" xml:id="CB014x_PB-l-12">sont perc&#233;s par tes blessures.</l>
+          <l n="3" xml:id="CB014x_PB-l-13">Peut-on trouver m&#232;re ou femme</l>
+          <l n="4" xml:id="CB014x_PB-l-14">si heureuse et si mis&#233;rable ?</l>
         </lg>
-        <lg type="versicle" n="3">
-          <l n="1">
+        <lg type="versicle" n="3" xml:id="CB014x_PB-lg-5">
+          <l n="1" xml:id="CB014x_PB-l-15">
             <seg type="hemistich">Fleur des fleurs,</seg>
             <seg type="hemistich">guide des c&#339;urs</seg>
           </l>
-          <l n="2">source de mis&#233;ricorde,</l>
-          <l n="3">
+          <l n="2" xml:id="CB014x_PB-l-16">source de mis&#233;ricorde,</l>
+          <l n="3" xml:id="CB014x_PB-l-17">
             <seg type="hemistich">de l&#224; roule,</seg>
             <seg type="hemistich">de l&#224; coule</seg>
           </l>
-          <l n="4">un ruisseau de sang.</l>
-          <l n="5">
+          <l n="4" xml:id="CB014x_PB-l-18">un ruisseau de sang.</l>
+          <l n="5" xml:id="CB014x_PB-l-19">
             <seg type="hemistich">O douleur,</seg>
             <seg type="hemistich">la couleur</seg>
           </l>
-          <l n="6">quitte son visage,</l>
+          <l n="6" xml:id="CB014x_PB-l-20">quitte son visage,</l>
         </lg>
-        <lg type="versicle" n="4a">
-          <l n="1">Il a dit la v&#233;rit&#233;,</l>
-          <l n="2">Sim&#233;on le juste !</l>
-          <l n="3">Comme il l&#8217;a pr&#233;dit, je sens</l>
-          <l n="4">le glaive de douleur.</l>
+        <lg type="versicle" n="4a" xml:id="CB014x_PB-lg-6">
+          <l n="1" xml:id="CB014x_PB-l-21">Il a dit la v&#233;rit&#233;,</l>
+          <l n="2" xml:id="CB014x_PB-l-22">Sim&#233;on le juste !</l>
+          <l n="3" xml:id="CB014x_PB-l-23">Comme il l&#8217;a pr&#233;dit, je sens</l>
+          <l n="4" xml:id="CB014x_PB-l-24">le glaive de douleur.</l>
         </lg>
-        <lg type="versicle" n="4b">
-          <l n="1">G&#233;missements, soupirs et larmes</l>
-          <l n="2">sont &#224; l&#8217;ext&#233;rieur</l>
-          <l n="3">les visibles marques</l>
-          <l n="4">de ma blessure int&#233;rieure.</l>
+        <lg type="versicle" n="4b" xml:id="CB014x_PB-lg-7">
+          <l n="1" xml:id="CB014x_PB-l-25">G&#233;missements, soupirs et larmes</l>
+          <l n="2" xml:id="CB014x_PB-l-26">sont &#224; l&#8217;ext&#233;rieur</l>
+          <l n="3" xml:id="CB014x_PB-l-27">les visibles marques</l>
+          <l n="4" xml:id="CB014x_PB-l-28">de ma blessure int&#233;rieure.</l>
         </lg>
-        <lg type="versicle" n="5a">
-          <l n="1">&#201;pargne mon enfant,</l>
-          <l n="2">&#244; mort, et pas moi :</l>
-          <l n="3">toi seule &#224; ma solitude</l>
-          <l n="4">peux porter rem&#232;de.</l>
+        <lg type="versicle" n="5a" xml:id="CB014x_PB-lg-8">
+          <l n="1" xml:id="CB014x_PB-l-29">&#201;pargne mon enfant,</l>
+          <l n="2" xml:id="CB014x_PB-l-30">&#244; mort, et pas moi :</l>
+          <l n="3" xml:id="CB014x_PB-l-31">toi seule &#224; ma solitude</l>
+          <l n="4" xml:id="CB014x_PB-l-32">peux porter rem&#232;de.</l>
         </lg>
-        <lg type="versicle" n="5b">
-          <l n="1">Que la mort, o bienheureux,</l>
-          <l n="2">me s&#233;pare de toi,</l>
-          <l n="3">puisque, mon fils,</l>
-          <l n="4">tu es ainsi supplici&#233;.</l>
+        <lg type="versicle" n="5b" xml:id="CB014x_PB-lg-9">
+          <l n="1" xml:id="CB014x_PB-l-33">Que la mort, o bienheureux,</l>
+          <l n="2" xml:id="CB014x_PB-l-34">me s&#233;pare de toi,</l>
+          <l n="3" xml:id="CB014x_PB-l-35">puisque, mon fils,</l>
+          <l n="4" xml:id="CB014x_PB-l-36">tu es ainsi supplici&#233;.</l>
         </lg>
-        <lg type="versicle" n="6a">
-          <l n="1">Quel crime, quel grand forfait</l>
-          <l n="2">ont commis ces gens barbares !</l>
-          <l n="3">Les liens, les coups, les blessures</l>
-          <l n="4">les crachats, les clous et le reste,</l>
-          <l n="5">il n&#8217;a rien m&#233;rit&#233; de cela.</l>
+        <lg type="versicle" n="6a" xml:id="CB014x_PB-lg-10">
+          <l n="1" xml:id="CB014x_PB-l-37">Quel crime, quel grand forfait</l>
+          <l n="2" xml:id="CB014x_PB-l-38">ont commis ces gens barbares !</l>
+          <l n="3" xml:id="CB014x_PB-l-39">Les liens, les coups, les blessures</l>
+          <l n="4" xml:id="CB014x_PB-l-40">les crachats, les clous et le reste,</l>
+          <l n="5" xml:id="CB014x_PB-l-41">il n&#8217;a rien m&#233;rit&#233; de cela.</l>
         </lg>
-        <lg type="versicle" n="6b">
-          <l n="1">&#201;pargnez mon fils, par piti&#233;,</l>
-          <l n="2">et mettez sa m&#232;re en croix,</l>
-          <l n="3">ou clouez-nous tous les deux</l>
-          <l n="4">sur cet arbre de la croix :</l>
-          <l n="5">c&#8217;est mal qu&#8217;il meure tout seul.</l>
+        <lg type="versicle" n="6b" xml:id="CB014x_PB-lg-11">
+          <l n="1" xml:id="CB014x_PB-l-42">&#201;pargnez mon fils, par piti&#233;,</l>
+          <l n="2" xml:id="CB014x_PB-l-43">et mettez sa m&#232;re en croix,</l>
+          <l n="3" xml:id="CB014x_PB-l-44">ou clouez-nous tous les deux</l>
+          <l n="4" xml:id="CB014x_PB-l-45">sur cet arbre de la croix :</l>
+          <l n="5" xml:id="CB014x_PB-l-46">c&#8217;est mal qu&#8217;il meure tout seul.</l>
         </lg>
       </div>
     </body>

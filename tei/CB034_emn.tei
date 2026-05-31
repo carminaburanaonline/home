@@ -1,209 +1,209 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="leich" met="I:10x8pp, II:3x(7pp/6p)/2x7pp/7p/2x8pp/7p, III:2x(8p/7pp)/3x8p/6x7pp">
-        <lg type="strophe" n="I" met="8pp/8pp/8pp/8pp/8pp/8pp/8pp/8pp/8pp/8pp" rhyme="a/a/b/c/b/c/c/d/d/c">
-          <l n="1">
+        <lg type="strophe" n="I" met="8pp/8pp/8pp/8pp/8pp/8pp/8pp/8pp/8pp/8pp" rhyme="a/a/b/c/b/c/c/d/d/c" xml:id="CB034_emn-lg-1">
+          <l n="1" xml:id="CB034_emn-l-1">
             <w>Deduc</w>
             <pc resp="#editor">,</pc>
             <w>Syon</w>
             <pc resp="#editor">,</pc>
             <w>uberrimas</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB034_emn-l-2">
             <w>velut</w>
             <w>torrente</w>
             <w>lacrimas</w>
             <pc resp="#editor">!</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB034_emn-l-3">
             <w>Nam</w>
             <w>qui</w>
             <w>pro</w>
             <w>tuis</w>
             <w>patribus</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB034_emn-l-4">
             <w>nati</w>
             <w>sunt</w>
             <w>tibi</w>
             <w>filii</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB034_emn-l-5">
             <w>nuorum</w>
             <w>dedisti</w>
             <w>manibus</w>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB034_emn-l-6">
             <w>tui</w>
             <w>sceptrum</w>
             <w>imperii</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB034_emn-l-7">
             <w>fures</w>
             <w>et</w>
             <w>furum</w>
             <w>socii</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB034_emn-l-8">
             <w>Turbato</w>
             <w>rerum</w>
             <w>ordine</w>
           </l>
-          <l n="9">
+          <l n="9" xml:id="CB034_emn-l-9">
             <w>abutuntur</w>
             <w>regimine</w>
           </l>
-          <l n="10">
+          <l n="10" xml:id="CB034_emn-l-10">
             <w>pastoralis</w>
             <w>officii</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="7pp/6p/7pp/6p/7pp/6p/7pp/7pp/7p/8pp/8pp/7p" rhyme="a/b/a/b/a/b/c/c/d/e/e/d">
-          <l n="1">
+        <lg type="strophe" n="II" met="7pp/6p/7pp/6p/7pp/6p/7pp/7pp/7p/8pp/8pp/7p" rhyme="a/b/a/b/a/b/c/c/d/e/e/d" xml:id="CB034_emn-lg-2">
+          <l n="1" xml:id="CB034_emn-l-11">
             <w>Ad</w>
             <w>corpus</w>
             <w>infirmitas</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB034_emn-l-12">
             <w>capitis</w>
             <w>descendit</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB034_emn-l-13">
             <w>singulosque</w>
             <w>gravitas</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB034_emn-l-14">
             <w>arcus</w>
             <w>apprehendit</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB034_emn-l-15">
             <w>refrigescit</w>
             <w>caritas</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB034_emn-l-16">
             <w>nec</w>
             <w>iam</w>
             <w>se</w>
             <w>extendit</w>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB034_emn-l-17">
             <w>ad</w>
             <w>amorem</w>
             <w>proximi</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB034_emn-l-18">
             <w>nam</w>
             <w>videmus</w>
             <w>opprimi</w>
           </l>
-          <l n="9">
+          <l n="9" xml:id="CB034_emn-l-19">
             <w>pupillum</w>
             <w>a</w>
             <w>potente</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="10">
+          <l n="10" xml:id="CB034_emn-l-20">
             <w>nec</w>
             <w>est</w>
             <w>qui</w>
             <w>salvum</w>
             <w>faciat</w>
           </l>
-          <l n="11">
+          <l n="11" xml:id="CB034_emn-l-21">
             <w>vel</w>
             <w>qui</w>
             <w>iustum</w>
             <w>eripiat</w>
           </l>
-          <l n="12">
+          <l n="12" xml:id="CB034_emn-l-22">
             <w>ab</w>
             <w>impio</w>
             <w>premente</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="8p/7pp/8p/7pp/8p/8p/8p/7pp/7pp/7pp/7pp/7pp/7pp" rhyme="a/b/a/b/c/c/a/d/d/e/f/f/e">
-          <l n="1">
+        <lg type="strophe" n="III" met="8p/7pp/8p/7pp/8p/8p/8p/7pp/7pp/7pp/7pp/7pp/7pp" rhyme="a/b/a/b/c/c/a/d/d/e/f/f/e" xml:id="CB034_emn-lg-3">
+          <l n="1" xml:id="CB034_emn-l-23">
             <w>vide</w>
             <pc resp="#editor">,</pc>
             <w>Deus</w>
             <w>ultionum</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB034_emn-l-24">
             <w>vide</w>
             <pc resp="#editor">,</pc>
             <w>videns</w>
             <w>omnia</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB034_emn-l-25">
             <w>quod</w>
             <w>spelunca</w>
             <w>vispillonum</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB034_emn-l-26">
             <w>facta</w>
             <w>est</w>
             <w>ecclesia</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB034_emn-l-27">
             <w>quod</w>
             <w>in</w>
             <w>templum</w>
             <w>Salomonis</w>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB034_emn-l-28">
             <w>venit</w>
             <w>princeps</w>
             <w>Babilonis</w>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB034_emn-l-29">
             <w>et</w>
             <w>excelsum</w>
             <w>sibi</w>
             <w>thronum</w>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB034_emn-l-30">
             <w>posuit</w>
             <w>in</w>
             <w>medio</w>
             <pc resp="#editor">!</pc>
           </l>
-          <l n="9">
+          <l n="9" xml:id="CB034_emn-l-31">
             <w>Sed</w>
             <w>arrepto</w>
             <w>gladio</w>
           </l>
-          <l n="10">
+          <l n="10" xml:id="CB034_emn-l-32">
             <w>scelus</w>
             <w>hoc</w>
             <w>ulciscere</w>
             <pc resp="#editor">!</pc>
           </l>
-          <l n="11">
+          <l n="11" xml:id="CB034_emn-l-33">
             <w>Veni</w>
             <pc resp="#editor">,</pc>
             <w>iudex</w>
             <w>gentium</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="12">
+          <l n="12" xml:id="CB034_emn-l-34">
             <w>cathedras</w>
             <w>vendentium</w>
           </l>
-          <l n="13">
+          <l n="13" xml:id="CB034_emn-l-35">
             <w>columbas</w>
             <app type="text">
               <lem>

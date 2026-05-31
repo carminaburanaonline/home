@@ -1,136 +1,136 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="sequence" met="1:2x(2x7pp/4p)/4x7pp/4p, 2:2x(7pp/4p)/6x7pp, 3:4x8pp/3x(2x8pp/4p)">
-        <lg type="strophe" n="1a" met="7pp/7pp/4p/7pp/7pp/4p/7pp/7pp/7pp/7pp/4p" rhyme="a/b/c/a/b/c/d/d/e/e/c">
-          <l n="1">
+        <lg type="strophe" n="1a" met="7pp/7pp/4p/7pp/7pp/4p/7pp/7pp/7pp/7pp/4p" rhyme="a/b/c/a/b/c/d/d/e/e/c" xml:id="CB036_plut-lg-1">
+          <l n="1" xml:id="CB036_plut-l-1">
             <w>Nulli</w>
             <w>beneficium</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB036_plut-l-2">
             <w>iuste</w>
             <w>penitudinis</w>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB036_plut-l-3">
             <w>amputatur</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB036_plut-l-4">
             <w>nulli</w>
             <w>maius</w>
             <w>vitium</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB036_plut-l-5">
             <w>quam</w>
             <w>ingratitudinis</w>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB036_plut-l-6">
             <w>imputatur</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB036_plut-l-7">
             <w>ergo</w>
             <pc resp="#editor">,</pc>
             <w>presul</w>
             <w>confitens</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB036_plut-l-8">
             <w>esto</w>
             <w>vere</w>
             <w>penitens</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="9">
+          <l n="9" xml:id="CB036_plut-l-9">
             <w>quia</w>
             <w>nil</w>
             <w>confessio</w>
           </l>
-          <l n="10">
+          <l n="10" xml:id="CB036_plut-l-10">
             <w>lavat</w>
             <pc resp="#editor">,</pc>
             <w>cui</w>
             <w>contritio</w>
           </l>
-          <l n="11">
+          <l n="11" xml:id="CB036_plut-l-11">
             <w>denegatur</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="2a" met="7pp/4p/7pp/4p/7pp/7pp/7pp/7pp/7pp/7pp" rhyme="a/b/a/b/c/c/d/d/e/e">
-          <l n="1">
+        <lg type="strophe" n="2a" met="7pp/4p/7pp/4p/7pp/7pp/7pp/7pp/7pp/7pp" rhyme="a/b/a/b/c/c/d/d/e/e" xml:id="CB036_plut-lg-2">
+          <l n="1" xml:id="CB036_plut-l-12">
             <w>Virtute</w>
             <pc resp="#editor">,</pc>
             <w>non</w>
             <w>sanguine</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB036_plut-l-13">
             <w>decet</w>
             <w>niti</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB036_plut-l-14">
             <w>sub</w>
             <w>honorum</w>
             <w>culmine</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB036_plut-l-15">
             <w>corde</w>
             <w>miti</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB036_plut-l-16">
             <w>foveas</w>
             <w>innoxium</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB036_plut-l-17">
             <w>reprime</w>
             <w>flagitium</w>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB036_plut-l-18">
             <w>superbi</w>
             <w>et</w>
             <w>impii</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB036_plut-l-19">
             <w>supremi</w>
             <w>iudicii</w>
           </l>
-          <l n="9">
+          <l n="9" xml:id="CB036_plut-l-20">
             <w>memor</w>
             <w>iuste</w>
             <w>iudica</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="10">
+          <l n="10" xml:id="CB036_plut-l-21">
             <w>predicans</w>
             <w>non</w>
             <w>claudica</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="3a" met="8pp/8pp/8pp/8pp/8pp/8pp/4p/8pp/8pp/4p/8pp/8pp/4p" rhyme="a/a/b/c/b/c/d/c/e/d/c/e/d">
-          <l n="1">
+        <lg type="strophe" n="3a" met="8pp/8pp/8pp/8pp/8pp/8pp/4p/8pp/8pp/4p/8pp/8pp/4p" rhyme="a/a/b/c/b/c/d/c/e/d/c/e/d" xml:id="CB036_plut-lg-3">
+          <l n="1" xml:id="CB036_plut-l-22">
             <w>Cui</w>
             <w>magis</w>
             <w>committitur</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB036_plut-l-23">
             <w>ab</w>
             <w>eo</w>
             <w>plus</w>
             <w>exigitur</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB036_plut-l-24">
             <w>quid</w>
             <w>Domino</w>
             <w>retribuis</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB036_plut-l-25">
             <w>pro</w>
             <w>tot</w>
             <pc resp="#editor">,</pc>
@@ -139,25 +139,25 @@
             <w>tribuit</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB036_plut-l-26">
             <w>quod</w>
             <w>lac</w>
             <w>et</w>
             <w>lanam</w>
             <w>exuis</w>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB036_plut-l-27">
             <w>gregis</w>
             <pc resp="#editor">,</pc>
             <w>cuius</w>
             <w>constituit</w>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB036_plut-l-28">
             <w>te</w>
             <w>pastorem</w>
             <pc resp="#editor">?</pc>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB036_plut-l-29">
             <w>sed</w>
             <w>cave</w>
             <w>ne</w>
@@ -166,29 +166,29 @@
             <w>venerit</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="9">
+          <l n="9" xml:id="CB036_plut-l-30">
             <w>te</w>
             <w>districte</w>
             <w>tunc</w>
             <w>conterat</w>
           </l>
-          <l n="10">
+          <l n="10" xml:id="CB036_plut-l-31">
             <w>ut</w>
             <w>raptorem</w>
             <pc resp="#editor">!</pc>
           </l>
-          <l n="11">
+          <l n="11" xml:id="CB036_plut-l-32">
             <w>districtus</w>
             <w>iudex</w>
             <w>aderit</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="12">
+          <l n="12" xml:id="CB036_plut-l-33">
             <w>nunc</w>
             <w>sustinens</w>
             <w>considerat</w>
           </l>
-          <l n="13">
+          <l n="13" xml:id="CB036_plut-l-34">
             <w>peccatorem</w>
             <pc resp="#editor">.</pc>
           </l>

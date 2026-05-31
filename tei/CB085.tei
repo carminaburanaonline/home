@@ -1,11 +1,11 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I-IV:3x8pp/4p, Ref.:8pp/4pp">
         <head>Item</head>
-        <lg type="strophe" n="I" met="8pp/8pp/8pp/4p" rhyme="a/a/a/B">
-          <l n="1">
+        <lg type="strophe" n="I" met="8pp/8pp/8pp/4p" rhyme="a/a/a/B" xml:id="CB085-lg-1">
+          <l n="1" xml:id="CB085-l-1">
             <w>
               <seg type="syll" part="I">Ve</seg>
               <seg type="syll" part="F">ris</seg>
@@ -24,7 +24,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB085-l-2">
             <w>
               <seg type="syll" part="I">flo</seg>
               <seg type="syll" part="M">ren</seg>
@@ -43,7 +43,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="3" met="8p">
+          <l n="3" met="8p" xml:id="CB085-l-3">
             <w>
               <seg type="syll" part="I">Iu</seg>
               <seg type="syll" part="M">li</seg>
@@ -60,7 +60,7 @@
             </w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB085-l-4">
             <w>
               <seg type="syll" part="I">dul</seg>
               <seg type="syll" part="F">cis</seg>
@@ -73,9 +73,9 @@
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="refrain" met="8pp/4pp" rhyme="A/B">
+        <lg type="refrain" met="8pp/4pp" rhyme="A/B" xml:id="CB085-lg-2">
           <head>Refl.</head>
-          <l n="1">
+          <l n="1" xml:id="CB085-l-5">
             <w>
               <seg type="syll">Qui</seg>
             </w>
@@ -95,7 +95,7 @@
               <seg type="syll" part="F">re</seg>
             </w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB085-l-6">
             <w>
               <seg type="syll">fit</seg>
             </w>
@@ -108,8 +108,8 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="8pp/8pp/8pp/4p" rhyme="a/a/a/B">
-          <l n="1">
+        <lg type="strophe" n="II" met="8pp/8pp/8pp/4p" rhyme="a/a/a/B" xml:id="CB085-lg-3">
+          <l n="1" xml:id="CB085-l-7">
             <w>
               <seg type="syll" part="I">Ec</seg>
               <seg type="syll" part="F">ce</seg>
@@ -127,7 +127,7 @@
             <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB085-l-8">
             <w>
               <seg type="syll" part="I">la</seg>
               <seg type="syll" part="M">sci</seg>
@@ -145,7 +145,7 @@
             <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB085-l-9">
             <w>
               <seg type="syll" part="I">in</seg>
               <seg type="syll" part="F">de</seg>
@@ -162,7 +162,7 @@
             </w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB085-l-10">
             <w>
               <seg type="syll" part="I">dul</seg>
               <seg type="syll" part="F">cis</seg>
@@ -175,8 +175,8 @@
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="8pp/8pp/8pp/4p" rhyme="a/a/a/B">
-          <l n="1">
+        <lg type="strophe" n="III" met="8pp/8pp/8pp/4p" rhyme="a/a/a/B" xml:id="CB085-lg-4">
+          <l n="1" xml:id="CB085-l-11">
             <w>
               <seg type="syll" part="I">Ec</seg>
               <seg type="syll" part="F">ce</seg>
@@ -193,7 +193,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB085-l-12">
             <w>
               <seg type="syll">et</seg>
             </w>
@@ -218,7 +218,7 @@
             <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB085-l-13">
             <w>
               <seg type="syll" part="I">sum</seg>
               <seg type="syll" part="F">mo</seg>
@@ -236,7 +236,7 @@
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB085-l-14">
             <w>
               <seg type="syll" part="I">dul</seg>
               <seg type="syll" part="F">cis</seg>
@@ -249,8 +249,8 @@
             <pc resp="#editor">!</pc>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="8pp/8pp/8pp" rhyme="a/a/a">
-          <l n="1">
+        <lg type="strophe" n="IV" met="8pp/8pp/8pp" rhyme="a/a/a" xml:id="CB085-lg-5">
+          <l n="1" xml:id="CB085-l-15">
             <w>
               <seg type="syll">Si</seg>
             </w>
@@ -274,7 +274,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB085-l-16">
             <w>
               <seg type="syll">in</seg>
             </w>
@@ -293,7 +293,7 @@
             </w>
             <pc>&#183;</pc>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB085-l-17">
             <w>
               <seg type="syll" part="I">os</seg>
               <seg type="syll" part="M">cu</seg>

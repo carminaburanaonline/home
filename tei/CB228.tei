@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="drama">
@@ -9,15 +9,15 @@
           <pc resp="#editor">:</pc>
         </stage>
         <sp n="1">
-          <p>
+          <p xml:id="CB228-p-1">
             <w>Estivali</w><w>gaudio</w>
             <pc>&#183;</pc>
             <w rend="italic">etc</w>
             <pc resp="#editor">.</pc>
           </p>
           <div type="poem" met="7pp+6p/7pp+6p/7pp/7pp/7pp/7pp" rhyme="a+b/a+b/c/c/d/d">
-            <lg type="strophe" n="I" met="7pp+6p/7pp+6p/7pp/7pp/7pp/7pp" rhyme="a+b/a+b/c/c/d/d">
-              <l n="1">
+            <lg type="strophe" n="I" met="7pp+6p/7pp+6p/7pp/7pp/7pp/7pp" rhyme="a+b/a+b/c/c/d/d" xml:id="CB228-lg-1">
+              <l n="1" xml:id="CB228-l-1">
                 <seg type="hemistich">
                   <w>Ab</w>
                   <w>estatis</w>
@@ -36,7 +36,7 @@
                   <pc resp="#editor">,</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-2">
                 <seg type="hemistich">
                   <w>humus</w>
                   <w>picta</w>
@@ -48,23 +48,23 @@
                   <pc>&#183;</pc>
                 </seg>
               </l>
-              <l n="3">
+              <l n="3" xml:id="CB228-l-3">
                 <w>Flores</w>
                 <w>amoriferi</w>
               </l>
-              <l n="4">
+              <l n="4" xml:id="CB228-l-4">
                 <w>iam</w>
                 <w>arrident</w>
                 <w>tempori</w>
                 <pc>&#183;</pc>
                 <pc resp="#editor">;</pc>
               </l>
-              <l n="5">
+              <l n="5" xml:id="CB228-l-5">
                 <w>perit</w>
                 <w>absque</w>
                 <w>Venere</w>
               </l>
-              <l n="6">
+              <l n="6" xml:id="CB228-l-6">
                 <w>flos</w>
                 <w>etatis</w>
                 <w>tenere</w>
@@ -72,8 +72,8 @@
                 <pc resp="#editor">.</pc>
               </l>
             </lg>
-            <lg type="strophe" n="II" met="7pp+6p/7pp+6p/7pp/7pp/7pp/7pp" rhyme="a+b/a+b/c/c/d/d">
-              <l n="1">
+            <lg type="strophe" n="II" met="7pp+6p/7pp+6p/7pp/7pp/7pp/7pp" rhyme="a+b/a+b/c/c/d/d" xml:id="CB228-lg-2">
+              <l n="1" xml:id="CB228-l-7">
                 <seg type="hemistich">
                   <w>Omnium</w>
                   <w>principium</w>
@@ -86,7 +86,7 @@
                   <pc resp="#editor">,</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-8">
                 <seg type="hemistich">
                   <w>vere</w>
                   <w>mundus</w>
@@ -100,18 +100,18 @@
                   <pc resp="#editor">.</pc>
                 </seg>
               </l>
-              <l n="3">
+              <l n="3" xml:id="CB228-l-9">
                 <w>Omnes</w>
                 <w>huius</w>
                 <w>temporis</w>
               </l>
-              <l n="4">
+              <l n="4" xml:id="CB228-l-10">
                 <w>dies</w>
                 <w>festi</w>
                 <w>Veneris</w>
                 <pc resp="#editor">,</pc>
               </l>
-              <l n="5">
+              <l n="5" xml:id="CB228-l-11">
                 <w>regna</w>
                 <app type="text">
                   <lem wit="HSB V T">
@@ -122,7 +122,7 @@
                 <w>omnia</w>
                 <pc>&#183;</pc>
               </l>
-              <l n="6">
+              <l n="6" xml:id="CB228-l-12">
                 <w>hec</w>
                 <w>agant</w>
                 <w>sollempnia</w>
@@ -139,8 +139,8 @@
         </stage>
         <sp n="2">
           <div type="poem" met="8p+7p/8p+7p/8p+7p" rhyme="a/a/a">
-            <lg type="strophe" n="I" met="8p+7p/8p+7p/8p+7p" rhyme="a/a/a">
-              <l n="1">
+            <lg type="strophe" n="I" met="8p+7p/8p+7p/8p+7p" rhyme="a/a/a" xml:id="CB228-lg-3">
+              <l n="1" xml:id="CB228-l-13">
                 <seg type="hemistich">
                   <w>Ad</w>
                   <w>fontem</w>
@@ -152,7 +152,7 @@
                   <pc>&#183;</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-14">
                 <seg type="hemistich">
                   <w>et</w>
                   <w>saporis</w>
@@ -166,7 +166,7 @@
                   <pc resp="#editor">,</pc>
                 </seg>
               </l>
-              <l n="3">
+              <l n="3" xml:id="CB228-l-15">
                 <seg type="hemistich">
                   <w>uno</w>
                   <w>fonte</w>
@@ -182,8 +182,8 @@
                 </seg>
               </l>
             </lg>
-            <lg type="strophe" n="II" met="8p+7p/8p+7p/8p+7p" rhyme="a/a/a">
-              <l n="1">
+            <lg type="strophe" n="II" met="8p+7p/8p+7p/8p+7p" rhyme="a/a/a" xml:id="CB228-lg-4">
+              <l n="1" xml:id="CB228-l-16">
                 <seg type="hemistich">
                   <w>Quem</w>
                   <w>Pytagoras</w>
@@ -196,7 +196,7 @@
                   <pc resp="#editor">,</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-17">
                 <seg type="hemistich">
                   <w>inde</w>
                   <w>Socrates</w>
@@ -210,7 +210,7 @@
                   <pc resp="#editor">,</pc>
                 </seg>
               </l>
-              <l n="3">
+              <l n="3" xml:id="CB228-l-18">
                 <seg type="hemistich">
                   <w>Aristotiles</w>
                   <w>loquaci</w>
@@ -223,8 +223,8 @@
                 </seg>
               </l>
             </lg>
-            <lg type="strophe" n="III" met="8p+7p/8p+7p/8p+7p" rhyme="a/a/a">
-              <l n="1">
+            <lg type="strophe" n="III" met="8p+7p/8p+7p/8p+7p" rhyme="a/a/a" xml:id="CB228-lg-5">
+              <l n="1" xml:id="CB228-l-19">
                 <seg type="hemistich">
                   <w>Ab</w>
                   <app type="text">
@@ -241,7 +241,7 @@
                   <w>materiam</w>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-20">
                 <seg type="hemistich">
                   <w>nacte</w>
                   <w>hoc</w>
@@ -255,7 +255,7 @@
                   <pc resp="#editor">,</pc>
                 </seg>
               </l>
-              <l n="3">
+              <l n="3" xml:id="CB228-l-21">
                 <seg type="hemistich">
                   <w>qui</w>
                   <w>redundans</w>
@@ -272,8 +272,8 @@
             </lg>
           </div>
           <div type="poem" met="6pp+5p/6pp+5p" rhyme="a+b/a+b">
-            <lg type="strophe" n="I" met="6pp+5p/6pp+5p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="strophe" n="I" met="6pp+5p/6pp+5p" rhyme="a+b/a+b" xml:id="CB228-lg-6">
+              <l n="1" xml:id="CB228-l-22">
                 <seg type="hemistich">
                   <w>Hec</w>
                   <w>nova</w>
@@ -286,7 +286,7 @@
                   <pc resp="#editor">,</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-23">
                 <seg type="hemistich">
                   <w>festa</w>
                   <w>presentia</w>
@@ -298,8 +298,8 @@
                 </seg>
               </l>
             </lg>
-            <lg type="refrain" met="6pp+5p/6pp+5p/6pp+5p/6pp+5p" rhyme="a+b/a+b/a+b/a+b">
-              <l n="1">
+            <lg type="refrain" met="6pp+5p/6pp+5p/6pp+5p/6pp+5p" rhyme="a+b/a+b/a+b/a+b" xml:id="CB228-lg-7">
+              <l n="1" xml:id="CB228-l-24">
                 <seg type="hemistich">
                   <w>Dulcia</w>
                   <w>flumina</w>
@@ -311,7 +311,7 @@
                   <pc resp="#editor">,</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-25">
                 <seg type="hemistich">
                   <w>mollia</w>
                   <w>semina</w>
@@ -322,7 +322,7 @@
                   <pc resp="#editor">.</pc>
                 </seg>
               </l>
-              <l n="3">
+              <l n="3" xml:id="CB228-l-26">
                 <seg type="hemistich">
                   <w>Concupiscentia</w>
                 </seg>
@@ -332,7 +332,7 @@
                   <pc>&#183;</pc>
                 </seg>
               </l>
-              <l n="4">
+              <l n="4" xml:id="CB228-l-27">
                 <seg type="hemistich">
                   <w>ingerit</w>
                   <w>somnia</w>
@@ -345,8 +345,8 @@
                 </seg>
               </l>
             </lg>
-            <lg type="strophe" n="II" met="6pp+5p/6pp+5p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="strophe" n="II" met="6pp+5p/6pp+5p" rhyme="a+b/a+b" xml:id="CB228-lg-8">
+              <l n="1" xml:id="CB228-l-28">
                 <seg type="hemistich">
                   <w>Heccine</w>
                   <app type="text">
@@ -361,7 +361,7 @@
                   <pc>&#183;</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-29">
                 <seg type="hemistich">
                   <w>tribuunt</w>
                   <w>ydola</w>
@@ -373,14 +373,14 @@
                 </seg>
               </l>
             </lg>
-            <lg type="refrain" met="6pp+5p/6pp+5p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="refrain" met="6pp+5p/6pp+5p" rhyme="a+b/a+b" xml:id="CB228-lg-9">
+              <l n="1" xml:id="CB228-l-30">
                 <w>Dulcia</w>
                 <pc resp="#editor">...</pc>
               </l>
             </lg>
-            <lg type="strophe" n="III" met="6pp+5p/6pp+5p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="strophe" n="III" met="6pp+5p/6pp+5p" rhyme="a+b/a+b" xml:id="CB228-lg-10">
+              <l n="1" xml:id="CB228-l-31">
                 <seg type="hemistich">
                   <w>Apta</w>
                   <w>delitiis</w>
@@ -391,7 +391,7 @@
                   <pc>&#183;</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-32">
                 <seg type="hemistich">
                   <app type="text">
                     <lem wit="cod.">
@@ -411,14 +411,14 @@
                 </seg>
               </l>
             </lg>
-            <lg type="refrain" met="6pp+5p/6pp+5p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="refrain" met="6pp+5p/6pp+5p" rhyme="a+b/a+b" xml:id="CB228-lg-11">
+              <l n="1" xml:id="CB228-l-33">
                 <w>D[ulcia]</w>
                 <pc resp="#editor">...</pc>
               </l>
             </lg>
-            <lg type="strophe" n="IV" met="6pp+5p/6pp+5p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="strophe" n="IV" met="6pp+5p/6pp+5p" rhyme="a+b/a+b" xml:id="CB228-lg-12">
+              <l n="1" xml:id="CB228-l-34">
                 <seg type="hemistich">
                   <w>Affectionibus</w>
                 </seg>
@@ -428,7 +428,7 @@
                   <pc>&#183;</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-35">
                 <seg type="hemistich">
                   <w>tollit</w>
                   <w>virtutibus</w>
@@ -441,14 +441,14 @@
                 </seg>
               </l>
             </lg>
-            <lg type="refrain" met="6pp+5p/6pp+5p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="refrain" met="6pp+5p/6pp+5p" rhyme="a+b/a+b" xml:id="CB228-lg-13">
+              <l n="1" xml:id="CB228-l-36">
                 <w>D[ulcia]</w>
                 <pc resp="#editor">...</pc>
               </l>
             </lg>
-            <lg type="strophe" n="V" met="6pp+5p/6pp+5p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="strophe" n="V" met="6pp+5p/6pp+5p" rhyme="a+b/a+b" xml:id="CB228-lg-14">
+              <l n="1" xml:id="CB228-l-37">
                 <seg type="hemistich">
                   <w>Ista</w>
                   <w>sunt</w>
@@ -459,7 +459,7 @@
                   <pc>&#183;</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-38">
                 <seg type="hemistich">
                   <w>ocia</w>
                   <w>mollia</w>
@@ -472,14 +472,14 @@
                 </seg>
               </l>
             </lg>
-            <lg type="refrain" met="6pp+5p/6pp+5p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="refrain" met="6pp+5p/6pp+5p" rhyme="a+b/a+b" xml:id="CB228-lg-15">
+              <l n="1" xml:id="CB228-l-39">
                 <w>D[ulcia]</w>
                 <pc resp="#editor">...</pc>
               </l>
             </lg>
-            <lg type="strophe" n="VI" met="6pp+5p/6pp+5p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="strophe" n="VI" met="6pp+5p/6pp+5p" rhyme="a+b/a+b" xml:id="CB228-lg-16">
+              <l n="1" xml:id="CB228-l-40">
                 <seg type="hemistich">
                   <w>Ista</w>
                   <w>negocia</w>
@@ -490,7 +490,7 @@
                   <pc>&#183;</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-41">
                 <seg type="hemistich">
                   <w>et</w>
                   <w>desideria</w>
@@ -502,8 +502,8 @@
                 </seg>
               </l>
             </lg>
-            <lg type="refrain" met="6pp+5p/6pp+5p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="refrain" met="6pp+5p/6pp+5p" rhyme="a+b/a+b" xml:id="CB228-lg-17">
+              <l n="1" xml:id="CB228-l-42">
                 <w>D[ulcia]</w>
                 <pc resp="#editor">...</pc>
               </l>
@@ -516,12 +516,12 @@
           <pc resp="#editor">:</pc>
         </stage>
         <sp n="3">
-          <p>
+          <p xml:id="CB228-p-2">
             <w>Deorum</w><w>inmortalitas</w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </p>
-          <p>
+          <p xml:id="CB228-p-3">
             <w>Stulti</w><w>sunt</w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
@@ -541,8 +541,8 @@
         </stage>
         <sp n="4">
           <div type="poem" met="8p/8p/7pp/8p/8p/7pp" rhyme="a/a/b/c/c/b">
-            <lg type="strophe" n="I" met="8p/8p/7pp/8p/8p/7pp" rhyme="a/a/b/c/c/b">
-              <l n="1">
+            <lg type="strophe" n="I" met="8p/8p/7pp/8p/8p/7pp" rhyme="a/a/b/c/c/b" xml:id="CB228-lg-18">
+              <l n="1" xml:id="CB228-l-43">
                 <w>Hoc</w>
                 <w>est</w>
                 <w>numen</w>
@@ -550,31 +550,31 @@
                 <pc>&#183;</pc>
                 <pc resp="#editor">,</pc>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-44">
                 <w>cuius</w>
                 <w>fundat</w>
                 <w>ad</w>
                 <w>altare</w>
               </l>
-              <l n="3">
+              <l n="3" xml:id="CB228-l-45">
                 <w>preces</w>
                 <w>omnis</w>
                 <w>populus</w>
                 <pc>&#183;</pc>
                 <pc resp="#editor">.</pc>
               </l>
-              <l n="4">
+              <l n="4" xml:id="CB228-l-46">
                 <w>Huius</w>
                 <w>nutu</w>
                 <w>reflorescit</w>
               </l>
-              <l n="5">
+              <l n="5" xml:id="CB228-l-47">
                 <w>si</w>
                 <w>quandoque</w>
                 <w>conmarcescit</w>
                 <pc resp="#editor">,</pc>
               </l>
-              <l n="6">
+              <l n="6" xml:id="CB228-l-48">
                 <w>manus</w>
                 <pc>&#183;</pc>
                 <pc resp="#editor">,</pc>
@@ -586,8 +586,8 @@
                 <pc resp="#editor">.</pc>
               </l>
             </lg>
-            <lg type="strophe" n="II" met="8p/8p/7pp/8p/8p/7pp" rhyme="a/a/b/c/c/b">
-              <l n="1">
+            <lg type="strophe" n="II" met="8p/8p/7pp/8p/8p/7pp" rhyme="a/a/b/c/c/b" xml:id="CB228-lg-19">
+              <l n="1" xml:id="CB228-l-49">
                 <w>Honor</w>
                 <app type="text">
                   <lem wit="HSB T">
@@ -600,7 +600,7 @@
                 <pc>&#183;</pc>
                 <pc resp="#editor">,</pc>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-50">
                 <w>Pallas</w>
                 <pc>&#183;</pc>
                 <pc resp="#editor">,</pc>
@@ -613,14 +613,14 @@
                 <w>Iuno</w>
                 <pc>&#183;</pc>
               </l>
-              <l n="3">
+              <l n="3" xml:id="CB228-l-51">
                 <w>mire</w>
                 <w>sunt</w>
                 <w>clementie</w>
                 <pc>&#183;</pc>
                 <pc resp="#editor">;</pc>
               </l>
-              <l n="4">
+              <l n="4" xml:id="CB228-l-52">
                 <w>Mars</w>
                 <pc>&#183;</pc>
                 <pc resp="#editor">,</pc>
@@ -633,13 +633,13 @@
                 <w>Phebus</w>
                 <pc>&#183;</pc>
               </l>
-              <l n="5">
+              <l n="5" xml:id="CB228-l-53">
                 <w>dant</w>
                 <w>salutem</w>
                 <w>lesis</w>
                 <w>rebus</w>
               </l>
-              <l n="6">
+              <l n="6" xml:id="CB228-l-54">
                 <w>insite</w>
                 <w>potentie</w>
                 <pc>&#183;</pc>
@@ -658,8 +658,8 @@
         </stage>
         <sp n="5">
           <div type="poem" met="8p/8p/8p/7pp/8p/8p/8p/7pp" rhyme="a/a/a/b/c/c/c/b">
-            <lg type="strophe" met="8p/8p/8p/7pp/8p/8p/8p/7pp" rhyme="a/a/a/b/c/c/c/b">
-              <l n="1">
+            <lg type="strophe" met="8p/8p/8p/7pp/8p/8p/8p/7pp" rhyme="a/a/a/b/c/c/c/b" xml:id="CB228-lg-20">
+              <l n="1" xml:id="CB228-l-55">
                 <w>Audi</w>
                 <pc resp="#editor">,</pc>
                 <w>rex</w>
@@ -667,39 +667,39 @@
                 <pc>&#183;</pc>
                 <pc resp="#editor">,</pc>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-56">
                 <w>lapsa</w>
                 <w>virtus</w>
                 <w>ydolorum</w>
                 <pc>&#183;</pc>
                 <pc resp="#editor">,</pc>
               </l>
-              <l n="3">
+              <l n="3" xml:id="CB228-l-57">
                 <w>destituta</w>
                 <w>vis</w>
                 <w>deorum</w>
               </l>
-              <l n="4">
+              <l n="4" xml:id="CB228-l-58">
                 <w>iacet</w>
                 <w>cum</w>
                 <w>miseria</w>
                 <pc>&#183;</pc>
                 <pc resp="#editor">;</pc>
               </l>
-              <l n="5">
+              <l n="5" xml:id="CB228-l-59">
                 <w>iam</w>
                 <w>delubra</w>
                 <w>ceciderunt</w>
                 <pc>&#183;</pc>
                 <pc resp="#editor">,</pc>
               </l>
-              <l n="6">
+              <l n="6" xml:id="CB228-l-60">
                 <w>simulacra</w>
                 <w>corruerunt</w>
                 <pc>&#183;</pc>
                 <pc resp="#editor">,</pc>
               </l>
-              <l n="7">
+              <l n="7" xml:id="CB228-l-61">
                 <app type="text">
                   dii] cod. V di HS T
                   <lem wit="cod. V">
@@ -712,7 +712,7 @@
                 <pc>&#183;</pc>
                 <pc resp="#editor">,</pc>
               </l>
-              <l n="8">
+              <l n="8" xml:id="CB228-l-62">
                 <w>heu</w>
                 <pc resp="#editor">,</pc>
                 <w>cum</w>
@@ -730,8 +730,8 @@
         </stage>
         <sp n="6">
           <div type="poem" met="hex/hex" rhyme="?/?">
-            <lg type="strophe" met="hex/hex" rhyme="?/?">
-              <l n="1">
+            <lg type="strophe" met="hex/hex" rhyme="?/?" xml:id="CB228-lg-21">
+              <l n="1" xml:id="CB228-l-63">
                 <w>Scire</w>
                 <w>volo</w>
                 <pc resp="#editor">,</pc>
@@ -744,7 +744,7 @@
                 <w>qualiter</w>
                 <w>ipsa</w>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-64">
                 <w>numina</w>
                 <w>placentur</w>
                 <pc resp="#editor">.</pc>
@@ -765,7 +765,7 @@
           <pc resp="#editor">:</pc>
         </stage>
         <sp n="7">
-          <p met="hex">
+          <p met="hex" xml:id="CB228-p-4">
             <w>Regia</w><w>vos</w><w>mandata</w><w>vocant</w>
             <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
@@ -780,13 +780,13 @@
           <pc resp="#editor">:</pc>
         </stage>
         <sp n="8">
-          <p>
+          <p xml:id="CB228-p-5">
             <w>Scire</w><w>volo</w>
             <pc>&#183;</pc>
             <w rend="italic">etc</w>
             <pc resp="#editor">.</pc>
           </p>
-          <p>
+          <p xml:id="CB228-p-6">
             <w>Vos</w><w>date</w><w>consilium</w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
@@ -799,8 +799,8 @@
         </stage>
         <sp n="9">
           <div type="poem" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p/hex/hex" rhyme="a/a/a/a/b/b">
-            <lg type="strophe" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p/hex/hex" rhyme="a/a/a/a/b/b">
-              <l n="1">
+            <lg type="strophe" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p/hex/hex" rhyme="a/a/a/a/b/b" xml:id="CB228-lg-22">
+              <l n="1" xml:id="CB228-l-65">
                 <seg type="hemistich">
                   <w>Nostrum</w>
                   <w>est</w>
@@ -813,7 +813,7 @@
                   <pc resp="#editor">,</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-66">
                 <seg type="hemistich">
                   <w>aras</w>
                   <pc>&#183;</pc>
@@ -831,7 +831,7 @@
                   <pc>&#183;</pc>
                 </seg>
               </l>
-              <l n="3">
+              <l n="3" xml:id="CB228-l-67">
                 <seg type="hemistich">
                   <w>thus</w>
                   <pc>&#183;</pc>
@@ -849,7 +849,7 @@
                   <pc>&#183;</pc>
                 </seg>
               </l>
-              <l n="4">
+              <l n="4" xml:id="CB228-l-68">
                 <seg type="hemistich">
                   <w>et</w>
                   <w>humanum</w>
@@ -862,14 +862,14 @@
                   <pc resp="#editor">.</pc>
                 </seg>
               </l>
-              <l n="5">
+              <l n="5" xml:id="CB228-l-69">
                 <w>Tali</w>
                 <w>quippe</w>
                 <w>modo</w>
                 <w>virtute</w>
                 <w>ministeriorum</w>
               </l>
-              <l n="6">
+              <l n="6" xml:id="CB228-l-70">
                 <w>et</w>
                 <w>prece</w>
                 <w>devota</w>
@@ -889,7 +889,7 @@
           <pc resp="#editor">:</pc>
         </stage>
         <sp n="10">
-          <p>
+          <p xml:id="CB228-p-7">
             <w>Hoc</w><w>est</w><w>numen</w><w>salutare</w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
@@ -901,7 +901,7 @@
           <pc resp="#editor">:</pc>
         </stage>
         <sp n="11">
-          <p>
+          <p xml:id="CB228-p-8">
             <w>Stulti</w><w>sunt</w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
@@ -926,7 +926,7 @@
           <pc resp="#editor">:</pc>
         </stage>
         <sp n="12">
-          <p>
+          <p xml:id="CB228-p-9">
             <w>Dicite</w><w>quid</w>
                 <w>nobis</w>
                 <pc>&#183;</pc>
@@ -952,8 +952,8 @@
         </stage>
         <sp n="13">
           <div type="poem" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="a/a/a/a">
-            <lg type="strophe" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="a/a/a/a">
-              <l n="1">
+            <lg type="strophe" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="a/a/a/a" xml:id="CB228-lg-23">
+              <l n="1" xml:id="CB228-l-71">
                 <seg type="hemistich">
                   <w>Rex</w>
                   <w>et</w>
@@ -967,7 +967,7 @@
                   <pc>&#183;</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-72">
                 <seg type="hemistich">
                   <w>prepotens</w>
                   <w>in</w>
@@ -982,7 +982,7 @@
                   <pc resp="#editor">,</pc>
                 </seg>
               </l>
-              <l n="3">
+              <l n="3" xml:id="CB228-l-73">
                 <seg type="hemistich">
                   <w>cuius</w>
                   <w>in</w>
@@ -994,7 +994,7 @@
                   <pc>&#183;</pc>
                 </seg>
               </l>
-              <l n="4">
+              <l n="4" xml:id="CB228-l-74">
                 <seg type="hemistich">
                   <w>corruit</w>
                   <pc>&#183;</pc>
@@ -1036,12 +1036,12 @@
           <pc resp="#editor">:</pc>
         </stage>
         <sp n="15">
-          <p>
+          <p xml:id="CB228-p-10">
             <w>Deorum</w><w>inmor[talitas]</w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </p>
-          <p>
+          <p xml:id="CB228-p-11">
             <w>Stulti</w><w>sunt</w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
@@ -1054,8 +1054,8 @@
         </stage>
         <sp n="16">
           <div type="poem" met="7pp+6p/7pp+6p" rhyme="a/a">
-            <lg type="strophe" met="7pp+6p/7pp+6p" rhyme="a/a">
-              <l n="1">
+            <lg type="strophe" met="7pp+6p/7pp+6p" rhyme="a/a" xml:id="CB228-lg-24">
+              <l n="1" xml:id="CB228-l-75">
                 <seg type="hemistich">
                   <w>Ille</w>
                   <w>iure</w>
@@ -1068,7 +1068,7 @@
                   <pc resp="#editor">,</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-76">
                 <seg type="hemistich">
                 <w>qui</w>
                 <w>spretis</w>
@@ -1086,7 +1086,7 @@
               </l>
             </lg>
           </div>
-          <p>
+          <p xml:id="CB228-p-12">
             <w>Stulti</w><w>sunt</w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
@@ -1104,8 +1104,8 @@
         </stage>
         <sp n="17">
           <div type="poem" met="8pp+7p/8pp+7p" rhyme="a+b/a+b">
-            <lg type="strophe" met="8pp+7p/8pp+7p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="strophe" met="8pp+7p/8pp+7p" rhyme="a+b/a+b" xml:id="CB228-lg-25">
+              <l n="1" xml:id="CB228-l-77">
                 <seg type="hemistich">
                   <w>Deorum</w>
                   <w>inmortalitas</w>
@@ -1118,7 +1118,7 @@
                   <pc resp="#editor">,</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-78">
                 <seg type="hemistich">
                   <w>eorum</w>
                   <w>et</w>
@@ -1141,8 +1141,8 @@
         </stage>
         <sp n="18">
           <div type="poem" met="9pp+7p/9pp+7p" rhyme="a+b/a+b">
-            <lg type="strophe" met="9pp+7p/9pp+7p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="strophe" met="9pp+7p/9pp+7p" rhyme="a+b/a+b" xml:id="CB228-lg-26">
+              <l n="1" xml:id="CB228-l-79">
                 <seg type="hemistich">
                   <w>Stulti</w>
                   <w>sunt</w>
@@ -1160,7 +1160,7 @@
                   <pc>&#183;</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-80">
                 <seg type="hemistich">
                   <w>et</w>
                   <w>antiquitatis</w>
@@ -1183,8 +1183,8 @@
         </stage>
         <sp n="19">
           <div type="poem" met="8pp+7p/8pp+7p" rhyme="a+b/a+b">
-            <lg type="strophe" met="8pp+7p/8pp+7p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="strophe" met="8pp+7p/8pp+7p" rhyme="a+b/a+b" xml:id="CB228-lg-27">
+              <l n="1" xml:id="CB228-l-81">
                 <seg type="hemistich">
                   <w>Si</w>
                   <w>enim</w>
@@ -1199,7 +1199,7 @@
                   <pc>&#183;</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-82">
                 <seg type="hemistich">
                   <w>subiectum</w>
                   <w>hunc</w>
@@ -1221,7 +1221,7 @@
           <pc resp="#editor">:</pc>
         </stage>
         <sp n="20">
-          <p>
+          <p xml:id="CB228-p-13">
             <w>Stulti</w><w>sunt</w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
@@ -1234,8 +1234,8 @@
         </stage>
         <sp n="21">
           <div type="poem" met="6pp+7p/6pp+7p" rhyme="a/a">
-            <lg type="strophe" met="6pp+7p/6pp+7p" rhyme="a/a">
-              <l n="1">
+            <lg type="strophe" met="6pp+7p/6pp+7p" rhyme="a/a" xml:id="CB228-lg-28">
+              <l n="1" xml:id="CB228-l-83">
                 <seg type="hemistich">
                   <w>Finxit</w>
                   <w>invidia</w>
@@ -1246,7 +1246,7 @@
                   <pc>&#183;</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-84">
                 <seg type="hemistich">
                   <w>ut</w>
                   <w>homo</w>
@@ -1268,7 +1268,7 @@
           <pc resp="#editor">:</pc>
         </stage>
         <sp n="22">
-          <p>
+          <p xml:id="CB228-p-14">
             <w>Stulti</w><w>sunt</w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
@@ -1281,8 +1281,8 @@
         </stage>
         <sp n="23">
           <div type="poem" met="6pp+7p/6pp+7p" rhyme="a+b/a+b">
-            <lg type="strophe" n="I" met="6pp+7p/6pp+7p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="strophe" n="I" met="6pp+7p/6pp+7p" rhyme="a+b/a+b" xml:id="CB228-lg-29">
+              <l n="1" xml:id="CB228-l-85">
                 <seg type="hemistich">
                   <w>Fraudis</w>
                   <w>versutias</w>
@@ -1293,7 +1293,7 @@
                   <pc>&#183;</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-86">
                 <seg type="hemistich">
                   <w>per</w>
                   <w>quas</w>
@@ -1308,8 +1308,8 @@
                 </seg>
               </l>
             </lg>
-            <lg type="strophe" n="II" met="6pp+7p/6pp+7p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="strophe" n="II" met="6pp+7p/6pp+7p" rhyme="a+b/a+b" xml:id="CB228-lg-30">
+              <l n="1" xml:id="CB228-l-87">
                 <seg type="hemistich">
                   <w>sub</w>
                   <w>forma</w>
@@ -1321,7 +1321,7 @@
                   <pc>&#183;</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-88">
                 <seg type="hemistich">
                   <w>ostendit</w>
                   <w>falsitas</w>
@@ -1347,8 +1347,8 @@
         </stage>
         <sp n="24">
           <div type="poem" met="6pp+7p/6pp+7p" rhyme="a/a">
-            <lg type="strophe" met="6pp+7p/6pp+7p" rhyme="a/a">
-              <l n="1">
+            <lg type="strophe" met="6pp+7p/6pp+7p" rhyme="a/a" xml:id="CB228-lg-31">
+              <l n="1" xml:id="CB228-l-89">
                 <seg type="hemistich">
                   <w>Tibi</w>
                   <w>profiteor</w>
@@ -1360,7 +1360,7 @@
                   <pc resp="#editor">,</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-90">
                 <seg type="hemistich">
                   <w>quod</w>
                   <w>tibi</w>
@@ -1384,8 +1384,8 @@
         </stage>
         <sp n="25">
           <div type="poem" met="6p+7p/6p+7p" rhyme="a/a">
-            <lg type="strophe" met="6p+7p/6p+7p" rhyme="a/a">
-              <l n="1">
+            <lg type="strophe" met="6p+7p/6p+7p" rhyme="a/a" xml:id="CB228-lg-32">
+              <l n="1" xml:id="CB228-l-91">
                 <seg type="hemistich">
                   <w>Omnium</w>
                   <w>rectorem</w>
@@ -1398,7 +1398,7 @@
                   <pc resp="#editor">,</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-92">
                 <seg type="hemistich">
                   <w>tibi</w>
                   <w>tota</w>
@@ -1419,8 +1419,8 @@
             </lg>
           </div>
           <div type="poem" met="8pp+7p/8pp+7p" rhyme="a+b/a+b">
-            <lg type="strophe" n="I" met="8pp+7p/8pp+7p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="strophe" n="I" met="8pp+7p/8pp+7p" rhyme="a+b/a+b" xml:id="CB228-lg-33">
+              <l n="1" xml:id="CB228-l-93">
                 <seg type="hemistich">
                   <w>Egiptus</w>
                   <w>caput</w>
@@ -1435,7 +1435,7 @@
                   <pc resp="#editor">,</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-94">
                 <seg type="hemistich">
                   <w>calcabit</w>
                   <w>hec</w>
@@ -1449,8 +1449,8 @@
                 </seg>
               </l>
             </lg>
-            <lg type="strophe" n="II" met="8pp+7p/8pp+7p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="strophe" n="II" met="8pp+7p/8pp+7p" rhyme="a+b/a+b" xml:id="CB228-lg-34">
+              <l n="1" xml:id="CB228-l-95">
                 <seg type="hemistich">
                   <w>Ve</w>
                   <w>tibi</w>
@@ -1465,7 +1465,7 @@
                   <pc resp="#editor">,</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-96">
                 <seg type="hemistich">
                   <w>deorum</w>
                   <w>vos</w>
@@ -1481,8 +1481,8 @@
                 </seg>
               </l>
             </lg>
-            <lg type="strophe" n="III" met="8pp+7p/8pp+7p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="strophe" n="III" met="8pp+7p/8pp+7p" rhyme="a+b/a+b" xml:id="CB228-lg-35">
+              <l n="1" xml:id="CB228-l-97">
                 <seg type="hemistich">
                   <w>Egipti</w>
                   <w>princeps</w>
@@ -1496,7 +1496,7 @@
                   <pc resp="#editor">,</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-98">
                 <seg type="hemistich">
                   <w>Herodes</w>
                   <w>sed</w>
@@ -1511,8 +1511,8 @@
                 </seg>
               </l>
             </lg>
-            <lg type="strophe" n="IV" met="8pp+7p/8pp+7p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="strophe" n="IV" met="8pp+7p/8pp+7p" rhyme="a+b/a+b" xml:id="CB228-lg-36">
+              <l n="1" xml:id="CB228-l-99">
                 <seg type="hemistich">
                   <w>Intende</w>
                   <pc resp="#editor">,</pc>
@@ -1528,7 +1528,7 @@
                   <pc resp="#editor">,</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-100">
                 <seg type="hemistich">
                   <app type="text">
                     <lem wit="HSB V T">
@@ -1548,8 +1548,8 @@
                 </seg>
               </l>
             </lg>
-            <lg type="strophe" n="V" met="8pp+7p/8pp+7p" rhyme="a+b/a+b">
-              <l n="1">
+            <lg type="strophe" n="V" met="8pp+7p/8pp+7p" rhyme="a+b/a+b" xml:id="CB228-lg-37">
+              <l n="1" xml:id="CB228-l-101">
                 <seg type="hemistich">
                   <w>Ingrata</w>
                   <w>gens</w>
@@ -1565,7 +1565,7 @@
                   <pc resp="#editor">,</pc>
                 </seg>
               </l>
-              <l n="2">
+              <l n="2" xml:id="CB228-l-102">
                 <seg type="hemistich">
                   <w>Egipto</w>
                   <w>eras</w>

@@ -1,17 +1,17 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="sequence">
-        <lg type="versicle" n="1a">
-          <l n="1">Nagu&#232;re ignorant les pleurs,</l>
-          <l n="2">me voici bris&#233;e de plaintes,</l>
-          <l n="3">crucifi&#233;e par la douleur.</l>
+        <lg type="versicle" n="1a" xml:id="CB014x_cgm716_PB-lg-1">
+          <l n="1" xml:id="CB014x_cgm716_PB-l-1">Nagu&#232;re ignorant les pleurs,</l>
+          <l n="2" xml:id="CB014x_cgm716_PB-l-2">me voici bris&#233;e de plaintes,</l>
+          <l n="3" xml:id="CB014x_cgm716_PB-l-3">crucifi&#233;e par la douleur.</l>
         </lg>
-        <lg type="versicle" n="1b">
-          <l n="1">Les Juifs ont priv&#233; la terre</l>
-          <l n="2">de sa lumi&#232;re, moi de mon fils,</l>
-          <l n="3">de ma joie, de mon bonheur.</l>
+        <lg type="versicle" n="1b" xml:id="CB014x_cgm716_PB-lg-2">
+          <l n="1" xml:id="CB014x_cgm716_PB-l-4">Les Juifs ont priv&#233; la terre</l>
+          <l n="2" xml:id="CB014x_cgm716_PB-l-5">de sa lumi&#232;re, moi de mon fils,</l>
+          <l n="3" xml:id="CB014x_cgm716_PB-l-6">de ma joie, de mon bonheur.</l>
         </lg>
       </div>
     </body>

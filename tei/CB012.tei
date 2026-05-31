@@ -1,10 +1,10 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="I-II:4x(6pp+6pp)/6pp/6pp+6pp">
-        <lg type="strophe" n="I" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp/6pp/6pp+6pp" rhyme="A+B/A+B/A+B/A+B/B/A+B">
-          <l n="1">
+        <lg type="strophe" n="I" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp/6pp/6pp+6pp" rhyme="A+B/A+B/A+B/A+B/B/A+B" xml:id="CB012-lg-1">
+          <l n="1" xml:id="CB012-l-1">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">Pro</seg>
@@ -30,7 +30,7 @@
               </w>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB012-l-2">
             <seg type="hemistich">
               <w>
                 <seg type="syll">vix</seg>
@@ -57,7 +57,7 @@
               <pc resp="#editor">.</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB012-l-3">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">Ne</seg>
@@ -86,7 +86,7 @@
               <pc resp="#editor">:</pc>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB012-l-4">
             <seg type="hemistich">
               <app type="text">
                 <lem wit="F M Ma HSB V T">
@@ -121,7 +121,7 @@
               </w>
             </seg>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB012-l-5">
             <w>
               <seg type="syll">fit</seg>
             </w>
@@ -136,7 +136,7 @@
             </w>
             <pc resp="#editor">:</pc>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB012-l-6">
             <seg type="hemistich">
               <w>
                 <seg type="syll">in</seg>
@@ -166,8 +166,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp/6pp/6pp+6pp" rhyme="A+B/A+B/A+B/A+B/B/A+B">
-          <l n="1">
+        <lg type="strophe" n="II" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp/6pp/6pp+6pp" rhyme="A+B/A+B/A+B/A+B/B/A+B" xml:id="CB012-lg-2">
+          <l n="1" xml:id="CB012-l-7">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">In</seg>
@@ -194,7 +194,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB012-l-8">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">tol</seg>
@@ -221,7 +221,7 @@
               <pc resp="#editor">.</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB012-l-9">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">Sus</seg>
@@ -248,7 +248,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB012-l-10">
             <seg type="hemistich">
               <app type="text">
                 <lem wit="F M HSB V T">
@@ -280,7 +280,7 @@
               <pc resp="#editor">:</pc>
             </seg>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB012-l-11">
             <app type="text">
               <lem>
                 <w>
@@ -297,7 +297,7 @@
               <seg type="syll" part="F">o</seg>
             </w>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB012-l-12">
             <seg type="hemistich">
               <w>
                 <seg type="syll">de</seg>

@@ -1,15 +1,15 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem">
-        <lg type="strophe" n="I" met="?/?/?/?/?/?/?" rhyme="?/?/?/?/?/?/?">
-          <l n="1">
+        <lg type="strophe" n="I" met="?/?/?/?/?/?/?" rhyme="?/?/?/?/?/?/?" xml:id="CB022_emn-lg-1">
+          <l n="1" xml:id="CB022_emn-l-1">
             <w>Homo</w>
             <w>quo</w>
             <w>vigeas</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB022_emn-l-2">
             <seg type="hemistich">
               <w>vide</w>
               <w>dei</w>
@@ -21,75 +21,75 @@
               <w>adhereas</w>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB022_emn-l-3">
             <w>in</w>
             <w>spe</w>
             <w>gaudeas</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB022_emn-l-4">
             <w>et</w>
             <w>in</w>
             <w>fide</w>
             <w>intus</w>
             <w>ardeas</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB022_emn-l-5">
             <w>foris</w>
             <w>luceas</w>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB022_emn-l-6">
             <w>turturis</w>
             <w>retorqueas</w>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB022_emn-l-7">
             <w>os</w>
             <w>ad</w>
             <w>ascellas</w>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="?/?/?/?/?/?/?/?/?" rhyme="?/?/?/?/?/?/?/?">
-          <l n="1">
+        <lg type="strophe" n="II" met="?/?/?/?/?/?/?/?/?" rhyme="?/?/?/?/?/?/?/?" xml:id="CB022_emn-lg-2">
+          <l n="1" xml:id="CB022_emn-l-8">
             <w>Docens</w>
             <w>ita</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB022_emn-l-9">
             <w>verbo</w>
             <w>vita</w>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB022_emn-l-10">
             <w>oris</w>
             <w>vomere</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB022_emn-l-11">
             <w>De</w>
             <w>cordibus</w>
             <w>fidelium</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB022_emn-l-12">
             <w>evellas</w>
             <w>lolium</w>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB022_emn-l-13">
             <w>lilium</w>
             <w>insere</w>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB022_emn-l-14">
             <w>rose</w>
             <w>ut</w>
             <w>alium</w>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB022_emn-l-15">
             <w>per</w>
             <w>hoc</w>
             <w>corripere</w>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="?/?/?/?/?/?/?/?" rhyme="?/?/?/?/?/?/?/?">
-          <l n="1">
+        <lg type="strophe" n="III" met="?/?/?/?/?/?/?/?" rhyme="?/?/?/?/?/?/?/?" xml:id="CB022_emn-lg-3">
+          <l n="1" xml:id="CB022_emn-l-16">
             <w>Speciose</w>
             <w>valeas</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB022_emn-l-17">
             <seg type="hemistich">
               <w>virtuti</w>
             </seg>
@@ -97,11 +97,11 @@
               <w>saluti</w>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB022_emn-l-18">
             <w>omnium</w>
             <w>studeas</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB022_emn-l-19">
             <seg type="hemistich">
               <w>noxias</w>
             </seg>
@@ -109,38 +109,38 @@
               <w>delicias</w>
             </seg>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB022_emn-l-20">
             <w>detesteris</w>
             <w>opera</w>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB022_emn-l-21">
             <w>considera</w>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB022_emn-l-22">
             <w>que</w>
             <w>si</w>
             <w>non</w>
             <w>feceris</w>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB022_emn-l-23">
             <w>dampnaberis</w>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="?/?/?" rhyme="?/?/?">
-          <l n="1">
+        <lg type="strophe" n="IV" met="?/?/?" rhyme="?/?/?" xml:id="CB022_emn-lg-4">
+          <l n="1" xml:id="CB022_emn-l-24">
             <w>Hac</w>
             <w>in</w>
             <w>via</w>
             <w>militans</w>
             <w>gratie</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB022_emn-l-25">
             <w>et</w>
             <w>premia</w>
             <w>cogita</w>
             <w>patrie</w>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB022_emn-l-26">
             <w>et</w>
             <w>sic</w>
             <w>tuum</w>

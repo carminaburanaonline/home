@@ -1,114 +1,114 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem">
-        <lg type="strophe" n="I">
-          <l n="1">
+        <lg type="strophe" n="I" xml:id="CB179_PB-lg-1">
+          <l n="1" xml:id="CB179_PB-l-1">
             <seg type="hemistich">C&#8217;est le temps du plaisir,</seg>
             <seg type="hemistich">mesdemoiselles !</seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB179_PB-l-2">
             <seg type="hemistich">Le temps de se r&#233;jouir,</seg>
             <seg type="hemistich">vous les gar&#231;ons !</seg>
           </l>
-          <l n="3">Oh oh !</l>
-          <l n="4">Je suis tout en fleur !</l>
+          <l n="3" xml:id="CB179_PB-l-3">Oh oh !</l>
+          <l n="4" xml:id="CB179_PB-l-4">Je suis tout en fleur !</l>
         </lg>
-        <lg type="refrain">
+        <lg type="refrain" xml:id="CB179_PB-lg-2">
           <head>Refrain</head>
-          <l n="1">
+          <l n="1" xml:id="CB179_PB-l-5">
             <seg type="hemistich">Pour l&#8217;amour d&#8217;une pucelle,</seg>
             <seg type="hemistich">je suis plein d&#8217;ardeur,</seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB179_PB-l-6">
             <seg type="hemistich">amour tout neuf, amour nouveau,</seg>
             <seg type="hemistich">dont je me meurs !</seg>
           </l>
         </lg>
-        <lg type="strophe" n="II">
-          <l n="1">
+        <lg type="strophe" n="II" xml:id="CB179_PB-lg-3">
+          <l n="1" xml:id="CB179_PB-l-7">
             <seg type="hemistich">Le rossignol chante</seg>
             <seg type="hemistich">si doucement,</seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB179_PB-l-8">
             <seg type="hemistich">et j&#8217;entends sa m&#233;lodie</seg>
             <seg type="hemistich">d&#8217;un c&#339;ur br&#251;lant.</seg>
           </l>
-          <l n="3">Oh oh !</l>
-          <l n="4">Je suis tout en fleur ...</l>
+          <l n="3" xml:id="CB179_PB-l-9">Oh oh !</l>
+          <l n="4" xml:id="CB179_PB-l-10">Je suis tout en fleur ...</l>
         </lg>
-        <lg type="strophe" n="III">
-          <l n="1">
+        <lg type="strophe" n="III" xml:id="CB179_PB-lg-4">
+          <l n="1" xml:id="CB179_PB-l-11">
             <seg type="hemistich">C&#8217;est la fleur des jeunes filles</seg>
             <seg type="hemistich">que je ch&#233;ris,</seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB179_PB-l-12">
             <seg type="hemistich">la rose des roses qui fait</seg>
             <seg type="hemistich">br&#251;ler mon c&#339;ur.</seg>
           </l>
-          <l n="3">Oh oh !</l>
-          <l n="4">Je suis tout en fleur ...</l>
+          <l n="3" xml:id="CB179_PB-l-13">Oh oh !</l>
+          <l n="4" xml:id="CB179_PB-l-14">Je suis tout en fleur ...</l>
         </lg>
-        <lg type="strophe" n="IV">
-          <l n="1">
+        <lg type="strophe" n="IV" xml:id="CB179_PB-lg-5">
+          <l n="1" xml:id="CB179_PB-l-15">
             <seg type="hemistich">Si tu te promets &#224; moi,</seg>
             <seg type="hemistich">j&#8217;en suis ravi,</seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB179_PB-l-16">
             <seg type="hemistich">si tu te refuses &#224; moi,</seg>
             <seg type="hemistich">j&#8217;en suis d&#233;truit !</seg>
           </l>
-          <l n="3">Oh oh !</l>
-          <l n="4">Je suis tout en fleur ...</l>
+          <l n="3" xml:id="CB179_PB-l-17">Oh oh !</l>
+          <l n="4" xml:id="CB179_PB-l-18">Je suis tout en fleur ...</l>
         </lg>
-        <lg type="strophe" n="V">
-          <l n="1">
+        <lg type="strophe" n="V" xml:id="CB179_PB-lg-6">
+          <l n="1" xml:id="CB179_PB-l-19">
             <seg type="hemistich">Elle s&#8217;amuse de moi,</seg>
             <seg type="hemistich">ta virginit&#233;,</seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB179_PB-l-20">
             <seg type="hemistich">elle me d&#233;concerte,</seg>
             <seg type="hemistich">ta simplicit&#233;.</seg>
           </l>
-          <l n="3">Oh oh !</l>
-          <l n="4">Je suis tout en fleur ...</l>
+          <l n="3" xml:id="CB179_PB-l-21">Oh oh !</l>
+          <l n="4" xml:id="CB179_PB-l-22">Je suis tout en fleur ...</l>
         </lg>
-        <lg type="strophe" n="VI">
-          <l n="1">
+        <lg type="strophe" n="VI" xml:id="CB179_PB-lg-7">
+          <l n="1" xml:id="CB179_PB-l-23">
             <seg type="hemistich">Tais-toi, o rossignol,</seg>
             <seg type="hemistich">pour un moment,</seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB179_PB-l-24">
             <seg type="hemistich">que jaillisse de mon c&#339;ur</seg>
             <seg type="hemistich">mon propre chant.</seg>
           </l>
-          <l n="3">Oh oh !</l>
-          <l n="4">Je suis tout en fleur ...</l>
+          <l n="3" xml:id="CB179_PB-l-25">Oh oh !</l>
+          <l n="4" xml:id="CB179_PB-l-26">Je suis tout en fleur ...</l>
         </lg>
-        <lg type="strophe" n="VII">
-          <l n="1">
+        <lg type="strophe" n="VII" xml:id="CB179_PB-lg-8">
+          <l n="1" xml:id="CB179_PB-l-27">
             <seg type="hemistich">L&#8217;homme peut &#234;tre patient</seg>
             <seg type="hemistich">par mauvais temps,</seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB179_PB-l-28">
             <seg type="hemistich">mais au souffle du printemps</seg>
             <seg type="hemistich">se fait pressant.</seg>
           </l>
-          <l n="3">Oh oh !</l>
-          <l n="4">Je suis tout en fleur ...</l>
+          <l n="3" xml:id="CB179_PB-l-29">Oh oh !</l>
+          <l n="4" xml:id="CB179_PB-l-30">Je suis tout en fleur ...</l>
         </lg>
-        <lg type="strophe" n="VIII">
-          <l n="1">
+        <lg type="strophe" n="VIII" xml:id="CB179_PB-lg-9">
+          <l n="1" xml:id="CB179_PB-l-31">
             <seg type="hemistich">Viens &#224; moi, viens, demoiselle,</seg>
             <seg type="hemistich">pour notre joie,</seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB179_PB-l-32">
             <seg type="hemistich">viens donc, viens, ma toute belle,</seg>
             <seg type="hemistich">je n&#8217;en vis plus !</seg>
           </l>
-          <l n="3">Oh oh !</l>
-          <l n="4">Je suis tout en fleur ...</l>
+          <l n="3" xml:id="CB179_PB-l-33">Oh oh !</l>
+          <l n="4" xml:id="CB179_PB-l-34">Je suis tout en fleur ...</l>
         </lg>
       </div>
     </body>

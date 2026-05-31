@@ -1,10 +1,10 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="poem" met="6p+7pp/2x7pp/6p+7pp/2x(4p+4p/7pp)/8p/2x(8p/8p+2p)">
-        <lg type="strophe" met="6p+7pp/7pp/7pp/6p+7pp/4p+4p/7pp/4p+4p/7pp/8p/8p/8p+2p/8p/8p+2p" rhyme="a/a/a/a/b+b/c/d+d/c/e/e/e+f/e/e+f">
-          <l n="1">
+        <lg type="strophe" met="6p+7pp/7pp/7pp/6p+7pp/4p+4p/7pp/4p+4p/7pp/8p/8p/8p+2p/8p/8p+2p" rhyme="a/a/a/a/b+b/c/d+d/c/e/e/e+f/e/e+f" xml:id="CB047_bulh-lg-1">
+          <l n="1" xml:id="CB047_bulh-l-1">
             <seg type="hemistich">
               <w>Crucifigat</w>
               <w>omnes</w>
@@ -15,16 +15,16 @@
               <w>altera</w>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB047_bulh-l-2">
             <w>nova</w>
             <w>Christi</w>
             <w>vulnera</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB047_bulh-l-3">
             <w>arbor</w>
             <w>salutifera</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB047_bulh-l-4">
             <seg type="hemistich">
               <w>perditur</w>
               <w>sepulchrum</w>
@@ -35,7 +35,7 @@
               <w>dextera</w>
             </seg>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB047_bulh-l-5">
             <seg type="hemistich">
               <w>violente</w>
             </seg>
@@ -44,12 +44,12 @@
               <w>gente</w>
             </seg>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB047_bulh-l-6">
             <w>sola</w>
             <w>sedet</w>
             <w>civitas</w>
           </l>
-          <l n="9">
+          <l n="9" xml:id="CB047_bulh-l-7">
             <seg type="hemistich">
               <w>agni</w>
               <w>phedus</w>
@@ -59,21 +59,21 @@
               <w>edus</w>
             </seg>
           </l>
-          <l n="10">
+          <l n="10" xml:id="CB047_bulh-l-8">
             <w>plorat</w>
             <w>dotes</w>
             <w>perditas</w>
           </l>
-          <l n="11">
+          <l n="11" xml:id="CB047_bulh-l-9">
             <w>Sponsa</w>
             <w>Syon</w>
             <w>inmolatur</w>
           </l>
-          <l n="12">
+          <l n="12" xml:id="CB047_bulh-l-10">
             <w>Ananias</w>
             <w>incurvatur</w>
           </l>
-          <l n="13">
+          <l n="13" xml:id="CB047_bulh-l-11">
             <seg type="hemistich">
             <w>cornu</w>
             <w>David</w>
@@ -83,12 +83,12 @@
             <w>mundus</w>
             </seg>
           </l>
-          <l n="15">
+          <l n="15" xml:id="CB047_bulh-l-12">
             <w>ab</w>
             <w>iniustis</w>
             <w>abdicatur</w>
           </l>
-          <l n="16">
+          <l n="16" xml:id="CB047_bulh-l-13">
             <seg type="hemistich">
             <w>per</w>
             <w>quem</w>
