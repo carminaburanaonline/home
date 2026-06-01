@@ -8,7 +8,7 @@ export async function initMirador(item, source) {
 
   // If no manifest: link to images, or images not available
 
-  if (!source.IIIF_manifest.length) {
+  if (!source.links.iiif) {
     if (item.alternative_img_link.length) {
 
       const wrapper = document.createElement("span");
@@ -17,8 +17,7 @@ export async function initMirador(item, source) {
         <a target="_blank" href="${item.alternative_img_link}">
           <i class="fa fa-arrow-right" style="margin-right: 5px;"></i>
           Open external website.
-        </a>
-      `;
+        </a>`;
       msImage.appendChild(wrapper);
 
     } else {
@@ -40,7 +39,7 @@ export async function initMirador(item, source) {
 
   // MIRADOR LOGIC
 
-  var source_manifest = source.IIIF_manifest;
+  var source_manifest = source.links.iiif;
   var canvasIndex = item.IIIF_canvasIndex;
   var canvasId = item.IIIF_canvasId;
   var mirador_windows = [];
