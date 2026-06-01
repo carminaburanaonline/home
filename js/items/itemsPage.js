@@ -12,6 +12,9 @@ export async function initItemsPage() {
     source: sources.find(s => s.id == i.source)
   }));
 
+  for (var x in rows) {
+    if (!rows[x].source) { console.log(rows[x].item); }
+  }
   rows.forEach(r => table.appendChild(createRow(r)));
 }
 
@@ -42,8 +45,8 @@ function createRow(r) {
   ));
 
   tr.appendChild(makeCell(
-    `source?pk=${r.source.id}`,
-    r.source.bib_id
+    `source?id=${r.source.id}`,
+    r.source.rism
   ));
 
   return tr;

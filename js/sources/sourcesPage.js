@@ -3,7 +3,7 @@
 import { filterSources, getFilters } from './filters.js';
 
 export async function initSourcesPage() {
-  const sources = await fetch('json/sources_final.json').then(r => r.json());
+  const sources = await fetch('json/sources.json').then(r => r.json());
 
   const filters = document.querySelectorAll('.filters input, .filters select');
 

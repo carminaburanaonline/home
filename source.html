@@ -38,7 +38,7 @@
       <script>
         var source, items;
         $.when(
-          $.getJSON("json/sources_final.json", function(data) {
+          $.getJSON("json/sources.json", function(data) {
             source = data.find((element) => element.id == sourceId);
           }),
           $.getJSON("json/items.json", function(data) {
