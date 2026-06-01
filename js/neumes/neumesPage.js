@@ -11,7 +11,7 @@ export async function initNeumesPage() {
 
 function createRow(neume) {
   const tr = document.createElement('tr');
-  const link = `neume?n=${neume.id}`;
+  const link = `neume?id=${neume.id}`;
 
   const td1 = document.createElement('td');
   td1.textContent = neume.total_count;

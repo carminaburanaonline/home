@@ -23,7 +23,6 @@ export async function initNeumePage() {
     document.getElementById('description').innerHTML += "<p>Only one occurrence</p>";
   }
 
-
   document.getElementById('svgDownload').href = `neumes/svg/buranus${neume.id}.svg`;
   document.getElementById('svgDownload').setAttribute('download', `${neume.description}.svg`);
   document.getElementById('epsDownload').href = `neumes/eps/buranus${neume.id}.svg`;
@@ -43,19 +42,22 @@ function locationElement(neumeId, location, items, sources) {
 
   const button = document.createElement('button');
   button.id = `showButton-${itemId}`;
+  button.textContent = "▶";
   button.classList.add('toggleable');
+
   const a = document.createElement('a');
   a.href = `item?id=${itemId}`;
   a.textContent = `${item.abstract_item} ${item.title} ${source.rism}`;
-  const titleDiv = document.createElement('div');
-  titleDiv.append(button, a);
-  titleDiv.innerHTML += ` (${location.count}) `;
 
+  const countSpan = document.createElement('span');
+  countSpan.textContent = ` (${location.count})`;
+
+  const titleDiv = document.createElement('div');
+  titleDiv.append(button, a, countSpan);
 
   const snippetDiv = document.createElement('div');
   snippetDiv.id = `snippetDiv-${itemId}`;
-  snippetDiv.classList.add('sand-border', 'editorial');
-  snippetDiv.classList.toggle('hidden');
+  snippetDiv.classList.add('sand-border', 'editorial', 'hidden');
 
   setupToggle(button, snippetDiv, async (div) => {await fillSnippet(div, `${itemId}.tei`, neumeId); });
 
@@ -72,9 +74,9 @@ function setupToggle(button, snippetDiv, onFirstShow) {
 
   button.addEventListener('click', async () => {
     const isHidden = snippetDiv.classList.contains('hidden');
+    snippetDiv.classList.toggle('hidden');
 
     if (isHidden) {
-      snippetDiv.classList.remove('hidden');
       button.textContent = "▼";  // expanded
 
       if (!loaded) {
@@ -83,7 +85,6 @@ function setupToggle(button, snippetDiv, onFirstShow) {
       }
 
     } else {
-      snippetDiv.classList.add('hidden');
       button.textContent = "▶";  // collapsed
     }
   });
@@ -93,7 +94,6 @@ async function fillSnippet(div, file, neumeId) {
   div.textContent = "Loading...";
 
   const fragment = await transformTEI(file, "xsl/neume-detail.xsl", neumeId);
-  console.log(fragment);
 
   div.innerHTML = '';
   div.appendChild(fragment);
