@@ -4,7 +4,7 @@
   <xsl:template match="teiHeader"/>
 
   <xsl:template match="body">
-    <div class="text-font" style="font-size: 16px;">
+    <div>
       <xsl:apply-templates />
     </div>
   </xsl:template>

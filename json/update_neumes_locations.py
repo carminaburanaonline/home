@@ -42,8 +42,10 @@ def locator_tei(N):
 					local_list[n] = [id]
 
 		for n in local_list.keys():
-			locator[n].append({'file': name, 'count': local_counter[n], 'ids': local_list[n]})
+			locator[n].append({'file': name[:-4], 'count': local_counter[n], 'ids': local_list[n]})
 
+	for n in locator.keys():
+		locator[n].sort(key=lambda x: x['count'], reverse=True)
 	return locator
 
 
@@ -54,11 +56,6 @@ locator = locator_tei(len(neumes))
 
 for neume in neumes:
 	neume['locations'] = locator[f"{neume['n']}"]
-
-for neume in neumes:
-	neume['total_count'] = neume.pop('count')
-
-print(neumes)
 
 with open("neumes.json", "w", encoding="utf-8") as f:
 	json.dump(neumes, f, indent=2, ensure_ascii=False)

@@ -3,6 +3,7 @@ import { indentVerses } from '../editorial/indentVerses.js';
 import { wordsAndSyllables } from '../editorial/wordsAndSyllables.js';
 import { normalizeVerseNumbers } from '../editorial/verseNumbers.js';
 import { normalizePunctuation } from '../editorial/normalizePunctuation.js';
+import { setLeadingConsonants } from '../editorial/leadingConsonants.js';
 import { fillVerseMetrics } from '../editorial/fillVerseMetrics.js';
 import { wireWordHighlighter } from '../editorial/wireWordHighlighter.js';
 
@@ -29,6 +30,7 @@ export async function itemCoreView(container, item) {
   wordsAndSyllables(container);
   normalizeVerseNumbers(container, 5);
   normalizePunctuation(container);
+  setLeadingConsonants(container);
   fillVerseMetrics(container);
 
   // --- Interaction wiring ---

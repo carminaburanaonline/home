@@ -4,7 +4,7 @@
   <xsl:template match="teiHeader"/>
 
   <xsl:template match="body">
-    <div class="text-font" style="font-size: 16px;">
+    <div>
       <xsl:apply-templates />
     </div>
   </xsl:template>
@@ -16,7 +16,8 @@
   </xsl:template>
 
   <xsl:template match="div/head">
-    <b><xsl:apply-templates /></b><span class="break"></span>
+    <div class="head"><xsl:apply-templates /></div>
+    <!--<b><xsl:apply-templates /></b><span class="break"></span>-->
   </xsl:template>
 
   <xsl:template match="prologue">
@@ -53,7 +54,7 @@
   </xsl:template>
 
   <xsl:template match="p">
-    <p class="text-font flex-wrapper"><xsl:apply-templates /></p>
+    <div class="paragraph"><xsl:apply-templates /></div>
   </xsl:template>
 
   <xsl:template match="div[@type='poem'] | div[@type='sequence']">
@@ -146,8 +147,6 @@
     <xsl:apply-templates/>
   </div>
   </xsl:template>
-
-  <!--<xsl:include href="word-and-syll.xsl"/>-->
 
   <xsl:template match="w">
     <span class="word editorial" style="vertical-align: bottom;">
