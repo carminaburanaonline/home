@@ -11,7 +11,7 @@ import { wireWordHighlighter } from '../editorial/wireWordHighlighter.js';
 export async function itemCoreView(container, item) {
   if (!container || !item) return;
 
-  const itemId = item.file
+  const itemId = item.id
   const template = 'templates/item_core_view.html'
 
   const html = await fetch(template).then(r => r.text());
@@ -47,7 +47,7 @@ export async function itemCoreView(container, item) {
 export async function SVGitemCoreView(container, item) {
   if (!container || !item) return;
 
-  const itemId = item.file
+  const itemId = item.id
   const template = 'templates/item_core_view_svg.html'
 
   const html = await fetch(template).then(r => r.text());
@@ -82,7 +82,7 @@ export async function SVGitemCoreView(container, item) {
 }
 
 async function addSvgImages(container, item) {
-  const itemId = item.file
+  const itemId = item.id
 
   // Create or find the SVG container
   let svgContainer = container.querySelector(`#svg-${itemId}`);

@@ -20,8 +20,8 @@ export async function initItemPage() {
     fetch("json/sources.json").then(r => r.json())
   ]);
 
-  const item = items.find(i => i.file == itemId);
-  const source = sources.find(s => s.pk == item.source);
+  const item = items.find(i => i.id == itemId);
+  const source = sources.find(s => s.id == item.source);
 
   // Item metadata
   renderItemMetadata(document.getElementById('metadata'), item, source);

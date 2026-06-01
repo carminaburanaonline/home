@@ -38,8 +38,8 @@ export async function initNeumePage() {
 function locationElement(n, location, items, sources) {
   const itemId = location.file;
   const count = location.count;
-  const item = items.find(i => i.file == itemId);
-  const source = sources.find(s => s.pk == item.source);
+  const item = items.find(i => i.id == itemId);
+  const source = sources.find(s => s.id == item.source);
 
   const a = document.createElement('a');
   a.href = `item?id=${itemId}`;

@@ -11,7 +11,7 @@
   <!-- Get primary key of the source from the URL -->
   <script>
     const params = new URLSearchParams(document.location.search);
-    const source_pk = params.get("pk");
+    const sourceId = params.get("id");
   </script>
 
   <!-- Add additional CSS in static file -->
@@ -38,34 +38,18 @@
       <script>
         var source, items;
         $.when(
-          $.getJSON("json/sources.json", function(data) {
-            source = data.find((element) => element.pk == source_pk);
+          $.getJSON("json/sources_final.json", function(data) {
+            source = data.find((element) => element.id == sourceId);
           }),
           $.getJSON("json/items.json", function(data) {
-            items = data.filter((element) => element.source == source_pk);
+            items = data.filter((element) => element.source == sourceId);
           })
         ).then(function() {
           s = `
-            <h2>${source.bib_id}</a></h1>
-            <h3>${source.location} (${source.country})</h2>`;
-
-          if (source.century) {
-            s += `
-              <h4>Datation</h4>
-              <p>${source.century} century.</p>`;
-          }
-          if (source.notation) {
-            s += `
-              <h4>Musical notation</h4>
-              <p>${source.notation}.</p>`;
-          }
-          if (source.url) {
-            s += `
-              <h4>External link</h4>
-              <a href='${source.url}' target='_blank'>${source.url}</a>`;
-          }
+            <h3>${source.rism}</h3>
+            <p>${source.city}, ${source.library} (${source.country})</p>`;
           $("#metadata").html(s);
-          s = `<h3>Concordances</h2>
+          s = `<h4>Concordances</h4>
             <table>
             <tr class='head'><th>CB #</th><th>Title</th><th>Foliation</th></tr>
             `;

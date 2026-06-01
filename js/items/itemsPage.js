@@ -9,7 +9,7 @@ export async function initItemsPage() {
   const table = document.getElementById('itemsTable');
   const rows = items.map(i => ({
     item: i,
-    source: sources.find(s => s.pk == i.source)
+    source: sources.find(s => s.id == i.source)
   }));
 
   rows.forEach(r => table.appendChild(createRow(r)));
@@ -18,7 +18,7 @@ export async function initItemsPage() {
 function createRow(r) {
   const tr = document.createElement('tr');
 
-  if (r.source.pk == 106 || r.source.pk == 107) {
+  if (r.source.id == 106 || r.source.id == 107) {
     tr.classList.add('highlight-row');
   }
 
@@ -37,12 +37,12 @@ function createRow(r) {
   ));
 
   tr.appendChild(makeCell(
-    `item?id=${r.item.file}`,
+    `item?id=${r.item.id}`,
     r.item.title
   ));
 
   tr.appendChild(makeCell(
-    `source?pk=${r.source.pk}`,
+    `source?pk=${r.source.id}`,
     r.source.bib_id
   ));
 

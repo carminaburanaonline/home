@@ -9,11 +9,11 @@ export async function initItemSiblings({ tableContainer, titleContainer, selecte
 
   const siblings = items.filter(i => (i.file !== itemId) && (i.abstract_item === current.abstract_item)).map(i => ({
     item: i,
-    source: sources.find(s => s.pk === i.source)
+    source: sources.find(s => s.id === i.source)
   }));
   const other_rows = items.filter(i => (i.file !== itemId) && (i.abstract_item !== current.abstract_item)).map(i => ({
     item: i,
-    source: sources.find(s => s.pk === i.source)
+    source: sources.find(s => s.id === i.source)
   }));
 
   if (siblings.length) {
@@ -41,11 +41,11 @@ export async function initItemSiblings({ tableContainer, titleContainer, selecte
   tableContainer.querySelectorAll('[data-item]').forEach(a => {
     a.addEventListener('click', async e => {
       e.preventDefault();
-      const item = items.find(i => i.file == a.dataset.item);
-      const source = sources.find(s => s.pk == item.source);
+      const item = items.find(i => i.id == a.dataset.item);
+      const source = sources.find(s => s.id == item.source);
       openItem(item);
       titleContainer.querySelector("a").innerHTML = `${item.abstract_item} ${item.title}, ${source.bib_id}`;
-      titleContainer.querySelector("a").setAttribute("href", `item?id=${item.file}`);
+      titleContainer.querySelector("a").setAttribute("href", `item?id=${item.id}`);
       titleContainer.style.display = 'block';
       selectedContainer.style.display = 'block';
       tableContainer.style.display = 'none';
