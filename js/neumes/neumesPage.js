@@ -11,7 +11,7 @@ export async function initNeumesPage() {
 
 function createRow(neume) {
   const tr = document.createElement('tr');
-  const link = `neume?n=${neume.n}`;
+  const link = `neume?n=${neume.id}`;
 
   const td1 = document.createElement('td');
   td1.textContent = neume.total_count;
@@ -20,7 +20,7 @@ function createRow(neume) {
   const imgLink = document.createElement('a');
   imgLink.href = link;
   const img = document.createElement('img');
-  img.src = `neumes/svg/buranus${neume.n}.svg`;
+  img.src = `neumes/svg/buranus${neume.id}.svg`;
   imgLink.append(img);
   td2.append(imgLink);
 
