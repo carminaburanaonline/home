@@ -4,14 +4,14 @@ export async function initItemSiblings({ tableContainer, titleContainer, selecte
     fetch('json/sources.json').then(r => r.json())
   ]);
 
-  const current = items.find(i => i.file === itemId);
+  const current = items.find(i => i.id === itemId);
   if (!current) return;
 
-  const siblings = items.filter(i => (i.file !== itemId) && (i.abstract_item === current.abstract_item)).map(i => ({
+  const siblings = items.filter(i => (i.id !== itemId) && (i.abstract_item === current.abstract_item)).map(i => ({
     item: i,
     source: sources.find(s => s.id === i.source)
   }));
-  const other_rows = items.filter(i => (i.file !== itemId) && (i.abstract_item !== current.abstract_item)).map(i => ({
+  const other_rows = items.filter(i => (i.id !== itemId) && (i.abstract_item !== current.abstract_item)).map(i => ({
     item: i,
     source: sources.find(s => s.id === i.source)
   }));
@@ -20,12 +20,12 @@ export async function initItemSiblings({ tableContainer, titleContainer, selecte
     tableContainer.innerHTML = `<table>${siblings.map(r => `
       <tr>
         <td>${r.item.abstract_item}</td>
-        <td><a href="#" data-item="${r.item.file}">${r.item.title}</a></td>
+        <td><a href="#" data-item="${r.item.id}">${r.item.title}</a></td>
         <td>${r.source.bib_id}</td>
       </tr>`).join('')}<tr><td colspan='3'><hr/></td></tr>${other_rows.map(r => `
       <tr>
         <td>${r.item.abstract_item}</td>
-        <td><a href="#" data-item="${r.item.file}">${r.item.title}</a></td>
+        <td><a href="#" data-item="${r.item.id}">${r.item.title}</a></td>
         <td>${r.source.bib_id}</td>
       </tr>`).join('')}</table>`;
   }
@@ -33,7 +33,7 @@ export async function initItemSiblings({ tableContainer, titleContainer, selecte
     tableContainer.innerHTML = `<table>${other_rows.map(r => `
       <tr>
         <td>${r.item.abstract_item}</td>
-        <td><a href="#" data-item="${r.item.file}">${r.item.title}</a></td>
+        <td><a href="#" data-item="${r.item.id}">${r.item.title}</a></td>
         <td>${r.source.bib_id}</td>
       </tr>`).join('')}</table>`;
   }
