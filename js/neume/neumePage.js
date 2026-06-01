@@ -3,19 +3,19 @@
 import { normalizePunctuation } from '../editorial/normalizePunctuation.js';
 
 export async function initNeumePage() {
-  const n = new URLSearchParams(location.search).get('n');
+  const neumeId = new URLSearchParams(location.search).get('id');
 
   const [neumes, items, sources] = await Promise.all([
     fetch("json/neumes.json").then(r => r.json()),
     fetch("json/items.json").then(r => r.json()),
     fetch("json/sources.json").then(r => r.json())
   ]);
-  const neume = neumes.find(neume => neume.n == n);
+  const neume = neumes.find(neume => neume.id == neumeId);
 
   // Description
   document.getElementById('description').innerHTML = `
     <h3>${neume.description}</h3>
-    <img src='neumes/svg/buranus${neume.n}.svg' style="width: 40px; height: auto;" />`;
+    <img src='neumes/svg/buranus${neume.id}.svg' style="width: 40px; height: auto;" />`;
   if (neume.total_count > 1) {
     document.getElementById('description').innerHTML += `<p>${neume.total_count} total occurrences</p>`;
   }
@@ -24,41 +24,40 @@ export async function initNeumePage() {
   }
 
 
-  document.getElementById('svgDownload').href = `neumes/svg/buranus${neume.n}.svg`;
+  document.getElementById('svgDownload').href = `neumes/svg/buranus${neume.id}.svg`;
   document.getElementById('svgDownload').setAttribute('download', `${neume.description}.svg`);
-  document.getElementById('epsDownload').href = `neumes/eps/buranus${neume.n}.svg`;
+  document.getElementById('epsDownload').href = `neumes/eps/buranus${neume.id}.svg`;
   document.getElementById('epsDownload').setAttribute('download', `${neume.description}.svg`);
 
   const container = document.getElementById('snippetsContainer')
   neume.locations.forEach(location => {
-    container.appendChild(locationElement(n, location, items, sources));
+    container.appendChild(locationElement(neumeId, location, items, sources));
   })
 }
 
-function locationElement(n, location, items, sources) {
+function locationElement(neumeId, location, items, sources) {
   const itemId = location.file;
   const count = location.count;
   const item = items.find(i => i.id == itemId);
   const source = sources.find(s => s.id == item.source);
 
-  const a = document.createElement('a');
-  a.href = `item?id=${itemId}`;
-  a.textContent = `${item.abstract_item} ${item.title} ${source.bib_id}`;
   const button = document.createElement('button');
   button.id = `showButton-${itemId}`;
   button.classList.add('toggleable');
-  button.textContent = "↓";
+  const a = document.createElement('a');
+  a.href = `item?id=${itemId}`;
+  a.textContent = `${item.abstract_item} ${item.title} ${source.rism}`;
   const titleDiv = document.createElement('div');
-  titleDiv.append(a)
+  titleDiv.append(button, a);
   titleDiv.innerHTML += ` (${location.count}) `;
-  titleDiv.append(button);
+
 
   const snippetDiv = document.createElement('div');
   snippetDiv.id = `snippetDiv-${itemId}`;
   snippetDiv.classList.add('sand-border', 'editorial');
   snippetDiv.classList.toggle('hidden');
 
-  setupToggle(button, snippetDiv, async (div) => {await fillSnippet(div, `${itemId}.tei`, n); });
+  setupToggle(button, snippetDiv, async (div) => {await fillSnippet(div, `${itemId}.tei`, neumeId); });
 
   const res = document.createElement('div');
   res.append(titleDiv, snippetDiv);
@@ -69,14 +68,14 @@ function locationElement(n, location, items, sources) {
 function setupToggle(button, snippetDiv, onFirstShow) {
   let loaded = false;
 
-  button.textContent = "↓"; // initial state
+  button.textContent = "▶"; // initial state
 
   button.addEventListener('click', async () => {
     const isHidden = snippetDiv.classList.contains('hidden');
 
     if (isHidden) {
       snippetDiv.classList.remove('hidden');
-      button.textContent = "↑";  // expanded
+      button.textContent = "▼";  // expanded
 
       if (!loaded) {
         await onFirstShow(snippetDiv);
@@ -85,15 +84,15 @@ function setupToggle(button, snippetDiv, onFirstShow) {
 
     } else {
       snippetDiv.classList.add('hidden');
-      button.textContent = "↓";  // collapsed
+      button.textContent = "▶";  // collapsed
     }
   });
 }
 
-async function fillSnippet(div, file, n) {
+async function fillSnippet(div, file, neumeId) {
   div.textContent = "Loading...";
 
-  const fragment = await transformTEI(file, "xsl/neume-detail.xsl", n);
+  const fragment = await transformTEI(file, "xsl/neume-detail.xsl", neumeId);
   console.log(fragment);
 
   div.innerHTML = '';
@@ -103,7 +102,7 @@ async function fillSnippet(div, file, n) {
 }
 
 
-async function transformTEI(file, xsltUrl, n) {
+async function transformTEI(file, xsltUrl, neumeId) {
   // fetch XML
   const xmlText = await fetch(`tei/${file}`).then(r => r.text());
   const xmlDoc = new DOMParser().parseFromString(xmlText, "text/xml");
@@ -117,7 +116,7 @@ async function transformTEI(file, xsltUrl, n) {
   processor.importStylesheet(xsltDoc);
 
   // pass parameter (important!)
-  processor.setParameter(null, "n", n);
+  processor.setParameter(null, "n", neumeId);
 
   // transform
   return processor.transformToFragment(xmlDoc, document);
