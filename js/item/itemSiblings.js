@@ -21,12 +21,12 @@ export async function initItemSiblings({ tableContainer, titleContainer, selecte
       <tr>
         <td>${r.item.abstract_item}</td>
         <td><a href="#" data-item="${r.item.id}">${r.item.title}</a></td>
-        <td>${r.source.bib_id}</td>
+        <td>${r.source.rism}</td>
       </tr>`).join('')}<tr><td colspan='3'><hr/></td></tr>${other_rows.map(r => `
       <tr>
         <td>${r.item.abstract_item}</td>
         <td><a href="#" data-item="${r.item.id}">${r.item.title}</a></td>
-        <td>${r.source.bib_id}</td>
+        <td>${r.source.rism}</td>
       </tr>`).join('')}</table>`;
   }
   else {
@@ -34,7 +34,7 @@ export async function initItemSiblings({ tableContainer, titleContainer, selecte
       <tr>
         <td>${r.item.abstract_item}</td>
         <td><a href="#" data-item="${r.item.id}">${r.item.title}</a></td>
-        <td>${r.source.bib_id}</td>
+        <td>${r.source.rism}</td>
       </tr>`).join('')}</table>`;
   }
 
@@ -44,7 +44,7 @@ export async function initItemSiblings({ tableContainer, titleContainer, selecte
       const item = items.find(i => i.id == a.dataset.item);
       const source = sources.find(s => s.id == item.source);
       openItem(item);
-      titleContainer.querySelector("a").innerHTML = `${item.abstract_item} ${item.title}, ${source.bib_id}`;
+      titleContainer.querySelector("a").innerHTML = `${item.abstract_item} ${item.title}, ${source.rism}`;
       titleContainer.querySelector("a").setAttribute("href", `item?id=${item.id}`);
       titleContainer.style.display = 'block';
       selectedContainer.style.display = 'block';
