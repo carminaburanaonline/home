@@ -45,6 +45,7 @@
             items = data.filter((element) => element.source == sourceId);
           })
         ).then(function() {
+          console.log(items);
           s = `
             <h3>${source.rism}</h3>
             <p>${source.city}, ${source.library} (${source.country})</p>`;
@@ -55,7 +56,7 @@
             `;
           for (var x in items) {
             var item = items[x];
-            s += `<tr><td><a href='abstract_item?id=${item.abstract_item}'>${item.abstract_item}</a></td><td><a href='item?id=${item.file}'>${item.title}</a></td><td>${item.foliation}</td></tr>`;
+            s += `<tr><td><a href='abstract_item?id=${item.abstract_item}'>${item.abstract_item}</a></td><td><a href='item?id=${item.id}'>${item.title}</a></td><td>${item.foliation}</td></tr>`;
           }
           s += "</table>";
           $("#concordances").html(s);
