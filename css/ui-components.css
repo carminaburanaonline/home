@@ -39,6 +39,14 @@ button:focus {
   outline: none;
 }
 
+.toggle-btn {
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-size: 0.75em;
+  padding: 6px 12px;
+}
+
 /* -------------------------
    Tabs container
    ------------------------- */

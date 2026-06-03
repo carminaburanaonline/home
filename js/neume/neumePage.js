@@ -43,7 +43,7 @@ function locationElement(neumeId, location, items, sources) {
   const button = document.createElement('button');
   button.id = `showButton-${itemId}`;
   button.textContent = "▶";
-  button.classList.add('toggleable');
+  button.classList.add('toggleable', 'toggle-btn');
 
   const a = document.createElement('a');
   a.href = `item?id=${itemId}`;
