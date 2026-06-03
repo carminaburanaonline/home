@@ -1,46 +1,46 @@
 <TEI>
-  <teiHeader></teiHeader>
+  <teiHeader />
   <text>
     <body>
       <div type="poem" xml:lang="french">
         <lg type="strophe" n="I">
           <l n="1">
             <seg type="hemistich">Un long espoir douteux,</seg>
-            <seg type="hemistich">tout mêlé de frayeur,</seg>
+            <seg type="hemistich">tout m&#234;l&#233; de frayeur,</seg>
           </l>
           <l n="2">
-            <seg type="hemistich">a plongé mon esprit</seg>
+            <seg type="hemistich">a plong&#233; mon esprit</seg>
             <seg type="hemistich">en soupirs et douleur.</seg>
           </l>
           <l n="3">
             <seg type="hemistich">Depuis longtemps anxieux,</seg>
             <seg type="hemistich">il demeure amoureux.</seg>
           </l>
-          <l n="4" rend="indent(1)">Pourtant je n’écarte pas cette sombre douleur.</l>
+          <l n="4" rend="indent(1)">Pourtant je n&#8217;&#233;carte pas cette sombre douleur.</l>
         </lg>
         <lg type="strophe" n="II">
-          <l n="1">Malheur à qui ce long délai, qui lui profita peu, </l>
+          <l n="1">Malheur &#224; qui ce long d&#233;lai, qui lui profita peu, </l>
           <l n="2">
-            <seg type="hemistich">et son éloignement</seg>
-            <seg type="hemistich">ont donné rarement</seg>
+            <seg type="hemistich">et son &#233;loignement</seg>
+            <seg type="hemistich">ont donn&#233; rarement</seg>
           </l>
           <l n="3">
             <seg type="hemistich">ce que tient pour meilleur</seg>
-            <seg type="hemistich">l’affection du cœur !</seg>
+            <seg type="hemistich">l&#8217;affection du c&#339;ur !</seg>
           </l>
           <l n="4" rend="indent(1)">
-            <seg type="hemistich">Tout homme généreux</seg>
-            <seg type="hemistich">hait l’avaricieux.</seg>
+            <seg type="hemistich">Tout homme g&#233;n&#233;reux</seg>
+            <seg type="hemistich">hait l&#8217;avaricieux.</seg>
           </l>
         </lg>
         <lg type="strophe" n="III">
           <l n="1">
-            <seg type="hemistich">Par ce las est serré</seg>
-            <seg type="hemistich">ce nœud qui n’attache pas,</seg>
+            <seg type="hemistich">Par ce las est serr&#233;</seg>
+            <seg type="hemistich">ce n&#339;ud qui n&#8217;attache pas,</seg>
           </l>
-          <l n="2">et aucune mesure n’est admise en cette affaire. </l>
+          <l n="2">et aucune mesure n&#8217;est admise en cette affaire. </l>
           <l n="3">
-            <seg type="hemistich">Jamais délié, ce nœud</seg>
+            <seg type="hemistich">Jamais d&#233;li&#233;, ce n&#339;ud</seg>
             <seg type="hemistich">de plus en plus se serre.</seg>
           </l>
           <l n="4" rend="indent(1)">
@@ -50,7 +50,7 @@
         </lg>
         <lg type="strophe" n="IV">
           <l n="1">
-            <seg type="hemistich">J’aime plus que toutes celle</seg>
+            <seg type="hemistich">J&#8217;aime plus que toutes celle</seg>
             <seg type="hemistich">que ne surpasse pas la rose,</seg>
           </l>
           <l n="2">
@@ -58,7 +58,7 @@
             <seg type="hemistich">ni en vers ni en prose,</seg>
           </l>
           <l n="3">
-            <seg type="hemistich">ni par la voix, ni par l’écrit,</seg>
+            <seg type="hemistich">ni par la voix, ni par l&#8217;&#233;crit,</seg>
             <seg type="hemistich">combien elle est merveilleuse.</seg>
           </l>
           <l n="4" rend="indent(1)">
@@ -68,20 +68,20 @@
         </lg>
         <lg type="strophe" n="V">
           <l n="1">
-            <seg type="hemistich">Je t’en supplie instamment,</seg>
-            <seg type="hemistich">déesse par la valeur,</seg>
+            <seg type="hemistich">Je t&#8217;en supplie instamment,</seg>
+            <seg type="hemistich">d&#233;esse par la valeur,</seg>
           </l>
           <l n="2">
             <seg type="hemistich">desserre en moi</seg>
-            <seg type="hemistich">les chaînes de l’angoisse,</seg>
+            <seg type="hemistich">les cha&#238;nes de l&#8217;angoisse,</seg>
           </l>
           <l n="3">
-            <seg type="hemistich">que le risque d’en mourir</seg>
-            <seg type="hemistich">ne récompense pas ma dévotion.</seg>
+            <seg type="hemistich">que le risque d&#8217;en mourir</seg>
+            <seg type="hemistich">ne r&#233;compense pas ma d&#233;votion.</seg>
           </l>
           <l n="4" rend="indent(1)">
             <seg type="hemistich">A toi seule louange,</seg>
-            <seg type="hemistich">louange à toi seule !</seg>
+            <seg type="hemistich">louange &#224; toi seule !</seg>
           </l>
         </lg>
         <lg type="strophe" n="VI">
@@ -90,30 +90,30 @@
             <seg type="hemistich">la superbe entre toutes</seg>
           </l>
           <l n="2">
-            <seg type="hemistich">dont l’amour me torture,</seg>
-            <seg type="hemistich">et les flammes brûlantes !</seg>
+            <seg type="hemistich">dont l&#8217;amour me torture,</seg>
+            <seg type="hemistich">et les flammes br&#251;lantes !</seg>
           </l>
           <l n="3">
             <seg type="hemistich">Je sens douloureusement</seg>
-            <seg type="hemistich">l’aiguillon de son amour.</seg>
+            <seg type="hemistich">l&#8217;aiguillon de son amour.</seg>
           </l>
           <l n="4" rend="indent(1)">
-            <seg type="hemistich">Trop plein d’amour,</seg>
-            <seg type="hemistich">trop plein d’amour !</seg>
+            <seg type="hemistich">Trop plein d&#8217;amour,</seg>
+            <seg type="hemistich">trop plein d&#8217;amour !</seg>
           </l>
         </lg>
         <lg type="strophe" n="VII">
           <l n="1">
-            <seg type="hemistich">Atteint d’un mal inopiné,</seg>
-            <seg type="hemistich">je demeure hébété,</seg>
+            <seg type="hemistich">Atteint d&#8217;un mal inopin&#233;,</seg>
+            <seg type="hemistich">je demeure h&#233;b&#233;t&#233;,</seg>
           </l>
           <l n="2">
-            <seg type="hemistich">angoissé je suis saisi</seg>
-            <seg type="hemistich">du sot délire de l’esprit.</seg>
+            <seg type="hemistich">angoiss&#233; je suis saisi</seg>
+            <seg type="hemistich">du sot d&#233;lire de l&#8217;esprit.</seg>
           </l>
           <l n="3">
-            <seg type="hemistich">Dément, aimant plus encore,</seg>
-            <seg type="hemistich">je suis ligoté par l’amour.	</seg>
+            <seg type="hemistich">D&#233;ment, aimant plus encore,</seg>
+            <seg type="hemistich">je suis ligot&#233; par l&#8217;amour.	</seg>
           </l>
           <l n="4" rend="indent(1)">
             <seg type="hemistich">Pourtant je ne fuis pas</seg>
@@ -123,31 +123,31 @@
         <lg type="strophe" n="VIII">
           <l n="1">
             <seg type="hemistich">On prend mieux le poison</seg>
-            <seg type="hemistich">agrémenté de miel, </seg>
+            <seg type="hemistich">agr&#233;ment&#233; de miel, </seg>
           </l>
           <l n="2">
-            <seg type="hemistich">mais voilà mon cœur bridé</seg>
-            <seg type="hemistich">d’un mors inhabituel.</seg>
+            <seg type="hemistich">mais voil&#224; mon c&#339;ur brid&#233;</seg>
+            <seg type="hemistich">d&#8217;un mors inhabituel.</seg>
           </l>
           <l n="3">
             <seg type="hemistich">Et la voir est pour moi</seg>
             <seg type="hemistich">aiguillon et souffrance. </seg>
           </l>
-          <l n="4" rend="indent(1)">Térée a tant désiré Philomène ...</l>
+          <l n="4" rend="indent(1)">T&#233;r&#233;e a tant d&#233;sir&#233; Philom&#232;ne ...</l>
           <l n="5">		</l>
         </lg>
         <lg type="strophe" n="IX">
           <l n="1">
             <seg type="hemistich">Vrai, tout ce qui est en elle</seg>
-            <seg type="hemistich">exige d’être aimé,</seg>
+            <seg type="hemistich">exige d&#8217;&#234;tre aim&#233;,</seg>
           </l>
           <l n="2">
             <seg type="hemistich">on ne peut lui reprocher</seg>
-            <seg type="hemistich">fût-ce le bout d’un ongle</seg>
+            <seg type="hemistich">f&#251;t-ce le bout d&#8217;un ongle</seg>
           </l>
           <l n="3">
-            <seg type="hemistich">qui pourrait l’empêcher</seg>
-            <seg type="hemistich">d’être belle comme Hélène.</seg>
+            <seg type="hemistich">qui pourrait l&#8217;emp&#234;cher</seg>
+            <seg type="hemistich">d&#8217;&#234;tre belle comme H&#233;l&#232;ne.</seg>
           </l>
           <l n="4" rend="indent(1)">
             <seg type="hemistich">Lodircundeie !</seg>
@@ -157,11 +157,11 @@
         <lg type="strophe" n="X">
           <l n="1">
             <seg type="hemistich">Adressons aux dieux du ciel</seg>
-            <seg type="hemistich">l’hommage de nos poèmes,</seg>
+            <seg type="hemistich">l&#8217;hommage de nos po&#232;mes,</seg>
           </l>
           <l n="2">
             <seg type="hemistich">chantons ensemble, joyeux,</seg>
-            <seg type="hemistich">des chants mélodieux,</seg>
+            <seg type="hemistich">des chants m&#233;lodieux,</seg>
           </l>
           <l n="3">
             <seg type="hemistich">pour que nous restions en joie</seg>
@@ -174,20 +174,20 @@
         </lg>
         <lg type="strophe" n="XI">
           <l n="1">
-            <seg type="hemistich">« C’est un lieu délicieux</seg>
-            <seg type="hemistich">qu’il m’a indiqué,</seg>
+            <seg type="hemistich">&#171; C&#8217;est un lieu d&#233;licieux</seg>
+            <seg type="hemistich">qu&#8217;il m&#8217;a indiqu&#233;,</seg>
           </l>
           <l n="2">
-            <seg type="hemistich">où les fleurs et l’herbe</seg>
-            <seg type="hemistich">étaient en plein renouveau.</seg>
+            <seg type="hemistich">o&#249; les fleurs et l&#8217;herbe</seg>
+            <seg type="hemistich">&#233;taient en plein renouveau.</seg>
           </l>
           <l n="3">
-            <seg type="hemistich">J’y suis allée, comme il me l’a demandé.</seg>
-            <seg type="hemistich">Là, on me fit du mal.</seg>
+            <seg type="hemistich">J&#8217;y suis all&#233;e, comme il me l&#8217;a demand&#233;.</seg>
+            <seg type="hemistich">L&#224;, on me fit du mal.</seg>
           </l>
           <l n="4" rend="indent(1)">
             <seg type="hemistich">Lodircundeie !</seg>
-            <seg type="hemistich">Lodircundeie ! »</seg>
+            <seg type="hemistich">Lodircundeie ! &#187;</seg>
           </l>
         </lg>
       </div>

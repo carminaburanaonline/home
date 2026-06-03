@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader></teiHeader>
+  <teiHeader />
   <text>
     <body>
       <div type="poem" met="I-X:3x(7pp+6p) 5p+5p, XI:3x(4+3-) 3+3">
@@ -1393,7 +1393,7 @@
         <lg type="strophe" n="XI" met="4+3-/4+3-/4+3-/3+3" rhyme="a+b/a+b/a+b/c+c">
           <l n="1">
             <seg type="hemistich">
-              <pc resp="#editor" pre="true">«</pc>
+              <pc resp="#editor" pre="true">&#171;</pc>
               <w>
                 <seg type="syll" part="I">Ei</seg>
                 <seg type="syll" part="F">ne</seg>
@@ -1436,7 +1436,7 @@
                 <seg type="syll">die</seg>
               </w>
               <w>
-                <seg type="syll">blu&#x0366;men</seg>
+                <seg type="syll">blu&#870;men</seg>
               </w>
               <w>
                 <seg type="syll" part="I">un</seg>
@@ -1450,14 +1450,14 @@
               <app type="text">
                 <lem wit="T ldm">
                   <w>
-                    <seg type="syll" part="I">stu&#x0366;n</seg>
+                    <seg type="syll" part="I">stu&#870;n</seg>
                     <seg type="syll" part="F">den</seg>
                   </w>
                 </lem>
-                <rdg wit="cod. HSB V"><w>stuoden</w></rdg>
+                <rdg wit="cod. HSB V"><w>stu&#870;den</w></rdg>
               </app>
               <w>
-                <seg type="syll" part="I">gru&#x0366;</seg>
+                <seg type="syll" part="I">gru&#870;</seg>
                 <seg type="syll" part="F">ne</seg>
               </w>
               <w>
@@ -1533,7 +1533,7 @@
                 <seg type="syll" part="F">ie</seg>
               </w>
               <pc>&#183;</pc>
-              <pc resp="#editor">!»</pc>
+              <pc resp="#editor">!&#187;</pc>
             </seg>
           </l>
         </lg>
