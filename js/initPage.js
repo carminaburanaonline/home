@@ -1,7 +1,7 @@
 import { includeHTML } from './includes.js';
 import { loadLang, initLangSwitcher, updateActiveButton, applyTranslations } from './lang.js';
 
-export async function initPage(renderPage) {
+export async function initPage(renderPage = null) {
   await includeHTML();
 
   // --- determine language ---
@@ -21,7 +21,9 @@ export async function initPage(renderPage) {
   initLangSwitcher();
 
   // --- render the rest of the page ---
-  await renderPage();
+  if (renderPage) {
+    await renderPage();
+  }
 
   // --- fill text of elements according to language ---
   applyTranslations();
