@@ -1,6 +1,6 @@
 // Entry point for the page neume.html (detail of a single neume)
 
-import { t } from './lang.js'
+import { t } from '../lang.js'
 import { normalizePunctuation } from '../editorial/normalizePunctuation.js';
 
 export async function renderNeumePage() {
