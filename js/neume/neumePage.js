@@ -1,8 +1,9 @@
 // Entry point for the page neume.html (detail of a single neume)
 
+import { t } from './lang.js'
 import { normalizePunctuation } from '../editorial/normalizePunctuation.js';
 
-export async function initNeumePage() {
+export async function renderNeumePage() {
   const neumeId = new URLSearchParams(location.search).get('id');
 
   const [neumes, items, sources] = await Promise.all([
@@ -17,16 +18,16 @@ export async function initNeumePage() {
     <h3>${neume.description}</h3>
     <img src='neumes/svg/buranus${neume.id}.svg' style="width: 40px; height: auto;" />`;
   if (neume.total_count > 1) {
-    document.getElementById('description').innerHTML += `<p>${neume.total_count} total occurrences</p>`;
+    document.getElementById('description').innerHTML += `<p>${neume.total_count} occurrences</p>`;
   }
   else {
-    document.getElementById('description').innerHTML += "<p>Only one occurrence</p>";
+    document.getElementById('description').innerHTML += `<p>${t("onlyOneOccurrence")}</p>`;
   }
 
   document.getElementById('svgDownload').href = `neumes/svg/buranus${neume.id}.svg`;
-  document.getElementById('svgDownload').setAttribute('download', `${neume.description}.svg`);
+  document.getElementById('svgDownload').setAttribute('download', `Neume${neume.id}.svg`);
   document.getElementById('epsDownload').href = `neumes/eps/buranus${neume.id}.svg`;
-  document.getElementById('epsDownload').setAttribute('download', `${neume.description}.svg`);
+  document.getElementById('epsDownload').setAttribute('download', `Neume${neume.id}.svg`);
 
   const container = document.getElementById('snippetsContainer')
   neume.locations.forEach(location => {

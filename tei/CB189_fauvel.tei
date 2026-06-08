@@ -1,8 +1,8 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="5x7pp/4pp/2x7pp/2x8p/2x7pp/6p">
+      <div type="poem" met="5x7pp 4pp 2x7pp 2x8p 2x7pp 6p">
         <lg type="strophe" met="7pp/7pp/7pp/7pp/7pp/4pp/7pp/7pp/8p/8p/7pp/7pp/6p" rhyme="a/b/b/a/c/d/d/c/e/e/c/c/e" xml:id="CB189_fauvel-lg-1">
           <l n="1" xml:id="CB189_fauvel-l-1">
             <w>Vade</w>

@@ -5,27 +5,18 @@
   <!-- Button / tab bar -->
   <div class="tab">
 
-    <button id="openSvg"
-            class="item-specific tablinks activable"
-            data-tab-target="svg">
-      Music
-    </button>
+    <button id="openSvg" class="item-specific tablinks activable" data-tab-target="svg" data-i18n="music"></button>
 
-    <button id="openText"
-            class="item-specific tablinks activable"
-            data-tab-target="text">
-      Text
-    </button>
+    <button id="openText" class="item-specific tablinks activable" data-tab-target="text" data-i18n="text"></button>
 
     <!-- Dropdown -->
     <div class="dropdown" style="margin-left:auto">
       <button id="dropBtn" class="item-specific">☰</button>
 
-      <div class="dropdown-menu">
-        <button id="toggleMetricButton" class="item-specific toggleable">Metrical analysis</button>
-        <button id="toggleRhymeButton" class="item-specific toggleable">Rhyme scheme</button>
-        <button id="togglePunctuationButton" class="item-specific toggleable">Original punctuation</button>
-        <button id="toggleCriticalApparatus" class="item-specific toggleable active">Critical apparatus</button>
+      <div class="dropdown-menu" style="right: 0;">
+        <button id="toggleMetricButton" class="item-specific toggleable">Versification</button>
+        <button id="togglePunctuationButton" class="item-specific toggleable" data-i18n="originalPunctuation"></button>
+        <button id="toggleCriticalApparatus" class="item-specific toggleable active" data-i18n="criticalApparatus"></button>
       </div>
     </div>
 

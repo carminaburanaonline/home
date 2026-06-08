@@ -1,8 +1,9 @@
 // Entry point for the page neumes.html (list of neumes)
 
+import { t, applyTranslations } from '../lang.js';
 import { filterSources, getFilters } from './filters.js';
 
-export async function initSourcesPage() {
+export async function renderSourcesPage() {
   const sources = await fetch('json/sources.json').then(r => r.json());
 
   const filters = document.querySelectorAll('.filters input, .filters select');
@@ -16,7 +17,7 @@ export async function initSourcesPage() {
     renderTable(filtered);
   }
 
-  update(); // initial render
+  update(); // redraw table
 }
 
 function renderTable(sources) {
@@ -127,15 +128,9 @@ function buildDetailsContent(source) {
   const container = document.createElement('div');
   container.classList.add('details-box');
 
-  if (source.shelfmark) {
-    const p = document.createElement('p');
-    p.innerHTML = `<strong>Shelfmark:</strong> ${source.shelfmark}`;
-    container.appendChild(p);
-  }
-
   if (source.concordances?.length) {
     const p = document.createElement('p');
-    p.innerHTML = '<strong>Concordances:</strong> ' +
+    p.innerHTML = `<strong>${t("concordances")}:</strong> ` +
       source.concordances.map(c =>
         `<a href=abstract_item?id=${c.abstract_item}>${c.abstract_item}</a>${c.foliation ? ' (' + c.foliation + ')' : ''}`
       ).join(', ');
@@ -144,7 +139,7 @@ function buildDetailsContent(source) {
 
   if (source.notes) {
     const p = document.createElement('p');
-    p.innerHTML = `<strong>Notes:</strong> ${linkify(source.notes)}`;
+    p.innerHTML = `<strong>${t("notes")}:</strong> ${linkify(source.notes)}`;
     container.appendChild(p);
   }
 

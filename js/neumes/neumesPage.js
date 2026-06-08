@@ -1,6 +1,6 @@
 // Entry point for the page neumes.html (list of neumes)
 
-export async function initNeumesPage() {
+export async function renderNeumesPage() {
   const neumes = await fetch("json/neumes.json").then(r => r.json());
   neumes.sort(function(a, b) {return b.total_count - a.total_count});
 

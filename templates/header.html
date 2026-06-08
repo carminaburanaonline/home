@@ -2,21 +2,28 @@
   <nav class="navbar">
     <a class="nav-title" href="index"><b>CBO</b> Carmina Burana Online</a>
 
-    <a href="about">About</a>
+    <a href="about" data-i18n="aboutUs"></a>
+    <a href="about_edition" data-i18n="aboutEdition"></a>
 
     <div class="dropdown">
-      <button aria-haspopup="true">Edition</button>
+      <button aria-haspopup="true" data-i18n="edition"></button>
       <div class="dropdown-menu">
-        <a href="items">Items</a>
+        <a href="items" data-i18n="items"></a>
         <a href="sources">Sources</a>
         <a href="neumes">Neumes</a>
-        <a href="browse-items">Browse</a>
+        <!-- TODO: <a href="browse-items">Browse</a> -->
       </div>
     </div>
 
     <a href="publications">Publications</a>
     <a href="performance">Performance</a>
     <a href="contact">Contact</a>
+
+    <div id="lang-switch">
+      <button data-lang="en" title="English">🇬🇧</button>
+      <button data-lang="fr" title="Français">🇫🇷</button>
+    </div>
+
   </nav>
 
   <!-- Full-width header image -->

@@ -19,7 +19,7 @@
           <!-- add left-side content here (?) -->
         </div>
         <div style="flex: 80%">
-          <h1>Edited items</h1>
+          <h1 data-i18n="editedItems"></h1>
 
           <input type="text" id="searchInput" onkeyup="filterItems()" placeholder="Search..." style="width: 100%;">
           <script src="js/items/filterItems.js"></script>
@@ -27,7 +27,7 @@
           <table id="itemsTable" style="width: 100%; border-spacing: 0 2px;">
             <tr class="head">
               <th>CB #</th>
-              <th>Title</th>
+              <th data-i18n="title"></th>
               <th>Source</th>
             </tr>
           </table>
@@ -43,10 +43,11 @@
     </div>
 
     <script type="module">
-      import { initItemsPage } from './js/items/itemsPage.js';
-      initItemsPage();
+      import { initPage } from './js/initPage.js';
+      import { renderItemsPage } from './js/items/itemsPage.js';
+
+      initPage(renderItemsPage);
     </script>
-    <script type="module" src="js/includes.js"></script>
 
   </body>
 </html>

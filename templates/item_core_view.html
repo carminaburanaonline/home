@@ -5,17 +5,9 @@
   <!-- Button / tab bar -->
   <div class="tab">
 
-    <button id="openFormattedText"
-            class="item-specific tablinks activable"
-            data-tab-target="formattedText">
-      Formatted
-    </button>
+    <button id="openFormattedText" class="item-specific tablinks activable" data-tab-target="formattedText" data-i18n="formatted"></button>
 
-    <button id="openContinuousText"
-            class="item-specific tablinks activable"
-            data-tab-target="continuousText">
-      Continuous
-    </button>
+    <button id="openContinuousText" class="item-specific tablinks activable" data-tab-target="continuousText" data-i18n="continuous"></button>
 
     <!-- Dropdown -->
     <div class="dropdown" style="margin-left:auto">
@@ -25,8 +17,8 @@
         <button id="toggleNeumesButton" class="item-specific toggleable active">Neumes</button>
         <button id="toggleSyllablesButton" class="item-specific toggleable">Syllabation</button>
         <button id="toggleVersificationButton" class="item-specific toggleable">Versification</button>
-        <button id="togglePunctuationButton" class="item-specific toggleable">Original punctuation</button>
-        <button id="toggleCriticalApparatus" class="item-specific toggleable active">Critical apparatus</button>
+        <button id="togglePunctuationButton" class="item-specific toggleable" data-i18n="originalPunctuation"></button>
+        <button id="toggleCriticalApparatus" class="item-specific toggleable active" data-i18n="criticalApparatus"></button>
       </div>
     </div>
 
@@ -35,7 +27,7 @@
   <!-- Tab content -->
   <div class="tabcontent">
 
-    <input type="text" id="searchInput" class="item-specific" placeholder="Search word..." style="margin-bottom: 2px;">
+    <input type="text" id="searchInput" class="item-specific" placeholder="Search..." style="margin-bottom: 2px;">
 
     <div id="mainContainer" class="item-specific editorial">
 

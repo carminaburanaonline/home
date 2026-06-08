@@ -1,6 +1,6 @@
 // Entry point for the page items.html (table of edited items)
 
-export async function initItemsPage() {
+export async function renderItemsPage() {
   const [items, sources] = await Promise.all([
     fetch("json/items.json").then(r => r.json()),
     fetch("json/sources.json").then(r => r.json())

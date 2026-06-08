@@ -107,20 +107,20 @@
             <thead>
               <tr>
                 <th>RISM</th>
-                <th>Country</th>
-                <th>City</th>
-                <th>Library</th>
+                <th data-i18n="country"></th>
+                <th data-i18n="city"></th>
+                <th data-i18n="library"></th>
                 <th>
                   <span class="th-label">
-                    Links
+                    <span data-i18n="links"></span>
                     <span class="info-icon">i</span>
 
                     <div class="info-tooltip">
-                      <div>📄 Catalogue description</div>
-                      <div>🖼 Images (external website)</div>
+                      <div>📄<span data-i18n="catalogueDescription"></span></div>
+                      <div>🖼<span data-i18n="imagesExternal"></span></div>
                       <div>
                         <img src="img/IIIF_Logo.png" alt="IIIF" height="16px">
-                        IIIF Manifest
+                        <span data-i18n="IIIFManifest"></span>
                       </div>
                     </div>
                   </span>
@@ -145,10 +145,12 @@
     </div>
 
     <script type="module">
-      import { initSourcesPage } from './js/sources/sourcesPage.js';
-      initSourcesPage();
+      import { initPage } from './js/initPage.js';
+      import { renderSourcesPage } from './js/sources/sourcesPage.js';
+
+      initPage(renderSourcesPage);
     </script>
-    <script type="module" src="js/includes.js"></script>
+
 
   </body>
 </html>

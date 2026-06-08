@@ -26,6 +26,7 @@
 
 .verse {
   display: block;
+  position: relative;
 }
 
 .hemistich {
@@ -51,19 +52,15 @@
   gap: 8px;
 }
 
-.verse-met {
-  display: inline-block;
+.verse-met, .verse-rhyme {
   font-size: 12px;
-  float: right;
-  width: 60px;
+  position: absolute;
+  bottom: 6px;
 }
 
-.verse-rhyme {
-  display: inline-block;
-  font-size: 12px;
-  float: right;
-  width: 30px;
-}
+.verse-met { width: 60px; right: 30px; }
+
+.verse-rhyme { width: 30px; right: 0; }
 
 .wit {
   white-space: nowrap;

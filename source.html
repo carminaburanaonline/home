@@ -1,79 +1,78 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <title>CBO</title>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
+  <head>
+    <title>CBO</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
 
-  <!-- Get primary key of the source from the URL -->
-  <script>
-    const params = new URLSearchParams(document.location.search);
-    const sourceId = params.get("id");
-  </script>
+    <!-- Get primary key of the source from the URL -->
+    <script>
+      const params = new URLSearchParams(document.location.search);
+      const sourceId = params.get("id");
+    </script>
 
-  <!-- Add additional CSS in static file -->
-  <link rel="stylesheet" href="css/ui-components.css"/>
-  <link rel="stylesheet" href="css/layout-generic.css"/>
-  <style>
-    th, td {
-      padding-right: 20px;
-    }
-  </style>
-</head>
-<body>
-<div class="page-container">
-  <!-- Navbar + header -->
-  <div data-include="header"></div>
+    <!-- Add additional CSS in static file -->
+    <link rel="stylesheet" href="css/ui-components.css"/>
+    <link rel="stylesheet" href="css/layout-generic.css"/>
+    <style>
+      th, td {
+        padding-right: 20px;
+      }
+    </style>
+  </head>
+  <body>
+  <div class="page-container">
+    <!-- Navbar + header -->
+    <div data-include="header"></div>
 
-  <main style="display: flex; flex: 1;">
-    <div class="flex-column" style="flex: 20%">
-      <!-- add side content here -->
-    </div>
-    <div style="flex: 80%;">
-      <div id="metadata"></div>
-      <div id="concordances"></div>
-      <script>
-        var source, items;
-        $.when(
-          $.getJSON("json/sources.json", function(data) {
-            source = data.find((element) => element.id == sourceId);
-          }),
-          $.getJSON("json/items.json", function(data) {
-            items = data.filter((element) => element.source == sourceId);
-          })
-        ).then(function() {
-          console.log(items);
-          s = `
-            <h3>${source.rism}</h3>
-            <p>${source.city}, ${source.library} (${source.country})</p>`;
-          $("#metadata").html(s);
-          s = `<h4>Concordances</h4>
-            <table>
-            <tr class='head'><th>CB #</th><th>Title</th><th>Foliation</th></tr>
-            `;
-          for (var x in items) {
-            var item = items[x];
-            s += `<tr><td><a href='abstract_item?id=${item.abstract_item}'>${item.abstract_item}</a></td><td><a href='item?id=${item.id}'>${item.title}</a></td><td>${item.foliation}</td></tr>`;
-          }
-          s += "</table>";
-          $("#concordances").html(s);
-        });
-      </script>
-    </div>
-
-
-  </main>
+    <main style="display: flex; flex: 1;">
+      <div class="flex-column" style="flex: 20%">
+        <!-- add side content here -->
+      </div>
+      <div style="flex: 80%;">
+        <div id="metadata"></div>
+        <div id="concordances"></div>
+        <script>
+          var source, items;
+          $.when(
+            $.getJSON("json/sources.json", function(data) {
+              source = data.find((element) => element.id == sourceId);
+            }),
+            $.getJSON("json/items.json", function(data) {
+              items = data.filter((element) => element.source == sourceId);
+            })
+          ).then(function() {
+            console.log(items);
+            s = `
+              <h3>${source.rism}</h3>
+              <p>${source.city}, ${source.library} (${source.country})</p>`;
+            $("#metadata").html(s);
+            s = `<h4>Concordances</h4>
+              <table>
+              <tr class='head'><th>CB #</th><th>Title</th><th>Foliation</th></tr>
+              `;
+            for (var x in items) {
+              var item = items[x];
+              s += `<tr><td><a href='abstract_item?id=${item.abstract_item}'>${item.abstract_item}</a></td><td><a href='item?id=${item.id}'>${item.title}</a></td><td>${item.foliation}</td></tr>`;
+            }
+            s += "</table>";
+            $("#concordances").html(s);
+          });
+        </script>
+      </div>
 
 
-  <!-- Footer -->
-  <footer class="cbo-center cbo-black cbo-padding-16" data-include="footer"></footer>
-</div>
+    </main>
 
-<script type="module" src="js/includes.js"></script>
+    <!-- Footer -->
+    <footer class="cbo-center cbo-black cbo-padding-16" data-include="footer"></footer>
+  </div>
 
-</body>
+  <script type="module" src="js/includes.js"></script>
+
+  </body>
 </html>
 

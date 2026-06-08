@@ -12,7 +12,7 @@ import { exportSvgToPdf } from './svgPdf.js';
 import { exportDivToPdf } from './exportDivToPdf.js';
 import { indentVersesFromDataIndent } from '../editorial/indentVerses.js'
 
-export async function initItemPage() {
+export async function renderItemPage() {
   const itemId = new URLSearchParams(location.search).get('id');
 
   const [items, sources] = await Promise.all([

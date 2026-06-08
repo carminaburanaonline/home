@@ -1,8 +1,8 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="I-IV:3x(7pp+6p), Ref.: 6p/7pp+6p">
+      <div type="poem" met="I-IV:3x(7pp+6p), Refl.: 6p 7pp+6p">
         <lg type="strophe" n="I" met="7pp+6p/7pp+6p/7pp+6p" rhyme="a+b/a+b/a+b" xml:id="CB003_cambridge-lg-1">
           <l n="1" xml:id="CB003_cambridge-l-1">
             <seg type="hemistich">

@@ -1,8 +1,8 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="5x8pp/4pp/4x8pp">
+      <div type="poem" met="5x8pp 4pp 4x8pp">
         <lg type="strophe" met="8pp/8pp/8pp/8pp/8pp/4pp/8pp/8pp/8pp/8pp" rhyme="a/b/b/b/c/a/c/d/d/c" xml:id="CB033_plut-lg-1">
           <l n="1" xml:id="CB033_plut-l-1">
             <w>Non</w>

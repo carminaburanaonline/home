@@ -33,14 +33,7 @@ if __name__ == "__main__":
 		for poem in tree.findall(".//div[@type='poem']"):
 			poem_met = poem.get("met")
 			if poem_met is not None:
-				for lg in poem.findall('./lg'):
-					if "met" not in lg.attrib:
-						lg.set("met", poem_met)
-			poem_rhyme = poem.get("rhyme")
-			if poem_rhyme is not None:
-				for lg in poem.findall('./lg'):
-					if "rhyme" not in lg.attrib:
-						lg.set("rhyme", poem_rhyme)
+				poem.set("met", poem_met.replace("/", " ").replace("Ref.", "Refl."))
 
 		#####
 		#####

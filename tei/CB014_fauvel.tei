@@ -1,8 +1,8 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="5x(4pp+6pp)/6pp/4pp+6pp/4p+6pp/2x(4pp+6pp)">
+      <div type="poem" met="5x(4pp+6pp) 6pp 4pp+6pp 4p+6pp 2x(4pp+6pp)">
         <lg type="strophe" met="4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/4pp+6pp/6pp/4pp+6pp/4p+6pp/4pp+6pp/4pp+6pp" xml:id="CB014_fauvel-lg-1">
           <l n="1" xml:id="CB014_fauvel-l-1">
             <seg type="hemistich">

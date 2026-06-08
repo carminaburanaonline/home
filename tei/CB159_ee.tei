@@ -1,8 +1,8 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="I-IV:3x8pp/4pp, Ref.:8pp/4pp">
+      <div type="poem" met="I-IV:3x8pp 4pp, Refl.:8pp 4pp">
         <lg type="strophe" n="I" met="8pp/8pp/8pp/4pp" rhyme="a/a/a/B" xml:id="CB159_ee-lg-1">
           <l n="1" xml:id="CB159_ee-l-1">
             <app type="text">

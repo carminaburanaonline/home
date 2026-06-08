@@ -1,8 +1,8 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="I-IV:2x(6p/7p)/7pp/2x4pp/7p/7pp/7p/5pp/8p">
+      <div type="poem" met="I-IV:2x(6p 7p) 7pp 2x4pp 7p 7pp 7p 5pp 8p">
         <lg type="strophe" n="I" met="6p/7p/6p/7p/7pp/4pp/4pp/7p/7pp/7p/5pp/8p" rhyme="a/a/a/a/b/b/b/a/b/a/b/a" xml:id="CB131_egerton_274-lg-1">
           <l n="1" xml:id="CB131_egerton_274-l-1">
             <w>Bulla</w>

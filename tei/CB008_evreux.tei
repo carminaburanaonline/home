@@ -1,8 +1,8 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="I-VI:4x8p/3x7pp/6p">
+      <div type="poem" met="I-VI:4x8p 3x7pp 6p">
         <lg type="strophe" n="I" met="8p/8p/8p/8p/7pp/7pp/7pp/6p" rhyme="a/a/a/a/b/b/b/a" xml:id="CB008_evreux-lg-1">
           <l n="1" xml:id="CB008_evreux-l-1">
             <w>Licet</w>

@@ -32,7 +32,7 @@ button:hover,
 
 button.active,
 .tablinks.active {
-  background-color: #ffed7f; /* light yellow */
+  background-color: #ffed7f !important; /* light yellow */
 }
 
 button:focus {

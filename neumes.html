@@ -24,7 +24,7 @@
         <table id="neumesTable" style="width: 100%; border-spacing: 0 2px;">
           <tr class="head">
             <th>#</th>
-            <th>Glyph</th>
+            <th data-i18n="glyph"></th>
             <th>Description</th>
           </tr>
         </table>
@@ -36,10 +36,11 @@
   </div>
 
   <script type="module">
-    import { initNeumesPage } from './js/neumes/neumesPage.js';
-    initNeumesPage();
-  </script>
-  <script type="module" src="js/includes.js"></script>
+      import { initPage } from './js/initPage.js';
+      import { renderNeumesPage } from './js/neumes/neumesPage.js';
+
+      initPage(renderNeumesPage);
+    </script>
 
   </body>
 </html>

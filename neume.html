@@ -25,13 +25,13 @@
           <div style="display: flex">
             <div id="description" style="flex: 2"></div>
             <div id="download" style="flex: 1">
-              <h4>Download options</h4>
+              <h4 data-i18n="downloadOptions"></h4>
               <a id="svgDownload"><img class="download-logo" src="img/SVG_Logo.svg" /></a>
               <a id="epsDownload"><img class="download-logo" src="img/EPS_Logo.svg" /></a>
             </div>
           </div>
 
-          <h4>In the edited items:</h4>
+          <h4 data-i18n="inTheEditedItems"></h4>
 
           <div id="snippetsContainer"></div>
         </div>
@@ -41,11 +41,12 @@
       <footer class="cbo-center cbo-black cbo-padding-16" data-include="footer"></footer>
     </div>
 
-  <script type="module">
-    import { initNeumePage } from './js/neume/neumePage.js';
-    initNeumePage();
-  </script>
-  <script type="module" src="js/includes.js"></script>
+    <script type="module">
+      import { initPage } from './js/initPage.js';
+      import { renderNeumePage } from './js/neume/neumePage.js';
+
+      initPage(renderNeumePage);
+    </script>
 
   </body>
 </html>

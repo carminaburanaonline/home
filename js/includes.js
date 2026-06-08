@@ -1,9 +1,15 @@
-document.addEventListener('DOMContentLoaded', async () => {
+export async function includeHTML() {
+
   const elements = document.querySelectorAll('[data-include]');
 
-  await Promise.all([...elements].map(async el => {
-    const name = el.dataset.include;
-    const res = await fetch(`templates/${name}.html`);
-    el.innerHTML = await res.text();
-  }));
-});
+  const promises = Array.from(elements).map(async el => {
+    const file = el.getAttribute('data-include');
+
+    const res = await fetch(`templates/${file}.html`);
+    const html = await res.text();
+
+    el.innerHTML = html;
+  });
+
+  await Promise.all(promises);
+}

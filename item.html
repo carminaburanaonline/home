@@ -1,66 +1,67 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <title>CBO – Item</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <head>
+    <meta charset="utf-8" />
+    <title>CBO – Item</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <script src="https://unpkg.com/mirador@^3/dist/mirador.min.js"></script>
-  <script src="js/libs/jspdf.umd.js"></script>
-  <script type="application/javascript" src="js/libs/html2pdf.bundle.min.js"></script>
+    <script src="https://unpkg.com/mirador@^3/dist/mirador.min.js"></script>
+    <script src="js/libs/jspdf.umd.js"></script>
+    <script type="application/javascript" src="js/libs/html2pdf.bundle.min.js"></script>
 
-  <link rel="stylesheet" href="css/layout-generic.css" />
-  <link rel="stylesheet" href="css/ui-components.css" />
-  <link rel="stylesheet" href="css/neumed-text.css" />
-</head>
-<body>
-  <div class="page-container">
-    <div data-include="header"></div>
+    <link rel="stylesheet" href="css/layout-generic.css" />
+    <link rel="stylesheet" href="css/ui-components.css" />
+    <link rel="stylesheet" href="css/neumed-text.css" />
+  </head>
+  <body>
+    <div class="page-container">
+      <div data-include="header"></div>
 
-    <div class="main" style="display: flex">
-      <div id="metadata" style="flex: 2"></div>
-      <div id="download" style="flex: 1; padding: 5px;">
-        <h4>Download options</h4>
-        <a id="tei-download"><img class="download-logo" src="img/TEI_Logo.svg" /></a>
-        <a id="html-download"><img class="download-logo" src="img/HTML_Logo.svg" /></a>
-        <a id="pdf-download" style="cursor: pointer;"><img class="download-logo" src="img/PDF_Logo.svg" /></a>
-        <h5>French translation</h5>
-        <a id="tei-download-french"><img class="download-logo" src="img/TEI_Logo.svg" /></a>
-        <a id="html-download-french"><img class="download-logo" src="img/HTML_Logo.svg" /></a>
-        <a id="pdf-download-french" style="cursor: pointer;"><img class="download-logo" src="img/PDF_Logo.svg" /></a>
+      <div class="main" style="display: flex">
+        <div id="metadata" style="flex: 2"></div>
+        <div id="download" style="flex: 1; padding: 5px;">
+          <h4 data-i18n="downloadOptions"></h4>
+          <a id="tei-download"><img class="download-logo" src="img/TEI_Logo.svg" /></a>
+          <a id="html-download"><img class="download-logo" src="img/HTML_Logo.svg" /></a>
+          <a id="pdf-download" style="cursor: pointer;"><img class="download-logo" src="img/PDF_Logo.svg" /></a>
+          <h5 data-i18n="frenchTranslation"></h5>
+          <a id="tei-download-french"><img class="download-logo" src="img/TEI_Logo.svg" /></a>
+          <a id="html-download-french"><img class="download-logo" src="img/HTML_Logo.svg" /></a>
+          <a id="pdf-download-french" style="cursor: pointer;"><img class="download-logo" src="img/PDF_Logo.svg" /></a>
+        </div>
       </div>
+
+      <main style="display:flex; flex: 1;">
+        <article id="itemLeft" class="panel sand-border" style="width:50%"></article>
+        <div id="dragResizer" class="resizer"></div>
+        <section class="panel sand-border" style="flex:1">
+          <div class="tab">
+            <button id="defaultOpenRight" class="tablinks activable" data-tab-target="msImage" data-i18n="manuscript"></button>
+            <button class="tablinks activable" data-tab-target="commentary" data-i18n="criticalCommentary"></button>
+            <button class="tablinks activable" data-tab-target="translation" data-i18n="frenchTranslation"></button>
+            <button id="itemRightButton" class="tablinks activable" data-tab-target="itemRight" data-i18n="item..."></button>
+          </div>
+
+          <div id="msImage" class="tabcontent right panel"></div>
+          <div id="commentary" class="tabcontent right panel" data-i18n="inPreparation"></div>
+          <div id="translation" class="tabcontent right panel editorial" style="font-size: 16px;"></div>
+
+          <div id="itemRight" class="tabcontent right panel">
+            <div id="itemsTable"></div>
+            <div id="itemRightTitleDiv" style="text-align: center;"><a id="itemRightTitle"></a></div>
+            <div id="selectedItemRight"></div>
+          </div>
+        </section>
+      </main>
+
+      <div data-include="footer"></div>
     </div>
 
-    <main style="display:flex; flex: 1;">
-      <article id="itemLeft" class="panel sand-border" style="width:50%"></article>
-      <div id="dragResizer" class="resizer"></div>
-      <section class="panel sand-border" style="flex:1">
-        <div class="tab">
-          <button id="defaultOpenRight" class="tablinks activable" data-tab-target="msImage">Manuscript</button>
-          <button class="tablinks activable" data-tab-target="commentary">Critical commentary</button>
-          <button class="tablinks activable" data-tab-target="translation">French translation</button>
-          <button id="itemRightButton" class="tablinks activable" data-tab-target="itemRight">Item...</button>
-        </div>
+    <script type="module">
+      import { initPage } from './js/initPage.js';
+      import { renderItemPage } from './js/item/itemPage.js';
 
-        <div id="msImage" class="tabcontent right panel"></div>
-        <div id="commentary" class="tabcontent right panel">In preparation...</div>
-        <div id="translation" class="tabcontent right panel editorial" style="font-size: 16px;"></div>
-
-        <div id="itemRight" class="tabcontent right panel">
-          <div id="itemsTable"></div>
-          <div id="itemRightTitleDiv" style="text-align: center;"><a id="itemRightTitle"></a></div>
-          <div id="selectedItemRight"></div>
-        </div>
-      </section>
-    </main>
-
-    <div data-include="footer"></div>
-  </div>
-
-  <script type="module">
-    import { initItemPage } from './js/item/itemPage.js';
-    initItemPage();
-  </script>
-  <script type="module" src="js/includes.js"></script>
-</body>
+      initPage(renderItemPage);
+    </script>
+  </body>
 </html>
