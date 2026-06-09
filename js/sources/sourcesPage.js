@@ -1,7 +1,10 @@
-// Entry point for the page neumes.html (list of neumes)
+// Entry point for the page sources.html (list of sources)
 
 import { t, applyTranslations } from '../lang.js';
+import { linkify } from '../utils.js';
+
 import { filterSources, getFilters } from './filters.js';
+
 
 export async function renderSourcesPage() {
   const sources = await fetch('json/sources.json').then(r => r.json());
@@ -37,7 +40,7 @@ function renderTable(sources) {
     toggleBtn.classList.add('toggle-btn');
 
     const rismLink = document.createElement('a');
-    rismLink.href = `source.html?id=${source.id}`;
+    rismLink.href = `source?id=${source.id}`;
     rismLink.textContent = source.rism || '';
     rismLink.style.marginLeft = '6px';
 
@@ -144,18 +147,6 @@ function buildDetailsContent(source) {
   }
 
   return container;
-}
-
-function linkify(text) {
-  if (!text) return '';
-
-  const urlPattern = /(https?:\/\/[^\s,)]+)/g;
-
-  return text.replace(urlPattern, url => {
-    const display = url.replace(/^https?:\/\//, '');
-
-    return `<a href="${url}" target="_blank" rel="noopener noreferrer">${display}</a>`;
-  });
 }
 
 

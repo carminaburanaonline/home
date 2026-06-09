@@ -8,7 +8,6 @@ export async function loadLang(lang) {
   currentLang = lang;
 
   localStorage.setItem('lang', lang);
-  console.log(LANG);
 }
 
 // --- translation function ---

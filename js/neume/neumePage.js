@@ -14,9 +14,9 @@ export async function renderNeumePage() {
   const neume = neumes.find(neume => neume.id == neumeId);
 
   // Description
-  document.getElementById('description').innerHTML = `
-    <h3>${neume.description}</h3>
+  document.getElementById('description').innerHTML = `<h3>${neume.description}</h3>
     <img src='neumes/svg/buranus${neume.id}.svg' style="width: 40px; height: auto;" />`;
+
   if (neume.total_count > 1) {
     document.getElementById('description').innerHTML += `<p>${neume.total_count} occurrences</p>`;
   }
