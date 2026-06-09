@@ -27,6 +27,8 @@
   "continuous": "Continu",
   "originalPunctuation": "Ponctuation originale",
   "criticalApparatus": "Apparat critique",
+  "critcalApparatusText": "Apparat critique (texte)",
+  "critcalApparatusNeumes": "Apparat critique (neumes)",
   "music": "Musique",
   "text": "Texte",
   "onlyOneOccurrence": "Une seule occurrence"

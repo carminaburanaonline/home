@@ -12,7 +12,7 @@
   <xsl:template match="body">
     <xsl:if test=".//app[@type='text']">
       <div class="text-font font-small">
-        <p class="text-font"><b>Critical apparatus (text)</b></p>
+        <p><strong data-i18n="criticalApparatusText"></strong></p>
         <div class="flex-wrapper">
           <xsl:apply-templates select=".//app[@type='text']" />
         </div>

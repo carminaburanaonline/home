@@ -29,6 +29,7 @@ a {
 
 td, th {
   text-align: left;
+  padding-right: 20px;
 }
 
 .page-container {
