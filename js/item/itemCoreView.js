@@ -6,13 +6,15 @@ import { normalizePunctuation } from '../editorial/normalizePunctuation.js';
 import { setLeadingConsonants } from '../editorial/leadingConsonants.js';
 import { fillVerseMetrics } from '../editorial/fillVerseMetrics.js';
 import { wireWordHighlighter } from '../editorial/wireWordHighlighter.js';
+import { applyTranslations } from '../lang.js';
 
 
 export async function itemCoreView(container, item) {
   if (!container || !item) return;
 
   const itemId = item.id
-  const template = 'templates/item_core_view.html'
+  const SVGfiles = item.SVGfiles;
+  const template = SVGfiles?'templates/item_core_view_svg.html':'templates/item_core_view.html'
 
   const html = await fetch(template).then(r => r.text());
   container.innerHTML = html;
@@ -20,6 +22,11 @@ export async function itemCoreView(container, item) {
   container.querySelectorAll('.item-specific').forEach(el => {
     el.id = `${el.id}-${itemId}`;
   });
+
+  if (item.SVGfiles) {
+    // --- SVG-images ---
+    addSvgImages(container, item);
+  }
 
   // --- XSL-rendered views ---
   await renderXslViews(container, itemId);
@@ -30,7 +37,7 @@ export async function itemCoreView(container, item) {
   wordsAndSyllables(container);
   normalizeVerseNumbers(container, 5);
   normalizePunctuation(container);
-  setLeadingConsonants(container);
+  setLeadingConsonants(container); // won't do anything if the item is without neumes
   fillVerseMetrics(container);
 
   // --- Interaction wiring ---
@@ -42,43 +49,8 @@ export async function itemCoreView(container, item) {
   wireSyllableToggle(container, itemId);
   wireApparatusToggle(container, itemId);
   wireWordHighlighter(container, itemId);
-}
 
-export async function SVGitemCoreView(container, item) {
-  if (!container || !item) return;
-
-  const itemId = item.id
-  const template = 'templates/item_core_view_svg.html'
-
-  const html = await fetch(template).then(r => r.text());
-  container.innerHTML = html;
-
-  container.querySelectorAll('.item-specific').forEach(el => {
-    el.id = `${el.id}-${itemId}`;
-  });
-
-  // --- SVG-images ---
-  addSvgImages(container, item);
-
-  // --- XSL-rendered views ---
-  await renderXslViews(container, itemId);
-
-  // --- Editorial post‑processing ---
-  container.querySelectorAll(".pc[data-resp='ms']").forEach(el => el.classList.add('hidden'));
-  indentVerses(container);
-  wordsAndSyllables(container);
-  normalizeVerseNumbers(container, 5);
-  normalizePunctuation(container);
-  fillVerseMetrics(container);
-
-  // --- Interaction wiring ---
-  wireTabs(container);
-  wireViewSwitch(container, itemId);
-  wireToggle(container, `toggleMetricButton-${itemId}`, '.verse-met, .poem-met');
-  wireToggle(container, `toggleRhymeButton-${itemId}`, '.verse-rhyme');
-  wireToggle(container, `togglePunctuationButton-${itemId}`, '.pc');
-  wireApparatusToggle(container, itemId);
-  wireWordHighlighter(container, itemId);
+  applyTranslations();
 }
 
 async function addSvgImages(container, item) {

@@ -31,5 +31,8 @@
   "critcalApparatusNeumes": "Apparat critique (neumes)",
   "music": "Musique",
   "text": "Texte",
+  "unableToDisplay": "Impossible d'afficher les images du manuscrit en raison de restrictions liées aux droits d'auteur.",
+  "openExternalWebsite": "Ouvrir un site Web externe",
+  "manuscriptImagesNotAvailable": "Images du manuscrit non disponibles pour cette pièce.",
   "onlyOneOccurrence": "Une seule occurrence"
 }

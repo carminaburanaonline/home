@@ -1,7 +1,7 @@
 // Entry point for the page item.html
 
 import { renderItemMetadata } from './itemMetadata.js';
-import { SVGitemCoreView, itemCoreView } from './itemCoreView.js';
+import { itemCoreView } from './itemCoreView.js';
 import { initItemSiblings } from './itemSiblings.js';
 import { initTabs } from '../ui/tabs.js';
 import { initResizer } from '../ui/resizer.js';
@@ -27,11 +27,7 @@ export async function renderItemPage() {
   renderItemMetadata(document.getElementById('metadata'), item, source);
 
   // Main item tab
-  if (item.SVGfiles) {
-    SVGitemCoreView(document.getElementById('itemLeft'), item);
-  } else {
-    itemCoreView(document.getElementById('itemLeft'), item);
-  }
+  itemCoreView(document.getElementById('itemLeft'), item);
 
   // Create table of items on the right tab
   initItemSiblings({
@@ -61,10 +57,17 @@ export async function renderItemPage() {
   initMirador(item, source);
 
   // French translation
-  const container = document.getElementById("translation")
-  container.append(await XSLtransform(`tei/${itemId}_PB.tei`, "xsl/french-translation.xsl"));
-  indentVersesFromDataIndent(container);
-  normalizeVerseNumbers(container, 5);
+  const container = document.getElementById("translation");
+  try {
+    container.append(await XSLtransform(`tei/${itemId}_PB.tei`, "xsl/french-translation.xsl"));
+    indentVersesFromDataIndent(container);
+    normalizeVerseNumbers(container, 5);
+  } catch(e) {
+    const span = document.createElement('span');
+    span.setAttribute('data-i18n', 'inPreparation');
+    container.append(span);
+  }
+
 
   // Setting filename and path for download options
   document.getElementById("tei-download").setAttribute("href", `tei/${itemId}.tei`);

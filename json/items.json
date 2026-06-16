@@ -97,7 +97,7 @@
   {
     "abstract_item": "CB012",
     "source": 37,
-    "foliation": "124-124v",
+    "foliation": "124r-124v",
     "title": "Procurans hodium",
     "id": "CB012_emn",
     "SVGfiles": 1,
@@ -310,6 +310,20 @@
     "IIIF_canvasIndex": "711",
     "IIIF_canvasId": "",
     "alternative_img_link": "",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB022",
+    "source": 37,
+    "foliation": "126r-126v",
+    "title": "Homo quo vigeas",
+    "id": "CB022_emn",
+    "SVGfiles": 1,
+    "IIIF_canvasIndex": "",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "http://bdh-rd.bne.es/viewer.vm?id=0000005661&page=130",
     "language": [
       1
     ]

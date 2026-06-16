@@ -13,17 +13,16 @@ export async function initMirador(item, source) {
 
       const wrapper = document.createElement("span");
       wrapper.innerHTML = `
-        Unable to display manuscript images due to copyright restrictions.
-        <a target="_blank" href="${item.alternative_img_link}">
+        <span data-i18n="unableToDisplay"></span>
+        <a target="_blank" href="${item.alternative_img_link}" data-i18n="openExternalWebsite">
           <i class="fa fa-arrow-right" style="margin-right: 5px;"></i>
-          Open external website.
         </a>`;
       msImage.appendChild(wrapper);
 
     } else {
-      msImage.appendChild(
-        document.createTextNode("Manuscript images not available for this item.")
-      );
+      const altText = document.createElement("span");
+      altText.setAttribute("data-i18n", "manuscriptImagesNotAvailable");
+      msImage.appendChild(altText);
     }
 
     return; // No Mirador init if no manifest
