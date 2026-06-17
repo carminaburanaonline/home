@@ -329,6 +329,20 @@
     ]
   },
   {
+    "abstract_item": "CB022",
+    "source": 23,
+    "foliation": "249r-249v",
+    "title": "Amors vois querant qi me fuit",
+    "id": "CB022_w2_fr",
+    "SVGfiles": 2,
+    "IIIF_canvasIndex": "",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "http://diglib.hab.de/mss/1099-helmst/start.htm?image=00513",
+    "language": [
+      3
+    ]
+  },
+  {
     "abstract_item": "CB026",
     "source": 14,
     "foliation": "1",

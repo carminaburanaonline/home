@@ -1,0 +1,221 @@
+<TEI>
+  <teiHeader></teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg type="strophe">
+          <l n="1">
+            <w>Amors</w>
+            <w>vois</w>
+            <w>querant</w>
+            <w>qi</w>
+            <w>me</w>
+            <w>fuit</w>
+          </l>
+          <l n="2">
+            <w>le</w>
+            <w>fruit</w>
+            <w>prendre</w>
+            <w>cuit</w>
+          </l>
+          <l n="3">
+            <w>dont</w>
+            <w>oudor</w>
+            <w>sent</w>
+            <w>en</w>
+            <w>nuit</w>
+          </l>
+          <l n="4">
+            <w>soient</w>
+            <w>tuit</w>
+          </l>
+          <l n="5">
+            <w>mi</w>
+            <w>penssement</w>
+            <w>debruit</w>
+          </l>
+          <l n="6">
+            <w>ior</w>
+            <w>et</w>
+            <w>nuit</w>
+          </l>
+          <l n="7">
+            <w>sent</w>
+            <w>grief</w>
+            <w>torment</w>
+          </l>
+          <l n="8">
+            <w>mon</w>
+            <w>cuer</w>
+            <w>cuit</w>
+          </l>
+          <l n="9">
+            <w>mon</w>
+            <w>cors</w>
+            <w>destruit</w>
+          </l>
+          <l n="10">
+            <w>amors</w>
+            <w>par</w>
+            <w>son</w>
+            <w>present</w>
+          </l>
+          <l n="11">
+            <w>de</w>
+            <w>le</w>
+            <w>que</w>
+            <w>i'aim</w>
+          </l>
+          <l n="12">
+            <w>cui</w>
+            <w>dame</w>
+            <w>cleim</w>
+          </l>
+          <l n="13">
+            <w>dont</w>
+            <w>i'ai</w>
+            <w>toriorz</w>
+            <w>faim</w>
+          </l>
+          <l n="14">
+            <w>dont</w>
+            <w>amors</w>
+            <w>a</w>
+            <w>essche</w>
+            <w>son</w>
+            <w>aim</w>
+          </l>
+          <l n="15">
+            <w>ma</w>
+            <w>sorpris</w>
+          </l>
+          <l n="16">
+            <w>de</w>
+            <w>s'amor</w>
+            <w>me</w>
+            <w>tient</w>
+            <w>pris</w>
+          </l>
+          <l n="17">
+            <w>dont</w>
+            <w>na</w>
+            <w>nicrai</w>
+            <w>vis</w>
+          </l>
+          <l n="18">
+            <w>ce</w>
+            <w>met</w>
+            <w>avis</w>
+          </l>
+          <l n="19">
+            <w>ne</w>
+            <w>puis</w>
+            <w>avoir</w>
+            <w>secors</w>
+          </l>
+          <l n="20">
+            <w>por</w>
+            <w>t'amor</w>
+          </l>
+          <l n="21">
+            <w>blanche</w>
+            <w>flor</w>
+          </l>
+          <l n="22">
+            <w>crai</w>
+            <w>doulor</w>
+          </l>
+          <l n="23">
+            <w>nuit</w>
+            <w>et</w>
+            <w>ior</w>
+          </l>
+          <l n="24">
+            <w>sanz</w>
+            <w>seior</w>
+          </l>
+          <l n="25">
+            <w>sanz</w>
+            <w>merir</w>
+          </l>
+          <l n="26">
+            <w>me</w>
+            <w>fait</w>
+            <w>servir</w>
+          </l>
+          <l n="27">
+            <w>trop</w>
+            <w>longuement</w>
+          </l>
+          <l n="28">
+            <w>mon</w>
+            <w>desir</w>
+          </l>
+          <l n="29">
+            <w>vueill</w>
+            <w>a</w>
+            <w>conplir</w>
+          </l>
+          <l n="30">
+            <w>gen</w>
+            <w>morrai</w>
+            <w>autrement</w>
+          </l>
+          <l n="31">
+            <w>a</w>
+            <w>grief</w>
+            <w>tourment</w>
+          </l>
+          <l n="32">
+            <w>venir</w>
+            <w>ne</w>
+            <w>puis</w>
+          </l>
+          <l n="33">
+            <w>par</w>
+            <w>autre</w>
+            <w>huis</w>
+          </l>
+          <l n="34">
+            <w>a</w>
+            <w>confort</w>
+          </l>
+          <l n="35">
+            <w>autre</w>
+            <w>pertuis</w>
+          </l>
+          <l n="36">
+            <w>nul</w>
+            <w>ne</w>
+            <w>truis</w>
+          </l>
+          <l n="37">
+            <w>fors</w>
+            <w>la</w>
+            <w>mort</w>
+          </l>
+          <l n="38">
+            <w>mar</w>
+            <w>mi</w>
+            <w>deduis</w>
+          </l>
+          <l n="39">
+            <w>mourrir</w>
+            <w>ruis</w>
+          </l>
+          <l n="40">
+            <w>de</w>
+            <w>trop</w>
+            <w>fort</w>
+          </l>
+          <l n="41">
+            <w>mal</w>
+            <w>ne</w>
+            <w>cuis</w>
+            <pc resp="#editor">!</pc>
+          </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
