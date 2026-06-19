@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader/>
+  <teiHeader />
   <text>
     <body>
       <div type="poem">
@@ -99,6 +99,24 @@
             <seg type="hemistich">pour moi le chant des oiseaux</seg>
           </l>
           <l n="7" xml:id="CB140_PB-l-27">et la merveille du printemps ? &#8212; Ce sera l&#8217;hiver au printemps.</l>
+        </lg>
+        <lg type="strophe" n="VI" xml:id="CB140_PB-lg-6">
+          <l n="1" xml:id="CB140_PB-l-28">&#192; pr&#233;sent il nous faut tous &#234;tre joyeux</l>
+          <l n="2" xml:id="CB140_PB-l-29">et c&#233;l&#233;brer la saison en chantant !</l>
+          <l n="3" xml:id="CB140_PB-l-30">Nous voyons les fleurs &#233;closes,</l>
+          <l n="4" xml:id="CB140_PB-l-31">la lande en est d&#233;licieusement couverte.</l>
+          <l n="5" xml:id="CB140_PB-l-32">
+            <seg type="hemistich">Dansons, faisons la ronde, sautons</seg>
+            <seg type="hemistich">avec all&#233;gresse et au son de la musique !</seg>
+          </l>
+          <l n="6" xml:id="CB140_PB-l-33">
+            <seg type="hemistich">Cela pla&#238;t aux nobles jeunes gens et &#224; juste titre ;</seg>
+            <seg type="hemistich">et maintenant jouons au ballon !</seg>
+          </l>
+          <l n="7" xml:id="CB140_PB-l-34">
+            <seg type="hemistich">Ma dame a toutes les qualit&#233;s,</seg>
+            <seg type="hemistich">je sais &#224; quel point cela vous donne du baume au c&#339;ur.</seg>
+          </l>
         </lg>
       </div>
     </body>

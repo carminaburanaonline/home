@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader/>
+  <teiHeader />
   <text>
     <body>
       <div type="poem">
@@ -134,7 +134,7 @@
         </lg>
         <lg type="strophe" n="V" xml:id="CB048_PB-lg-6">
           <l n="1" xml:id="CB048_PB-l-41">
-            <seg type="hemistich">Il s''est lev&#233;,</seg>
+            <seg type="hemistich">Il s'est lev&#233;,</seg>
             <seg type="hemistich">donc nous sommes tenus</seg>
           </l>
           <l n="2" xml:id="CB048_PB-l-42">de nous lever</l>
@@ -171,11 +171,11 @@
           <l n="3" xml:id="CB048_PB-l-53">Nous devons nous quitter, mon aim&#233; !</l>
           <l n="4" xml:id="CB048_PB-l-54">Ainsi es-tu, voici peu de temps, parti d'ici</l>
           <l n="5" xml:id="CB048_PB-l-55">alors que le jour se levait</l>
-          <l n="6" xml:id="CB048_PB-l-56">et que la nuit nous a s&#233;par&#233;s tels des fugitifs.</l>
+          <l n="6" xml:id="CB048_PB-l-56">et que la nuit se d&#233;robait &#224; nous comme une fugitive.</l>
           <l n="7" xml:id="CB048_PB-l-57">La nuit est douceur et le jour tourment.</l>
           <l n="8" xml:id="CB048_PB-l-58">H&#233;las, mon bien aim&#233;, je ne puis</l>
           <l n="9" xml:id="CB048_PB-l-59">te cacher plus longtemps.</l>
-          <l n="10" xml:id="CB048_PB-l-60">La lumi&#232;re grise de l'aurore nous d&#233;robe notre joie.</l>
+          <l n="10" xml:id="CB048_PB-l-60">La lumi&#232;re grise de l'aurore nous prive de notre joie.</l>
           <l n="11" xml:id="CB048_PB-l-61">L&#232;ve-toi, chevalier ! &#187;</l>
         </lg>
       </div>
