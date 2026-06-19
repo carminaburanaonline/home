@@ -57,6 +57,24 @@
             <seg type="hemistich">&#234;tre tout semblable au leur.</seg>
           </l>
         </lg>
+        <lg type="strophe" n="IV" xml:id="CB142_PB-lg-4">
+          <l n="1" xml:id="CB142_PB-l-13">
+            <seg type="hemistich">Un matin, il me fallut traverser</seg>
+            <seg type="hemistich">une vaste prairie,</seg>
+          </l>
+          <l n="2" xml:id="CB142_PB-l-14">
+            <seg type="hemistich">je vis alors une jeune fille</seg>
+            <seg type="hemistich">qui me salua d&#8217;un air r&#233;solu.</seg>
+          </l>
+          <l n="3" xml:id="CB142_PB-l-15">
+            <seg type="hemistich">Elle dit : &#171; Cher ami, o&#249; souhaitez-vous aller ?</seg>
+            <seg type="hemistich">Avez-vous besoin d&#8217;&#234;tre accompagn&#233; ? &#187;</seg>
+          </l>
+          <l n="4" xml:id="CB142_PB-l-16">
+            <seg type="hemistich">Je m&#8217;inclinai &#224; ses pieds,</seg>
+            <seg type="hemistich">la remerciant pour ses paroles.</seg>
+          </l>
+        </lg>
       </div>
     </body>
   </text>

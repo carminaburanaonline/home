@@ -60,6 +60,15 @@
             <seg type="hemistich">par ta beaut&#233; unique.</seg>
           </l>
         </lg>
+        <lg type="strophe" n="VI" xml:id="CB146_PB-lg-6">
+          <l n="1" xml:id="CB146_PB-l-21">Rossignol, chante une douce m&#233;lodie</l>
+          <l n="2" xml:id="CB146_PB-l-22">pour ma reine &#224; l&#8217;&#226;me noble !</l>
+          <l n="3" xml:id="CB146_PB-l-23">
+            <seg type="hemistich">Annonce-lui que mon &#226;me constante</seg>
+            <seg type="hemistich">et mon c&#339;ur br&#251;lent</seg>
+          </l>
+          <l n="4" xml:id="CB146_PB-l-24">de poss&#233;der son corps si doux et son amour !</l>
+        </lg>
       </div>
     </body>
   </text>
