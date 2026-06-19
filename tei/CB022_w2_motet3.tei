@@ -1,0 +1,126 @@
+<TEI>
+  <teiHeader />
+  <text>
+    <body>
+      <div type="prose">
+        <p xml:id="CB022_plut_motet-p-1">
+          <w>Homo</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-2">
+          <w>quo</w>
+          <w>vigeas</w>
+          <w>vide</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-3">
+          <w>dei</w>
+          <w>fidei</w>
+          <w>adhereas</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-4">
+          <w>in</w>
+          <w>spe</w>
+          <w>gaudeas</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-5">
+          <w>et</w>
+          <w>in</w>
+          <w>fide</w>
+          <w>virtus</w>
+          <w>ardeas</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-6">
+          <w>foris</w>
+          <w>luceas</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-7">
+          <w>turturis</w>
+          <w>retorqueas</w>
+          <w>os</w>
+          <w>ad</w>
+          <w>ascellas</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-8">
+          <w>Docens</w>
+          <w>ita</w>
+          <w>verbo</w>
+          <w>vita</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-9">
+          <w>oris</w>
+          <w>vomere</w>
+          <w>de</w>
+          <w>cordibus</w>
+          <w>fidelium</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-10">
+          <w>evellas</w>
+          <w>lolium</w>
+          <w>lilium</w>
+          <w>insere</w>
+          <w>rose</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-11">
+          <w>ut</w>
+          <w>alium</w>
+          <w>per</w>
+          <w>hoc</w>
+          <w>corripere</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-12">
+          <w>Speciose</w>
+          <w>valeas</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-13">
+          <w>virtuti</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-14">
+          <w>saluti</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-15">
+          <w>omnium</w>
+          <w>studeas</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-16">
+          <w>noxias</w>
+          <w>delicias</w>
+          <w>detesteris</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-17">
+          <w>opera</w>
+          <w>considera</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-18">
+          <w>que</w>
+          <w>si</w>
+          <w>non</w>
+          <w>feceris</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-19">
+          <w>dampnaberis</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-20">
+          <w>Hac</w>
+          <w>in</w>
+          <w>via</w>
+          <w>milita</w>
+          <w>gratie</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-21">
+          <w>et</w>
+          <w>premia</w>
+          <w>cogita</w>
+          <w>patrie</w>
+        </p>
+        <p xml:id="CB022_plut_motet-p-22">
+          <w>et</w>
+          <w>cor</w>
+          <w>tuum</w>
+          <w>sic</w>
+          <w>in</w>
+          <w>perpetuum</w>
+          <w>gaudebit</w>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

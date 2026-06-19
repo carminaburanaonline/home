@@ -331,15 +331,15 @@
   {
     "abstract_item": "CB022",
     "source": 23,
-    "foliation": "249r-249v",
-    "title": "Amors vois querant qi me fuit",
-    "id": "CB022_w2_fr",
-    "SVGfiles": 2,
+    "foliation": "127r-128v",
+    "title": "Homo quo vigeas vide / Et gaudebit",
+    "id": "CB022_w2_motet3",
+    "SVGfiles": 3,
     "IIIF_canvasIndex": "",
     "IIIF_canvasId": "",
-    "alternative_img_link": "http://diglib.hab.de/mss/1099-helmst/start.htm?image=00513",
+    "alternative_img_link": "http://diglib.hab.de/mss/1099-helmst/start.htm?image=00269",
     "language": [
-      3
+      1
     ]
   },
   {
@@ -354,6 +354,20 @@
     "alternative_img_link": "http://diglib.hab.de/mss/1099-helmst/start.htm?image=00312",
     "language": [
       1
+    ]
+  },
+  {
+    "abstract_item": "CB022",
+    "source": 23,
+    "foliation": "249r-249v",
+    "title": "Amors vois querant qi me fuit",
+    "id": "CB022_w2_fr",
+    "SVGfiles": 2,
+    "IIIF_canvasIndex": "",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "http://diglib.hab.de/mss/1099-helmst/start.htm?image=00513",
+    "language": [
+      3
     ]
   },
   {
