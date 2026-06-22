@@ -1,39 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <title>CBO About</title>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <head>
+    <title>CBO About</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-  <!-- CSS files -->
-  <link rel="stylesheet" href="css/ui-components.css"/>
-  <link rel="stylesheet" href="css/layout-generic.css"/>
-</head>
-<body>
-<div class="page-container">
-  <!-- Navbar + header -->
-  <div data-include="header"></div>
+    <!-- CSS files -->
+    <link rel="stylesheet" href="css/ui-components.css"/>
+    <link rel="stylesheet" href="css/layout-generic.css"/>
+  </head>
+  <body>
+  <div class="page-container">
+    <!-- Navbar + header -->
+    <div data-include="header"></div>
 
-  <main style="display: flex; flex: 1;">
-    <div class="flex-column">
-      <h1>About Us</h1>
-      <p>
-        In preparation...
-      </p>
-    </div>
-  </main>
+    <main style="display: flex; flex: 1;">
+      <div class="flex-column">
+        <h1>About Us</h1>
+        <p>
+          In preparation...
+        </p>
+      </div>
+    </main>
 
-  <!-- Footer -->
-  <footer class="cbo-center cbo-black cbo-padding-16" data-include="footer"></footer>
-</div>
+    <!-- Footer -->
+    <footer class="cbo-center cbo-black cbo-padding-16" data-include="footer"></footer>
+  </div>
 
-<script type="module">
-  import { includeHTML } from './js/includes.js';
-  includeHTML();
-</script>
+  <script type="module">
+    import { initPage } from './js/initPage.js';
 
-</body>
+    initPage();
+  </script>
+
+  </body>
 </html>
 
 
