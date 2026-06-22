@@ -4,6 +4,15 @@
   margin-bottom: 10px;
 }
 
+.stage-number {
+  font-style: normal;
+  padding-right: 8px;
+}
+
+.stage {
+  font-style: italic;
+}
+
 .paragraph {
   display: inline-block;
   margin-block: 3px;
