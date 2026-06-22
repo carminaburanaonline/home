@@ -34,16 +34,19 @@
   </xsl:template>
 
   <xsl:template match="note">
-    <span class="flex-wrapper app-note">
+    <i class="note">
+      <xsl:apply-templates />
+    </i>
+  </xsl:template>
+
+  <xsl:template match="lem">
+    <span class="lem">
       <xsl:apply-templates />
     </span>
   </xsl:template>
 
   <xsl:template match="seg[@type='syll']">
     <xsl:variable name="text"><xsl:value-of select="./text()"/></xsl:variable>
-    <span class="syl-dash text-font">
-      <xsl:if test="@part='M' or  @part='F'"><xsl:text>-</xsl:text></xsl:if>
-    </span>
     <span class="neumed-syll">
       <span class="syl-text text-font">
         <xsl:if test="@part='M' or  @part='F'"><xsl:text>-</xsl:text></xsl:if>

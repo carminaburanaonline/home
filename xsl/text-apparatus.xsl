@@ -40,7 +40,7 @@
   </xsl:template>
 
   <xsl:template match="lem">
-    <span class="lem" style="margin-right: 8px;">
+    <span class="lem">
       <xsl:apply-templates />
       <xsl:if test="@wit">
         <i style="margin-left: 6px;"><xsl:value-of select="@wit" /></i>
@@ -50,20 +50,20 @@
   </xsl:template>
 
   <xsl:template match="rdg">
-    <span class="rdg" style="margin-right: 8px;">
+    <span class="rdg">
       <xsl:apply-templates />
-      <span class="wit editorial-italic"><xsl:value-of select="@wit" /><xsl:if test="../note">;</xsl:if></span>
+      <span class="wit"><xsl:value-of select="@wit" /><xsl:if test="../note">;</xsl:if></span>
     </span>
   </xsl:template>
 
   <xsl:template match="note">
-    <i style="margin-right: 8px;">
+    <i class="note">
       <xsl:apply-templates />
     </i>
   </xsl:template>
 
   <xsl:template match="w">
-    <span class="word editorial">
+    <span class="word">
       <xsl:apply-templates />
     </span>
   </xsl:template>
