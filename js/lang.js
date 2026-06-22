@@ -23,9 +23,20 @@ export function t(key, vars = {}) {
 
 // --- fill textContent of all elements with attribute data-lang ---
 export function applyTranslations() {
+  // Translate elements according to the dictionary
   document.querySelectorAll('[data-i18n]').forEach(el => {
     const key = el.dataset.i18n;
     el.textContent = t(key);
+  });
+  // Hide elements in other languages
+  document.querySelectorAll('[data-lang]').forEach(el => {
+    console.log(el);
+    if (el.dataset.lang != currentLang) {
+      el.classList.add('hidden');
+    }
+    else {
+      el.classList.remove('hidden');
+    }
   });
 }
 
@@ -33,7 +44,7 @@ export function applyTranslations() {
 export function updateActiveButton(lang) {
   document.querySelectorAll('#lang-switch button')
     .forEach(btn => {
-      btn.classList.toggle('active', btn.dataset.lang === lang);
+      btn.classList.toggle('active', btn.dataset.language === lang);
     });
 }
 
@@ -43,7 +54,7 @@ export function initLangSwitcher() {
 
   buttons.forEach(btn => {
     btn.addEventListener('click', async () => {
-      const lang = btn.dataset.lang;
+      const lang = btn.dataset.language;
 
       await loadLang(lang);
       updateActiveButton(lang);

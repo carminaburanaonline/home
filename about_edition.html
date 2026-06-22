@@ -1,40 +1,148 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <title>CBO About</title>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <head>
+    <title>CBO About</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-  <!-- CSS files -->
-  <link rel="stylesheet" href="css/ui-components.css"/>
-  <link rel="stylesheet" href="css/layout-generic.css"/>
-</head>
-<body>
-<div class="page-container">
-  <!-- Navbar + header -->
-  <div data-include="header"></div>
+    <!-- CSS files -->
+    <link rel="stylesheet" href="css/ui-components.css"/>
+    <link rel="stylesheet" href="css/layout-generic.css"/>
+  </head>
+  <body>
+    <div class="page-container">
+    <!-- Navbar + header -->
+    <div data-include="header"></div>
 
-  <main style="display: flex; flex: 1;">
-    <div class="flex-column">
-      <h1>About the Carmina Burana Online Edition</h1>
-      <p>
-        In preparation...
-      </p>
-    </div>
-  </main>
+    <main style="display: flex; flex: 1;">
+      <div class="flex-column" style="flex: 10%">
+        <!-- add side content here -->
+      </div>
+      <div class="flex-column" style="flex: 80%;">
+        <h1 data-i18n="aboutEdition"></h1>
 
-  <!-- Footer -->
-  <footer class="cbo-center cbo-black cbo-padding-16" data-include="footer"></footer>
-</div>
+        <div data-lang="en">
+          <h3>Contents of the Edition</h3>
+          <p>This website provides an edition of the Carmina Burana as transmitted by the Codex Buranus and approximately 440 other manuscripts dating from the twelfth to the sixteenth century.</p>
+          <p>The edited corpus comprises pieces numbered CB 1–228 and CB1*–26*. This numbering follows the critical edition by Alfons Hilka, Otto Schumann and Bernhard Bischoff (1930–1970, hereafter HSB).</p>
+          <p>The edition focuses primarily on:</p>
+          <ol>
+            <li>Latin rhythmic poems transmitted with musical notation in at least one witness. For these pieces, all versions preserved in notated witnesses are edited, together with the CB version, whether notated or not.</li>
+            <li>Latin poems with one or more final stanzas in Middle High German, as well as macaronic poems, with or without musical notation.</li>
+            <li>Liturgical plays and additional pieces (CB 227, 228 and CB1*–26*), with or without musical notation.</li>
+          </ol>
 
-<script type="module">
+          <h3>Establishment of the Text</h3>
+          Editing the melodies associated with the Carmina Burana requires treating each witness separately, since each witness transmits a version of the text that is inseparable from a particular version of the melody.
+          Each witness is provided with a critical apparatus that considers the readings of all other surviving witnesses (including those without melodies), as well as the following editions: HSB, Vollmann 1986 (V), Traill 2018 (T), and the online resource <a href="https://www.ldm-digital.de">Lyrik des Deutschen Mittelalters</a> (ldm) for pieces containing Middle High German stanzas. These reference editions are supplemented, where appropriate, by other editions devoted to a particular corpus or individual piece, cited in the bibliography.
+          The edited texts generally preserve the spellings and readings specific to each witness, if they do not distort or obscure the meaning of the text. When one or more parallel witnesses offer a reading considered preferable from the standpoint of meaning and/or versification, the text has been emended accordingly.
+
+          <h3>Critical Apparatus</h3>
+          The critical apparatus appears at the end of the edited text in two separate sections, one for the text and one for the musical notation. The presence of a critical note is indicated by highlighting the relevant word in the edition.
+          The sigla used in the critical apparatus are listed in the source list and in the bibliography attached to each piece.
+          Notes are included in the critical apparatus in the following cases:
+          <ul>
+            <li>to indicate an emendation of the edited witness;</li>
+            <li>to record material damage, reading difficulties, erasures, additions, or corrections in the edited witness (text or neumes);</li>
+            <li>to indicate the choices made by other editors when a text is an <i>unicum</i>;</li>
+            <li>to document any other aspect of the transmission of the text or musical notation considered worthy of note.</li>
+          </ul>
+
+          <h3>Typographical Conventions and Presentation of the Edited Texts</h3>
+          Abbreviations have been silently expanded. Capital letters and punctuation have been added according to modern editorial practice. The edition may also be displayed with the original punctuation of the edited witness ("original punctuation").
+          In Latin and Middle High German, the edition distinguishes vocalic <i>u</i> from consonantal <i>v</i>; in German, vocalic <i>i</i> from consonantal <i>j</i>, regardless of the spelling found in the edited witnesses.
+          Roman numerals are used to number the stanzas of isostrophic and heterostrophic poems (I, II, III, etc.). Arabic numerals are used for the parallel versicles of sequence-type pieces (1a, 1b, 2a, 2b, etc.).
+          Liturgical plays have been divided into sections numbered with Arabic numerals; within each section, the stanzas of rhythmic poems are numbered with Roman numerals.
+
+          <h3>Analysis of Versification</h3>
+          The basic metrical scheme is indicated at the beginning of each verse text.
+          <ul>
+            <li>The sign + is used when two or more rhythmic modules have been combined into a single long verse on one line of our edition.</li>
+            <li>For rhythmic verse: number of syllables per line and final cadence: proparoxytone = pp, paroxytone = p.</li>
+            <li>For Middle High German verse: number of stresses (<i>Hebungen</i>) per line; feminine (<i>klingend</i>) rhymes are indicated by a minus sign (–). In the absence of this sign, the rhyme is masculine.</li>
+          </ul>
+          Rhymes or assonances (as appropriate) are indicated by lower-case letters (a, b, c, etc.). Upper-case letters (A, B, C, etc.) indicate a rhyme recurring with the same sound throughout the piece.
+          Bold type indicates deviations from the basic metrical scheme.
+          The number of unstressed syllables preceding the first stress of a line (<i>Auftakte</i>, <i>i.e.</i> 'upbeats') is indicated by a corresponding number of dots before the syllable count (<i>e.g.</i> .7pp).
+        </div>
+
+        <div data-lang="fr">
+          <h3>Contenu de l’édition</h3>
+
+          Ce site propose une édition des Carmina Burana transmis par le Codex Buranus et environ 440 autres témoins manuscrits du XIIe au XVIe siècle.
+
+          Le corpus édité comprend un certain nombre de pièces numérotées de CB 1 à 228 et de CB1* à 26*). Cette numérotation se réfère à celle de l’édition critique de Alfons Hilka, Otto Schumann et Bernhard Bischoff (1930-1970, ci-après HSB).
+
+          L’édition vise en priorité :
+          <ol>
+            <li>Les pièces rythmiques latines transmises avec une notation musicale dans au moins un témoin. Pour ces pièces, toutes les versions des témoins notés sont éditées, ainsi que la version CB, qu’elle soit notée ou non.</li>
+            <li>Les pièces latines avec strophe(s) finales en moyen haut allemand et les pièces macaroniques, avec ou sans notation musicale.</li>
+            <li>Les jeux liturgiques et les pièces additionnelles (CB 227, 228 et CB1*-26*) avec ou sans notation musicale.</li>
+          </ol>
+
+          <h3>Établissement du texte</h3>
+
+          Éditer les mélodies associées aux Carmina Burana nécessite de considérer chacun des témoins séparément, puisqu’un même témoin transmet une version du texte qui va de pair avec une version de la mélodie. L’édition de chaque témoin est pourvue d’un apparat critique qui tient compte des leçons de l’ensemble des autres témoins conservés (y compris sans mélodie) ainsi que des éditions suivantes : HSB, Vollmann 1986 (V), Traill 2018 (T), et le site en ligne <a href="https://www.ldm-digital.de">Lyrik des Deutschen Mittelalters</a> (ldm) pour les pièces comportant des strophes en moyen haut allemand. À ces éditions de référence s’ajoutent ponctuellement d’autres éditions concernant un corpus ou une pièce particulière, citées en bibliographie.
+
+          L’édition des textes respecte les graphies et les leçons propres à chaque témoin, pour autant qu’elles ne soient pas de nature à dénaturer ou obscurcir le sens du texte. Lorsqu’un ou plusieurs témoins parallèles proposent une leçon jugée meilleure du point de vue du sens et/ou de la versification, le texte a été émendé en conséquence.
+
+          <h3>Apparat critique</h3>
+
+          L’apparat critique se trouve à la fin du texte édité, en deux blocs séparés, l’un pour le texte, l’autre pour la notation musicale. La présence d’une note d’apparat critique donne lieu à un surlignement du mot concerné dans l’édition.
+
+          Les sigles utilisés dans l’apparat critique figurent dans la liste des sources et dans la bibliographie relative à chaque pièce.
+
+          Une note est ajoutée dans l’apparat critique dans les cas suivants :
+          <ul>
+            <li>pour signaler une émendation au texte du témoin édité</li>
+            <li>pour signaler un accident matériel, une difficulté de lecture, ou bien un repentir, une addition, une correction dans le témoin édité (texte ou neumes)</li>
+            <li>pour signaler les choix des autres éditeurs lorsqu’un texte est un <i>unicum</i></li>
+            <li>pour tout autre aspect de la transmission du texte ou de la notation musicale considéré comme devant être signalé.</li>
+          </ul>
+
+          <h3>Choix typographiques et présentation des textes édités</h3>
+
+          Les abréviations ont été résolues tacitement. Des majuscules ainsi qu’une ponctuation ont été ajoutés selon l’usage moderne. Il est possible d’afficher l’édition avec la ponctuation originale du témoin édité (original ponctuation).
+
+          L’édition distingue <i>u</i> voyelle et <i>v</i> consonne en latin et en moyen haut allemand, <i>i</i> voyelle et <i>j</i> consonne en allemand, indépendamment de la graphie utilisée dans les témoins édités.
+
+          Des chiffres romains sont utilisés pour numéroter les strophes des textes isostrophiques ou hétérostrophiques (I, II, III, etc.) Des chiffres arabes sont utilisés pour les versets parallèles des pièces de type séquence (1a, 1b, 2a, 2b, etc.).
+
+          Les jeux liturgiques ont été divisés en sections numérotées en chiffres arabes ; à l’intérieur des sections, les strophes des pièces rythmiques sont numérotées en chiffres romains.
+
+          <h3>Analyse de la versification</h3>
+
+          Le schéma de base de la versification est indiqué en haut des pièces versifiées.
+          <ul>
+            <li>le signe + est utilisé quand deux modules rythmiques ou plus ont été associés en un vers long sur une même ligne de notre édition</li>
+            <li>pour les vers rythmiques : nombre de syllabes par vers et cadence finale : proparoxytone = pp ou paroxytone = p</li>
+            <li>Pour les vers moyen haut allemands : nombre d’accents (<i>Hebungen</i>) dans le vers ; les rimes féminines et sonnantes (<i>klingend</i>) sont signalées par le signe moins (-) ; en l’absence de ce signe moins, il s’agit de rimes masculines.</li>
+          </ul>
+
+          Les rimes ou assonances (selon le cas) sont signalées par des lettres minuscules (a, b, c...). Les lettres majuscules (A, B, C...) signalent une rime qui revient à l’identique (même sonorité) au cours de la pièce.
+
+          Les caractères gras signalent des modifications par rapport au schéma de base de la versification.
+
+          Le nombre de levées en début de vers (<i>Auftakte</i>) est indiqué par autant de points avant le nombre de syllabes (.7pp)
+
+        </div>
+      </div>
+      <div class="flex-column" style="flex: 10%">
+        <!-- add side content here -->
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="cbo-center cbo-black cbo-padding-16" data-include="footer"></footer>
+  </div>
+
+  <script type="module">
     import { initPage } from './js/initPage.js';
 
     initPage();
   </script>
 
-</body>
+  </body>
 </html>
 
 
