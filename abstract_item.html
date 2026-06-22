@@ -1,85 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <title>CBO</title>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
+  <head>
+    <title>CBO</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" />
 
-  <!-- Get primary key of the source from the URL -->
-  <script>
-    const params = new URLSearchParams(document.location.search);
-    const abstract_item_id = params.get("id");
-  </script>
+    <!-- Get primary key of the source from the URL -->
+    <script>
+      const params = new URLSearchParams(document.location.search);
+      const abstract_item_id = params.get("id");
+    </script>
 
-  <!-- Add additional CSS in static file -->
-  <link rel="stylesheet" href="css/ui-components.css"/>
-  <link rel="stylesheet" href="css/layout-generic.css"/>
-  <style>
-    th, td {
-      padding-right: 20px;
-    }
-  </style>
-</head>
-<body>
-<div class="page-container">
-  <!-- Navbar + header -->
-  <div data-include="header"></div>
+    <!-- Add additional CSS in static file -->
+    <link rel="stylesheet" href="css/ui-components.css"/>
+    <link rel="stylesheet" href="css/layout-generic.css"/>
+  </head>
+  <body>
+  <div class="page-container">
+    <!-- Navbar + header -->
+    <div data-include="header"></div>
 
-  <main style="display: flex; flex: 1;">
-    <div class="flex-column" style="flex: 20%">
-      <!-- add side content here -->
-    </div>
-    <div style="flex: 80%;">
-      <div id="metadata"></div>
-      <div id="concordances"></div>
-      <script>
-        var sources, items;
-        $.when(
-          $.getJSON("json/sources.json", function(data) {
-            sources = data;
-          }),
-          $.getJSON("json/items.json", function(data) {
-            items = data.filter((element) => element.abstract_item == abstract_item_id);
-          })
-        ).then(function() {
-          s = `
-            <h2>${abstract_item_id}</h1>
-            `;
-          $("#metadata").html(s);
-          s = `<h3>Concordances</h2>
-            <table>
-            <tr class='head'><th>Title</th><th>Source</th><th>Foliation</th></tr>
-            `;
-          for (var x in items) {
-            var item = items[x];
-            var source = sources.find((element) => element.pk == item.source)
-            s += `<tr>
-              <td><a href='item?id=${item.file}'>${item.title}</a></td>
-              <td><a href="source?pk=${source.pk}">${source.bib_id}</td>
-              <td>${item.foliation}</td>
-              </tr>`;
-          }
-          s += "</table>";
-          $("#concordances").html(s);
-        });
-      </script>
-    </div>
+    <main style="display: flex; flex: 1;">
+      <div class="flex-column" style="flex: 10%">
+        <!-- add side content here -->
+      </div>
 
+      <div style="flex: 80%;">
+        <div id="metadata"></div>
+        <div id="concordances">
+          <h4>Concordances</h4>
+          <table id="concordancesTable">
+              <tr class='head'><th>Source</th><th data-i18n="title"></th><th>Folio</th></tr>
+          </table>
+        </div>
+      </div>
 
-  </main>
+      <div class="flex-column" style="flex: 10%">
+        <!-- add side content here -->
+      </div>
+    </main>
 
+    <!-- Footer -->
+    <footer class="cbo-center cbo-black cbo-padding-16" data-include="footer"></footer>
+  </div>
 
-  <!-- Footer -->
-  <footer class="cbo-center cbo-black cbo-padding-16" data-include="footer"></footer>
-</div>
-
-<script type="module">
+  <script type="module">
     import { initPage } from './js/initPage.js';
+    import { renderAbstractItemPage } from './js/abstract_item/abstractItemPage.js';
 
-    initPage();
+    initPage(renderAbstractItemPage);
   </script>
 
 </body>
