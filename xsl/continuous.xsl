@@ -4,7 +4,7 @@
   <xsl:template match="teiHeader"/>
 
   <xsl:template match="body">
-    <div class="editorial flex-wrapper">
+    <div class="editorial continuous-text flex-wrapper">
       <xsl:apply-templates />
     </div>
   </xsl:template>

@@ -1,5 +1,9 @@
 /* Neumed text layout */
 
+.continuous-text > *:not(:first-child) {
+  margin-left: 8px;
+}
+
 .prose-text {
   margin-bottom: 10px;
 }
@@ -58,7 +62,10 @@
 
 .verse-text {
   display: inline-flex;
-  gap: 8px;
+}
+
+.verse-text > *:not(:first-child), .hemistich > *:not(:first-child) {
+  margin-left: 8px;
 }
 
 .verse-met, .verse-rhyme {
@@ -74,16 +81,13 @@
 .wit {
   white-space: nowrap;
   margin-left: 6px;
+  font-style: italic;
 }
 
 .word {
   display: inline-flex;
   white-space: nowrap;
   word-spacing: 0;
-}
-
-.word + .word {
-  margin-left: 6px;
 }
 
 .neumed-syll {
@@ -108,6 +112,10 @@
   gap: 8px;
 }
 
+.apparatus-in-text > .word + .word {
+  margin-left: 8px;
+}
+
 .apparatus-active {
   top: 1px;
   border-bottom: 1px dotted black;
@@ -127,12 +135,24 @@
   border-radius: 5px;
 }
 
+.apparatus-note:hover {
+  z-index: 100;
+}
+
 .apparatus-active:hover .apparatus-note {
   visibility: visible;
 }
 
 .lem, .rdg, .note {
   margin-right: 8px;
+}
+
+.lem > * + *, .rdg > * + * {
+  margin-left: 6px;
+}
+
+.note > * {
+  vertical-align: bottom;
 }
 
 .border-red {

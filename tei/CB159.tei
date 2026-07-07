@@ -835,13 +835,12 @@
               <app type="neume">
                 <lem>
                   <seg type="syll" part="F">mor<notatedMusic>
-                    <neume fontname="buranus" glyph.num="30" label="ep" />
+                    <neume fontname="buranus" glyph.num="7" label="vi" />
                   </notatedMusic>
                   </seg>
                 </lem>
                 <note>ut vid.</note>
               </app>
-
             </w>
             <pc>&#183;</pc>
             <pc resp="#editor">!</pc>

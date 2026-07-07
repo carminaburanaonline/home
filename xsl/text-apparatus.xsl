@@ -43,7 +43,7 @@
     <span class="lem">
       <xsl:apply-templates />
       <xsl:if test="@wit">
-        <i style="margin-left: 6px;"><xsl:value-of select="@wit" /></i>
+        <span class="wit"><xsl:value-of select="@wit" /></span>
       </xsl:if>
       <xsl:if test="../rdg"><span style="margin-left: 2px;">]</span></xsl:if>
     </span>
