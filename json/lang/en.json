@@ -34,5 +34,8 @@
   "unableToDisplay": "Unable to display manuscript images due to copyright restrictions.",
   "openExternalWebsite": "Open external website.",
   "manuscriptImagesNotAvailable": "Manuscript images not available for this item.",
-  "onlyOneOccurrence": "Only one occurrence"
+  "onlyOneOccurrence": "Only one occurrence",
+  "team": "Team",
+  "phdStudent": "PhD student",
+  "partners": "Partners"
 }

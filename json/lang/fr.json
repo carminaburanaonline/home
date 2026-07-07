@@ -1,5 +1,5 @@
 {
-  "aboutUs": "À propos de nous",
+  "aboutUs": "À propos",
   "aboutEdition": "À propos de l'édition",
   "edition": "Édition",
   "items": "Pièces",
@@ -34,5 +34,8 @@
   "unableToDisplay": "Impossible d'afficher les images du manuscrit en raison de restrictions liées aux droits d'auteur.",
   "openExternalWebsite": "Ouvrir un site Web externe",
   "manuscriptImagesNotAvailable": "Images du manuscrit non disponibles pour cette pièce.",
-  "onlyOneOccurrence": "Une seule occurrence"
+  "onlyOneOccurrence": "Une seule occurrence",
+  "team": "Équipe",
+  "phdStudent": "Doctorat",
+  "partners": "Partenaires"
 }
