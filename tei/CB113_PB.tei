@@ -1,56 +1,56 @@
 <TEI>
-  <teiHeader></teiHeader>
+  <teiHeader />
   <text>
     <body>
       <div type="poem">
-        <lg type="strophe" n="I">
-          <l n="1">Neige et glace ont disparu</l>
-          <l n="2">sous le souffle de la brise,</l>
-          <l n="3">le visage de la terre</l>
-          <l n="4">brille de fleurs à foison :</l>
-          <l n="5">je vais parler  à présent</l>
-          <l n="6">de l’amour que je ressens.</l>
-          <l n="7" rend="indent(1)">À la joie</l>
+        <lg type="strophe" n="I" xml:id="CB113_PB-lg-1">
+          <l n="1" xml:id="CB113_PB-l-1">Neige et glace ont disparu</l>
+          <l n="2" xml:id="CB113_PB-l-2">sous le souffle de la brise,</l>
+          <l n="3" xml:id="CB113_PB-l-3">le visage de la terre</l>
+          <l n="4" xml:id="CB113_PB-l-4">brille de fleurs &#224; foison :</l>
+          <l n="5" xml:id="CB113_PB-l-5">je vais parler  &#224; pr&#233;sent</l>
+          <l n="6" xml:id="CB113_PB-l-6">de l&#8217;amour que je ressens.</l>
+          <l n="7" rend="indent(1)" xml:id="CB113_PB-l-7">&#192; la joie</l>
         </lg>
-        <lg type="refrain">
-          <l n="1">nous convie la gaîté</l>
-          <l n="2" rend="indent(1)">du temps présent !</l>
+        <lg type="refrain" xml:id="CB113_PB-lg-2">
+          <l n="1" xml:id="CB113_PB-l-8">nous convie la ga&#238;t&#233;</l>
+          <l n="2" rend="indent(1)" xml:id="CB113_PB-l-9">du temps pr&#233;sent !</l>
         </lg>
-        <lg type="strophe" n="II">
-          <l n="1">Celle pour qui, combien lourd,</l>
-          <l n="2">mon esprit souffre l’amour,</l>
-          <l n="3">plus que de juste est cruelle,</l>
-          <l n="4">et n’a pas pitié de moi.</l>
-          <l n="5">L’amoureux, je ne ments pas,</l>
-          <l n="6">ne vit plus et ne meurt pas.</l>
-          <l n="7" rend="indent(1)">À la joie</l>
+        <lg type="strophe" n="II" xml:id="CB113_PB-lg-3">
+          <l n="1" xml:id="CB113_PB-l-10">Celle pour qui, combien lourd,</l>
+          <l n="2" xml:id="CB113_PB-l-11">mon esprit souffre l&#8217;amour,</l>
+          <l n="3" xml:id="CB113_PB-l-12">plus que de juste est cruelle,</l>
+          <l n="4" xml:id="CB113_PB-l-13">et n&#8217;a pas piti&#233; de moi.</l>
+          <l n="5" xml:id="CB113_PB-l-14">L&#8217;amoureux, je ne ments pas,</l>
+          <l n="6" xml:id="CB113_PB-l-15">ne vit plus et ne meurt pas.</l>
+          <l n="7" rend="indent(1)" xml:id="CB113_PB-l-16">&#192; la joie</l>
         </lg>
-        <lg type="strophe" n="III">
-          <l n="1">Entre l’amour et la haine,</l>
-          <l n="2">je ne sais pas que choisir,</l>
-          <l n="3">et l’indécision m’emporte.</l>
-          <l n="4">Mais que je la regarde, elle,</l>
-          <l n="5">elle m’enlève à mon insu,</l>
-          <l n="6">et je me défais tout à fait.</l>
-          <l n="7" rend="indent(1)">À la joie</l>
+        <lg type="strophe" n="III" xml:id="CB113_PB-lg-4">
+          <l n="1" xml:id="CB113_PB-l-17">Entre l&#8217;amour et la haine,</l>
+          <l n="2" xml:id="CB113_PB-l-18">je ne sais pas que choisir,</l>
+          <l n="3" xml:id="CB113_PB-l-19">et l&#8217;ind&#233;cision m&#8217;emporte.</l>
+          <l n="4" xml:id="CB113_PB-l-20">Mais que je la regarde, elle,</l>
+          <l n="5" xml:id="CB113_PB-l-21">elle m&#8217;enl&#232;ve &#224; mon insu,</l>
+          <l n="6" xml:id="CB113_PB-l-22">et je me d&#233;fais tout &#224; fait.</l>
+          <l n="7" rend="indent(1)" xml:id="CB113_PB-l-23">&#192; la joie</l>
         </lg>
-        <lg type="strophe" n="IV">
-          <l n="1">Point de fin à mes prières,</l>
-          <l n="2">même si finit mon chant.</l>
-          <l n="3">Que le ciel me soit propice,</l>
-          <l n="4">je la servirai jusqu’à tant</l>
-          <l n="5">que j’obtienne heureusement</l>
-          <l n="6">ce que je désire tant.</l>
-          <l n="7" rend="indent(1)">À la joie</l>
+        <lg type="strophe" n="IV" xml:id="CB113_PB-lg-5">
+          <l n="1" xml:id="CB113_PB-l-24">Point de fin &#224; mes pri&#232;res,</l>
+          <l n="2" xml:id="CB113_PB-l-25">m&#234;me si finit mon chant.</l>
+          <l n="3" xml:id="CB113_PB-l-26">Que le ciel me soit propice,</l>
+          <l n="4" xml:id="CB113_PB-l-27">je la servirai jusqu&#8217;&#224; tant</l>
+          <l n="5" xml:id="CB113_PB-l-28">que j&#8217;obtienne heureusement</l>
+          <l n="6" xml:id="CB113_PB-l-29">ce que je d&#233;sire tant.</l>
+          <l n="7" rend="indent(1)" xml:id="CB113_PB-l-30">&#192; la joie</l>
         </lg>
-        <lg type="strophe" n="V">
-          <l n="1">Je reconnais à nouveau,</l>
-          <l n="2">traces de la flamme ancienne,</l>
-          <l n="3">les plaintes et les soupirs,</l>
-          <l n="4">stigmates neufs de Vénus !</l>
-          <l n="5">Ils annoncent des malheurs</l>
-          <l n="6">aux amoureux plus qu’aux autres.</l>
-          <l n="7" rend="indent(1)">À la joie</l>
+        <lg type="strophe" n="V" xml:id="CB113_PB-lg-6">
+          <l n="1" xml:id="CB113_PB-l-31">Je reconnais &#224; nouveau,</l>
+          <l n="2" xml:id="CB113_PB-l-32">traces de la flamme ancienne,</l>
+          <l n="3" xml:id="CB113_PB-l-33">les plaintes et les soupirs,</l>
+          <l n="4" xml:id="CB113_PB-l-34">stigmates neufs de V&#233;nus !</l>
+          <l n="5" xml:id="CB113_PB-l-35">Ils annoncent des malheurs</l>
+          <l n="6" xml:id="CB113_PB-l-36">aux amoureux plus qu&#8217;aux autres.</l>
+          <l n="7" rend="indent(1)" xml:id="CB113_PB-l-37">&#192; la joie</l>
         </lg>
       </div>
     </body>

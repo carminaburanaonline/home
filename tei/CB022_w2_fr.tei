@@ -3,8 +3,8 @@
   <text>
     <body>
       <div type="poem">
-        <lg type="strophe">
-          <l n="1">
+        <lg type="strophe" xml:id="CB022_w2_fr-lg-1">
+          <l n="1" xml:id="CB022_w2_fr-l-1">
             <w>Amors</w>
             <w>vois</w>
             <w>querant</w>
@@ -12,201 +12,201 @@
             <w>me</w>
             <w>fuit</w>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB022_w2_fr-l-2">
             <w>le</w>
             <w>fruit</w>
             <w>prendre</w>
             <w>cuit</w>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB022_w2_fr-l-3">
             <w>dont</w>
             <w>oudor</w>
             <w>sent</w>
             <w>en</w>
             <w>nuit</w>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB022_w2_fr-l-4">
             <w>soient</w>
             <w>tuit</w>
           </l>
-          <l n="5">
+          <l n="5" xml:id="CB022_w2_fr-l-5">
             <w>mi</w>
             <w>penssement</w>
             <w>debruit</w>
           </l>
-          <l n="6">
+          <l n="6" xml:id="CB022_w2_fr-l-6">
             <w>ior</w>
             <w>et</w>
             <w>nuit</w>
           </l>
-          <l n="7">
+          <l n="7" xml:id="CB022_w2_fr-l-7">
             <w>sent</w>
             <w>grief</w>
             <w>torment</w>
           </l>
-          <l n="8">
+          <l n="8" xml:id="CB022_w2_fr-l-8">
             <w>mon</w>
             <w>cuer</w>
             <w>cuit</w>
           </l>
-          <l n="9">
+          <l n="9" xml:id="CB022_w2_fr-l-9">
             <w>mon</w>
             <w>cors</w>
             <w>destruit</w>
           </l>
-          <l n="10">
+          <l n="10" xml:id="CB022_w2_fr-l-10">
             <w>amors</w>
             <w>par</w>
             <w>son</w>
             <w>present</w>
           </l>
-          <l n="11">
+          <l n="11" xml:id="CB022_w2_fr-l-11">
             <w>de</w>
             <w>le</w>
             <w>que</w>
             <w>i'aim</w>
           </l>
-          <l n="12">
+          <l n="12" xml:id="CB022_w2_fr-l-12">
             <w>cui</w>
             <w>dame</w>
             <w>cleim</w>
           </l>
-          <l n="13">
+          <l n="13" xml:id="CB022_w2_fr-l-13">
             <w>dont</w>
             <w>i'ai</w>
             <w>toriorz</w>
             <w>faim</w>
           </l>
-          <l n="14">
+          <l n="14" xml:id="CB022_w2_fr-l-14">
             <w>dont</w>
             <w>amors</w>
             <w>a</w>
             <w>esscheson</w>
             <w>aim</w>
           </l>
-          <l n="15">
+          <l n="15" xml:id="CB022_w2_fr-l-15">
             <w>ma</w>
             <w>sorpris</w>
           </l>
-          <l n="16">
+          <l n="16" xml:id="CB022_w2_fr-l-16">
             <w>de</w>
             <w>s'amor</w>
             <w>me</w>
             <w>tient</w>
             <w>pris</w>
           </l>
-          <l n="17">
+          <l n="17" xml:id="CB022_w2_fr-l-17">
             <w>dont</w>
             <w>n'a</w>
             <w>nicrai</w>
             <w>vis</w>
           </l>
-          <l n="18">
+          <l n="18" xml:id="CB022_w2_fr-l-18">
             <w>ce</w>
             <w>met</w>
             <w>avis</w>
           </l>
-          <l n="19">
+          <l n="19" xml:id="CB022_w2_fr-l-19">
             <w>ne</w>
             <w>puis</w>
             <w>avoir</w>
             <w>secors</w>
           </l>
-          <l n="20">
+          <l n="20" xml:id="CB022_w2_fr-l-20">
             <w>por</w>
             <w>t'amor</w>
           </l>
-          <l n="21">
+          <l n="21" xml:id="CB022_w2_fr-l-21">
             <w>blanche</w>
             <w>flor</w>
           </l>
-          <l n="22">
+          <l n="22" xml:id="CB022_w2_fr-l-22">
             <w>crai</w>
             <w>doulor</w>
           </l>
-          <l n="23">
+          <l n="23" xml:id="CB022_w2_fr-l-23">
             <w>nuit</w>
             <w>et</w>
             <w>ior</w>
           </l>
-          <l n="24">
+          <l n="24" xml:id="CB022_w2_fr-l-24">
             <w>sanz</w>
             <w>seior</w>
           </l>
-          <l n="25">
+          <l n="25" xml:id="CB022_w2_fr-l-25">
             <w>sanz</w>
             <w>merir</w>
           </l>
-          <l n="26">
+          <l n="26" xml:id="CB022_w2_fr-l-26">
             <w>me</w>
             <w>fait</w>
             <w>servir</w>
           </l>
-          <l n="27">
+          <l n="27" xml:id="CB022_w2_fr-l-27">
             <w>trop</w>
             <w>longuement</w>
           </l>
-          <l n="28">
+          <l n="28" xml:id="CB022_w2_fr-l-28">
             <w>mon</w>
             <w>desir</w>
           </l>
-          <l n="29">
+          <l n="29" xml:id="CB022_w2_fr-l-29">
             <w>vueill</w>
             <w>aconplir</w>
           </l>
-          <l n="30">
+          <l n="30" xml:id="CB022_w2_fr-l-30">
             <w>gen</w>
             <w>morrai</w>
             <w>autrement</w>
           </l>
-          <l n="31">
+          <l n="31" xml:id="CB022_w2_fr-l-31">
             <w>a</w>
             <w>grief</w>
             <w>tourment</w>
           </l>
-          <l n="32">
+          <l n="32" xml:id="CB022_w2_fr-l-32">
             <w>venir</w>
             <w>ne</w>
             <w>puis</w>
           </l>
-          <l n="33">
+          <l n="33" xml:id="CB022_w2_fr-l-33">
             <w>par</w>
             <w>autre</w>
             <w>huis</w>
           </l>
-          <l n="34">
+          <l n="34" xml:id="CB022_w2_fr-l-34">
             <w>a</w>
             <w>confort</w>
           </l>
-          <l n="35">
+          <l n="35" xml:id="CB022_w2_fr-l-35">
             <w>autre</w>
             <w>pertuis</w>
           </l>
-          <l n="36">
+          <l n="36" xml:id="CB022_w2_fr-l-36">
             <w>nul</w>
             <w>ne</w>
             <w>truis</w>
           </l>
-          <l n="37">
+          <l n="37" xml:id="CB022_w2_fr-l-37">
             <w>fors</w>
             <w>la</w>
             <w>mort</w>
           </l>
-          <l n="38">
+          <l n="38" xml:id="CB022_w2_fr-l-38">
             <w>mar</w>
             <w>mi</w>
             <w>deduis</w>
           </l>
-          <l n="39">
+          <l n="39" xml:id="CB022_w2_fr-l-39">
             <w>mourrir</w>
             <w>ruis</w>
           </l>
-          <l n="40">
+          <l n="40" xml:id="CB022_w2_fr-l-40">
             <w>de</w>
             <w>trop</w>
             <w>fort</w>
           </l>
-          <l n="41">
+          <l n="41" xml:id="CB022_w2_fr-l-41">
             <w>mal</w>
             <w>ne</w>
             <w>cuis</w>

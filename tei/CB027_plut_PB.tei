@@ -1,70 +1,70 @@
 <TEI>
-  <teiHeader></teiHeader>
+  <teiHeader />
   <text>
     <body>
       <div type="poem">
-        <lg type="strophe" n="I">
-          <l n="1">Il est bon de s’en remettre</l>
-          <l n="2">au Seigneur absolu,</l>
-          <l n="3">l’espoir, il est bon de le mettre</l>
-          <l n="4">là où notre espoir a son but.</l>
-          <l n="5">Toi qui conçois de l’espoir</l>
-          <l n="6">de la puissance des rois</l>
-          <l n="7">et non de la bonté de Dieu,</l>
-          <l n="8" rend="indent(1)">tu fais erreur,</l>
-          <l n="9" rend="indent(1)">et tu t’exclus</l>
-          <l n="10">de la cour du roi souverain.</l>
-          <l n="11">Pourquoi sur l’amas de tes biens</l>
-          <l n="12">entasses-tu ton péché ?</l>
-          <l n="13">Concentre plutôt sur Dieu</l>
-          <l n="14" rend="indent(2)">ta pensée,</l>
-          <l n="15" rend="indent(1)">cherche à corriger</l>
-          <l n="16" rend="indent(1)">d’abord tes actions,</l>
-          <l n="17">et du travail de tes mains,</l>
-          <l n="18">à la sueur de ton front,</l>
-          <l n="19" rend="indent(1)">gagne ton pain !</l>
+        <lg type="strophe" n="I" xml:id="CB027_plut_PB-lg-1">
+          <l n="1" xml:id="CB027_plut_PB-l-1">Il est bon de s&#8217;en remettre</l>
+          <l n="2" xml:id="CB027_plut_PB-l-2">au Seigneur absolu,</l>
+          <l n="3" xml:id="CB027_plut_PB-l-3">l&#8217;espoir, il est bon de le mettre</l>
+          <l n="4" xml:id="CB027_plut_PB-l-4">l&#224; o&#249; notre espoir a son but.</l>
+          <l n="5" xml:id="CB027_plut_PB-l-5">Toi qui con&#231;ois de l&#8217;espoir</l>
+          <l n="6" xml:id="CB027_plut_PB-l-6">de la puissance des rois</l>
+          <l n="7" xml:id="CB027_plut_PB-l-7">et non de la bont&#233; de Dieu,</l>
+          <l n="8" rend="indent(1)" xml:id="CB027_plut_PB-l-8">tu fais erreur,</l>
+          <l n="9" rend="indent(1)" xml:id="CB027_plut_PB-l-9">et tu t&#8217;exclus</l>
+          <l n="10" xml:id="CB027_plut_PB-l-10">de la cour du roi souverain.</l>
+          <l n="11" xml:id="CB027_plut_PB-l-11">Pourquoi sur l&#8217;amas de tes biens</l>
+          <l n="12" xml:id="CB027_plut_PB-l-12">entasses-tu ton p&#233;ch&#233; ?</l>
+          <l n="13" xml:id="CB027_plut_PB-l-13">Concentre plut&#244;t sur Dieu</l>
+          <l n="14" rend="indent(2)" xml:id="CB027_plut_PB-l-14">ta pens&#233;e,</l>
+          <l n="15" rend="indent(1)" xml:id="CB027_plut_PB-l-15">cherche &#224; corriger</l>
+          <l n="16" rend="indent(1)" xml:id="CB027_plut_PB-l-16">d&#8217;abord tes actions,</l>
+          <l n="17" xml:id="CB027_plut_PB-l-17">et du travail de tes mains,</l>
+          <l n="18" xml:id="CB027_plut_PB-l-18">&#224; la sueur de ton front,</l>
+          <l n="19" rend="indent(1)" xml:id="CB027_plut_PB-l-19">gagne ton pain !</l>
         </lg>
-        <lg type="strophe" n="II">
-          <l n="1">Que l’esprit aille libéré</l>
-          <l n="2">de la prison de la chair,</l>
-          <l n="3">pour que les liens du péché</l>
-          <l n="4" rend="indent(1)">ne puissent l’entraver</l>
-          <l n="5" rend="indent(1)">et le traîner</l>
-          <l n="6">au lamentable enfer,</l>
-          <l n="7">qui est la place des pleurs</l>
-          <l n="8">et des grincements de dents,</l>
-          <l n="9">là où tous les mauvais</l>
-          <l n="10">souffrent la peine de géhenne ;</l>
-          <l n="11">au tout dernier jour,</l>
-          <l n="12">au plus terrible jour,</l>
-          <l n="13">quand le Juge viendra</l>
-          <l n="14">pour battre le grain sur l’aire,</l>
-          <l n="15">pour arracher le pied de vigne</l>
-          <l n="16">qui n’aura pas donné de fruit,</l>
-          <l n="17">alors il séparera</l>
-          <l n="18">le grain de la paille,</l>
-          <l n="19">dans sa grange il entassera</l>
-          <l n="20">le seul froment.</l>
+        <lg type="strophe" n="II" xml:id="CB027_plut_PB-lg-2">
+          <l n="1" xml:id="CB027_plut_PB-l-20">Que l&#8217;esprit aille lib&#233;r&#233;</l>
+          <l n="2" xml:id="CB027_plut_PB-l-21">de la prison de la chair,</l>
+          <l n="3" xml:id="CB027_plut_PB-l-22">pour que les liens du p&#233;ch&#233;</l>
+          <l n="4" rend="indent(1)" xml:id="CB027_plut_PB-l-23">ne puissent l&#8217;entraver</l>
+          <l n="5" rend="indent(1)" xml:id="CB027_plut_PB-l-24">et le tra&#238;ner</l>
+          <l n="6" xml:id="CB027_plut_PB-l-25">au lamentable enfer,</l>
+          <l n="7" xml:id="CB027_plut_PB-l-26">qui est la place des pleurs</l>
+          <l n="8" xml:id="CB027_plut_PB-l-27">et des grincements de dents,</l>
+          <l n="9" xml:id="CB027_plut_PB-l-28">l&#224; o&#249; tous les mauvais</l>
+          <l n="10" xml:id="CB027_plut_PB-l-29">souffrent la peine de g&#233;henne ;</l>
+          <l n="11" xml:id="CB027_plut_PB-l-30">au tout dernier jour,</l>
+          <l n="12" xml:id="CB027_plut_PB-l-31">au plus terrible jour,</l>
+          <l n="13" xml:id="CB027_plut_PB-l-32">quand le Juge viendra</l>
+          <l n="14" xml:id="CB027_plut_PB-l-33">pour battre le grain sur l&#8217;aire,</l>
+          <l n="15" xml:id="CB027_plut_PB-l-34">pour arracher le pied de vigne</l>
+          <l n="16" xml:id="CB027_plut_PB-l-35">qui n&#8217;aura pas donn&#233; de fruit,</l>
+          <l n="17" xml:id="CB027_plut_PB-l-36">alors il s&#233;parera</l>
+          <l n="18" xml:id="CB027_plut_PB-l-37">le grain de la paille,</l>
+          <l n="19" xml:id="CB027_plut_PB-l-38">dans sa grange il entassera</l>
+          <l n="20" xml:id="CB027_plut_PB-l-39">le seul froment.</l>
         </lg>
-        <lg type="strophe" n="III">
-          <l n="1" rend="indent(1)">Bienheureux</l>
-          <l n="2" rend="indent(1)">les cœurs purs,</l>
-          <l n="3">eux que, la faute lavée,</l>
-          <l n="4" rend="indent(1)">la tare du péché</l>
-          <l n="5" rend="indent(1)">ne souille pas,</l>
-          <l n="6">que le crime ne charge pas,</l>
-          <l n="7">que leurs péchés n’accusent pas,</l>
-          <l n="8" rend="indent(1)">ceux qui observent</l>
-          <l n="9">les commandements du Seigneur</l>
-          <l n="10" rend="indent(1)">et en ont soif !</l>
-          <l n="11">Heureux ceux qui dans le besoin</l>
-          <l n="12">restent confiants dans le Seigneur</l>
-          <l n="13">sans se soucier du lendemain !</l>
-          <l n="14">Heureux qui ne s’enferme pas</l>
-          <l n="15">dans les soucis et soins du monde,</l>
-          <l n="16">qui fait fructifier son talent</l>
-          <l n="17">en prêchant le verbe de Dieu,</l>
-          <l n="18">sans s’occuper des biens du siècle !</l>
+        <lg type="strophe" n="III" xml:id="CB027_plut_PB-lg-3">
+          <l n="1" rend="indent(1)" xml:id="CB027_plut_PB-l-40">Bienheureux</l>
+          <l n="2" rend="indent(1)" xml:id="CB027_plut_PB-l-41">les c&#339;urs purs,</l>
+          <l n="3" xml:id="CB027_plut_PB-l-42">eux que, la faute lav&#233;e,</l>
+          <l n="4" rend="indent(1)" xml:id="CB027_plut_PB-l-43">la tare du p&#233;ch&#233;</l>
+          <l n="5" rend="indent(1)" xml:id="CB027_plut_PB-l-44">ne souille pas,</l>
+          <l n="6" xml:id="CB027_plut_PB-l-45">que le crime ne charge pas,</l>
+          <l n="7" xml:id="CB027_plut_PB-l-46">que leurs p&#233;ch&#233;s n&#8217;accusent pas,</l>
+          <l n="8" rend="indent(1)" xml:id="CB027_plut_PB-l-47">ceux qui observent</l>
+          <l n="9" xml:id="CB027_plut_PB-l-48">les commandements du Seigneur</l>
+          <l n="10" rend="indent(1)" xml:id="CB027_plut_PB-l-49">et en ont soif !</l>
+          <l n="11" xml:id="CB027_plut_PB-l-50">Heureux ceux qui dans le besoin</l>
+          <l n="12" xml:id="CB027_plut_PB-l-51">restent confiants dans le Seigneur</l>
+          <l n="13" xml:id="CB027_plut_PB-l-52">sans se soucier du lendemain !</l>
+          <l n="14" xml:id="CB027_plut_PB-l-53">Heureux qui ne s&#8217;enferme pas</l>
+          <l n="15" xml:id="CB027_plut_PB-l-54">dans les soucis et soins du monde,</l>
+          <l n="16" xml:id="CB027_plut_PB-l-55">qui fait fructifier son talent</l>
+          <l n="17" xml:id="CB027_plut_PB-l-56">en pr&#234;chant le verbe de Dieu,</l>
+          <l n="18" xml:id="CB027_plut_PB-l-57">sans s&#8217;occuper des biens du si&#232;cle !</l>
         </lg>
       </div>
     </body>

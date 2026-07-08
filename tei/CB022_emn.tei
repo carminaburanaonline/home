@@ -3,30 +3,30 @@
   <text>
     <body>
       <div type="poem">
-        <lg type="strophe" n="I">
-          <l xml:id="CB022_emn-p-1">
+        <lg type="strophe" n="I" xml:id="CB022_emn-lg-1">
+          <l xml:id="CB022_emn-l-1">
             <w>Homo</w>
             <pc resp="#editor">!</pc>
           </l>
-          <l xml:id="CB022_emn-p-2">
+          <l xml:id="CB022_emn-l-2">
             <w>Quo</w>
             <w>vigeas</w>
             <pc resp="#editor">,</pc>
             <w>vide</w>
             <pc resp="#editor">!</pc>
           </l>
-          <l xml:id="CB022_emn-p-3">
+          <l xml:id="CB022_emn-l-3">
             <w>Dei</w>
             <w>fidei</w>
             <w>adhereas</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l xml:id="CB022_emn-p-4">
+          <l xml:id="CB022_emn-l-4">
             <w>in</w>
             <w>spe</w>
             <w>maneas</w>
           </l>
-          <l xml:id="CB022_emn-p-5">
+          <l xml:id="CB022_emn-l-5">
             <w>et</w>
             <w>in</w>
             <w>fide</w>
@@ -34,12 +34,12 @@
             <w>ardeas</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l xml:id="CB022_emn-p-6">
+          <l xml:id="CB022_emn-l-6">
             <w>foris</w>
             <w>luceas</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l xml:id="CB022_emn-p-7">
+          <l xml:id="CB022_emn-l-7">
             <w>Turturis</w>
             <w>retorqueas</w>
             <w>os</w>
@@ -55,22 +55,22 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="II">
-          <l xml:id="CB022_emn-p-8">
+        <lg type="strophe" n="II" xml:id="CB022_emn-lg-2">
+          <l xml:id="CB022_emn-l-8">
             <w>Docens</w>
             <w>ita</w>
             <w>verbo</w>
             <pc resp="#editor">,</pc>
             <w>vita</w>
           </l>
-          <l xml:id="CB022_emn-p-9">
+          <l xml:id="CB022_emn-l-9">
             <w>oris</w>
             <w>vomere</w>
             <w>de</w>
             <w>cordibus</w>
             <w>fidelium</w>
           </l>
-          <l xml:id="CB022_emn-p-10">
+          <l xml:id="CB022_emn-l-10">
             <w>evellas</w>
             <w>lolium</w>
             <pc resp="#editor">.</pc>
@@ -79,7 +79,7 @@
             <w>rose</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l xml:id="CB022_emn-p-11">
+          <l xml:id="CB022_emn-l-11">
             <w>ut</w>
             <w>alium</w>
             <w>per</w>
@@ -91,7 +91,7 @@
               <rdg wit="cod. V"><w>possis</w><w>corripere</w></rdg>
             </app>
           </l>
-          <l xml:id="CB022_emn-p-12">
+          <l xml:id="CB022_emn-l-12">
             <app type="text">
               <lem>
                 <w>spetiose</w>
@@ -102,8 +102,8 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="III">
-          <l xml:id="CB022_emn-p-13">
+        <lg type="strophe" n="III" xml:id="CB022_emn-lg-3">
+          <l xml:id="CB022_emn-l-13">
             <seg type="hemistich">
               <w>Virtuti</w>
               <pc resp="#editor">,</pc>
@@ -112,18 +112,18 @@
               <w>saluti</w>
             </seg>
           </l>
-          <l xml:id="CB022_emn-p-15">
+          <l xml:id="CB022_emn-l-14">
             <w>omnium</w>
             <w>studeas</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l xml:id="CB022_emn-p-16">
+          <l xml:id="CB022_emn-l-15">
             <w>noxias</w>
             <w>delicias</w>
             <w>detesteris</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l xml:id="CB022_emn-p-17">
+          <l xml:id="CB022_emn-l-16">
             <w>opera</w>
             <w>considera</w>
             <pc resp="#editor">:</pc>
@@ -136,22 +136,22 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="IV">
-          <l xml:id="CB022_emn-p-20">
+        <lg type="strophe" n="IV" xml:id="CB022_emn-lg-4">
+          <l xml:id="CB022_emn-l-17">
             <w>Hac</w>
             <w>in</w>
             <w>via</w>
             <w>milita</w>
             <w>gratie</w>
           </l>
-          <l xml:id="CB022_emn-p-21">
+          <l xml:id="CB022_emn-l-18">
             <w>et</w>
             <w>premia</w>
             <w>cogita</w>
             <w>patrie</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l xml:id="CB022_emn-p-22">
+          <l xml:id="CB022_emn-l-19">
             <w>et</w>
             <w>sic</w>
             <w>tuum</w>

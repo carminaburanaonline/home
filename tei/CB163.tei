@@ -4,8 +4,8 @@
     <body>
       <div type="poem" met="I-X:3x(7pp+6p) 5p+5p, XI:3x(4+3-) 3+3">
         <head>Item</head>
-        <lg type="strophe" n="I" met="7pp+6p/7pp+6p/7pp+6p/5p+5p" rhyme="a+b/a+b/a+b/c+c">
-          <l n="1">
+        <lg type="strophe" n="I" met="7pp+6p/7pp+6p/7pp+6p/5p+5p" rhyme="a+b/a+b/a+b/c+c" xml:id="CB163-lg-1">
+          <l n="1" xml:id="CB163-l-1">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">Lon</seg>
@@ -37,7 +37,7 @@
               <pc>&#183;</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB163-l-2">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">sol</seg>
@@ -70,7 +70,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB163-l-3">
             <seg type="hemistich">
               <w>
                 <seg type="syll">que</seg>
@@ -104,7 +104,7 @@
               <pc resp="#editor">.</pc>
             </seg>
           </l>
-          <l n="4" rhyme="x+x">
+          <l n="4" rhyme="x+x" xml:id="CB163-l-4">
             <seg type="hemistich">
               <w>
                 <seg type="syll">Nec</seg>
@@ -133,8 +133,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="7pp+6p/7pp+6p/7pp+6p/5p+5p" rhyme="a+b/a+b/a+b/c+c">
-          <l n="1">
+        <lg type="strophe" n="II" met="7pp+6p/7pp+6p/7pp+6p/5p+5p" rhyme="a+b/a+b/a+b/c+c" xml:id="CB163-lg-2">
+          <l n="1" xml:id="CB163-l-5">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">He</seg>
@@ -173,7 +173,7 @@
               <pc>&#183;</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB163-l-6">
             <seg type="hemistich">
               <w>
                 <seg type="syll">et</seg>
@@ -211,7 +211,7 @@
               <pc>&#183;</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB163-l-7">
             <seg type="hemistich">
               <app type="text">
                 <lem wit="HSB V T ldm">
@@ -256,7 +256,7 @@
               <pc resp="#editor">.</pc>
             </seg>
           </l>
-          <l n="4" rhyme="x+x">
+          <l n="4" rhyme="x+x" xml:id="CB163-l-8">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">Om</seg>
@@ -285,8 +285,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="7pp+6p/7pp+6p/7pp+6p/5p+5p" rhyme="a+b/a+b/a+b/c+c">
-          <l n="1">
+        <lg type="strophe" n="III" met="7pp+6p/7pp+6p/7pp+6p/5p+5p" rhyme="a+b/a+b/a+b/c+c" xml:id="CB163-lg-3">
+          <l n="1" xml:id="CB163-l-9">
             <seg type="hemistich">
               <w>
                 <seg type="syll">In</seg>
@@ -331,7 +331,7 @@
               <pc>&#183;</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB163-l-10">
             <seg type="hemistich">
               <w>
                 <seg type="syll">nec</seg>
@@ -370,7 +370,7 @@
               <pc resp="#editor">;</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB163-l-11">
             <seg type="hemistich">
               <w>
                 <seg type="syll">sed</seg>
@@ -410,7 +410,7 @@
               <pc resp="#editor">.</pc>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB163-l-12">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">Lo</seg>
@@ -434,8 +434,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="7pp+6p/7pp+6p/7pp+.6p/5p+5p" rhyme="a+b/a+b/a+b/c+c">
-          <l n="1">
+        <lg type="strophe" n="IV" met="7pp+6p/7pp+6p/7pp+.6p/5p+5p" rhyme="a+b/a+b/a+b/c+c" xml:id="CB163-lg-4">
+          <l n="1" xml:id="CB163-l-13">
             <seg type="hemistich">
               <w>
                 <seg type="syll">Hanc</seg>
@@ -472,7 +472,7 @@
               <pc>&#183;</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB163-l-14">
             <seg type="hemistich">
               <app type="text">
                 <lem wit="HSB V T ldm">
@@ -508,7 +508,7 @@
               </w>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB163-l-15">
             <seg type="hemistich">
               <w>
                 <seg type="syll">nec</seg>
@@ -543,7 +543,7 @@
               <pc resp="#editor">.</pc>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB163-l-16">
             <seg type="hemistich">
               <w>
                 <seg type="syll">Flos</seg>
@@ -572,8 +572,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="V" met="7pp+6p/7pp+6p/7pp+6p/5p+5p" rhyme="a+b/a+b/a+b/c+c">
-          <l n="1" rhyme="x+b">
+        <lg type="strophe" n="V" met="7pp+6p/7pp+6p/7pp+6p/5p+5p" rhyme="a+b/a+b/a+b/c+c" xml:id="CB163-lg-5">
+          <l n="1" rhyme="x+b" xml:id="CB163-l-17">
             <seg type="hemistich">
               <w>
                 <seg type="syll">Te</seg>
@@ -606,7 +606,7 @@
               <pc resp="#editor">:</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB163-l-18">
             <seg type="hemistich">
               <app type="text">
                 <lem wit="cod. V ldm">
@@ -648,7 +648,7 @@
               <pc>&#183;</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB163-l-19">
             <seg type="hemistich">
               <w>
                 <seg type="syll">ne</seg>
@@ -682,7 +682,7 @@
               <pc resp="#editor">!</pc>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB163-l-20">
             <seg type="hemistich">
               <w>
                 <seg type="syll">Laus</seg>
@@ -714,8 +714,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="VI" met="7pp+6p/7pp+6p/7pp+6p/5p+5p" rhyme="a+b/a+b/a+b/c+c">
-          <l n="1" met="8pp+6p" rhyme="x+b">
+        <lg type="strophe" n="VI" met="7pp+6p/7pp+6p/7pp+6p/5p+5p" rhyme="a+b/a+b/a+b/c+c" xml:id="CB163-lg-6">
+          <l n="1" met="8pp+6p" rhyme="x+b" xml:id="CB163-l-21">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">Ro</seg>
@@ -752,7 +752,7 @@
               </app>
             </seg>
           </l>
-          <l n="2" met="8pp+6p" rhyme="x+b">
+          <l n="2" met="8pp+6p" rhyme="x+b" xml:id="CB163-l-22">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">cu</seg>
@@ -784,7 +784,7 @@
               <pc resp="#editor">.</pc>
             </seg>
           </l>
-          <l n="3" rhyme="x+b">
+          <l n="3" rhyme="x+b" xml:id="CB163-l-23">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">Gra</seg>
@@ -814,7 +814,7 @@
               <pc resp="#editor">.</pc>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB163-l-24">
             <seg type="hemistich">
               <app type="text">
                 <lem wit="T">
@@ -854,8 +854,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="VII" met="7pp+6p/7pp+6p/7pp+6p/5p+5p" rhyme="a+b/a+b/a+b/c+c">
-          <l n="1">
+        <lg type="strophe" n="VII" met="7pp+6p/7pp+6p/7pp+6p/5p+5p" rhyme="a+b/a+b/a+b/c+c" xml:id="CB163-lg-7">
+          <l n="1" xml:id="CB163-l-25">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">In</seg>
@@ -884,7 +884,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB163-l-26">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">stul</seg>
@@ -915,7 +915,7 @@
               <pc resp="#editor">.</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB163-l-27">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">A</seg>
@@ -945,7 +945,7 @@
               <pc resp="#editor">.</pc>
             </seg>
           </l>
-          <l n="4" rhyme="x+x">
+          <l n="4" rhyme="x+x" xml:id="CB163-l-28">
             <seg type="hemistich">
               <w>
                 <seg type="syll">Nec</seg>
@@ -974,8 +974,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="VIII" met="7pp+6p/.7pp+6p/7pp+6p/5p+5p" rhyme="a+b/a+b/a+b/c+c">
-          <l n="1">
+        <lg type="strophe" n="VIII" met="7pp+6p/.7pp+6p/7pp+6p/5p+5p" rhyme="a+b/a+b/a+b/c+c" xml:id="CB163-lg-8">
+          <l n="1" xml:id="CB163-l-29">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">Mel</seg>
@@ -1006,7 +1006,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB163-l-30">
             <seg type="hemistich">
               <app type="text">
                 <lem wit="cod. HSB T">
@@ -1055,7 +1055,7 @@
               <pc resp="#editor">.</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB163-l-31">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">E</seg>
@@ -1090,7 +1090,7 @@
               <pc resp="#editor">.</pc>
             </seg>
           </l>
-          <l n="4" rhyme="x+b">
+          <l n="4" rhyme="x+b" xml:id="CB163-l-32">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">The</seg>
@@ -1117,8 +1117,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="IX" met="7pp+6p/7pp+6p/7pp+.6p/5p+5p" rhyme="a+b/a+b/a+b/c+c">
-          <l n="1">
+        <lg type="strophe" n="IX" met="7pp+6p/7pp+6p/7pp+.6p/5p+5p" rhyme="a+b/a+b/a+b/c+c" xml:id="CB163-lg-9">
+          <l n="1" xml:id="CB163-l-33">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">Ve</seg>
@@ -1158,7 +1158,7 @@
               <pc>&#183;</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB163-l-34">
             <seg type="hemistich">
               <w>
                 <seg type="syll">nec</seg>
@@ -1195,7 +1195,7 @@
               <pc resp="#editor">;</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB163-l-35">
             <seg type="hemistich">
               <w>
                 <seg type="syll">que</seg>
@@ -1243,7 +1243,7 @@
               <pc resp="#editor">!</pc>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB163-l-36">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">Lo</seg>
@@ -1267,8 +1267,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="X" met="7pp+6p/7pp+6p/7pp+6p/5p+5p" rhyme="a+b/a+b/a+b/c+c">
-          <l n="1">
+        <lg type="strophe" n="X" met="7pp+6p/7pp+6p/7pp+6p/5p+5p" rhyme="a+b/a+b/a+b/c+c" xml:id="CB163-lg-10">
+          <l n="1" xml:id="CB163-l-37">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">O</seg>
@@ -1296,7 +1296,7 @@
               <pc>&#183;</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB163-l-38">
             <seg type="hemistich">
               <w>
                 <seg type="syll">et</seg>
@@ -1327,7 +1327,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB163-l-39">
             <seg type="hemistich">
               <w>
                 <seg type="syll">ut</seg>
@@ -1361,7 +1361,7 @@
               <pc resp="#editor">!</pc>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB163-l-40">
             <seg type="hemistich">
               <w>
                 <seg type="syll">Flos</seg>
@@ -1390,8 +1390,8 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="XI" met="4+3-/4+3-/4+3-/3+3" rhyme="a+b/a+b/a+b/c+c">
-          <l n="1">
+        <lg type="strophe" n="XI" met="4+3-/4+3-/4+3-/3+3" rhyme="a+b/a+b/a+b/c+c" xml:id="CB163-lg-11">
+          <l n="1" xml:id="CB163-l-41">
             <seg type="hemistich">
               <pc resp="#editor" pre="true">&#171;</pc>
               <w>
@@ -1427,7 +1427,7 @@
               <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB163-l-42">
             <seg type="hemistich">
               <w>
                 <seg type="syll">da</seg>
@@ -1468,7 +1468,7 @@
               <pc resp="#editor">.</pc>
             </seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB163-l-43">
             <seg type="hemistich">
               <w>
                 <seg type="syll">Dar</seg>
@@ -1513,7 +1513,7 @@
               <pc resp="#editor">.</pc>
             </seg>
           </l>
-          <l n="4">
+          <l n="4" xml:id="CB163-l-44">
             <seg type="hemistich">
               <w>
                 <seg type="syll" part="I">Lo</seg>

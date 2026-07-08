@@ -1,43 +1,43 @@
 <TEI>
-  <teiHeader></teiHeader>
+  <teiHeader />
   <text>
     <body>
       <div type="poem">
-        <lg type="strophe" n="I">
-          <l n="1">Réjouis-toi !</l>
-          <l n="2">Et vois pour quoi tu peux être dans la joie :</l>
-          <l n="3">que tu t’accroches à la foi en Dieu,</l>
-          <l n="4">que tu demeures dans l’espérance,</l>
-          <l n="5">que tu brûles de foi intérieure,</l>
-          <l n="6">tu brilleras à l’extérieur.</l>
-          <l n="7">Cache ta tête de tourterelle sous ton aisselle.</l>
+        <lg type="strophe" n="I" xml:id="CB022_w2_motet3_PB-lg-1">
+          <l n="1" xml:id="CB022_w2_motet3_PB-l-1">R&#233;jouis-toi !</l>
+          <l n="2" xml:id="CB022_w2_motet3_PB-l-2">Et vois pour quoi tu peux &#234;tre dans la joie :</l>
+          <l n="3" xml:id="CB022_w2_motet3_PB-l-3">que tu t&#8217;accroches &#224; la foi en Dieu,</l>
+          <l n="4" xml:id="CB022_w2_motet3_PB-l-4">que tu demeures dans l&#8217;esp&#233;rance,</l>
+          <l n="5" xml:id="CB022_w2_motet3_PB-l-5">que tu br&#251;les de foi int&#233;rieure,</l>
+          <l n="6" xml:id="CB022_w2_motet3_PB-l-6">tu brilleras &#224; l&#8217;ext&#233;rieur.</l>
+          <l n="7" xml:id="CB022_w2_motet3_PB-l-7">Cache ta t&#234;te de tourterelle sous ton aisselle.</l>
         </lg>
-        <lg type="strophe" n="II">
-          <l n="1">Si tu enseignes ainsi par ta parole et par ta vie,</l>
-          <l n="2">avec la charrue de ta bouche tu arracheras le chiendent</l>
-          <l n="3">des cœurs des fidèles. Ajoute à la rose le lys</l>
-          <l n="4">pour pouvoir ainsi corriger autrui</l>
-          <l n="5">élégamment !</l>
+        <lg type="strophe" n="II" xml:id="CB022_w2_motet3_PB-lg-2">
+          <l n="1" xml:id="CB022_w2_motet3_PB-l-8">Si tu enseignes ainsi par ta parole et par ta vie,</l>
+          <l n="2" xml:id="CB022_w2_motet3_PB-l-9">avec la charrue de ta bouche tu arracheras le chiendent</l>
+          <l n="3" xml:id="CB022_w2_motet3_PB-l-10">des c&#339;urs des fid&#232;les. Ajoute &#224; la rose le lys</l>
+          <l n="4" xml:id="CB022_w2_motet3_PB-l-11">pour pouvoir ainsi corriger autrui</l>
+          <l n="5" xml:id="CB022_w2_motet3_PB-l-12">&#233;l&#233;gamment !</l>
         </lg>
-        <lg type="strophe" n="III">
-          <l n="1">
+        <lg type="strophe" n="III" xml:id="CB022_w2_motet3_PB-lg-3">
+          <l n="1" xml:id="CB022_w2_motet3_PB-l-13">
             <seg type="hemistich">De la vertu</seg>
             <seg type="hemistich">et du salut</seg>
           </l>
-          <l n="2">de tous sois soucieux !</l>
-          <l n="3">Aie en horreur les délices dangereux.</l>
-          <l n="4">Surveille tes actes, autrement tu seras damné.</l>
+          <l n="2" xml:id="CB022_w2_motet3_PB-l-14">de tous sois soucieux !</l>
+          <l n="3" xml:id="CB022_w2_motet3_PB-l-15">Aie en horreur les d&#233;lices dangereux.</l>
+          <l n="4" xml:id="CB022_w2_motet3_PB-l-16">Surveille tes actes, autrement tu seras damn&#233;.</l>
         </lg>
-        <lg type="strophe" n="IV">
-          <l n="1">
+        <lg type="strophe" n="IV" xml:id="CB022_w2_motet3_PB-lg-4">
+          <l n="1" xml:id="CB022_w2_motet3_PB-l-17">
             <seg type="hemistich">Fais ton service</seg>
-            <seg type="hemistich">sur ce chemin de grâce,</seg>
+            <seg type="hemistich">sur ce chemin de gr&#226;ce,</seg>
           </l>
-          <l n="2">
-            <seg type="hemistich">songe aux délices</seg>
+          <l n="2" xml:id="CB022_w2_motet3_PB-l-18">
+            <seg type="hemistich">songe aux d&#233;lices</seg>
             <seg type="hemistich">de la patrie du ciel,</seg>
           </l>
-          <l n="3">et ainsi ton cœur éternellement se réjouira.</l>
+          <l n="3" xml:id="CB022_w2_motet3_PB-l-19">et ainsi ton c&#339;ur &#233;ternellement se r&#233;jouira.</l>
         </lg>
       </div>
     </body>

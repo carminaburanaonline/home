@@ -3,188 +3,188 @@
   <text>
     <body>
       <div type="poem" xml:lang="french">
-        <lg type="strophe" n="I">
-          <l n="1">
+        <lg type="strophe" n="I" xml:id="CB163_PB-lg-1">
+          <l n="1" xml:id="CB163_PB-l-1">
             <seg type="hemistich">Un long espoir douteux,</seg>
             <seg type="hemistich">tout m&#234;l&#233; de frayeur,</seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB163_PB-l-2">
             <seg type="hemistich">a plong&#233; mon esprit</seg>
             <seg type="hemistich">en soupirs et douleur.</seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB163_PB-l-3">
             <seg type="hemistich">Depuis longtemps anxieux,</seg>
             <seg type="hemistich">il demeure amoureux.</seg>
           </l>
-          <l n="4" rend="indent(1)">Pourtant je n&#8217;&#233;carte pas cette sombre douleur.</l>
+          <l n="4" rend="indent(1)" xml:id="CB163_PB-l-4">Pourtant je n&#8217;&#233;carte pas cette sombre douleur.</l>
         </lg>
-        <lg type="strophe" n="II">
-          <l n="1">Malheur &#224; qui ce long d&#233;lai, qui lui profita peu, </l>
-          <l n="2">
+        <lg type="strophe" n="II" xml:id="CB163_PB-lg-2">
+          <l n="1" xml:id="CB163_PB-l-5">Malheur &#224; qui ce long d&#233;lai, qui lui profita peu, </l>
+          <l n="2" xml:id="CB163_PB-l-6">
             <seg type="hemistich">et son &#233;loignement</seg>
             <seg type="hemistich">ont donn&#233; rarement</seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB163_PB-l-7">
             <seg type="hemistich">ce que tient pour meilleur</seg>
             <seg type="hemistich">l&#8217;affection du c&#339;ur !</seg>
           </l>
-          <l n="4" rend="indent(1)">
+          <l n="4" rend="indent(1)" xml:id="CB163_PB-l-8">
             <seg type="hemistich">Tout homme g&#233;n&#233;reux</seg>
             <seg type="hemistich">hait l&#8217;avaricieux.</seg>
           </l>
         </lg>
-        <lg type="strophe" n="III">
-          <l n="1">
+        <lg type="strophe" n="III" xml:id="CB163_PB-lg-3">
+          <l n="1" xml:id="CB163_PB-l-9">
             <seg type="hemistich">Par ce las est serr&#233;</seg>
             <seg type="hemistich">ce n&#339;ud qui n&#8217;attache pas,</seg>
           </l>
-          <l n="2">et aucune mesure n&#8217;est admise en cette affaire. </l>
-          <l n="3">
+          <l n="2" xml:id="CB163_PB-l-10">et aucune mesure n&#8217;est admise en cette affaire. </l>
+          <l n="3" xml:id="CB163_PB-l-11">
             <seg type="hemistich">Jamais d&#233;li&#233;, ce n&#339;ud</seg>
             <seg type="hemistich">de plus en plus se serre.</seg>
           </l>
-          <l n="4" rend="indent(1)">
+          <l n="4" rend="indent(1)" xml:id="CB163_PB-l-12">
             <seg type="hemistich">Lodircumdeia !</seg>
             <seg type="hemistich">Lodircundeia !</seg>
           </l>
         </lg>
-        <lg type="strophe" n="IV">
-          <l n="1">
+        <lg type="strophe" n="IV" xml:id="CB163_PB-lg-4">
+          <l n="1" xml:id="CB163_PB-l-13">
             <seg type="hemistich">J&#8217;aime plus que toutes celle</seg>
             <seg type="hemistich">que ne surpasse pas la rose,</seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB163_PB-l-14">
             <seg type="hemistich">et tu ne pourrais proclamer,</seg>
             <seg type="hemistich">ni en vers ni en prose,</seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB163_PB-l-15">
             <seg type="hemistich">ni par la voix, ni par l&#8217;&#233;crit,</seg>
             <seg type="hemistich">combien elle est merveilleuse.</seg>
           </l>
-          <l n="4" rend="indent(1)">
+          <l n="4" rend="indent(1)" xml:id="CB163_PB-l-16">
             <seg type="hemistich">La fleur en amour</seg>
             <seg type="hemistich">exhale son odeur.</seg>
           </l>
         </lg>
-        <lg type="strophe" n="V">
-          <l n="1">
+        <lg type="strophe" n="V" xml:id="CB163_PB-lg-5">
+          <l n="1" xml:id="CB163_PB-l-17">
             <seg type="hemistich">Je t&#8217;en supplie instamment,</seg>
             <seg type="hemistich">d&#233;esse par la valeur,</seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB163_PB-l-18">
             <seg type="hemistich">desserre en moi</seg>
             <seg type="hemistich">les cha&#238;nes de l&#8217;angoisse,</seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB163_PB-l-19">
             <seg type="hemistich">que le risque d&#8217;en mourir</seg>
             <seg type="hemistich">ne r&#233;compense pas ma d&#233;votion.</seg>
           </l>
-          <l n="4" rend="indent(1)">
+          <l n="4" rend="indent(1)" xml:id="CB163_PB-l-20">
             <seg type="hemistich">A toi seule louange,</seg>
             <seg type="hemistich">louange &#224; toi seule !</seg>
           </l>
         </lg>
-        <lg type="strophe" n="VI">
-          <l n="1">
+        <lg type="strophe" n="VI" xml:id="CB163_PB-lg-6">
+          <l n="1" xml:id="CB163_PB-l-21">
             <seg type="hemistich">Elle a visage de rose,</seg>
             <seg type="hemistich">la superbe entre toutes</seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB163_PB-l-22">
             <seg type="hemistich">dont l&#8217;amour me torture,</seg>
             <seg type="hemistich">et les flammes br&#251;lantes !</seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB163_PB-l-23">
             <seg type="hemistich">Je sens douloureusement</seg>
             <seg type="hemistich">l&#8217;aiguillon de son amour.</seg>
           </l>
-          <l n="4" rend="indent(1)">
+          <l n="4" rend="indent(1)" xml:id="CB163_PB-l-24">
             <seg type="hemistich">Trop plein d&#8217;amour,</seg>
             <seg type="hemistich">trop plein d&#8217;amour !</seg>
           </l>
         </lg>
-        <lg type="strophe" n="VII">
-          <l n="1">
+        <lg type="strophe" n="VII" xml:id="CB163_PB-lg-7">
+          <l n="1" xml:id="CB163_PB-l-25">
             <seg type="hemistich">Atteint d&#8217;un mal inopin&#233;,</seg>
             <seg type="hemistich">je demeure h&#233;b&#233;t&#233;,</seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB163_PB-l-26">
             <seg type="hemistich">angoiss&#233; je suis saisi</seg>
             <seg type="hemistich">du sot d&#233;lire de l&#8217;esprit.</seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB163_PB-l-27">
             <seg type="hemistich">D&#233;ment, aimant plus encore,</seg>
             <seg type="hemistich">je suis ligot&#233; par l&#8217;amour.	</seg>
           </l>
-          <l n="4" rend="indent(1)">
+          <l n="4" rend="indent(1)" xml:id="CB163_PB-l-28">
             <seg type="hemistich">Pourtant je ne fuis pas</seg>
             <seg type="hemistich">cette sombre douleur.</seg>
           </l>
         </lg>
-        <lg type="strophe" n="VIII">
-          <l n="1">
+        <lg type="strophe" n="VIII" xml:id="CB163_PB-lg-8">
+          <l n="1" xml:id="CB163_PB-l-29">
             <seg type="hemistich">On prend mieux le poison</seg>
             <seg type="hemistich">agr&#233;ment&#233; de miel, </seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB163_PB-l-30">
             <seg type="hemistich">mais voil&#224; mon c&#339;ur brid&#233;</seg>
             <seg type="hemistich">d&#8217;un mors inhabituel.</seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB163_PB-l-31">
             <seg type="hemistich">Et la voir est pour moi</seg>
             <seg type="hemistich">aiguillon et souffrance. </seg>
           </l>
-          <l n="4" rend="indent(1)">T&#233;r&#233;e a tant d&#233;sir&#233; Philom&#232;ne ...</l>
+          <l n="4" rend="indent(1)" xml:id="CB163_PB-l-32">T&#233;r&#233;e a tant d&#233;sir&#233; Philom&#232;ne ...</l>
         </lg>
-        <lg type="strophe" n="IX">
-          <l n="1">
+        <lg type="strophe" n="IX" xml:id="CB163_PB-lg-9">
+          <l n="1" xml:id="CB163_PB-l-33">
             <seg type="hemistich">Vrai, tout ce qui est en elle</seg>
             <seg type="hemistich">exige d&#8217;&#234;tre aim&#233;,</seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB163_PB-l-34">
             <seg type="hemistich">on ne peut lui reprocher</seg>
             <seg type="hemistich">f&#251;t-ce le bout d&#8217;un ongle</seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB163_PB-l-35">
             <seg type="hemistich">qui pourrait l&#8217;emp&#234;cher</seg>
             <seg type="hemistich">d&#8217;&#234;tre belle comme H&#233;l&#232;ne.</seg>
           </l>
-          <l n="4" rend="indent(1)">
+          <l n="4" rend="indent(1)" xml:id="CB163_PB-l-36">
             <seg type="hemistich">Lodircundeie !</seg>
             <seg type="hemistich">Lodircundeie !</seg>
           </l>
         </lg>
-        <lg type="strophe" n="X">
-          <l n="1">
+        <lg type="strophe" n="X" xml:id="CB163_PB-lg-10">
+          <l n="1" xml:id="CB163_PB-l-37">
             <seg type="hemistich">Adressons aux dieux du ciel</seg>
             <seg type="hemistich">l&#8217;hommage de nos po&#232;mes,</seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB163_PB-l-38">
             <seg type="hemistich">chantons ensemble, joyeux,</seg>
             <seg type="hemistich">des chants m&#233;lodieux,</seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB163_PB-l-39">
             <seg type="hemistich">pour que nous restions en joie</seg>
             <seg type="hemistich">au long des temps de la vie !</seg>
           </l>
-          <l n="4" rend="indent(1)">
+          <l n="4" rend="indent(1)" xml:id="CB163_PB-l-40">
             <seg type="hemistich">La fleur en amour</seg>
             <seg type="hemistich">exhale son odeur.</seg>
           </l>
         </lg>
-        <lg type="strophe" n="XI">
-          <l n="1">
+        <lg type="strophe" n="XI" xml:id="CB163_PB-lg-11">
+          <l n="1" xml:id="CB163_PB-l-41">
             <seg type="hemistich">&#171; C&#8217;est un lieu d&#233;licieux</seg>
             <seg type="hemistich">qu&#8217;il m&#8217;a indiqu&#233;,</seg>
           </l>
-          <l n="2">
+          <l n="2" xml:id="CB163_PB-l-42">
             <seg type="hemistich">o&#249; les fleurs et l&#8217;herbe</seg>
             <seg type="hemistich">&#233;taient en plein renouveau.</seg>
           </l>
-          <l n="3">
+          <l n="3" xml:id="CB163_PB-l-43">
             <seg type="hemistich">J&#8217;y suis all&#233;e, comme il me l&#8217;a demand&#233;.</seg>
             <seg type="hemistich">L&#224;, on me fit du mal.</seg>
           </l>
-          <l n="4" rend="indent(1)">
+          <l n="4" rend="indent(1)" xml:id="CB163_PB-l-44">
             <seg type="hemistich">Lodircundeie !</seg>
             <seg type="hemistich">Lodircundeie ! &#187;</seg>
           </l>

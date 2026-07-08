@@ -3,12 +3,12 @@
   <text>
     <body>
       <div type="poem">
-        <lg type="strophe" n="I">
-          <l xml:id="CB022_plut_motet-p-1">
+        <lg type="strophe" n="I" xml:id="CB022_plut_motet-lg-1">
+          <l xml:id="CB022_plut_motet-l-1">
             <w>Homo</w>
             <pc resp="#editor">!</pc>
           </l>
-          <l xml:id="CB022_plut_motet-p-2">
+          <l xml:id="CB022_plut_motet-l-2">
             <w>Quo</w>
             <w>vigeas</w>
             <pc resp="#editor">,</pc>
@@ -16,20 +16,20 @@
             <pc>&#183;</pc>
             <pc resp="#editor">!</pc>
           </l>
-          <l xml:id="CB022_plut_motet-p-3">
+          <l xml:id="CB022_plut_motet-l-3">
             <w>Dei</w>
             <w>fidei</w>
             <w>adhereas</w>
             <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
-          <l xml:id="CB022_plut_motet-p-4">
+          <l xml:id="CB022_plut_motet-l-4">
             <w>in</w>
             <w>spe</w>
             <w>gaudeas</w>
             <pc>&#183;</pc>
           </l>
-          <l xml:id="CB022_plut_motet-p-5">
+          <l xml:id="CB022_plut_motet-l-5">
             <w>et</w>
             <w>in</w>
             <w>fide</w>
@@ -38,13 +38,13 @@
             <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
-          <l xml:id="CB022_plut_motet-p-6">
+          <l xml:id="CB022_plut_motet-l-6">
             <w>foris</w>
             <w>luceas</w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
-          <l xml:id="CB022_plut_motet-p-7">
+          <l xml:id="CB022_plut_motet-l-7">
             <w>Turturis</w>
             <w>retorqueas</w>
             <w>os</w>
@@ -54,22 +54,22 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="II">
-          <l xml:id="CB022_plut_motet-p-8">
+        <lg type="strophe" n="II" xml:id="CB022_plut_motet-lg-2">
+          <l xml:id="CB022_plut_motet-l-8">
             <w>Docens</w>
             <w>ita</w>
             <w>verbo</w>
             <pc resp="#editor">,</pc>
             <w>vita</w>
           </l>
-          <l xml:id="CB022_plut_motet-p-9">
+          <l xml:id="CB022_plut_motet-l-9">
             <w>oris</w>
             <w>vomere</w>
             <w>de</w>
             <w>cordibus</w>
             <w>fidelium</w>
           </l>
-          <l xml:id="CB022_plut_motet-p-10">
+          <l xml:id="CB022_plut_motet-l-10">
             <w>evellas</w>
             <w>lolium</w>
             <pc resp="#editor">.</pc>
@@ -78,22 +78,22 @@
             <w>rose</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l xml:id="CB022_plut_motet-p-11">
+          <l xml:id="CB022_plut_motet-l-11">
             <w>ut</w>
             <w>alium</w>
             <w>per</w>
             <w>hoc</w>
             <w>corripere</w>
           </l>
-          <l xml:id="CB022_plut_motet-p-12">
+          <l xml:id="CB022_plut_motet-l-12">
             <w>spetiose</w>
             <w>valeas</w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="III">
-          <l xml:id="CB022_plut_motet-p-13">
+        <lg type="strophe" n="III" xml:id="CB022_plut_motet-lg-3">
+          <l xml:id="CB022_plut_motet-l-13">
             <seg type="hemistich">
               <w>Virtuti</w>
               <pc resp="#editor">,</pc>
@@ -102,13 +102,13 @@
               <w>saluti</w>
             </seg>
           </l>
-          <l xml:id="CB022_plut_motet-p-15">
+          <l xml:id="CB022_plut_motet-l-14">
             <w>omnium</w>
             <w>studeas</w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
-          <l xml:id="CB022_plut_motet-p-16">
+          <l xml:id="CB022_plut_motet-l-15">
             <w>Noxias</w>
             <w>delicias</w>
             <app type="text">
@@ -120,7 +120,7 @@
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </l>
-          <l xml:id="CB022_plut_motet-p-17">
+          <l xml:id="CB022_plut_motet-l-16">
             <w>Opera</w>
             <w>considera</w>
             <pc>&#183;</pc>
@@ -136,8 +136,8 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="IV">
-          <l xml:id="CB022_plut_motet-p-20">
+        <lg type="strophe" n="IV" xml:id="CB022_plut_motet-lg-4">
+          <l xml:id="CB022_plut_motet-l-17">
             <w>Hac</w>
             <w>in</w>
             <w>via</w>
@@ -145,7 +145,7 @@
             <w>gratie</w>
             <pc>&#183;</pc>
           </l>
-          <l xml:id="CB022_plut_motet-p-21">
+          <l xml:id="CB022_plut_motet-l-18">
             <w>et</w>
             <w>premia</w>
             <w>cogita</w>
@@ -153,7 +153,7 @@
             <pc>&#183;</pc>
             <pc resp="#editor">,</pc>
           </l>
-          <l xml:id="CB022_plut_motet-p-22">
+          <l xml:id="CB022_plut_motet-l-19">
             <w>et</w>
             <w>sic</w>
             <w>tuum</w>
