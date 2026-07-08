@@ -1,0 +1,58 @@
+<TEI>
+  <teiHeader></teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg type="strophe" n="I">
+          <l n="1">Neige et glace ont disparu</l>
+          <l n="2">sous le souffle de la brise,</l>
+          <l n="3">le visage de la terre</l>
+          <l n="4">brille de fleurs à foison :</l>
+          <l n="5">je vais parler  à présent</l>
+          <l n="6">de l’amour que je ressens.</l>
+          <l n="7" rend="indent(1)">À la joie</l>
+        </lg>
+        <lg type="refrain">
+          <l n="1">nous convie la gaîté</l>
+          <l n="2" rend="indent(1)">du temps présent !</l>
+        </lg>
+        <lg type="strophe" n="II">
+          <l n="1">Celle pour qui, combien lourd,</l>
+          <l n="2">mon esprit souffre l’amour,</l>
+          <l n="3">plus que de juste est cruelle,</l>
+          <l n="4">et n’a pas pitié de moi.</l>
+          <l n="5">L’amoureux, je ne ments pas,</l>
+          <l n="6">ne vit plus et ne meurt pas.</l>
+          <l n="7" rend="indent(1)">À la joie</l>
+        </lg>
+        <lg type="strophe" n="III">
+          <l n="1">Entre l’amour et la haine,</l>
+          <l n="2">je ne sais pas que choisir,</l>
+          <l n="3">et l’indécision m’emporte.</l>
+          <l n="4">Mais que je la regarde, elle,</l>
+          <l n="5">elle m’enlève à mon insu,</l>
+          <l n="6">et je me défais tout à fait.</l>
+          <l n="7" rend="indent(1)">À la joie</l>
+        </lg>
+        <lg type="strophe" n="IV">
+          <l n="1">Point de fin à mes prières,</l>
+          <l n="2">même si finit mon chant.</l>
+          <l n="3">Que le ciel me soit propice,</l>
+          <l n="4">je la servirai jusqu’à tant</l>
+          <l n="5">que j’obtienne heureusement</l>
+          <l n="6">ce que je désire tant.</l>
+          <l n="7" rend="indent(1)">À la joie</l>
+        </lg>
+        <lg type="strophe" n="V">
+          <l n="1">Je reconnais à nouveau,</l>
+          <l n="2">traces de la flamme ancienne,</l>
+          <l n="3">les plaintes et les soupirs,</l>
+          <l n="4">stigmates neufs de Vénus !</l>
+          <l n="5">Ils annoncent des malheurs</l>
+          <l n="6">aux amoureux plus qu’aux autres.</l>
+          <l n="7" rend="indent(1)">À la joie</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
