@@ -274,6 +274,19 @@
   },
   {
     "abstract_item": "CB022",
+    "source": 106,
+    "foliation": "2r",
+    "title": "Gaude cur gaudeas",
+    "id": "CB022",
+    "IIIF_canvasIndex": "6",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB022",
     "source": 88,
     "foliation": "46v-47r",
     "title": "Et gaudebit",
@@ -368,6 +381,19 @@
     "alternative_img_link": "http://diglib.hab.de/mss/1099-helmst/start.htm?image=00513",
     "language": [
       3
+    ]
+  },
+  {
+    "abstract_item": "CB026",
+    "source": 106,
+    "foliation": "3r",
+    "title": "Ad cor tuum revertere",
+    "id": "CB026",
+    "IIIF_canvasIndex": "8",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "",
+    "language": [
+      1
     ]
   },
   {

@@ -3,42 +3,48 @@
   <text>
     <body>
       <div type="prose">
-        <p xml:id="CB022_emn-p-1">
-          <w>Homo</w>
+        <head>Item</head>
+        <p xml:id="CB022-p-1">
+          <w>Gaude</w>
           <pc resp="#editor">!</pc>
         </p>
-        <p xml:id="CB022_emn-p-2">
-          <w>Quo</w>
-          <w>vigeas</w>
+        <p xml:id="CB022-p-2">
+          <w>Cur</w>
+          <w>gaudeas</w>
           <pc resp="#editor">,</pc>
           <w>vide</w>
+          <pc>&#183;</pc>
           <pc resp="#editor">!</pc>
         </p>
-        <p xml:id="CB022_emn-p-3">
-          <w>Dei</w>
+        <p xml:id="CB022-p-3">
+          <w>dei</w>
           <w>fidei</w>
           <w>adhereas</w>
+          <pc>&#183;</pc>
           <pc resp="#editor">,</pc>
         </p>
-        <p xml:id="CB022_emn-p-4">
+        <p xml:id="CB022-p-4">
           <w>in</w>
           <w>spe</w>
           <w>maneas</w>
+          <pc>&#183;</pc>
         </p>
-        <p xml:id="CB022_emn-p-5">
+        <p xml:id="CB022-p-5">
           <w>et</w>
           <w>in</w>
           <w>fide</w>
           <w>intus</w>
           <w>ardeas</w>
+          <pc>&#183;</pc>
           <pc resp="#editor">,</pc>
         </p>
-        <p xml:id="CB022_emn-p-6">
+        <p xml:id="CB022-p-6">
           <w>foris</w>
           <w>luceas</w>
+          <pc>&#183;</pc>
           <pc resp="#editor">.</pc>
         </p>
-        <p xml:id="CB022_emn-p-7">
+        <p xml:id="CB022-p-7">
           <w>Turturis</w>
           <w>retorqueas</w>
           <w>os</w>
@@ -51,44 +57,51 @@
             <rdg wit="W2.1"><w>ficellas</w></rdg>
             <rdg wit="W2.2"><w>acellas</w></rdg>
           </app>
+          <pc>&#183;</pc>
           <pc resp="#editor">.</pc>
         </p>
-        <p xml:id="CB022_emn-p-8">
+        <p xml:id="CB022-p-8">
           <w>Docens</w>
           <w>ita</w>
           <w>verbo</w>
+          <pc>&#183;</pc>
           <pc resp="#editor">,</pc>
           <w>vita</w>
+          <pc>&#183;</pc>
         </p>
-        <p xml:id="CB022_emn-p-9">
+        <p xml:id="CB022-p-9">
           <w>oris</w>
           <w>vomere</w>
+          <pc>&#183;</pc>
           <w>de</w>
           <w>cordibus</w>
           <w>fidelium</w>
         </p>
-        <p xml:id="CB022_emn-p-10">
+        <p xml:id="CB022-p-10">
           <w>evellas</w>
           <w>lolium</w>
+          <pc>&#183;</pc>
           <pc resp="#editor">.</pc>
           <w>Lilium</w>
           <w>insere</w>
           <w>rose</w>
+          <pc>&#183;</pc>
           <pc resp="#editor">,</pc>
         </p>
-        <p xml:id="CB022_emn-p-11">
+        <p xml:id="CB022-p-11">
           <w>ut</w>
           <w>alium</w>
           <w>per</w>
-          <w>hoc</w>
+          <w>hec</w>
           <app type="text">
             <lem wit="F Ma W2.1 W2.2 HSB T">
               <w>corripere</w>
             </lem>
             <rdg wit="cod. V"><w>possis</w><w>corripere</w></rdg>
           </app>
+          <pc>&#183;</pc>
         </p>
-        <p xml:id="CB022_emn-p-12">
+        <p xml:id="CB022-p-12">
           <app type="text">
             <lem>
               <w>spetiose</w>
@@ -98,25 +111,28 @@
           <w>valeas</w>
           <pc resp="#editor">.</pc>
         </p>
-        <p xml:id="CB022_emn-p-13">
+        <p xml:id="CB022-p-13">
           <w>virtuti</w>
+          <pc>&#183;</pc>
           <pc resp="#editor">,</pc>
         </p>
-        <p xml:id="CB022_emn-p-14">
+        <p xml:id="CB022-p-14">
           <w>saluti</w>
         </p>
-        <p xml:id="CB022_emn-p-15">
+        <p xml:id="CB022-p-15">
           <w>omnium</w>
           <w>studeas</w>
+          <pc>&#183;</pc>
           <pc resp="#editor">.</pc>
         </p>
-        <p xml:id="CB022_emn-p-16">
+        <p xml:id="CB022-p-16">
           <w>noxias</w>
           <w>delicias</w>
           <w>detesteris</w>
+          <pc>&#183;</pc>
           <pc resp="#editor">.</pc>
         </p>
-        <p xml:id="CB022_emn-p-17">
+        <p xml:id="CB022-p-17">
           <w>opera</w>
           <w>considera</w>
           <pc resp="#editor">:</pc>
@@ -126,23 +142,26 @@
           <w>feceris</w>
           <pc resp="#editor">,</pc>
           <w>dampnaberis</w>
+          <pc>&#183;</pc>
           <pc resp="#editor">.</pc>
         </p>
-        <p xml:id="CB022_emn-p-20">
+        <p xml:id="CB022-p-20">
           <w>Hac</w>
           <w>in</w>
           <w>via</w>
           <w>milita</w>
           <w>gratie</w>
+          <pc>&#183;</pc>
         </p>
-        <p xml:id="CB022_emn-p-21">
+        <p xml:id="CB022-p-21">
           <w>et</w>
           <w>premia</w>
           <w>cogita</w>
           <w>patrie</w>
+          <pc>&#183;</pc>
           <pc resp="#editor">,</pc>
         </p>
-        <p xml:id="CB022_emn-p-22">
+        <p xml:id="CB022-p-22">
           <w>et</w>
           <w>sic</w>
           <w>tuum</w>
