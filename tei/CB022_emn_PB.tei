@@ -1,0 +1,45 @@
+<TEI>
+  <teiHeader></teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg type="strophe" n="I">
+          <l n="1">Réjouis-toi !</l>
+          <l n="2">Et vois pour quoi tu peux être dans la joie :</l>
+          <l n="3">que tu t’accroches à la foi en Dieu,</l>
+          <l n="4">que tu demeures dans l’espérance,</l>
+          <l n="5">que tu brûles de foi intérieure,</l>
+          <l n="6">tu brilleras à l’extérieur.</l>
+          <l n="7">Cache ta tête de tourterelle sous ton aisselle.</l>
+        </lg>
+        <lg type="strophe" n="II">
+          <l n="1">Si tu enseignes ainsi par ta parole et par ta vie,</l>
+          <l n="2">avec la charrue de ta bouche tu arracheras le chiendent</l>
+          <l n="3">des cœurs des fidèles. Ajoute à la rose le lys</l>
+          <l n="4">pour pouvoir ainsi corriger autrui</l>
+          <l n="5">élégamment !</l>
+        </lg>
+        <lg type="strophe" n="III">
+          <l n="1">
+            <seg type="hemistich">De la vertu</seg>
+            <seg type="hemistich">et du salut</seg>
+          </l>
+          <l n="2">de tous sois soucieux !</l>
+          <l n="3">Aie en horreur les délices dangereux.</l>
+          <l n="4">Surveille tes actes, autrement tu seras damné.</l>
+        </lg>
+        <lg type="strophe" n="IV">
+          <l n="1">
+            <seg type="hemistich">Fais ton service</seg>
+            <seg type="hemistich">sur ce chemin de grâce,</seg>
+          </l>
+          <l n="2">
+            <seg type="hemistich">songe aux délices</seg>
+            <seg type="hemistich">de la patrie du ciel,</seg>
+          </l>
+          <l n="3">et ainsi ton cœur éternellement se réjouira.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

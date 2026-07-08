@@ -2,177 +2,187 @@
   <teiHeader />
   <text>
     <body>
-      <div type="prose">
-        <p xml:id="CB022_w2_motet3-p-1">
-          <w>Homo</w>
-          <pc resp="#editor">!</pc>
-        </p>
-        <p xml:id="CB022_w2_motet3-p-2">
-          <w>Quo</w>
-          <w>vigeas</w>
-          <pc resp="#editor">,</pc>
-          <w>vide</w>
-          <pc resp="#editor">!</pc>
-        </p>
-        <p xml:id="CB022_w2_motet3-p-3">
-          <app type="text">
-            <lem>
-              <w>Dei</w>
-            </lem>
-            <note>add. s. l. cod.</note>
-          </app>
-          <w>fidei</w>
-          <w>adhereas</w>
-          <pc resp="#editor">,</pc>
-        </p>
-        <p xml:id="CB022_w2_motet3-p-4">
-          <w>in</w>
-          <w>spe</w>
-          <w>gaudeas</w>
-        </p>
-        <p xml:id="CB022_w2_motet3-p-5">
-          <w>et</w>
-          <w>in</w>
-          <w>fide</w>
-          <app type="text">
-            <lem wit="CB F Ma HSB V T">
-              <w>intus</w>
-            </lem>
-            <rdg wit="cod. W2.2"><w>virtus</w></rdg>
-          </app>
-          <w>ardeas</w>
-          <pc resp="#editor">,</pc>
-        </p>
-        <p xml:id="CB022_w2_motet3-p-6">
-          <w>foris</w>
-          <w>luceas</w>
-          <pc resp="#editor">.</pc>
-        </p>
-        <p xml:id="CB022_w2_motet3-p-7">
-          <app type="text">
-            <lem wit="CB F Ma W2.2 HSB V T">
-              <w>Turturis</w>
-            </lem>
-            <rdg wit="cod."><w>turturi</w></rdg>
-          </app>
-          <w>retorqueas</w>
-          <w>os</w>
-          <w>ad</w>
-          <app type="text">
-            <lem wit="F Ma HSB T">
-              <w>ascellas</w>
-            </lem>
-            <rdg wit="cod."><w>ficellas</w></rdg>
-            <rdg wit="CB"><w>cellas</w></rdg>
-            <rdg wit="W2.2"><w>scellas</w></rdg>
-          </app>
-          <pc resp="#editor">.</pc>
-        </p>
-        <p xml:id="CB022_w2_motet3-p-8">
-          <w>Docens</w>
-          <w>ita</w>
-          <w>verbo</w>
-          <pc resp="#editor">,</pc>
-          <w>vita</w>
-        </p>
-        <p xml:id="CB022_w2_motet3-p-9">
-          <w>oris</w>
-          <w>vomere</w>
-          <w>de</w>
-          <w>cordibus</w>
-          <w>fidelium</w>
-        </p>
-        <p xml:id="CB022_w2_motet3-p-10">
-          <w>evellas</w>
-          <w>lolium</w>
-          <pc resp="#editor">.</pc>
-          <w>Lilium</w>
-          <w>insere</w>
-          <w>rose</w>
-          <pc resp="#editor">,</pc>
-        </p>
-        <p xml:id="CB022_w2_motet3-p-11">
-          <w>ut</w>
-          <w>alium</w>
-          <w>per</w>
-          <w>hoc</w>
-          <w>corripere</w>
-        </p>
-        <p xml:id="CB022_w2_motet3-p-12">
-          <w>spetiose</w>
-          <w>valeas</w>
-          <pc resp="#editor">.</pc>
-        </p>
-        <p xml:id="CB022_w2_motet3-p-13">
-          <w>Virtuti</w>
-          <pc resp="#editor">,</pc>
-        </p>
-        <p xml:id="CB022_w2_motet3-p-14">
-          <w>saluti</w>
-        </p>
-        <p xml:id="CB022_w2_motet3-p-15">
-          <w>omnium</w>
-          <w>studeas</w>
-          <pc resp="#editor">.</pc>
-        </p>
-        <p xml:id="CB022_w2_motet3-p-16">
-          <w>Noxias</w>
-          <w>delitias</w>
-          <w>detesteris</w>
-          <pc resp="#editor">.</pc>
-        </p>
-        <p xml:id="CB022_w2_motet3-p-17">
-          <w>Opera</w>
-          <w>considera</w>
-          <pc resp="#editor">:</pc>
-          <w>que</w>
-          <w>si</w>
-          <w>non</w>
-          <w>feceris</w>
-          <pc resp="#editor">,</pc>
-          <w>dampnaberis</w>
-          <pc resp="#editor">.</pc>
-        </p>
-        <p xml:id="CB022_w2_motet3-p-20">
-          <w>Hac</w>
-          <w>in</w>
-          <w>via</w>
-          <app type="text">
-            <lem wit="CB F Ma W2.2 HSB V T">
-              <w>milita</w>
-            </lem>
-            <rdg wit="cod."><w>militans</w></rdg>
-          </app>
-          <w>gratie</w>
-        </p>
-        <p xml:id="CB022_w2_motet3-p-21">
-          <w>et</w>
-          <w>premia</w>
-          <app type="text">
-            <lem wit="CB F Ma W2.2 HSB V T">
-              <w>cogita</w>
-            </lem>
-            <rdg wit="cod."><w>cogitans</w></rdg>
-          </app>
-          <w>patrie</w>
-          <pc resp="#editor">,</pc>
-        </p>
-        <p xml:id="CB022_w2_motet3-p-22">
-          <w>et</w>
-          <w>cor</w>
-          <w>tuum</w>
-          <w>sic</w>
-          <app type="text">
-            <lem wit="CB F Ma HSB V T">
-              <w>in</w>
-              <w>perpetuum</w>
-            </lem>
-            <rdg wit="cod. W2.2"><w>imperpetuum</w></rdg>
-          </app>
-          <w>gaudebit</w>
-          <pc>&#183;</pc>
-          <pc resp="#editor">.</pc>
-        </p>
+      <div type="poem">
+        <lg type="strophe" n="I">
+          <l xml:id="CB022_w2_motet3-p-1">
+            <w>Homo</w>
+            <pc resp="#editor">!</pc>
+          </l>
+          <l xml:id="CB022_w2_motet3-p-2">
+            <w>Quo</w>
+            <w>vigeas</w>
+            <pc resp="#editor">,</pc>
+            <w>vide</w>
+            <pc resp="#editor">!</pc>
+          </l>
+          <l xml:id="CB022_w2_motet3-p-3">
+            <app type="text">
+              <lem>
+                <w>Dei</w>
+              </lem>
+              <note>add. s. l. cod.</note>
+            </app>
+            <w>fidei</w>
+            <w>adhereas</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l xml:id="CB022_w2_motet3-p-4">
+            <w>in</w>
+            <w>spe</w>
+            <w>gaudeas</w>
+          </l>
+          <l xml:id="CB022_w2_motet3-p-5">
+            <w>et</w>
+            <w>in</w>
+            <w>fide</w>
+            <app type="text">
+              <lem wit="CB F Ma HSB V T">
+                <w>intus</w>
+              </lem>
+              <rdg wit="cod. W2.2"><w>virtus</w></rdg>
+            </app>
+            <w>ardeas</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l xml:id="CB022_w2_motet3-p-6">
+            <w>foris</w>
+            <w>luceas</w>
+            <pc resp="#editor">.</pc>
+          </l>
+          <l xml:id="CB022_w2_motet3-p-7">
+            <app type="text">
+              <lem wit="CB F Ma W2.2 HSB V T">
+                <w>Turturis</w>
+              </lem>
+              <rdg wit="cod."><w>turturi</w></rdg>
+            </app>
+            <w>retorqueas</w>
+            <w>os</w>
+            <w>ad</w>
+            <app type="text">
+              <lem wit="F Ma HSB T">
+                <w>ascellas</w>
+              </lem>
+              <rdg wit="cod."><w>ficellas</w></rdg>
+              <rdg wit="CB"><w>cellas</w></rdg>
+              <rdg wit="W2.2"><w>scellas</w></rdg>
+            </app>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="II">
+          <l xml:id="CB022_w2_motet3-p-8">
+            <w>Docens</w>
+            <w>ita</w>
+            <w>verbo</w>
+            <pc resp="#editor">,</pc>
+            <w>vita</w>
+          </l>
+          <l xml:id="CB022_w2_motet3-p-9">
+            <w>oris</w>
+            <w>vomere</w>
+            <w>de</w>
+            <w>cordibus</w>
+            <w>fidelium</w>
+          </l>
+          <l xml:id="CB022_w2_motet3-p-10">
+            <w>evellas</w>
+            <w>lolium</w>
+            <pc resp="#editor">.</pc>
+            <w>Lilium</w>
+            <w>insere</w>
+            <w>rose</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l xml:id="CB022_w2_motet3-p-11">
+            <w>ut</w>
+            <w>alium</w>
+            <w>per</w>
+            <w>hoc</w>
+            <w>corripere</w>
+          </l>
+          <l xml:id="CB022_w2_motet3-p-12">
+            <w>spetiose</w>
+            <w>valeas</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="III">
+          <l xml:id="CB022_w2_motet3-p-13">
+            <seg type="hemistich">
+              <w>Virtuti</w>
+              <pc resp="#editor">,</pc>
+            </seg>
+            <seg type="hemistich">
+              <w>saluti</w>
+            </seg>
+          </l>
+          <l xml:id="CB022_w2_motet3-p-15">
+            <w>omnium</w>
+            <w>studeas</w>
+            <pc resp="#editor">.</pc>
+          </l>
+          <l xml:id="CB022_w2_motet3-p-16">
+            <w>Noxias</w>
+            <w>delitias</w>
+            <w>detesteris</w>
+            <pc resp="#editor">.</pc>
+          </l>
+          <l xml:id="CB022_w2_motet3-p-17">
+            <w>Opera</w>
+            <w>considera</w>
+            <pc resp="#editor">:</pc>
+            <w>que</w>
+            <w>si</w>
+            <w>non</w>
+            <w>feceris</w>
+            <pc resp="#editor">,</pc>
+            <w>dampnaberis</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="IV">
+          <l xml:id="CB022_w2_motet3-p-20">
+            <w>Hac</w>
+            <w>in</w>
+            <w>via</w>
+            <app type="text">
+              <lem wit="CB F Ma W2.2 HSB V T">
+                <w>milita</w>
+              </lem>
+              <rdg wit="cod."><w>militans</w></rdg>
+            </app>
+            <w>gratie</w>
+          </l>
+          <l xml:id="CB022_w2_motet3-p-21">
+            <w>et</w>
+            <w>premia</w>
+            <app type="text">
+              <lem wit="CB F Ma W2.2 HSB V T">
+                <w>cogita</w>
+              </lem>
+              <rdg wit="cod."><w>cogitans</w></rdg>
+            </app>
+            <w>patrie</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l xml:id="CB022_w2_motet3-p-22">
+            <w>et</w>
+            <w>cor</w>
+            <w>tuum</w>
+            <w>sic</w>
+            <app type="text">
+              <lem wit="CB F Ma HSB V T">
+                <w>in</w>
+                <w>perpetuum</w>
+              </lem>
+              <rdg wit="cod. W2.2"><w>imperpetuum</w></rdg>
+            </app>
+            <w>gaudebit</w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
       </div>
     </body>
   </text>
