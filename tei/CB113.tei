@@ -4,7 +4,7 @@
     <body>
       <div type="poem" met="I-V:6x7pp 4pp, VI: 2x(4+4) 2x4 2 4+2, Refl.: 4pp 7pp">
         <head>Item aliud</head>
-        <lg type="strophe" n="I" met="7pp/7pp/7pp/7pp/7pp/7pp/4pp">
+        <lg type="strophe" n="I" met="7pp/7pp/7pp/7pp/7pp/7pp/4pp" rhyme="a/b/a/b/a/b/C">
           <l n="1">
             <app type="text">
               <lem wit="cod. V ldm">
@@ -120,7 +120,7 @@
             <pc>&#183;</pc>
           </l>
         </lg>
-        <lg type="refrain" met="4pp/7pp">
+        <lg type="refrain" met="4pp/7pp" rhyme="D/C">
           <head>Refl.</head>
           <l n="1">
             <w>
@@ -148,7 +148,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="II" met="7pp/7pp/7pp/7pp/7pp/7pp/4pp">
+        <lg type="strophe" n="II" met="7pp/7pp/7pp/7pp/7pp/7pp/4pp" rhyme="a/b/a/b/a/b/C">
           <l n="1">
             <w>
               <seg type="syll" part="I">Il</seg>
@@ -265,7 +265,7 @@
             <pc>&#183;</pc>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="7pp/7pp/7pp/7pp/7pp/7pp/4pp">
+        <lg type="strophe" n="III" met="7pp/7pp/7pp/7pp/7pp/7pp/4pp" rhyme="a/b/a/b/a/b/C">
           <l n="1">
             <w>
               <seg type="syll">Hic</seg>
@@ -383,7 +383,7 @@
             <pc>&#183;</pc>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="7pp/7pp/7pp/7pp/7pp/7pp/4pp">
+        <lg type="strophe" n="IV" met="7pp/7pp/7pp/7pp/7pp/7pp/4pp" rhyme="a/b/a/b/a/b/C">
           <l n="1">
             <w>
               <seg type="syll">Non</seg>
@@ -490,7 +490,7 @@
             <pc>&#183;</pc>
           </l>
         </lg>
-        <lg type="strophe" n="V" met="7pp/7pp/7pp/7pp/7pp/7pp/4pp">
+        <lg type="strophe" n="V" met="7pp/7pp/7pp/7pp/7pp/7pp/4pp" rhyme="a/b/a/b/a/b/C">
           <l n="1">
             <w>
               <seg type="syll" part="I">A</seg>
@@ -604,7 +604,7 @@
             <pc>&#183;</pc>
           </l>
         </lg>
-        <lg type="strophe" n="VI" met="4+.4/4-+4/4-/4-/2-/4+.2-">
+        <lg type="strophe" n="VI" met="4+.4/4-+4/4-/4-/2-/4+.2-" rhyme="a/a/b/b/c/c">
           <l n="1">
             <seg type="hemistich">
               <pc resp="#editor" pre="true">«</pc>

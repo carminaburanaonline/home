@@ -1,0 +1,72 @@
+<TEI>
+  <teiHeader></teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg type="strophe" n="I">
+          <l n="1">Il est bon de s’en remettre</l>
+          <l n="2">au Seigneur absolu,</l>
+          <l n="3">l’espoir, il est bon de le mettre</l>
+          <l n="4">là où notre espoir a son but.</l>
+          <l n="5">Toi qui conçois de l’espoir</l>
+          <l n="6">de la puissance des rois</l>
+          <l n="7">et non de la bonté de Dieu,</l>
+          <l n="8" rend="indent(1)">tu fais erreur,</l>
+          <l n="9" rend="indent(1)">et tu t’exclus</l>
+          <l n="10">de la cour du roi souverain.</l>
+          <l n="11">Pourquoi sur l’amas de tes biens</l>
+          <l n="12">entasses-tu ton péché ?</l>
+          <l n="13">Concentre plutôt sur Dieu</l>
+          <l n="14" rend="indent(2)">ta pensée,</l>
+          <l n="15" rend="indent(1)">cherche à corriger</l>
+          <l n="16" rend="indent(1)">d’abord tes actions,</l>
+          <l n="17">et du travail de tes mains,</l>
+          <l n="18">à la sueur de ton front,</l>
+          <l n="19" rend="indent(1)">gagne ton pain !</l>
+        </lg>
+        <lg type="strophe" n="II">
+          <l n="1">Que l’esprit aille libéré</l>
+          <l n="2">de la prison de la chair,</l>
+          <l n="3">pour que les liens du péché</l>
+          <l n="4" rend="indent(1)">ne puissent l’entraver</l>
+          <l n="5" rend="indent(1)">et le traîner</l>
+          <l n="6">au lamentable enfer,</l>
+          <l n="7">qui est la place des pleurs</l>
+          <l n="8">et des grincements de dents,</l>
+          <l n="9">là où tous les mauvais</l>
+          <l n="10">souffrent la peine de géhenne ;</l>
+          <l n="11">au tout dernier jour,</l>
+          <l n="12">au plus terrible jour,</l>
+          <l n="13">quand le Juge viendra</l>
+          <l n="14">pour battre le grain sur l’aire,</l>
+          <l n="15">pour arracher le pied de vigne</l>
+          <l n="16">qui n’aura pas donné de fruit,</l>
+          <l n="17">alors il séparera</l>
+          <l n="18">le grain de la paille,</l>
+          <l n="19">dans sa grange il entassera</l>
+          <l n="20">le seul froment.</l>
+        </lg>
+        <lg type="strophe" n="III">
+          <l n="1" rend="indent(1)">Bienheureux</l>
+          <l n="2" rend="indent(1)">les cœurs purs,</l>
+          <l n="3">eux que, la faute lavée,</l>
+          <l n="4" rend="indent(1)">la tare du péché</l>
+          <l n="5" rend="indent(1)">ne souille pas,</l>
+          <l n="6">que le crime ne charge pas,</l>
+          <l n="7">que leurs péchés n’accusent pas,</l>
+          <l n="8" rend="indent(1)">ceux qui observent</l>
+          <l n="9">les commandements du Seigneur</l>
+          <l n="10" rend="indent(1)">et en ont soif !</l>
+          <l n="11">Heureux ceux qui dans le besoin</l>
+          <l n="12">restent confiants dans le Seigneur</l>
+          <l n="13">sans se soucier du lendemain !</l>
+          <l n="14">Heureux qui ne s’enferme pas</l>
+          <l n="15">dans les soucis et soins du monde,</l>
+          <l n="16">qui fait fructifier son talent</l>
+          <l n="17">en prêchant le verbe de Dieu,</l>
+          <l n="18">sans s’occuper des biens du siècle !</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,30 @@
+<TEI>
+  <teiHeader></teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg type="strophe">
+          <l n="1">Il est bon de s’en remettre</l>
+          <l n="2">au Seigneur absolu,</l>
+          <l n="3">l’espoir, il est bon de le mettre</l>
+          <l n="4">là où notre espoir a son but.</l>
+          <l n="5">Toi qui conçois de l’espoir</l>
+          <l n="6">de la puissance des rois</l>
+          <l n="7">et non de la bonté de Dieu,</l>
+          <l n="8" rend="indent(1)">tu fais erreur,</l>
+          <l n="9" rend="indent(1)">et tu t’exclus</l>
+          <l n="10">de la cour du roi souverain.</l>
+          <l n="11">Pourquoi sur l’amas de tes biens</l>
+          <l n="12">entasses-tu ton péché ?</l>
+          <l n="13">Concentre plutôt sur Dieu</l>
+          <l n="14" rend="indent(2)">ta pensée,</l>
+          <l n="15" rend="indent(1)">cherche à corriger</l>
+          <l n="16" rend="indent(1)">d’abord tes actions,</l>
+          <l n="17">et du travail de tes mains,</l>
+          <l n="18">à la sueur de ton front,</l>
+          <l n="19" rend="indent(1)">gagne ton pain !</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
