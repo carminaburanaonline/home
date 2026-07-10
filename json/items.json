@@ -82,20 +82,6 @@
   },
   {
     "abstract_item": "CB012",
-    "source": 69,
-    "foliation": "1-1ar",
-    "title": "[Procurans odium]",
-    "id": "CB012_cjec",
-    "SVGfiles": 1,
-    "IIIF_canvasIndex": "",
-    "IIIF_canvasId": "",
-    "alternative_img_link": "https://www.diamm.ac.uk/sources/306/#/images",
-    "language": [
-      1
-    ]
-  },
-  {
-    "abstract_item": "CB012",
     "source": 37,
     "foliation": "124r-124v",
     "title": "Procurans hodium",
@@ -104,6 +90,20 @@
     "IIIF_canvasIndex": "",
     "IIIF_canvasId": "",
     "alternative_img_link": "http://bdh-rd.bne.es/viewer.vm?id=0000005661&page=128",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB012",
+    "source": 69,
+    "foliation": "1-1ar",
+    "title": "[Procurans odium]",
+    "id": "CB012_cjec",
+    "SVGfiles": 1,
+    "IIIF_canvasIndex": "",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "https://www.diamm.ac.uk/sources/306/#/images",
     "language": [
       1
     ]
@@ -137,12 +137,12 @@
   },
   {
     "abstract_item": "CB014",
-    "source": 88,
-    "foliation": "351v (316v)",
+    "source": 52,
+    "foliation": "3v",
     "title": "O varium",
-    "id": "CB014_plut",
+    "id": "CB014_fauvel",
     "SVGfiles": 1,
-    "IIIF_canvasIndex": "641",
+    "IIIF_canvasIndex": "17",
     "IIIF_canvasId": "",
     "alternative_img_link": "",
     "language": [
@@ -151,12 +151,12 @@
   },
   {
     "abstract_item": "CB014",
-    "source": 52,
-    "foliation": "3v",
+    "source": 88,
+    "foliation": "351v (316v)",
     "title": "O varium",
-    "id": "CB014_fauvel",
+    "id": "CB014_plut",
     "SVGfiles": 1,
-    "IIIF_canvasIndex": "17",
+    "IIIF_canvasIndex": "641",
     "IIIF_canvasId": "",
     "alternative_img_link": "",
     "language": [
@@ -178,20 +178,6 @@
   },
   {
     "abstract_item": "CB015",
-    "source": 88,
-    "foliation": "223v-224r (190v-191r)",
-    "title": "Celum non animum",
-    "id": "CB015_plut",
-    "SVGfiles": 1,
-    "IIIF_canvasIndex": "389",
-    "IIIF_canvasId": "",
-    "alternative_img_link": "",
-    "language": [
-      1
-    ]
-  },
-  {
-    "abstract_item": "CB015",
     "source": 24,
     "foliation": "11r-11v",
     "title": "Celum non animum",
@@ -200,6 +186,20 @@
     "IIIF_canvasIndex": "",
     "IIIF_canvasId": "",
     "alternative_img_link": "http://diglib.hab.de/mss/628-helmst/start.htm?image=00033",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB015",
+    "source": 88,
+    "foliation": "223v-224r (190v-191r)",
+    "title": "Celum non animum",
+    "id": "CB015_plut",
+    "SVGfiles": 1,
+    "IIIF_canvasIndex": "389",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "",
     "language": [
       1
     ]
@@ -219,20 +219,6 @@
   },
   {
     "abstract_item": "CB019",
-    "source": 88,
-    "foliation": "192r-192v (225r-225v)",
-    "title": "Fas et nefas ambulant",
-    "id": "CB019_plut",
-    "SVGfiles": 1,
-    "IIIF_canvasIndex": "392",
-    "IIIF_canvasId": "",
-    "alternative_img_link": "",
-    "language": [
-      1
-    ]
-  },
-  {
-    "abstract_item": "CB019",
     "source": 69,
     "foliation": "1a",
     "title": "Fas et nephas ambulant",
@@ -241,6 +227,20 @@
     "IIIF_canvasIndex": "",
     "IIIF_canvasId": "",
     "alternative_img_link": "https://www.diamm.ac.uk/sources/306/#/images?p=1a%20verso",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB019",
+    "source": 88,
+    "foliation": "192r-192v (225r-225v)",
+    "title": "Fas et nefas ambulant",
+    "id": "CB019_plut",
+    "SVGfiles": 1,
+    "IIIF_canvasIndex": "392",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "",
     "language": [
       1
     ]
@@ -279,48 +279,6 @@
     "title": "Gaude cur gaudeas",
     "id": "CB022",
     "IIIF_canvasIndex": "6",
-    "IIIF_canvasId": "",
-    "alternative_img_link": "",
-    "language": [
-      1
-    ]
-  },
-  {
-    "abstract_item": "CB022",
-    "source": 88,
-    "foliation": "46v-47r",
-    "title": "Et gaudebit",
-    "id": "CB022_plut_cl3",
-    "SVGfiles": 3,
-    "IIIF_canvasIndex": "101",
-    "IIIF_canvasId": "",
-    "alternative_img_link": "",
-    "language": [
-      1
-    ]
-  },
-  {
-    "abstract_item": "CB022",
-    "source": 88,
-    "foliation": "99v-100r",
-    "title": "Non vos relinquam",
-    "id": "CB022_plut_non",
-    "SVGfiles": 4,
-    "IIIF_canvasIndex": "207",
-    "IIIF_canvasId": "",
-    "alternative_img_link": "",
-    "language": [
-      1
-    ]
-  },
-  {
-    "abstract_item": "CB022",
-    "source": 88,
-    "foliation": "351v-352r (386v-387r)",
-    "title": "Homo quo vigeas / Et gaudebit",
-    "id": "CB022_plut_motet",
-    "SVGfiles": 3,
-    "IIIF_canvasIndex": "711",
     "IIIF_canvasId": "",
     "alternative_img_link": "",
     "language": [
@@ -381,6 +339,48 @@
     "alternative_img_link": "http://diglib.hab.de/mss/1099-helmst/start.htm?image=00513",
     "language": [
       3
+    ]
+  },
+  {
+    "abstract_item": "CB022",
+    "source": 88,
+    "foliation": "46v-47r",
+    "title": "Et gaudebit",
+    "id": "CB022_plut_cl3",
+    "SVGfiles": 3,
+    "IIIF_canvasIndex": "101",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB022",
+    "source": 88,
+    "foliation": "99v-100r",
+    "title": "Non vos relinquam",
+    "id": "CB022_plut_non",
+    "SVGfiles": 4,
+    "IIIF_canvasIndex": "207",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB022",
+    "source": 88,
+    "foliation": "351v-352r (386v-387r)",
+    "title": "Homo quo vigeas / Et gaudebit",
+    "id": "CB022_plut_motet",
+    "SVGfiles": 3,
+    "IIIF_canvasIndex": "711",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "",
+    "language": [
+      1
     ]
   },
   {
@@ -615,48 +615,6 @@
   },
   {
     "abstract_item": "CB034",
-    "source": 53,
-    "foliation": "280v-281r",
-    "title": "Benedicamus Domino",
-    "id": "CB034_bnf",
-    "SVGfiles": 4,
-    "IIIF_canvasIndex": "",
-    "IIIF_canvasId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432457p/canvas/f224",
-    "alternative_img_link": "",
-    "language": [
-      1
-    ]
-  },
-  {
-    "abstract_item": "CB034",
-    "source": 37,
-    "foliation": "83r-85v",
-    "title": "[D]educ Syon uberrimas",
-    "id": "CB034_emn",
-    "SVGfiles": 5,
-    "IIIF_canvasIndex": "",
-    "IIIF_canvasId": "",
-    "alternative_img_link": "https://bnedigital.bne.es/bd/viewer?oid=0000005661&site=bdh&page=87",
-    "language": [
-      1
-    ]
-  },
-  {
-    "abstract_item": "CB034",
-    "source": 88,
-    "foliation": "336r-337r",
-    "title": "Deduc Syon uberrimas",
-    "id": "CB034_plut",
-    "SVGfiles": 5,
-    "IIIF_canvasIndex": "610",
-    "IIIF_canvasId": "",
-    "alternative_img_link": "",
-    "language": [
-      1
-    ]
-  },
-  {
-    "abstract_item": "CB034",
     "source": 24,
     "foliation": "150v-152r",
     "title": "Deduc Syon uberrimas",
@@ -679,6 +637,62 @@
     "IIIF_canvasIndex": "",
     "IIIF_canvasId": "",
     "alternative_img_link": "http://diglib.hab.de/mss/1099-helmst/start.htm?image=00197",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB034",
+    "source": 37,
+    "foliation": "83r-85v",
+    "title": "[D]educ Syon uberrimas",
+    "id": "CB034_emn",
+    "SVGfiles": 5,
+    "IIIF_canvasIndex": "",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "https://bnedigital.bne.es/bd/viewer?oid=0000005661&site=bdh&page=87",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB034",
+    "source": 53,
+    "foliation": "280v-281r",
+    "title": "Benedicamus Domino",
+    "id": "CB034_bnf",
+    "SVGfiles": 4,
+    "IIIF_canvasIndex": "",
+    "IIIF_canvasId": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432457p/canvas/f224",
+    "alternative_img_link": "",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB034",
+    "source": 88,
+    "foliation": "336r-337r",
+    "title": "Deduc Syon uberrimas",
+    "id": "CB034_plut",
+    "SVGfiles": 5,
+    "IIIF_canvasIndex": "610",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB036",
+    "source": 24,
+    "foliation": "108v-109r",
+    "title": "Nulli benefitium",
+    "id": "CB036_w1",
+    "SVGfiles": 2,
+    "IIIF_canvasIndex": "",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "http://diglib.hab.de/mss/628-helmst/start.htm?image=00228",
     "language": [
       1
     ]
@@ -726,15 +740,43 @@
     ]
   },
   {
-    "abstract_item": "CB036",
+    "abstract_item": "CB047",
     "source": 24,
-    "foliation": "108v-109r",
-    "title": "Nulli benefitium",
-    "id": "CB036_w1",
+    "foliation": "71v-72r",
+    "title": "Crucifigat omnes",
+    "id": "CB047_w1",
     "SVGfiles": 2,
     "IIIF_canvasIndex": "",
     "IIIF_canvasId": "",
-    "alternative_img_link": "http://diglib.hab.de/mss/628-helmst/start.htm?image=00228",
+    "alternative_img_link": "diglib.hab.de/mss/628-helmst/start.htm?image=00154",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB047",
+    "source": 23,
+    "foliation": "46v",
+    "title": "Crucifigat omnes",
+    "id": "CB047_w2_1",
+    "SVGfiles": 1,
+    "IIIF_canvasIndex": "",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "https://diglib.hab.de/wdb.php?dir=mss/1099-helmst&pointer=103",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB047",
+    "source": 23,
+    "foliation": "138v-139v",
+    "title": "Crucificat omnes",
+    "id": "CB047_w2_2",
+    "SVGfiles": 1,
+    "IIIF_canvasIndex": "",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "https://diglib.hab.de/wdb.php?dir=mss/1099-helmst&pointer=287",
     "language": [
       1
     ]
@@ -777,48 +819,6 @@
     "IIIF_canvasIndex": "405",
     "IIIF_canvasId": "",
     "alternative_img_link": "",
-    "language": [
-      1
-    ]
-  },
-  {
-    "abstract_item": "CB047",
-    "source": 24,
-    "foliation": "71v-72r",
-    "title": "Crucifigat omnes",
-    "id": "CB047_w1",
-    "SVGfiles": 2,
-    "IIIF_canvasIndex": "",
-    "IIIF_canvasId": "",
-    "alternative_img_link": "diglib.hab.de/mss/628-helmst/start.htm?image=00154",
-    "language": [
-      1
-    ]
-  },
-  {
-    "abstract_item": "CB047",
-    "source": 23,
-    "foliation": "46v",
-    "title": "Crucifigat omnes",
-    "id": "CB047_w2_1",
-    "SVGfiles": 1,
-    "IIIF_canvasIndex": "",
-    "IIIF_canvasId": "",
-    "alternative_img_link": "https://diglib.hab.de/wdb.php?dir=mss/1099-helmst&pointer=103",
-    "language": [
-      1
-    ]
-  },
-  {
-    "abstract_item": "CB047",
-    "source": 23,
-    "foliation": "138v-139v",
-    "title": "Crucificat omnes",
-    "id": "CB047_w2_2",
-    "SVGfiles": 1,
-    "IIIF_canvasIndex": "",
-    "IIIF_canvasId": "",
-    "alternative_img_link": "https://diglib.hab.de/wdb.php?dir=mss/1099-helmst&pointer=287",
     "language": [
       1
     ]
@@ -1066,12 +1066,11 @@
   },
   {
     "abstract_item": "CB119",
-    "source": 41,
-    "foliation": "66v",
+    "source": 28,
+    "foliation": "83v",
     "title": "Dulce solum natalis patrie",
-    "id": "CB119_chartres",
-    "SVGfiles": 2,
-    "IIIF_canvasIndex": "",
+    "id": "CB119_lis",
+    "IIIF_canvasIndex": "171",
     "IIIF_canvasId": "",
     "alternative_img_link": "",
     "language": [
@@ -1080,11 +1079,12 @@
   },
   {
     "abstract_item": "CB119",
-    "source": 28,
-    "foliation": "83v",
+    "source": 41,
+    "foliation": "66v",
     "title": "Dulce solum natalis patrie",
-    "id": "CB119_lis",
-    "IIIF_canvasIndex": "171",
+    "id": "CB119_chartres",
+    "SVGfiles": 2,
+    "IIIF_canvasIndex": "",
     "IIIF_canvasId": "",
     "alternative_img_link": "",
     "language": [
@@ -1119,11 +1119,93 @@
   },
   {
     "abstract_item": "CB131",
-    "source": 74,
-    "foliation": "87v-88r",
+    "source": 101,
+    "foliation": "114v",
     "title": "Dic Christi veritas",
-    "id": "CB131_egerton_2615",
+    "id": "CB131_en_1003",
+    "IIIF_canvasIndex": "229",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB131",
+    "source": 8,
+    "foliation": "Ar-Av",
+    "title": "Dic Christi Veritas",
+    "id": "CB131_frag",
+    "SVGfiles": 2,
+    "IIIF_canvasIndex": "",
+    "IIIF_canvasId": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/8342218/canvas/8344275",
+    "alternative_img_link": "",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB131",
+    "source": 21,
+    "foliation": "33v-34r",
+    "title": "Dic Christi veritas",
+    "id": "CB131_hbi",
+    "IIIF_canvasIndex": "",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "https://digital.wlb-stuttgart.de/index.php?id=6&tx_dlf%5Bid%5D=11239&tx_dlf%5Bpage%5D=71",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB131",
+    "source": 24,
+    "foliation": "66r-66v",
+    "title": "Dic Christi veritas",
+    "id": "CB131_w1",
     "SVGfiles": 3,
+    "IIIF_canvasIndex": "",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "http://diglib.hab.de/wdb.php?pointer=142&dir=mss%2F628-helmst",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB131",
+    "source": 23,
+    "foliation": "33r-34v",
+    "title": "Dic Christi veritas",
+    "id": "CB131_w2",
+    "SVGfiles": 3,
+    "IIIF_canvasIndex": "",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "http://diglib.hab.de/wdb.php?pointer=76&dir=mss%2F1099-helmst",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB131",
+    "source": 37,
+    "foliation": "114r-115r",
+    "title": "Dyc Christi veritas",
+    "id": "CB131_emn",
+    "SVGfiles": 2,
+    "IIIF_canvasIndex": "",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "http://bdh-rd.bne.es/viewer.vm?id=0000005661&page=118",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB131",
+    "source": 38,
+    "foliation": "100v",
+    "title": "Dic Christi veritas",
+    "id": "CB131_esau",
+    "SVGfiles": 1,
     "IIIF_canvasIndex": "",
     "IIIF_canvasId": "",
     "alternative_img_link": "",
@@ -1147,82 +1229,14 @@
   },
   {
     "abstract_item": "CB131",
-    "source": 37,
-    "foliation": "114r-115r",
-    "title": "Dyc Christi veritas",
-    "id": "CB131_emn",
-    "SVGfiles": 2,
-    "IIIF_canvasIndex": "",
-    "IIIF_canvasId": "",
-    "alternative_img_link": "http://bdh-rd.bne.es/viewer.vm?id=0000005661&page=118",
-    "language": [
-      1
-    ]
-  },
-  {
-    "abstract_item": "CB131",
-    "source": 101,
-    "foliation": "114v",
+    "source": 74,
+    "foliation": "87v-88r",
     "title": "Dic Christi veritas",
-    "id": "CB131_en_1003",
-    "IIIF_canvasIndex": "229",
-    "IIIF_canvasId": "",
-    "alternative_img_link": "",
-    "language": [
-      1
-    ]
-  },
-  {
-    "abstract_item": "CB131",
-    "source": 38,
-    "foliation": "100v",
-    "title": "Dic Christi veritas",
-    "id": "CB131_esau",
-    "SVGfiles": 1,
-    "IIIF_canvasIndex": "",
-    "IIIF_canvasId": "",
-    "alternative_img_link": "",
-    "language": [
-      1
-    ]
-  },
-  {
-    "abstract_item": "CB131",
-    "source": 8,
-    "foliation": "Ar-Av",
-    "title": "Dic Christi Veritas",
-    "id": "CB131_frag",
-    "SVGfiles": 2,
-    "IIIF_canvasIndex": "",
-    "IIIF_canvasId": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/8342218/canvas/8344275",
-    "alternative_img_link": "",
-    "language": [
-      1
-    ]
-  },
-  {
-    "abstract_item": "CB131",
-    "source": 23,
-    "foliation": "33r-34v",
-    "title": "Dic Christi veritas",
-    "id": "CB131_guelf_1099",
+    "id": "CB131_egerton_2615",
     "SVGfiles": 3,
     "IIIF_canvasIndex": "",
     "IIIF_canvasId": "",
-    "alternative_img_link": "http://diglib.hab.de/wdb.php?pointer=76&dir=mss%2F1099-helmst",
-    "language": [
-      1
-    ]
-  },
-  {
-    "abstract_item": "CB131",
-    "source": 21,
-    "foliation": "33v-34r",
-    "title": "Dic Christi veritas",
-    "id": "CB131_hbi",
-    "IIIF_canvasIndex": "",
-    "IIIF_canvasId": "",
-    "alternative_img_link": "https://digital.wlb-stuttgart.de/index.php?id=6&tx_dlf%5Bid%5D=11239&tx_dlf%5Bpage%5D=71",
+    "alternative_img_link": "",
     "language": [
       1
     ]
@@ -1237,20 +1251,6 @@
     "IIIF_canvasIndex": "348",
     "IIIF_canvasId": "",
     "alternative_img_link": "",
-    "language": [
-      1
-    ]
-  },
-  {
-    "abstract_item": "CB131",
-    "source": 24,
-    "foliation": "66r-66v",
-    "title": "Dic Christi veritas",
-    "id": "CB131_w1",
-    "SVGfiles": 3,
-    "IIIF_canvasIndex": "",
-    "IIIF_canvasId": "",
-    "alternative_img_link": "http://diglib.hab.de/wdb.php?pointer=142&dir=mss%2F628-helmst",
     "language": [
       1
     ]
@@ -1753,12 +1753,12 @@
   },
   {
     "abstract_item": "CB014*",
-    "source": 109,
-    "foliation": "117r-119r",
+    "source": 16,
+    "foliation": "150r",
     "title": "Planctus ante nescia",
-    "id": "CB014x_5268",
-    "SVGfiles": 3,
-    "IIIF_canvasIndex": "116",
+    "id": "CB014x_cgm716",
+    "SVGfiles": 1,
+    "IIIF_canvasIndex": "304",
     "IIIF_canvasId": "",
     "alternative_img_link": "",
     "language": [
@@ -1823,12 +1823,12 @@
   },
   {
     "abstract_item": "CB014*",
-    "source": 64,
-    "foliation": "94r-96v",
+    "source": 109,
+    "foliation": "117r-119r",
     "title": "Planctus ante nescia",
-    "id": "CB014x_rouen",
+    "id": "CB014x_5268",
     "SVGfiles": 3,
-    "IIIF_canvasIndex": "",
+    "IIIF_canvasIndex": "116",
     "IIIF_canvasId": "",
     "alternative_img_link": "",
     "language": [
@@ -1837,12 +1837,12 @@
   },
   {
     "abstract_item": "CB014*",
-    "source": 16,
-    "foliation": "150r",
+    "source": 64,
+    "foliation": "94r-96v",
     "title": "Planctus ante nescia",
-    "id": "CB014x_cgm716",
-    "SVGfiles": 1,
-    "IIIF_canvasIndex": "304",
+    "id": "CB014x_rouen",
+    "SVGfiles": 3,
+    "IIIF_canvasIndex": "",
     "IIIF_canvasId": "",
     "alternative_img_link": "",
     "language": [
