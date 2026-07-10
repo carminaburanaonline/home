@@ -2,10 +2,10 @@
   <teiHeader />
   <text>
     <body>
-      <div type="leich" met="I:10x8pp, II:3x(7pp/6p)/2x7pp/7p/2x8pp/7p, III:2x(8p/7pp)/3x8p/6x7pp">
+      <div type="poem" met="I:10x8pp, II:3x(7pp 6p) 2x7pp 7p 2x8pp 7p, III:2x(8p 7pp) 3x8p 6x7pp">
         <lg type="strophe" n="I" met="8pp/8pp/8pp/8pp/8pp/8pp/8pp/8pp/8pp/8pp" rhyme="a/a/b/c/b/c/c/d/d/c" xml:id="CB034_emn-lg-1">
           <l n="1" xml:id="CB034_emn-l-1">
-            <w>Deduc</w>
+            <w>[D]educ</w>
             <pc resp="#editor">,</pc>
             <w>Syon</w>
             <pc resp="#editor">,</pc>
@@ -13,7 +13,12 @@
           </l>
           <l n="2" xml:id="CB034_emn-l-2">
             <w>velut</w>
-            <w>torrente</w>
+            <app type="text">
+              <lem wit="CB F Ps W1 W2 HSB V T">
+                <w>torrentem</w>
+              </lem>
+              <rdg wit="cod."><w>torrente</w></rdg>
+            </app>
             <w>lacrimas</w>
             <pc resp="#editor">!</pc>
           </l>
@@ -66,7 +71,7 @@
         </lg>
         <lg type="strophe" n="II" met="7pp/6p/7pp/6p/7pp/6p/7pp/7pp/7p/8pp/8pp/7p" rhyme="a/b/a/b/a/b/c/c/d/e/e/d" xml:id="CB034_emn-lg-2">
           <l n="1" xml:id="CB034_emn-l-11">
-            <w>Ad</w>
+            <w>[A]d</w>
             <w>corpus</w>
             <w>infirmitas</w>
           </l>
@@ -80,7 +85,13 @@
             <w>gravitas</w>
           </l>
           <l n="4" xml:id="CB034_emn-l-14">
-            <w>arcus</w>
+            <app type="text">
+              <lem wit="CB W1 W2 HSB V T">
+                <w>artus</w>
+              </lem>
+              <rdg wit="cod."><w>arcus</w></rdg>
+              <rdg wit="F"><w>arctus</w></rdg>
+            </app>
             <w>apprehendit</w>
             <pc resp="#editor">,</pc>
           </l>
@@ -108,8 +119,13 @@
           </l>
           <l n="9" xml:id="CB034_emn-l-19">
             <w>pupillum</w>
-            <w>a</w>
-            <w>potente</w>
+            <app type="text">
+              <lem wit="CB F W1 W2 HSB V T">
+                <w>a</w>
+                <w>potente</w>
+              </lem>
+              <rdg wit="cod."><w>appotentem</w></rdg>
+            </app>
             <pc resp="#editor">,</pc>
           </l>
           <l n="10" xml:id="CB034_emn-l-20">
@@ -171,7 +187,12 @@
           </l>
           <l n="7" xml:id="CB034_emn-l-29">
             <w>et</w>
-            <w>excelsum</w>
+            <app type="text">
+              <lem wit="CB F Ps W1 W2 HSB V T">
+                <w>excelsum</w>
+              </lem>
+              <rdg wit="cod."><w>excessum</w></rdg>
+            </app>
             <w>sibi</w>
             <w>thronum</w>
           </l>
@@ -206,7 +227,7 @@
           <l n="13" xml:id="CB034_emn-l-35">
             <w>columbas</w>
             <app type="text">
-              <lem>
+              <lem wit="CB F Ps W1 W2 HSB V T">
                 <w>evertere</w>
               </lem>
               <rdg wit="cod."><w>evertete</w></rdg>

@@ -1,0 +1,50 @@
+<TEI>
+  <teiHeader />
+  <text>
+    <body>
+      <div type="poem">
+        <lg type="strophe" n="I" xml:id="CB034_w1_PB-lg-1">
+          <l n="1" xml:id="CB034_w1_PB-l-1">Laisse couler, Sion, des larmes</l>
+          <l n="2" xml:id="CB034_w1_PB-l-2">abondantes comme un torrent !</l>
+          <l n="3" xml:id="CB034_w1_PB-l-3">Car &#224; la place de tes p&#232;res,</l>
+          <l n="4" xml:id="CB034_w1_PB-l-4">voil&#224; que te sont n&#233;s des fils,</l>
+          <l n="5" xml:id="CB034_w1_PB-l-5">aux mains de qui tu as confi&#233;</l>
+          <l n="6" xml:id="CB034_w1_PB-l-6">le sceptre de ton empire,</l>
+          <l n="7" xml:id="CB034_w1_PB-l-7">qui sont voleurs et compagnie,</l>
+          <l n="8" xml:id="CB034_w1_PB-l-8">bouleversant l&#8217;ordre normal,</l>
+          <l n="9" xml:id="CB034_w1_PB-l-9">ils abusent du pouvoir</l>
+          <l n="10" xml:id="CB034_w1_PB-l-10">de leur office pastoral.</l>
+        </lg>
+        <lg type="strophe" n="II" xml:id="CB034_w1_PB-lg-2">
+          <l n="1" xml:id="CB034_w1_PB-l-11">La gangr&#232;ne de la t&#234;te</l>
+          <l n="2" xml:id="CB034_w1_PB-l-12">descend vers le reste du corps,</l>
+          <l n="3" xml:id="CB034_w1_PB-l-13">et ce pesant malaise</l>
+          <l n="4" xml:id="CB034_w1_PB-l-14">s&#8217;empare de chacun des membres.</l>
+          <l n="5" xml:id="CB034_w1_PB-l-15">La charit&#233; perd sa chaleur,</l>
+          <l n="6" xml:id="CB034_w1_PB-l-16">et ne s&#8217;&#233;tend plus d&#233;sormais</l>
+          <l n="7" xml:id="CB034_w1_PB-l-17">jusqu&#8217;&#224; honorer le prochain.</l>
+          <l n="8" xml:id="CB034_w1_PB-l-18">En effet on voit chaque jour</l>
+          <l n="9" xml:id="CB034_w1_PB-l-19">le puissant opprimer le faible,</l>
+          <l n="10" xml:id="CB034_w1_PB-l-20">sans que nul vienne &#224; son secours</l>
+          <l n="11" xml:id="CB034_w1_PB-l-21">ou cherche &#224; arracher le juste</l>
+          <l n="12" xml:id="CB034_w1_PB-l-22">des mains de l&#8217;impie oppresseur.</l>
+        </lg>
+        <lg type="strophe" n="III" xml:id="CB034_w1_PB-lg-3">
+          <l n="1" xml:id="CB034_w1_PB-l-23">Regarde, Dieu de vengeance,</l>
+          <l n="2" xml:id="CB034_w1_PB-l-24">vois, toi qui vois tout,</l>
+          <l n="3" xml:id="CB034_w1_PB-l-25">vois que l&#8217;&#201;glise est devenue</l>
+          <l n="4" xml:id="CB034_w1_PB-l-26">une caverne de larrons,</l>
+          <l n="5" xml:id="CB034_w1_PB-l-27">et qu&#8217;au temple de Salomon</l>
+          <l n="6" xml:id="CB034_w1_PB-l-28">vint le prince de Babylone,</l>
+          <l n="7" xml:id="CB034_w1_PB-l-29">qu&#8217;au beau milieu il a dress&#233;</l>
+          <l n="8" xml:id="CB034_w1_PB-l-30">pour lui-m&#234;me un tr&#244;ne &#233;lev&#233;.</l>
+          <l n="9" xml:id="CB034_w1_PB-l-31">Mais, en d&#233;gainant ton glaive,</l>
+          <l n="10" xml:id="CB034_w1_PB-l-32">venge et punis ce sacril&#232;ge !</l>
+          <l n="11" xml:id="CB034_w1_PB-l-33">Viens, juge des nations,</l>
+          <l n="12" xml:id="CB034_w1_PB-l-34">viens renverser les si&#232;ges</l>
+          <l n="13" xml:id="CB034_w1_PB-l-35">de ceux qui vendent les colombes !</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

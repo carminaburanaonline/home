@@ -2,7 +2,7 @@
   <teiHeader />
   <text>
     <body>
-      <div type="leich" met="I:10x8pp, II:3x(7pp/6p)/2x7pp/7p/2x8pp/7p, III:2x(8p/7pp)/3x8p/6x7pp">
+      <div type="poem" met="I:10x8pp, II:3x(7pp 6p) 2x7pp 7p 2x8pp 7p, III:2x(8p 7pp) 3x8p 6x7pp">
         <lg type="strophe" n="I" met="8pp/8pp/8pp/8pp/8pp/8pp/8pp/8pp/8pp/8pp" rhyme="a/a/b/c/b/c/c/d/d/c" xml:id="CB034_w1-lg-1">
           <l n="1" xml:id="CB034_w1-l-1">
             <w>Deduc</w>
@@ -97,7 +97,7 @@
           </l>
           <l n="7" xml:id="CB034_w1-l-17">
             <w>ad</w>
-            <w>amorem</w>
+            <w>honorem</w>
             <w>proximi</w>
             <pc resp="#editor">;</pc>
           </l>
@@ -134,7 +134,7 @@
         </lg>
         <lg type="strophe" n="III" met="8p/7pp/8p/7pp/8p/8p/8p/7pp/7pp/7pp/7pp/7pp/7pp" rhyme="a/b/a/b/c/c/a/d/d/e/f/f/e" xml:id="CB034_w1-lg-3">
           <l n="1" xml:id="CB034_w1-l-23">
-            <w>vide</w>
+            <w>Vide</w>
             <pc resp="#editor">,</pc>
             <w>Deus</w>
             <w>ultionum</w>
@@ -182,12 +182,17 @@
             <pc resp="#editor">!</pc>
           </l>
           <l n="9" xml:id="CB034_w1-l-31">
-            <w>Sed</w>
-            <w>arrepto</w>
+            <w>Set</w>
+            <w>erecto</w>
             <w>gladio</w>
           </l>
           <l n="10" xml:id="CB034_w1-l-32">
-            <w>scelus</w>
+            <app type="text">
+              <lem>
+                <w>scelus</w>
+              </lem>
+              <note>om. cod.</note>
+            </app>
             <w>hoc</w>
             <w>ulciscere</w>
             <pc resp="#editor">!</pc>

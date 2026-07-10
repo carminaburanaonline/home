@@ -2,7 +2,7 @@
   <teiHeader />
   <text>
     <body>
-      <div type="leich" met="5x8pp" rhyme="a/a/b/b/b">
+      <div type="poem" met="5x8pp" rhyme="a/a/b/b/b">
         <lg type="strophe" met="8pp/8pp/8pp/8pp/8pp" rhyme="a/a/b/b/b" xml:id="CB026_ebu_1-lg-1">
           <l n="1" xml:id="CB026_ebu_1-l-1">
             <w>Ergo</w>
