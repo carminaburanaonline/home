@@ -1,0 +1,46 @@
+<TEI>
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="poem" met="3x(7pp+6p)">
+        <lg type="strophe" met="7pp+6p/7pp+6p/7pp+6p" rhyme="a/a/a" xml:id="CB088_3719-lg-1">
+          <l n="1" xml:id="CB088_3719-l-1">
+            <seg type="hemistich">
+              <w>Iove</w>
+              <w>cum</w>
+              <w>Mercurio</w>
+            </seg>
+            <seg type="hemistich">
+              <w>Geminos</w>
+              <w>tenente</w>
+            </seg>
+          </l>
+          <l n="2" xml:id="CB088_3719-l-2">
+            <seg type="hemistich">
+              <w>et</w>
+              <w>a</w>
+              <w>Libra</w>
+              <w>Venere</w>
+            </seg>
+            <seg type="hemistich">
+              <w>Martem</w>
+              <w>expellente</w>
+            </seg>
+          </l>
+          <l n="3" xml:id="CB088_3719-l-3">
+            <seg type="hemistich">
+              <w>Virgo</w>
+              <w>nostra</w>
+              <w>nascitur</w>
+            </seg>
+            <seg type="hemistich">
+              <w>Tauro</w>
+              <w>tunc</w>
+              <w>latente</w>
+            </seg>
+          </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
