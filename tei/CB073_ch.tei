@@ -1,0 +1,444 @@
+<TEI>
+  <teiHeader></teiHeader>
+  <text>
+    <body>
+      <div type="sequence" met="1-2:2x(4p+4p 7p), 3:4p+4p 7p, 4:2x(7pp 7p), 5:8x7pp, 6:2x(4p+4p 7p), 7:2x(6pp+5p), 8:3x(6pp+5p), 9:3x(6p+5p)">
+        <lg type="versicle" n="1a" met="4p+4p/7p/4p+4p/7p" rhyme="a/b/a/b">
+          <l n="1">
+            <seg type="hemistich">
+              <w>Clauso</w>
+              <w>Cronos</w>
+            </seg>
+            <seg type="hemistich">
+              <w>et</w>
+              <w>serato</w>
+            </seg>
+          </l>
+          <l n="2">
+            <w>carcere</w>
+            <w>ver</w>
+            <w>exit</w>
+          </l>
+          <l n="3">
+            <seg type="hemistich">
+              <w>risu</w>
+              <w>Iovis</w>
+            </seg>
+            <seg type="hemistich">
+              <w>reserato</w>
+            </seg>
+          </l>
+          <l n="4">
+            <w>faciem</w>
+            <w>detexit</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="versicle" n="1b" met="4p+4p/7p/4p+4p/7p" rhyme="c+d/e/c+d/e">
+          <l n="1">
+            <seg type="hemistich">
+              <w>Coma</w>
+              <w>celo</w>
+            </seg>
+            <seg type="hemistich">
+              <w>rutilante</w>
+            </seg>
+          </l>
+          <l n="2">
+            <w>cincius</w>
+            <w>emundat</w>
+          </l>
+          <l n="3">
+            <seg type="hemistich">
+              <w>et</w>
+              <w>sereno</w>
+            </seg>
+            <seg type="hemistich">
+              <w>fecondante</w>
+            </seg>
+          </l>
+          <l n="4">
+            <w>aera</w>
+            <w>fecondat</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="versicle" n="2a" met="4p+4p/7p/4p+4p/7p" rhyme="a+b/c/a+b/c">
+          <l n="1">
+            <seg type="hemistich">
+              <w>Purpurato</w>
+            </seg>
+            <seg type="hemistich">
+              <w>flore</w>
+              <w>prato</w>
+            </seg>
+          </l>
+          <l n="2">
+            <w>ver</w>
+            <w>tenet</w>
+            <w>primatum</w>
+          </l>
+          <l n="3">
+            <seg type="hemistich">
+              <w>ex</w>
+              <w>argenti</w>
+            </seg>
+            <seg type="hemistich">
+              <w>renitentis</w>
+            </seg>
+          </l>
+          <l n="4">
+            <w>specie</w>
+            <w>renatum</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="versicle" n="2b" met="4p+4p/7p/4p+4p/7p" rhyme="d+e/f/d+e/f">
+          <l n="1">
+            <seg type="hemistich">
+              <w>Iam</w>
+              <w>odoram</w>
+            </seg>
+            <seg type="hemistich">
+              <w>rerum</w>
+              <w>flora</w>
+            </seg>
+          </l>
+          <l n="2">
+            <w>clamide</w>
+            <w>vestivit</w>
+          </l>
+          <l n="3">
+            <seg type="hemistich">
+              <w>que</w>
+              <w>ridenti</w>
+            </seg>
+            <seg type="hemistich">
+              <w>et</w>
+              <w>florenti</w>
+            </seg>
+          </l>
+          <l n="4">
+            <w>specie</w>
+            <w>lascivit</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="versicle" n="3a" met="4p+4p/7p" rhyme="a/b">
+          <l n="1">
+            <seg type="hemistich">
+              <w>Vernant</w>
+              <w>veris</w>
+            </seg>
+            <seg type="hemistich">
+              <w>ad</w>
+              <w>amena</w>
+            </seg>
+          </l>
+          <l n="2">
+            <w>tigma</w>
+            <w>rose</w>
+            <w>lilia</w>
+          </l>
+        </lg>
+        <lg type="versicle" n="3b" met="4p+4p/7p" rhyme="a/b">
+          <l n="1">
+            <seg type="hemistich">
+              <w>His</w>
+              <w>alludit</w>
+            </seg>
+            <seg type="hemistich">
+              <w>Philomena</w>
+            </seg>
+          </l>
+          <l n="2">
+            <w>Merops</w>
+            <w>et</w>
+            <w>Lucinia</w>
+          </l>
+        </lg>
+        <lg type="versicle" n="4a" met="7pp/7p/7pp/7p" rhyme="a/b/a/b">
+          <l n="1">
+            <w>Satiros</w>
+            <w>hos</w>
+            <w>excitat</w>
+          </l>
+          <l n="2">
+            <w>et</w>
+            <w>driadum</w>
+            <w>chorea</w>
+          </l>
+          <l n="3">
+            <w>redivivos</w>
+            <w>excitat</w>
+          </l>
+          <l n="4">
+            <w>hoc</w>
+            <w>ignibus</w>
+            <w>napea</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="versicle" n="4b" met="7pp/7p/7pp/7p" rhyme="c/d/c/d">
+          <l n="1">
+            <w>Hoc</w>
+            <w>Cupido</w>
+            <w>concitus</w>
+          </l>
+          <l n="2">
+            <w>hoc</w>
+            <w>amor</w>
+            <w>innovatur</w>
+          </l>
+          <l n="3">
+            <w>hoc</w>
+            <w>ego</w>
+            <w>sollicitus</w>
+          </l>
+          <l n="4">
+            <w>hoc</w>
+            <w>michi</w>
+            <w>me</w>
+            <w>furatur</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="versicle" n="5" met="7pp/7pp/7pp/7pp/7pp/7pp/7pp/7pp" rhyme="a/a/a/a/a/a/a/a">
+          <l n="1">
+            <w>Ignem</w>
+            <w>alo</w>
+            <w>tacitum</w>
+          </l>
+          <l n="2">
+            <w>amo</w>
+            <w>nec</w>
+            <w>ad</w>
+            <w>placitum</w>
+          </l>
+          <l n="3">
+            <w>ut</w>
+            <w>qui</w>
+            <w>contra</w>
+            <w>libitum</w>
+          </l>
+          <l n="4">
+            <w>cupio</w>
+            <w>prohibitum</w>
+          </l>
+          <l n="5">
+            <w>voti</w>
+            <w>Venus</w>
+            <w>meritum</w>
+          </l>
+          <l n="6">
+            <w>ratum</w>
+            <w>facit</w>
+            <w>irritum</w>
+          </l>
+          <l n="7">
+            <w>trudit</w>
+            <w>in</w>
+            <w>interitum</w>
+          </l>
+          <l n="8">
+            <w>quem</w>
+            <w>rebar</w>
+            <w>emeritum</w>
+          </l>
+        </lg>
+        <lg type="versicle" n="6a" met="4p+4p/7p/4p+4p/7p" rhyme="a/b/a/b">
+          <l n="1" rhyme="x">
+            <seg type="hemistich">
+              <w>Si</w>
+              <w>quis</w>
+              <w>amans</w>
+            </seg>
+            <seg type="hemistich">
+              <w>per</w>
+              <w>amare</w>
+            </seg>
+          </l>
+          <l n="2">
+            <w>mereri</w>
+            <w>posset</w>
+            <w>amari</w>
+          </l>
+          <l n="3" rhyme="x">
+            <seg type="hemistich">
+              <w>vellet</w>
+              <w>amor</w>
+            </seg>
+            <seg type="hemistich">
+              <w>mea</w>
+              <w>damna</w>
+            </seg>
+          </l>
+          <l n="4">
+            <w>mereri</w>
+            <w>vel</w>
+            <w>moderari</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="versicle" n="6b" met="4p+4p/7p/4p+4p/7p" rhyme="c+d/e/c+d'/e">
+          <l n="1" met="4pp+4p">
+            <seg type="hemistich">
+              <w>Quas</w>
+              <w>fragiles</w>
+            </seg>
+            <seg type="hemistich">
+              <w>michi</w>
+              <w>cerno</w>
+            </seg>
+          </l>
+          <l n="2">
+            <w>medelas</w>
+            <w>posse</w>
+            <w>parari</w>
+          </l>
+          <l n="3" met="4pp+4p">
+            <seg type="hemistich">
+              <w>tot</w>
+              <w>steriles</w>
+            </seg>
+            <seg type="hemistich">
+              <w>ibi</w>
+              <w>perdo</w>
+            </seg>
+          </l>
+          <l n="4">
+            <w>querelas</w>
+            <w>absque</w>
+            <w>levari</w>
+          </l>
+        </lg>
+        <lg type="versicle" n="7" met="6pp+5p/6pp+5p" rhyme="a/b/a/b">
+          <l n="1">
+            <seg type="hemistich">
+              <w>Imminet</w>
+              <w>exitus</w>
+            </seg>
+            <seg type="hemistich">
+              <w>igne</w>
+              <w>vigente</w>
+            </seg>
+          </l>
+          <l n="2">
+            <seg type="hemistich">
+              <w>morte</w>
+              <w>medullitus</w>
+            </seg>
+            <seg type="hemistich">
+              <w>ossa</w>
+              <w>tenente</w>
+            </seg>
+          </l>
+        </lg>
+        <lg type="versicle" n="8a" met="6pp+5p/6pp+5p/6pp+5p" rhyme="a/a/a">
+          <l n="1">
+            <seg type="hemistich">
+              <w>Dum</w>
+              <w>mala</w>
+              <w>sentio</w>
+            </seg>
+            <seg type="hemistich">
+              <w>summa</w>
+              <w>malorum</w>
+            </seg>
+          </l>
+          <l n="2">
+            <seg type="hemistich">
+              <w>pectora</w>
+              <w>saucia</w>
+            </seg>
+            <seg type="hemistich">
+              <w>plena</w>
+              <w>furorum</w>
+            </seg>
+          </l>
+          <l n="3">
+            <seg type="hemistich">
+              <w>pellere</w>
+              <w>debita</w>
+            </seg>
+            <seg type="hemistich">
+              <w>nitor</w>
+              <w>amorum</w>
+            </seg>
+          </l>
+        </lg>
+        <lg type="versicle" n="8b" met="6pp+5p/6pp+5p/6pp+5p" rhyme="b/b/b">
+          <l n="1">
+            <seg type="hemistich">
+              <w>At</w>
+              <w>Venus</w>
+              <w>artibus</w>
+            </seg>
+            <seg type="hemistich">
+              <w>usa</w>
+              <w>nefandis</w>
+            </seg>
+          </l>
+          <l n="2">
+            <seg type="hemistich">
+              <w>dum</w>
+              <w>sibi</w>
+              <w>palliat</w>
+            </seg>
+            <seg type="hemistich">
+              <w>aspera</w>
+              <w>blandis</w>
+            </seg>
+          </l>
+          <l n="3">
+            <seg type="hemistich">
+              <w>unguibus</w>
+              <w>adtrait</w>
+            </seg>
+            <seg type="hemistich">
+              <w>omnia</w>
+              <w>pandis</w>
+            </seg>
+          </l>
+        </lg>
+        <lg type="versicle" n="9" met="6p+5p/6p+5p/6p+5p" rhyme="a/a/a">
+          <l n="1">
+            <seg type="hemistich">
+              <w>Parce</w>
+              <w>dato</w>
+              <w>pia</w>
+            </seg>
+            <seg type="hemistich">
+              <w>Cipris</w>
+              <w>agone</w>
+            </seg>
+          </l>
+          <l n="2">
+            <seg type="hemistich">
+              <w>et</w>
+              <w>quia</w>
+              <w>vincimur</w>
+            </seg>
+            <seg type="hemistich">
+              <w>arma</w>
+              <w>repone</w>
+            </seg>
+          </l>
+          <l n="3">
+            <seg type="hemistich">
+              <w>et</w>
+              <w>quibus</w>
+              <w>est</w>
+              <w>Venus</w>
+            </seg>
+            <seg type="hemistich">
+              <w>esto</w>
+              <w>Dione</w>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
