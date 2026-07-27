@@ -1,0 +1,75 @@
+<TEI>
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="poem" met="I-II:2x(7pp+6p), III:7pp+6p">
+        <lg type="strophe" n="I" met="7pp+6p/7pp+6p" rhyme="A+B/A+B" xml:id="CB090_bu-lg-1">
+          <l n="1" xml:id="CB090_bu-l-1">
+            <seg type="hemistich">
+              <w>Surrexit</w>
+              <w>de</w>
+              <w>cumulo</w>
+            </seg>
+            <seg type="hemistich">
+              <w>fulgens</w>
+              <w>plus</w>
+              <w>quam</w>
+              <w>stella</w>
+            </seg>
+          </l>
+          <l n="2" xml:id="CB090_bu-l-2">
+            <seg type="hemistich">
+              <w>frangit</w>
+              <w>in</w>
+              <w>diluculo</w>
+            </seg>
+            <seg type="hemistich">
+              <w>hostis</w>
+              <w>dica</w>
+              <w>bella</w>
+            </seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="II" met="7pp+6p/7pp+6p" rhyme="A+B/A+B" xml:id="CB090_bu-lg-2">
+          <l n="1" xml:id="CB090_bu-l-3">
+            <seg type="hemistich">
+              <w>Nitam</w>
+              <w>dedit</w>
+              <w>seculo</w>
+            </seg>
+            <seg type="hemistich">
+              <w>celi</w>
+              <w>prebens</w>
+              <w>mella</w>
+            </seg>
+          </l>
+          <l n="2" xml:id="CB090_bu-l-4">
+            <seg type="hemistich">
+              <w>da</w>
+              <w>cruoris</w>
+              <w>rivulo</w>
+            </seg>
+            <seg type="hemistich">
+              <w>gaudia</w>
+              <w>novella</w>
+            </seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="III" met="7pp+6p" rhyme="x" xml:id="CB090_bu-lg-3">
+          <l n="1" xml:id="CB090_bu-l-5">
+            <seg type="hemistich">
+              <w>dulce</w>
+              <w>leta</w>
+              <w>concio</w>
+            </seg>
+            <seg type="hemistich">
+              <w>pangat</w>
+              <w>alleluya</w>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
