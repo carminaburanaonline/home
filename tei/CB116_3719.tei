@@ -1,0 +1,93 @@
+<TEI>
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="poem">
+        <lg type="strophe" n="I" met="10p/10p/10p/10p" rhyme="A/A/A/A" xml:id="CB116_3719-lg-1">
+          <l n="1" xml:id="CB116_3719-l-1">
+            <w>Sic</w>
+            <w>mea</w>
+            <w>fata</w>
+            <w>canendo</w>
+            <w>solor</w>
+          </l>
+          <l n="2" xml:id="CB116_3719-l-2">
+            <w>ut</w>
+            <w>nece</w>
+            <w>proxima</w>
+            <w>facit</w>
+            <w>olor</w>
+          </l>
+          <l n="3" xml:id="CB116_3719-l-3">
+            <w>blandus</w>
+            <w>eret</w>
+            <w>meo</w>
+            <w>corde</w>
+            <w>dolor</w>
+          </l>
+          <l n="4" xml:id="CB116_3719-l-4">
+            <w>roseus</w>
+            <w>effugit</w>
+            <w>ore</w>
+            <w>color</w>
+          </l>
+        </lg>
+        <lg type="strophe" n="II" met="5p/.5p/.5p/5pp" rhyme="b/b/b/A'" xml:id="CB116_3719-lg-2">
+          <l n="1" xml:id="CB116_3719-l-5">
+            <w>cura</w>
+            <w>crescente</w>
+          </l>
+          <l n="2" xml:id="CB116_3719-l-6">
+            <w>merere</w>
+            <w>vigente</w>
+          </l>
+          <l n="3" xml:id="CB116_3719-l-7">
+            <w>vigore</w>
+            <w>labente</w>
+          </l>
+          <l n="4" xml:id="CB116_3719-l-8">
+            <w>miser</w>
+            <w>morior</w>
+          </l>
+        </lg>
+        <lg type="strophe" n="III" met="10p/4pp/4pp/4pp/10p" rhyme="A/A'/A'/A'/A" xml:id="CB116_3719-lg-3">
+          <l n="1" xml:id="CB116_3719-l-9">
+            <w>tam</w>
+            <w>male</w>
+            <w>pectora</w>
+            <w>multat</w>
+            <w>amor</w>
+          </l>
+          <l n="2" xml:id="CB116_3719-l-10">
+            <w>a</w>
+            <pc resp="#editor">!</pc>
+            <w>morior</w>
+            <pc resp="#editor">!</pc>
+          </l>
+          <l n="3" xml:id="CB116_3719-l-11">
+            <w>a</w>
+            <pc resp="#editor">!</pc>
+            <w>morior</w>
+            <pc resp="#editor">!</pc>
+          </l>
+          <l n="4" xml:id="CB116_3719-l-12">
+            <w>a</w>
+            <pc resp="#editor">!</pc>
+            <w>morior</w>
+            <pc resp="#editor">!</pc>
+          </l>
+          <l n="5" xml:id="CB116_3719-l-13">
+            <w>dum</w>
+            <w>quod</w>
+            <w>amem</w>
+            <w>cogor</w>
+            <w>et</w>
+            <w>non</w>
+            <w>amor</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
