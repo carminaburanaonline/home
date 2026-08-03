@@ -15821,7 +15821,7 @@
             <pc resp="#editor">?</pc>
           </p>
         </sp>
-        <stage><w>Hoc</w><w>est</w><pc resp="#editor">:</pc><w>Deus</w><w>meus</w><pc resp="#editor">,</pc><w>Deus</w><w>meus</w><pc resp="#editor">,</pc><w>ut</w><w>quid</w><w>dereliquisti</w><w>me</w><pc>&#183;</pc><pc resp="#editor">?</pc></stage>
+        <stage><w>Hoc</w><w>est</w><pc resp="#editor">:</pc><pc resp="#editor" pre="true">«</pc><w>Deus</w><w>meus</w><pc resp="#editor">,</pc><w>Deus</w><w>meus</w><pc resp="#editor">,</pc><w>ut</w><w>quid</w><w>dereliquisti</w><w>me</w><pc>&#183;</pc><pc resp="#editor">?»</pc></stage>
         <stage n="138"><w>Et</w><w>inclinato</w><w>capite</w><w>emittat</w><w>spiritum</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Longinus</w></stage>
         <sp who="#longinus" n="138">
           <p xml:id="CB016x-p-118">
