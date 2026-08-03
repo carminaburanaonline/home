@@ -14,7 +14,7 @@
     <div>
       <xsl:for-each select=".//l | .//p">
         <xsl:if test=".//neume[@glyph.num=$n]">
-          <div style="display: inline-block;">
+          <div>
             <xsl:apply-templates />
           </div>
         </xsl:if>
