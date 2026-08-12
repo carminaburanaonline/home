@@ -5300,8 +5300,8 @@
     "music": true,
     "links": {
       "catalogue": "https://bilder.manuscripta-mediaevalia.de/hs/katalogseiten/HSK0535a_a150_jpg.htm",
-      "images": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00042722-1",
-      "iiif": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00042722/manifest"
+      "images": "https://www.digitale-sammlungen.de/de/view/bsb00079147?page=,1",
+      "iiif": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00079147/manifest"
     },
     "notes": "Tractatus de arte musica. Carmina liturgica s. hymni. Date : c. 1400. Origin: Regensburg (cathedral?) Provenance: Augustiner-Chorherrenstift Diessen (arrived there in the 15th century). RISM description https://rism.online/sources/456052945 + Göllner 1993"
   },
@@ -8786,6 +8786,29 @@
       "iiif": null
     },
     "notes": "See also https://www.mirabileweb.it/manuscript/glasgow-university-library-hunterian-ms-511-(v-8-1-manuscript/262"
+  },
+  {
+    "id": 453,
+    "rism": "GB-En Adv.MS.18.6.8",
+    "siglum_edition": null,
+    "country": "United Kingdom",
+    "city": "Edinburgh",
+    "library": "National Library of Scotland",
+    "shelfmark": "Adv.MS.18.6.8",
+    "concordances": [
+      {
+        "abstract_item": "CB026",
+        "title": "Ad cor tuum revertere",
+        "foliation": "2v"
+      }
+    ],
+    "music": true,
+    "links": {
+      "catalogue": "https://www.diamm.ac.uk/sources/4908/#/",
+      "images": "https://view.nls.uk/mirador/232507459",
+      "iiif": "https://view.nls.uk/manifest/2325/0745/232507459/manifest.json"
+    },
+    "notes": "Manuscript of the 'Viaticum' of Constantinus Africanus, from the south of France, later in England."
   },
   {
     "id": 400,
