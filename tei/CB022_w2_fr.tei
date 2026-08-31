@@ -1,218 +1,182 @@
 <TEI>
-  <teiHeader/>
+  <teiHeader />
   <text>
     <body>
-      <div type="poem">
-        <lg type="strophe" xml:id="CB022_w2_fr-lg-1">
-          <l n="1" xml:id="CB022_w2_fr-l-1">
-            <w>Amors</w>
-            <w>vois</w>
-            <w>querant</w>
-            <w>qi</w>
-            <w>me</w>
-            <w>fuit</w>
-          </l>
-          <l n="2" xml:id="CB022_w2_fr-l-2">
-            <w>le</w>
-            <w>fruit</w>
-            <w>prendre</w>
-            <w>cuit</w>
-          </l>
-          <l n="3" xml:id="CB022_w2_fr-l-3">
-            <w>dont</w>
-            <w>oudor</w>
-            <w>sent</w>
-            <w>en</w>
-            <w>nuit</w>
-          </l>
-          <l n="4" xml:id="CB022_w2_fr-l-4">
-            <w>soient</w>
-            <w>tuit</w>
-          </l>
-          <l n="5" xml:id="CB022_w2_fr-l-5">
-            <w>mi</w>
-            <w>penssement</w>
-            <w>debruit</w>
-          </l>
-          <l n="6" xml:id="CB022_w2_fr-l-6">
-            <w>ior</w>
-            <w>et</w>
-            <w>nuit</w>
-          </l>
-          <l n="7" xml:id="CB022_w2_fr-l-7">
-            <w>sent</w>
-            <w>grief</w>
-            <w>torment</w>
-          </l>
-          <l n="8" xml:id="CB022_w2_fr-l-8">
-            <w>mon</w>
-            <w>cuer</w>
-            <w>cuit</w>
-          </l>
-          <l n="9" xml:id="CB022_w2_fr-l-9">
-            <w>mon</w>
-            <w>cors</w>
-            <w>destruit</w>
-          </l>
-          <l n="10" xml:id="CB022_w2_fr-l-10">
-            <w>amors</w>
-            <w>par</w>
-            <w>son</w>
-            <w>present</w>
-          </l>
-          <l n="11" xml:id="CB022_w2_fr-l-11">
-            <w>de</w>
-            <w>le</w>
-            <w>que</w>
-            <w>i'aim</w>
-          </l>
-          <l n="12" xml:id="CB022_w2_fr-l-12">
-            <w>cui</w>
-            <w>dame</w>
-            <w>cleim</w>
-          </l>
-          <l n="13" xml:id="CB022_w2_fr-l-13">
-            <w>dont</w>
-            <w>i'ai</w>
-            <w>toriorz</w>
-            <w>faim</w>
-          </l>
-          <l n="14" xml:id="CB022_w2_fr-l-14">
-            <w>dont</w>
-            <w>amors</w>
-            <w>a</w>
-            <w>esscheson</w>
-            <w>aim</w>
-          </l>
-          <l n="15" xml:id="CB022_w2_fr-l-15">
-            <w>ma</w>
-            <w>sorpris</w>
-          </l>
-          <l n="16" xml:id="CB022_w2_fr-l-16">
-            <w>de</w>
-            <w>s'amor</w>
-            <w>me</w>
-            <w>tient</w>
-            <w>pris</w>
-          </l>
-          <l n="17" xml:id="CB022_w2_fr-l-17">
-            <w>dont</w>
-            <w>n'a</w>
-            <w>nicrai</w>
-            <w>vis</w>
-          </l>
-          <l n="18" xml:id="CB022_w2_fr-l-18">
-            <w>ce</w>
-            <w>met</w>
-            <w>avis</w>
-          </l>
-          <l n="19" xml:id="CB022_w2_fr-l-19">
-            <w>ne</w>
-            <w>puis</w>
-            <w>avoir</w>
-            <w>secors</w>
-          </l>
-          <l n="20" xml:id="CB022_w2_fr-l-20">
-            <w>por</w>
-            <w>t'amor</w>
-          </l>
-          <l n="21" xml:id="CB022_w2_fr-l-21">
-            <w>blanche</w>
-            <w>flor</w>
-          </l>
-          <l n="22" xml:id="CB022_w2_fr-l-22">
-            <w>crai</w>
-            <w>doulor</w>
-          </l>
-          <l n="23" xml:id="CB022_w2_fr-l-23">
-            <w>nuit</w>
-            <w>et</w>
-            <w>ior</w>
-          </l>
-          <l n="24" xml:id="CB022_w2_fr-l-24">
-            <w>sanz</w>
-            <w>seior</w>
-          </l>
-          <l n="25" xml:id="CB022_w2_fr-l-25">
-            <w>sanz</w>
-            <w>merir</w>
-          </l>
-          <l n="26" xml:id="CB022_w2_fr-l-26">
-            <w>me</w>
-            <w>fait</w>
-            <w>servir</w>
-          </l>
-          <l n="27" xml:id="CB022_w2_fr-l-27">
-            <w>trop</w>
-            <w>longuement</w>
-          </l>
-          <l n="28" xml:id="CB022_w2_fr-l-28">
-            <w>mon</w>
-            <w>desir</w>
-          </l>
-          <l n="29" xml:id="CB022_w2_fr-l-29">
-            <w>vueill</w>
-            <w>aconplir</w>
-          </l>
-          <l n="30" xml:id="CB022_w2_fr-l-30">
-            <w>gen</w>
-            <w>morrai</w>
-            <w>autrement</w>
-          </l>
-          <l n="31" xml:id="CB022_w2_fr-l-31">
-            <w>a</w>
-            <w>grief</w>
-            <w>tourment</w>
-          </l>
-          <l n="32" xml:id="CB022_w2_fr-l-32">
-            <w>venir</w>
-            <w>ne</w>
-            <w>puis</w>
-          </l>
-          <l n="33" xml:id="CB022_w2_fr-l-33">
-            <w>par</w>
-            <w>autre</w>
-            <w>huis</w>
-          </l>
-          <l n="34" xml:id="CB022_w2_fr-l-34">
-            <w>a</w>
-            <w>confort</w>
-          </l>
-          <l n="35" xml:id="CB022_w2_fr-l-35">
-            <w>autre</w>
-            <w>pertuis</w>
-          </l>
-          <l n="36" xml:id="CB022_w2_fr-l-36">
-            <w>nul</w>
-            <w>ne</w>
-            <w>truis</w>
-          </l>
-          <l n="37" xml:id="CB022_w2_fr-l-37">
-            <w>fors</w>
-            <w>la</w>
-            <w>mort</w>
-          </l>
-          <l n="38" xml:id="CB022_w2_fr-l-38">
-            <w>mar</w>
-            <w>mi</w>
-            <w>deduis</w>
-          </l>
-          <l n="39" xml:id="CB022_w2_fr-l-39">
-            <w>mourrir</w>
-            <w>ruis</w>
-          </l>
-          <l n="40" xml:id="CB022_w2_fr-l-40">
-            <w>de</w>
-            <w>trop</w>
-            <w>fort</w>
-          </l>
-          <l n="41" xml:id="CB022_w2_fr-l-41">
-            <w>mal</w>
-            <w>ne</w>
-            <w>cuis</w>
-            <pc resp="#editor">!</pc>
-          </l>
-        </lg>
+      <div type="prose">
+        <p xml:id="CB022_w2_fr-p-1">
+          <w>Amors</w>
+          <w>vois</w>
+          <w>querant</w>
+          <w>qi</w>
+          <w>me</w>
+          <w>fuit</w>
+          <pc resp="#editor">.</pc>
+        </p>
+        <p xml:id="CB022_w2_fr-p-2">
+          <w>Le</w>
+          <w>fruit</w>
+          <w>prendre</w>
+          <w>cuit</w>
+          <pc resp="#editor">,</pc>
+          <w>dont</w>
+          <w>oudor</w>
+          <w>sent</w>
+          <w>ennuit</w>
+          <pc resp="#editor">.</pc>
+        </p>
+        <p xml:id="CB022_w2_fr-p-3">
+          <w>Soient</w>
+          <w>tuit</w>
+          <w>mi</w>
+          <w>penssement</w>
+          <w>de</w>
+          <w>bruit</w>
+          <pc resp="#editor">,</pc>
+          <w>jor</w>
+          <w>et</w>
+          <w>nuit</w>
+          <w>sent</w>
+          <w>grief</w>
+          <w>torment</w>
+          <pc resp="#editor">.</pc>
+        </p>
+        <p xml:id="CB022_w2_fr-p-4">
+          <w>Mon</w>
+          <w>cuer</w>
+          <w>cuit</w>
+          <pc resp="#editor">,</pc>
+          <w>mon</w>
+          <w>cors</w>
+          <w>destruit</w>
+          <w>amors</w>
+          <w>par</w>
+          <w>son</w>
+          <w>present</w>
+          <pc resp="#editor">.</pc>
+        </p>
+        <p xml:id="CB022_w2_fr-p-5">
+          <w>Cele</w>
+          <w>qe</w>
+          <w>j&#8217;aim</w>
+          <pc resp="#editor">,</pc>
+          <w>cui</w>
+          <w>dame</w>
+          <w>cleim</w>
+          <pc resp="#editor">,</pc>
+          <w>dont</w>
+          <w>j&#8217;ai</w>
+          <w>torjorz</w>
+          <w>faim</w>
+          <pc resp="#editor">,</pc>
+          <w>dont</w>
+          <w>amors</w>
+          <w>a</w>
+          <w>essch&#233;</w>
+          <w>son</w>
+          <w>aim</w>
+          <pc resp="#editor">,</pc>
+          <w>m&#8217;a</w>
+          <w>sorpris</w>
+          <w>de</w>
+          <w>s&#8217;amor</w>
+          <pc resp="#editor">,</pc>
+          <w>me</w>
+          <w>tient</w>
+          <w>pris</w>
+          <pc resp="#editor">,</pc>
+          <w>dont</w>
+          <w>n&#8217;averai</w>
+          <w>uis</w>
+          <pc resp="#editor">,</pc>
+          <w>ce</w>
+          <w>m&#8217;et</w>
+          <w>avis</w>
+          <pc resp="#editor">.</pc>
+        </p>
+        <p xml:id="CB022_w2_fr-p-6">
+          <w>Ne</w>
+          <w>puis</w>
+          <w>avoir</w>
+          <w>secors</w>
+          <w>por</w>
+          <w>t&#8217;amor</w>
+          <pc resp="#editor">,</pc>
+          <w>Blancheflor</w>
+          <pc resp="#editor">,</pc>
+          <w>trai</w>
+          <w>doulor</w>
+          <w>nuit</w>
+          <w>et</w>
+          <w>jor</w>
+          <pc resp="#editor">,</pc>
+          <w>sanz</w>
+          <w>sejor</w>
+          <pc resp="#editor">.</pc>
+        </p>
+        <p xml:id="CB022_w2_fr-p-7">
+          <w>Sans</w>
+          <w>merir</w>
+          <pc resp="#editor">,</pc>
+          <w>me</w>
+          <w>fait</w>
+          <w>servir</w>
+          <w>trop</w>
+          <w>longuement</w>
+          <pc resp="#editor">.</pc>
+        </p>
+        <p xml:id="CB022_w2_fr-p-8">
+          <w>Mon</w>
+          <w>desir</w>
+          <w>vueill</w>
+          <w>aconplir</w>
+          <pc resp="#editor">,</pc>
+          <w>g&#8217;en</w>
+          <w>morrai</w>
+          <w>autrement</w>
+          <w>a</w>
+          <w>grief</w>
+          <w>tormant</w>
+          <pc resp="#editor">.</pc>
+        </p>
+        <p xml:id="CB022_w2_fr-p-9">
+          <w>Venir</w>
+          <w>ne</w>
+          <w>puis</w>
+          <w>par</w>
+          <w>autre</w>
+          <w>huis</w>
+          <w>a</w>
+          <w>confort</w>
+          <pc resp="#editor">.</pc>
+        </p>
+        <p xml:id="CB022_w2_fr-p-10">
+          <w>Autre</w>
+          <w>pertuis</w>
+          <w>nul</w>
+          <w>ne</w>
+          <w>truis</w>
+          <pc resp="#editor">,</pc>
+          <w>fors</w>
+          <w>la</w>
+          <w>mort</w>
+          <pc resp="#editor">.</pc>
+        </p>
+        <p xml:id="CB022_w2_fr-p-11">
+          <w>Mar</w>
+          <w>m&#8217;i</w>
+          <w>deduis</w>
+          <pc resp="#editor">,</pc>
+          <w>mourrir</w>
+          <w>ruis</w>
+          <pc resp="#editor">,</pc>
+          <w>de</w>
+          <w>trop</w>
+          <w>fort</w>
+          <w>mal</w>
+          <w>je</w>
+          <w>cuis</w>
+          <pc resp="#editor">.</pc>
+        </p>
       </div>
     </body>
   </text>

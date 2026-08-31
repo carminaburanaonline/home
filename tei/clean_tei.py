@@ -30,10 +30,7 @@ if __name__ == "__main__":
 		#####
 		#####
 
-		for poem in tree.findall(".//div[@type='poem']"):
-			poem_met = poem.get("met")
-			if poem_met is not None:
-				poem.set("met", poem_met.replace("/", " ").replace("Ref.", "Refl."))
+		
 
 		#####
 		#####
