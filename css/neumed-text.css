@@ -1,6 +1,6 @@
 /* Neumed text layout */
 
-.verse-text, .hemistich, .paragraph, .stage, .continuous-text > *:not(:first-child) {
+.verse-text > *:not(:first-child), .hemistich > *:not(:first-child), .paragraph > *:not(:first-child), .stage > *:not(:first-child), .continuous-text > *:not(:first-child) {
   margin-left: 8px;
 }
 
