@@ -1,0 +1,89 @@
+<TEI>
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="sequence">
+        <lg type="versicle" n="1a" xml:id="CB036_w1_PB-lg-1">
+          <l n="1" xml:id="CB036_w1_PB-l-1">Personne n&#8217;est priv&#233;</l>
+          <l n="2" xml:id="CB036_w1_PB-l-2">du bienfait d&#8217;un juste</l>
+          <l n="3" rend="indent(1)" xml:id="CB036_w1_PB-l-3">ch&#226;timent,</l>
+          <l n="4" xml:id="CB036_w1_PB-l-4">personne ne se voit</l>
+          <l n="5" xml:id="CB036_w1_PB-l-5">reprocher de pire vice</l>
+          <l n="6" rend="indent(1)" xml:id="CB036_w1_PB-l-6">que l&#8217;ingratitude.</l>
+          <l n="7" xml:id="CB036_w1_PB-l-7">Donc, pr&#233;lat, quand tu te confesses,</l>
+          <l n="8" xml:id="CB036_w1_PB-l-8">repens-toi v&#233;ritablement,</l>
+          <l n="9" xml:id="CB036_w1_PB-l-9">car n&#8217;est pas lav&#233; par la confession</l>
+          <l n="10" xml:id="CB036_w1_PB-l-10">celui &#224; qui est refus&#233;e</l>
+          <l n="11" rend="indent(1)" xml:id="CB036_w1_PB-l-11">la contrition.</l>
+        </lg>
+        <lg type="versicle" n="1b" xml:id="CB036_w1_PB-lg-2">
+          <l n="1" xml:id="CB036_w1_PB-l-12">Si tu te confesses de bouche,</l>
+          <l n="2" xml:id="CB036_w1_PB-l-13">la confession t&#8217;apporte</l>
+          <l n="3" rend="indent(1)" xml:id="CB036_w1_PB-l-14">le salut,</l>
+          <l n="4" xml:id="CB036_w1_PB-l-15">pourvu que tu t&#8217;humilies de c&#339;ur.</l>
+          <l n="5" xml:id="CB036_w1_PB-l-16">La contrition de l&#8217;&#226;me</l>
+          <l n="6" rend="indent(1)" xml:id="CB036_w1_PB-l-17">donne la vertu ;</l>
+          <l n="7" xml:id="CB036_w1_PB-l-18">pour que tu aies le salut,</l>
+          <l n="8" xml:id="CB036_w1_PB-l-19">pour que tu suives la vertu,</l>
+          <l n="9" xml:id="CB036_w1_PB-l-20">tourne le dos au pass&#233;,</l>
+          <l n="10" xml:id="CB036_w1_PB-l-21">embellis ta jeunesse</l>
+          <l n="11" rend="indent(1)" xml:id="CB036_w1_PB-l-22">par tes m&#339;urs.</l>
+        </lg>
+        <lg type="versicle" n="2a" xml:id="CB036_w1_PB-lg-3">
+          <l n="1" xml:id="CB036_w1_PB-l-23">Il faut s&#8217;efforcer par la vertu,</l>
+          <l n="2" rend="indent(1)" xml:id="CB036_w1_PB-l-24">non par le sang;</l>
+          <l n="3" xml:id="CB036_w1_PB-l-25">au sommet des honneurs,</l>
+          <l n="4" rend="indent(1)" xml:id="CB036_w1_PB-l-26">d&#8217;un c&#339;ur patient,</l>
+          <l n="5" xml:id="CB036_w1_PB-l-27">favorise l&#8217;innocent.</l>
+          <l n="6" xml:id="CB036_w1_PB-l-28">Mais r&#233;prime les forfaits</l>
+          <l n="7" xml:id="CB036_w1_PB-l-29">de l&#8217;orgueilleux et de l&#8217;impie.</l>
+          <l n="8" xml:id="CB036_w1_PB-l-30">Songe au dernier jugement,</l>
+          <l n="9" xml:id="CB036_w1_PB-l-31">juge justement,</l>
+          <l n="10" xml:id="CB036_w1_PB-l-32">ne d&#233;vie pas en pr&#234;chant.</l>
+        </lg>
+        <lg type="versicle" n="2b" xml:id="CB036_w1_PB-lg-4">
+          <l n="1" xml:id="CB036_w1_PB-l-33">Ton r&#244;le est de m&#233;priser</l>
+          <l n="2" rend="indent(1)" xml:id="CB036_w1_PB-l-34">qui te m&#233;prise,</l>
+          <l n="3" xml:id="CB036_w1_PB-l-35">de r&#233;conforter de pr&#233;sents</l>
+          <l n="4" rend="indent(1)" xml:id="CB036_w1_PB-l-36">ceux qui n&#8217;ont rien.</l>
+          <l n="5" xml:id="CB036_w1_PB-l-37">Rel&#232;ve les faibles</l>
+          <l n="6" xml:id="CB036_w1_PB-l-38">et &#233;l&#232;ve les humbles.</l>
+          <l n="7" xml:id="CB036_w1_PB-l-39">Qu&#8217;en toi soit l&#8217;humilit&#233;</l>
+          <l n="8" xml:id="CB036_w1_PB-l-40">m&#234;l&#233;e &#224; la gravit&#233;,</l>
+          <l n="9" xml:id="CB036_w1_PB-l-41">pour reprendre avec douceur</l>
+          <l n="10" xml:id="CB036_w1_PB-l-42">et calmer sereinement.</l>
+        </lg>
+        <lg type="versicle" n="3a" xml:id="CB036_w1_PB-lg-5">
+          <l n="1" xml:id="CB036_w1_PB-l-43">Celui &#224; qui plus est confi&#233;,</l>
+          <l n="2" xml:id="CB036_w1_PB-l-44">de lui il est plus exig&#233;.</l>
+          <l n="3" xml:id="CB036_w1_PB-l-45">Pourquoi rends-tu au Seigneur,</l>
+          <l n="4" xml:id="CB036_w1_PB-l-46">pour tout ce dont il t&#8217;a combl&#233;,</l>
+          <l n="5" xml:id="CB036_w1_PB-l-47">d&#8217;arracher son lait et sa laine</l>
+          <l n="6" xml:id="CB036_w1_PB-l-48">au troupeau dont il t&#8217;a charg&#233;</l>
+          <l n="7" rend="indent(1)" xml:id="CB036_w1_PB-l-49">comme berger ?</l>
+          <l n="8" xml:id="CB036_w1_PB-l-50">Mais gare, quand il viendra,</l>
+          <l n="9" xml:id="CB036_w1_PB-l-51">qu&#8217;alors il t&#8217;&#233;crase durement,</l>
+          <l n="10" rend="indent(1)" xml:id="CB036_w1_PB-l-52">comme un brigand !</l>
+          <l n="11" xml:id="CB036_w1_PB-l-53">Il viendra en juge s&#233;v&#232;re,</l>
+          <l n="12" xml:id="CB036_w1_PB-l-54">&#224; pr&#233;sent, jaugeant ton p&#233;ch&#233;,</l>
+          <l n="13" rend="indent(1)" xml:id="CB036_w1_PB-l-55">il te laisse faire.</l>
+        </lg>
+        <lg type="versicle" n="3b" xml:id="CB036_w1_PB-lg-6">
+          <l n="1" xml:id="CB036_w1_PB-l-56">Pour ne pas p&#233;rir avec tes sujets,</l>
+          <l n="2" xml:id="CB036_w1_PB-l-57">crains de faire passer en eux</l>
+          <l n="3" xml:id="CB036_w1_PB-l-58">ton mauvais exemple.</l>
+          <l n="4" xml:id="CB036_w1_PB-l-59">Car plus le grade est &#233;lev&#233;</l>
+          <l n="5" xml:id="CB036_w1_PB-l-60">et l&#8217;importance plus grande,</l>
+          <l n="6" xml:id="CB036_w1_PB-l-61">plus profonde est la chute</l>
+          <l n="7" rend="indent(1)" xml:id="CB036_w1_PB-l-62">pour celui qui tombe.</l>
+          <l n="8" xml:id="CB036_w1_PB-l-63">Ne d&#233;sesp&#232;re pas, si ton pied</l>
+          <l n="9" xml:id="CB036_w1_PB-l-64">glisse dans le gouffre cach&#233;</l>
+          <l n="10" rend="indent(1)" xml:id="CB036_w1_PB-l-65">du p&#233;ch&#233;,</l>
+          <l n="11" xml:id="CB036_w1_PB-l-66">car personne n&#8217;est priv&#233;</l>
+          <l n="12" xml:id="CB036_w1_PB-l-67">du bienfait d&#8217;un juste</l>
+          <l n="13" rend="indent(1)" xml:id="CB036_w1_PB-l-68">ch&#226;timent.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

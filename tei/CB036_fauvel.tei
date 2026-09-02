@@ -1,8 +1,8 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
-      <div type="sequence" met="1:2x(2x7pp 4p) 4x7pp 4p">
+      <div type="sequence" met="1:2x(2x7pp 4p) 4x7pp 4p, 3:4x8pp 3x(2x8pp 4p)">
         <lg type="strophe" n="1a" met="7pp/7pp/4p/7pp/7pp/4p/7pp/7pp/7pp/7pp/4p" rhyme="a/b/c/a/b/c/d/d/e/e/c" xml:id="CB036_fauvel-lg-1">
           <l n="1" xml:id="CB036_fauvel-l-1">
             <w>Nulli</w>
@@ -10,7 +10,12 @@
           </l>
           <l n="2" xml:id="CB036_fauvel-l-2">
             <w>iuste</w>
-            <w>penitudinis</w>
+            <app type="text">
+              <lem wit="W1 HSB W T">
+                <w>penitudinis</w>
+              </lem>
+              <rdg wit="cod."><w>plenitudinis</w></rdg>
+            </app>
           </l>
           <l n="3" xml:id="CB036_fauvel-l-3">
             <w>amputatur</w>
@@ -30,7 +35,7 @@
             <pc resp="#editor">.</pc>
           </l>
           <l n="7" xml:id="CB036_fauvel-l-7">
-            <w>ergo</w>
+            <w>Ergo</w>
             <pc resp="#editor">,</pc>
             <w>presul</w>
             <w>confitens</w>
@@ -63,23 +68,23 @@
             <w>Si</w>
             <w>confessus</w>
             <w>fueris</w>
+            <pc resp="#editor">,</pc>
           </l>
           <l n="2" xml:id="CB036_fauvel-l-13">
             <w>ore</w>
-            <pc resp="#editor">,</pc>
             <w>fit</w>
             <w>confessio</w>
           </l>
           <l n="3" xml:id="CB036_fauvel-l-14">
             <w>ad</w>
             <w>salutem</w>
-            <pc resp="#editor">,</pc>
+            <pc resp="#editor">;</pc>
           </l>
           <l n="4" xml:id="CB036_fauvel-l-15">
             <w>corde</w>
             <w>si</w>
             <w>contereris</w>
-            <pc resp="#editor">;</pc>
+            <pc resp="#editor">,</pc>
           </l>
           <l n="5" xml:id="CB036_fauvel-l-16">
             <w>animi</w>
@@ -88,13 +93,13 @@
           <l n="6" xml:id="CB036_fauvel-l-17">
             <w>dat</w>
             <w>virtutem</w>
-            <pc resp="#editor">,</pc>
+            <pc resp="#editor">;</pc>
           </l>
           <l n="7" xml:id="CB036_fauvel-l-18">
             <w>ut</w>
             <w>salutem</w>
             <w>habeas</w>
-            <pc resp="#editor">;</pc>
+            <pc resp="#editor">,</pc>
           </l>
           <l n="8" xml:id="CB036_fauvel-l-19">
             <w>ut</w>
@@ -113,6 +118,188 @@
           </l>
           <l n="11" xml:id="CB036_fauvel-l-22">
             <w>iuventutem</w>
+            <pc resp="#editor">!</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="3a" met="8pp/8pp/8pp/8pp/8pp/8pp/4p/8pp/8pp/4p/8pp/8pp/4p" rhyme="a/a/b/c/b/c/d/e/f/d/e/f/d" xml:id="CB036_fauvel-lg-3">
+          <l n="1" xml:id="CB036_fauvel-l-23">
+            <w>Cui</w>
+            <w>magis</w>
+            <w>committitur</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="2" xml:id="CB036_fauvel-l-24">
+            <w>ab</w>
+            <w>eo</w>
+            <w>plus</w>
+            <w>exigitur</w>
+            <pc resp="#editor">.</pc>
+          </l>
+          <l n="3" xml:id="CB036_fauvel-l-25">
+            <w>Quid</w>
+            <w>Domino</w>
+            <w>retribuis</w>
+          </l>
+          <l n="4" xml:id="CB036_fauvel-l-26">
+            <w>pro</w>
+            <w>tot</w>
+            <w>que</w>
+            <w>tibi</w>
+            <w>tribuit</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="5" xml:id="CB036_fauvel-l-27">
+            <w>quod</w>
+            <w>lac</w>
+            <w>et</w>
+            <w>lanam</w>
+            <w>eruis</w>
+          </l>
+          <l n="6" xml:id="CB036_fauvel-l-28">
+            <w>gregis</w>
+            <w>cuius</w>
+            <w>constituit</w>
+          </l>
+          <l n="7" xml:id="CB036_fauvel-l-29">
+            <w>te</w>
+            <w>pastorem</w>
+            <pc resp="#editor">?</pc>
+          </l>
+          <l n="8" xml:id="CB036_fauvel-l-30">
+            <app type="text">
+             <lem wit="W1 HSB W T">
+               <w>Set</w>
+             </lem>
+              <rdg wit="cod."><w>te</w></rdg>
+            </app>
+            <w>cave</w>
+            <w>ne</w>
+            <pc resp="#editor">,</pc>
+            <w>cum</w>
+            <w>venerit</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="9" xml:id="CB036_fauvel-l-31">
+            <app type="text">
+              <lem wit="W1 HSB W T">
+                <w>te</w>
+              </lem>
+              <rdg wit="cod."><w>de</w></rdg>
+            </app>
+            <w>districte</w>
+            <w>tunc</w>
+            <w>conterat</w>
+          </l>
+          <l n="10" xml:id="CB036_fauvel-l-32">
+            <w>ut</w>
+            <w>raptorem</w>
+            <pc resp="#editor">!</pc>
+          </l>
+          <l n="11" xml:id="CB036_fauvel-l-33">
+            <w>Districtus</w>
+            <w>iudex</w>
+            <w>aderit</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="12" xml:id="CB036_fauvel-l-34">
+            <w>nunc</w>
+            <w>sustinens</w>
+            <w>considerat</w>
+          </l>
+          <l n="13" xml:id="CB036_fauvel-l-35">
+            <w>peccatorem</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="3b" met="8pp/8pp/8pp/8pp/8pp/8pp/4p/8pp/8pp/4p/8pp/8pp/4p" rhyme="g/g/h/i/h/i/j/k/l/j/k/l/j" xml:id="CB036_fauvel-lg-4">
+          <l n="1" xml:id="CB036_fauvel-l-36">
+            <w>Cum</w>
+            <w>subjectis</w>
+            <w>ne</w>
+            <w>pereas</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="2" xml:id="CB036_fauvel-l-37">
+            <w>exempla</w>
+                <w>prava</w>
+                <w>timeas</w>
+          </l>
+          <l n="3" xml:id="CB036_fauvel-l-38">
+            <w>in</w>
+            <w>subjectos</w>
+            <app type="text">
+              <lem wit="W1 HSB W T">
+                <w>transfundere</w>
+              </lem>
+              <rdg wit="cod."><w>tranfedere</w></rdg>
+            </app>
+            <pc resp="#editor">;</pc>
+          </l>
+          <l n="4" xml:id="CB036_fauvel-l-39">
+            <w>nam</w>
+            <w>quanto</w>
+            <w>gradus</w>
+            <w>altior</w>
+          </l>
+          <l n="5" xml:id="CB036_fauvel-l-40">
+            <w>cum</w>
+                <w>graviori</w>
+            <w>pondere</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="6" xml:id="CB036_fauvel-l-41">
+            <w>tanto</w>
+            <w>labenti</w>
+            <w>gravior</w>
+          </l>
+          <l n="7" xml:id="CB036_fauvel-l-42">
+            <w>lapsus</w>
+            <w>datur</w>
+            <pc resp="#editor">.</pc>
+          </l>
+          <l n="8" xml:id="CB036_fauvel-l-43">
+            <w>Ne</w>
+            <w>desperes</w>
+            <pc resp="#editor">,</pc>
+            <app type="text">
+              <lem wit="W1 HSB W T">
+                <w>si</w>
+              </lem>
+              <rdg wit="cod."><w>sic</w></rdg>
+            </app>
+            <w>criminis</w>
+          </l>
+          <l n="9" xml:id="CB036_fauvel-l-44">
+            <w>in</w>
+            <app type="text">
+              <lem wit="W1 HSB W T">
+                <w>latens</w>
+              </lem>
+              <rdg wit="cod."><w>lateris</w></rdg>
+            </app>
+            <w>precipicium</w>
+          </l>
+          <l n="10" xml:id="CB036_fauvel-l-45">
+            <w>pes</w>
+            <w>labatur</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="11" xml:id="CB036_fauvel-l-46">
+            <w>nam</w>
+            <w>juste</w>
+            <app type="text">
+              <lem wit="W1 HSB W T">
+                <w>penitudinis</w>
+              </lem>
+              <rdg wit="cod."><w>plenitudinis</w></rdg>
+            </app>
+          </l>
+          <l n="12" xml:id="CB036_fauvel-l-47">
+                <w>nemini</w>
+            <w>beneficium</w>
+          </l>
+          <l n="13" xml:id="CB036_fauvel-l-48">
+            <w>amputatur</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>

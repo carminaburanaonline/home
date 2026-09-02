@@ -1,0 +1,65 @@
+<TEI>
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="sequence">
+        <lg type="versicle" n="1a" xml:id="CB036_fauvel_PB-lg-1">
+          <l n="1" xml:id="CB036_fauvel_PB-l-1">Personne n&#8217;est priv&#233;</l>
+          <l n="2" xml:id="CB036_fauvel_PB-l-2">du bienfait d&#8217;un juste</l>
+          <l n="3" rend="indent(1)" xml:id="CB036_fauvel_PB-l-3">ch&#226;timent,</l>
+          <l n="4" xml:id="CB036_fauvel_PB-l-4">personne ne se voit</l>
+          <l n="5" xml:id="CB036_fauvel_PB-l-5">reprocher de pire vice</l>
+          <l n="6" rend="indent(1)" xml:id="CB036_fauvel_PB-l-6">que l&#8217;ingratitude.</l>
+          <l n="7" xml:id="CB036_fauvel_PB-l-7">Donc, pr&#233;lat, quand tu te confesses,</l>
+          <l n="8" xml:id="CB036_fauvel_PB-l-8">repens-toi v&#233;ritablement,</l>
+          <l n="9" xml:id="CB036_fauvel_PB-l-9">car n&#8217;est pas lav&#233; par la confession</l>
+          <l n="10" xml:id="CB036_fauvel_PB-l-10">celui &#224; qui est refus&#233;e</l>
+          <l n="11" rend="indent(1)" xml:id="CB036_fauvel_PB-l-11">la contrition.</l>
+        </lg>
+        <lg type="versicle" n="1b" xml:id="CB036_fauvel_PB-lg-2">
+          <l n="1" xml:id="CB036_fauvel_PB-l-12">Si tu te confesses de bouche,</l>
+          <l n="2" xml:id="CB036_fauvel_PB-l-13">la confession t&#8217;apporte</l>
+          <l n="3" rend="indent(1)" xml:id="CB036_fauvel_PB-l-14">le salut,</l>
+          <l n="4" xml:id="CB036_fauvel_PB-l-15">pourvu que tu t&#8217;humilies de c&#339;ur.</l>
+          <l n="5" xml:id="CB036_fauvel_PB-l-16">La contrition de l&#8217;&#226;me</l>
+          <l n="6" rend="indent(1)" xml:id="CB036_fauvel_PB-l-17">donne la vertu ;</l>
+          <l n="7" xml:id="CB036_fauvel_PB-l-18">pour que tu aies le salut,</l>
+          <l n="8" xml:id="CB036_fauvel_PB-l-19">pour que tu suives la vertu,</l>
+          <l n="9" xml:id="CB036_fauvel_PB-l-20">tourne le dos au pass&#233;,</l>
+          <l n="10" xml:id="CB036_fauvel_PB-l-21">embellis ta jeunesse</l>
+          <l n="11" rend="indent(1)" xml:id="CB036_fauvel_PB-l-22">par tes m&#339;urs.</l>
+        </lg>
+        <lg type="versicle" n="3a" xml:id="CB036_fauvel_PB-lg-3">
+          <l n="1" xml:id="CB036_fauvel_PB-l-23">Celui &#224; qui plus est confi&#233;,</l>
+          <l n="2" xml:id="CB036_fauvel_PB-l-24">de lui il est plus exig&#233;.</l>
+          <l n="3" xml:id="CB036_fauvel_PB-l-25">Pourquoi rends-tu au Seigneur,</l>
+          <l n="4" xml:id="CB036_fauvel_PB-l-26">pour tout ce dont il t&#8217;a combl&#233;,</l>
+          <l n="5" xml:id="CB036_fauvel_PB-l-27">d&#8217;arracher son lait et sa laine</l>
+          <l n="6" xml:id="CB036_fauvel_PB-l-28">au troupeau dont il t&#8217;a charg&#233;</l>
+          <l n="7" rend="indent(1)" xml:id="CB036_fauvel_PB-l-29">comme berger ?</l>
+          <l n="8" xml:id="CB036_fauvel_PB-l-30">Mais gare, quand il viendra,</l>
+          <l n="9" xml:id="CB036_fauvel_PB-l-31">qu&#8217;alors il t&#8217;&#233;crase durement,</l>
+          <l n="10" rend="indent(1)" xml:id="CB036_fauvel_PB-l-32">comme un brigand !</l>
+          <l n="11" xml:id="CB036_fauvel_PB-l-33">Il viendra en juge s&#233;v&#232;re,</l>
+          <l n="12" xml:id="CB036_fauvel_PB-l-34">&#224; pr&#233;sent, jaugeant ton p&#233;ch&#233;,</l>
+          <l n="13" rend="indent(1)" xml:id="CB036_fauvel_PB-l-35">il te laisse faire.</l>
+        </lg>
+        <lg type="versicle" n="3b" xml:id="CB036_fauvel_PB-lg-4">
+          <l n="1" xml:id="CB036_fauvel_PB-l-36">Pour ne pas p&#233;rir avec tes sujets,</l>
+          <l n="2" xml:id="CB036_fauvel_PB-l-37">crains de faire passer en eux</l>
+          <l n="3" xml:id="CB036_fauvel_PB-l-38">ton mauvais exemple.</l>
+          <l n="4" xml:id="CB036_fauvel_PB-l-39">Car plus le grade est &#233;lev&#233;</l>
+          <l n="5" xml:id="CB036_fauvel_PB-l-40">et l&#8217;importance plus grande,</l>
+          <l n="6" xml:id="CB036_fauvel_PB-l-41">plus profonde est la chute</l>
+          <l n="7" rend="indent(1)" xml:id="CB036_fauvel_PB-l-42">pour celui qui tombe.</l>
+          <l n="8" xml:id="CB036_fauvel_PB-l-43">Ne d&#233;sesp&#232;re pas, si ton pied</l>
+          <l n="9" xml:id="CB036_fauvel_PB-l-44">glisse dans le gouffre cach&#233;</l>
+          <l n="10" rend="indent(1)" xml:id="CB036_fauvel_PB-l-45">du p&#233;ch&#233;,</l>
+          <l n="11" xml:id="CB036_fauvel_PB-l-46">car personne n&#8217;est priv&#233;</l>
+          <l n="12" xml:id="CB036_fauvel_PB-l-47">du bienfait d&#8217;un juste</l>
+          <l n="13" rend="indent(1)" xml:id="CB036_fauvel_PB-l-48">ch&#226;timent.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

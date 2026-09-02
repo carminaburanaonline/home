@@ -1,5 +1,5 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
       <div type="sequence" met="1-2:2x(4p+4p 7p), 3:4p+4p 7p, 4:2x(7pp 7p), 5:8x7pp, 6:2x(4p+4p 7p), 7:2x(6pp+5p), 8:3x(6pp+5p), 9:3x(6p+5p)">

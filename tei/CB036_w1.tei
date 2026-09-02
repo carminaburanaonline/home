@@ -1,8 +1,8 @@
 <TEI>
-  <teiHeader />
+  <teiHeader/>
   <text>
     <body>
-      <div type="sequence" met="1:2x(2x7pp 4p) 4x7pp 4p, 2:2x(7pp 4p) 6x7pp">
+      <div type="sequence" met="1:2x(2x7pp 4p) 4x7pp 4p, 2:2x(7pp 4p) 6x7pp, 3:4x8pp 3x(2x8pp 4p)">
         <lg type="strophe" n="1a" met="7pp/7pp/4p/7pp/7pp/4p/7pp/7pp/7pp/7pp/4p" rhyme="a/b/c/a/b/c/d/d/e/e/c" xml:id="CB036_w1-lg-1">
           <l n="1" xml:id="CB036_w1-l-1">
             <w>Nulli</w>
@@ -26,11 +26,16 @@
             <w>ingratitudinis</w>
           </l>
           <l n="6" xml:id="CB036_w1-l-6">
-            <w>imputatur</w>
+            <app type="text">
+              <lem wit="F Fau Ma O HSB W T">
+                <w>imputatur</w>
+              </lem>
+              <rdg wit="cod. CB V"><w>amputatur</w></rdg>
+            </app>
             <pc resp="#editor">.</pc>
           </l>
           <l n="7" xml:id="CB036_w1-l-7">
-            <w>ergo</w>
+            <w>Ergo</w>
             <pc resp="#editor">,</pc>
             <w>presul</w>
             <w>confitens</w>
@@ -58,7 +63,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="1b" met="7pp/7pp/4p/7pp/7pp/4p/7pp/7pp/7pp/7pp/4p" rhyme="a/b/c/a/b/c/d/d/e/e/c" xml:id="CB036_w1-lg-2">
+        <lg type="strophe" n="1b" met="7pp/7pp/4p/7pp/7pp/4p/7pp/7pp/7pp/7pp/4p" rhyme="f/g/h/f/g/h/i/i/j/j/h" xml:id="CB036_w1-lg-2">
           <l n="1" xml:id="CB036_w1-l-12">
             <w>Si</w>
             <w>confessus</w>
@@ -73,7 +78,7 @@
           <l n="3" xml:id="CB036_w1-l-14">
             <w>ad</w>
             <w>salutem</w>
-            <pc resp="#editor">,</pc>
+            <pc resp="#editor">;</pc>
           </l>
           <l n="4" xml:id="CB036_w1-l-15">
             <w>corde</w>
@@ -94,7 +99,7 @@
             <w>ut</w>
             <w>salutem</w>
             <w>habeas</w>
-            <pc resp="#editor">;</pc>
+            <pc resp="#editor">,</pc>
           </l>
           <l n="8" xml:id="CB036_w1-l-19">
             <w>ut</w>
@@ -113,7 +118,7 @@
           </l>
           <l n="11" xml:id="CB036_w1-l-22">
             <w>iuventutem</w>
-            <pc resp="#editor">.</pc>
+            <pc resp="#editor">!</pc>
           </l>
         </lg>
         <lg type="strophe" n="2a" met="7pp/4p/7pp/4p/7pp/7pp/7pp/7pp/7pp/7pp" rhyme="a/b/a/b/c/c/d/d/e/e" xml:id="CB036_w1-lg-3">
@@ -135,7 +140,12 @@
           </l>
           <l n="4" xml:id="CB036_w1-l-26">
             <w>corde</w>
-            <w>miti</w>
+            <app type="text">
+              <lem wit="CB F Fau Ma O HSB V W T">
+                <w>miti</w>
+              </lem>
+              <rdg wit="cod."><w>niti</w></rdg>
+            </app>
           </l>
           <l n="5" xml:id="CB036_w1-l-27">
             <w>foveas</w>
@@ -166,6 +176,233 @@
             <w>predicans</w>
             <w>non</w>
             <w>claudica</w>
+            <pc resp="#editor">!</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="2b" met="7pp/4p/7pp/4p/7pp/7pp/7pp/7pp/7pp/7pp" rhyme="f/g/f/g/h/h/i/i/j/j" xml:id="CB036_w1-lg-4">
+          <l n="1" xml:id="CB036_w1-l-33">
+            <w>Tuum</w>
+            <w>sit</w>
+            <w>contempnere</w>
+          </l>
+          <l n="2" xml:id="CB036_w1-l-34">
+            <w>contempnentes</w>
+          </l>
+          <l n="3" xml:id="CB036_w1-l-35">
+            <w>et</w>
+            <w>fovere</w>
+            <w>munere</w>
+          </l>
+          <l n="4" xml:id="CB036_w1-l-36">
+            <w>nil</w>
+            <w>habentes</w>
+            <pc resp="#editor">.</pc>
+          </l>
+          <l n="5" xml:id="CB036_w1-l-37">
+            <w>Relevato</w>
+            <w>debiles</w>
+          </l>
+          <l n="6" xml:id="CB036_w1-l-38">
+            <w>et</w>
+            <w>exaltes</w>
+            <w>humiles</w>
+            <pc resp="#editor">!</pc>
+          </l>
+          <l n="7" xml:id="CB036_w1-l-39">
+            <w>In</w>
+            <w>te</w>
+            <w>sit</w>
+            <w>humilitas</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="8" xml:id="CB036_w1-l-40">
+            <w>cui</w>
+            <w>mixta</w>
+            <w>sit</w>
+            <w>gravitas</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="9" xml:id="CB036_w1-l-41">
+            <w>ut</w>
+            <w>lene</w>
+            <w>corripias</w>
+          </l>
+          <l n="10" xml:id="CB036_w1-l-42">
+            <w>et</w>
+            <w>serene</w>
+            <w>lenias</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="3a" met="8pp/8pp/8pp/8pp/8pp/8pp/4p/8pp/8pp/4p/8pp/8pp/4p" rhyme="a/a/b/c/b/c/d/e/f/d/e/f/d" xml:id="CB036_w1-lg-5">
+          <l n="1" xml:id="CB036_w1-l-43">
+            <w>Cui</w>
+            <w>magis</w>
+            <w>committitur</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="2" xml:id="CB036_w1-l-44">
+            <w>ab</w>
+            <w>eo</w>
+            <w>plus</w>
+            <w>exigitur</w>
+            <pc resp="#editor">.</pc>
+          </l>
+          <l n="3" xml:id="CB036_w1-l-45">
+            <w>Quid</w>
+            <w>Domino</w>
+            <w>retribuis</w>
+          </l>
+          <l n="4" xml:id="CB036_w1-l-46">
+            <w>pro</w>
+            <w>tot</w>
+            <w>que</w>
+            <w>tibi</w>
+            <w>tribuit</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="5" xml:id="CB036_w1-l-47">
+            <w>quod</w>
+            <w>lac</w>
+            <w>et</w>
+            <w>lanam</w>
+            <w>eruis</w>
+          </l>
+          <l n="6" xml:id="CB036_w1-l-48">
+            <w>gregis</w>
+            <w>cuius</w>
+            <w>constituit</w>
+          </l>
+          <l n="7" xml:id="CB036_w1-l-49">
+            <w>te</w>
+            <w>pastorem</w>
+            <pc resp="#editor">?</pc>
+          </l>
+          <l n="8" xml:id="CB036_w1-l-50">
+            <w>Set</w>
+            <w>cave</w>
+            <w>ne</w>
+            <pc resp="#editor">,</pc>
+            <w>cum</w>
+            <w>venerit</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="9" xml:id="CB036_w1-l-51">
+            <w>te</w>
+            <w>districte</w>
+            <w>tunc</w>
+            <w>conterat</w>
+          </l>
+          <l n="10" xml:id="CB036_w1-l-52">
+            <w>ut</w>
+            <w>raptorem</w>
+            <pc resp="#editor">!</pc>
+          </l>
+          <l n="11" xml:id="CB036_w1-l-53">
+            <w>Districtus</w>
+            <w>iudex</w>
+            <w>aderit</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="12" xml:id="CB036_w1-l-54">
+            <w>nunc</w>
+            <w>sustinens</w>
+            <w>considerat</w>
+          </l>
+          <l n="13" xml:id="CB036_w1-l-55">
+            <w>peccatorem</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="3b" met="8pp/8pp/8pp/8pp/8pp/8pp/4p/8pp/8pp/4p/8pp/8pp/4p" rhyme="g/g/h/i/h/i/j/k/l/j/k/l/j" xml:id="CB036_w1-lg-6">
+          <l n="1" xml:id="CB036_w1-l-56">
+            <w>Cum</w>
+            <w>subjectis</w>
+            <w>ne</w>
+            <app type="text">
+              <lem wit="Fau HSB W T">
+                <w>pereas</w>
+              </lem>
+              <rdg wit="cod."><w>pareas</w></rdg>
+            </app>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="2" xml:id="CB036_w1-l-57">
+            <w>exempla</w>
+            <app type="text">
+              <lem wit="Fau HSB W T">
+                <w>prava</w>
+                <w>timeas</w>
+              </lem>
+              <rdg wit="cod."><w>mala</w><w>caveas</w></rdg>
+            </app>
+          </l>
+          <l n="3" xml:id="CB036_w1-l-58">
+            <w>in</w>
+            <w>subjectos</w>
+            <w>transfundere</w>
+            <pc resp="#editor">;</pc>
+          </l>
+          <l n="4" xml:id="CB036_w1-l-59">
+            <w>nam</w>
+            <w>quanto</w>
+            <w>gradus</w>
+            <w>altior</w>
+          </l>
+          <l n="5" xml:id="CB036_w1-l-60">
+            <w>cum</w>
+            <app type="text">
+              <lem>
+                <w>graviori</w>
+              </lem>
+              <note>corr. ex <w>graviore</w> cod.</note>
+            </app>
+            <w>pondere</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="6" xml:id="CB036_w1-l-61">
+            <w>tanto</w>
+            <w>labenti</w>
+            <w>gravior</w>
+          </l>
+          <l n="7" xml:id="CB036_w1-l-62">
+            <w>lapsus</w>
+            <w>datur</w>
+            <pc resp="#editor">.</pc>
+          </l>
+          <l n="8" xml:id="CB036_w1-l-63">
+            <w>Ne</w>
+            <w>desperes</w>
+            <pc resp="#editor">,</pc>
+            <w>si</w>
+            <w>criminis</w>
+          </l>
+          <l n="9" xml:id="CB036_w1-l-64">
+            <w>in</w>
+            <w>latens</w>
+            <w>precipicium</w>
+          </l>
+          <l n="10" xml:id="CB036_w1-l-65">
+            <w>pes</w>
+            <w>labatur</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="11" xml:id="CB036_w1-l-66">
+            <w>nam</w>
+            <w>juste</w>
+            <w>penitudinis</w>
+          </l>
+          <l n="12" xml:id="CB036_w1-l-67">
+            <app type="text">
+              <lem wit="Fau HSB W T">
+                <w>nemini</w>
+              </lem>
+              <note>om. cod.</note>
+            </app>
+            <w>beneficium</w>
+          </l>
+          <l n="13" xml:id="CB036_w1-l-68">
+            <w>amputatur</w>
             <pc resp="#editor">.</pc>
           </l>
         </lg>
