@@ -2,7 +2,7 @@
   <teiHeader />
   <text>
     <body>
-      <div type="poem" met="I-V:6x7pp 4pp, VI: 2x(4+4) 2x4 2 4+2, Refl.: 4pp 7pp">
+      <div type="poem" met="I-V:6x7pp 4pp, VI: 2x(4+4) 2x4 2 4+2, Refl.: 7pp 4pp">
         <head>Item aliud</head>
         <lg type="strophe" n="I" met="7pp/7pp/7pp/7pp/7pp/7pp/4pp" rhyme="a/b/a/b/a/b/C" xml:id="CB113-lg-1">
           <l n="1" xml:id="CB113-l-1">
@@ -120,7 +120,7 @@
             <pc>&#183;</pc>
           </l>
         </lg>
-        <lg type="refrain" met="4pp/7pp" rhyme="D/C" xml:id="CB113-lg-2">
+        <lg type="refrain" met="7pp/4pp" rhyme="D/C" xml:id="CB113-lg-2">
           <head>Refl.</head>
           <l n="1" xml:id="CB113-l-8">
             <w>
