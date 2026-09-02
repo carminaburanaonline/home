@@ -53,7 +53,7 @@
   </xsl:template>
 
   <xsl:template match="p">
-    <p class="text-font"><xsl:apply-templates /></p>
+    <div class="paragraph"><xsl:apply-templates /></div>
   </xsl:template>
 
   <xsl:template match="div[@type='sequence']">

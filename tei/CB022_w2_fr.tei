@@ -85,7 +85,13 @@
           <w>pris</w>
           <pc resp="#editor">,</pc>
           <w>dont</w>
-          <w>n&#8217;averai</w>
+          <app type="text">
+            <lem>
+              <w>n&#8217;averai</w>
+            </lem>
+            <rdg wit="cod."><w>n&#8217;auicrai</w></rdg>
+            <note>-i- exp. cod.</note>
+          </app>
           <w>uis</w>
           <pc resp="#editor">,</pc>
           <w>ce</w>
