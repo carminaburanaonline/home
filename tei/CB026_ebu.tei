@@ -3,44 +3,44 @@
   <text>
     <body>
       <div type="poem" met="III:8pp 4pp 8p 6p 4pp 3x8pp, IV:5x8pp">
-        <lg type="strophe" n="III" met="8pp/4pp/8p/6p/4pp/8pp/8pp/8pp" rhyme="a/a/b/b/c/c/d/d" xml:id="CB026_ebu_2-lg-1">
-          <l n="1" xml:id="CB026_ebu_2-l-1">
+        <lg type="strophe" n="III" met="8pp/4pp/8p/6p/4pp/8pp/8pp/8pp" rhyme="a/a/b/b/c/c/d/d" xml:id="CB026_ebu-lg-1">
+          <l n="1" xml:id="CB026_ebu-l-1">
             <w>Si</w>
             <w>vocatus</w>
             <w>ad</w>
             <w>nuptias</w>
           </l>
-          <l n="2" xml:id="CB026_ebu_2-l-2">
+          <l n="2" xml:id="CB026_ebu-l-2">
             <w>advenias</w>
           </l>
-          <l n="3" xml:id="CB026_ebu_2-l-3">
+          <l n="3" xml:id="CB026_ebu-l-3">
             <w>sine</w>
             <w>veste</w>
             <w>nuptiali</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4" xml:id="CB026_ebu_2-l-4">
+          <l n="4" xml:id="CB026_ebu-l-4">
             <w>a</w>
             <w>curia</w>
             <w>regali</w>
           </l>
-          <l n="5" xml:id="CB026_ebu_2-l-5">
+          <l n="5" xml:id="CB026_ebu-l-5">
             <w>expelleris</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="6" xml:id="CB026_ebu_2-l-6">
+          <l n="6" xml:id="CB026_ebu-l-6">
             <w>et</w>
             <w>obviam</w>
             <w>si</w>
             <w>veneris</w>
           </l>
-          <l n="7" xml:id="CB026_ebu_2-l-7">
+          <l n="7" xml:id="CB026_ebu-l-7">
             <w>sponso</w>
             <w>lampade</w>
             <w>vacua</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="8" xml:id="CB026_ebu_2-l-8">
+          <l n="8" xml:id="CB026_ebu-l-8">
             <w>es</w>
             <w>quasi</w>
             <w>virgo</w>
@@ -48,8 +48,8 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="8pp/8pp/8pp/8pp/8pp" rhyme="a/a/b/b/b" xml:id="CB026_ebu_1-lg-1">
-          <l n="1" xml:id="CB026_ebu_1-l-1">
+        <lg type="strophe" n="IV" met="8pp/8pp/8pp/8pp/8pp" rhyme="a/a/b/b/b" xml:id="CB026_ebu-lg-2">
+          <l n="1" xml:id="CB026_ebu-l-9">
             <w>Ergo</w>
             <w>vide</w>
             <pc resp="#editor">,</pc>
@@ -57,24 +57,24 @@
             <w>dormias</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2" xml:id="CB026_ebu_1-l-2">
+          <l n="2" xml:id="CB026_ebu-l-10">
             <w>set</w>
             <w>vigilans</w>
             <w>aperias</w>
           </l>
-          <l n="3" xml:id="CB026_ebu_1-l-3">
+          <l n="3" xml:id="CB026_ebu-l-11">
             <w>Domino</w>
             <pc resp="#editor">,</pc>
             <w>cum</w>
             <w>pulsaverit</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="4" xml:id="CB026_ebu_1-l-4">
+          <l n="4" xml:id="CB026_ebu-l-12">
             <w>Beatus</w>
             <w>quem</w>
             <w>invenerit</w>
           </l>
-          <l n="5" met="9pp" xml:id="CB026_ebu_1-l-5">
+          <l n="5" met="9pp" xml:id="CB026_ebu-l-13">
             <w>vigilantem</w>
             <w>cum</w>
             <w>invenerit</w>

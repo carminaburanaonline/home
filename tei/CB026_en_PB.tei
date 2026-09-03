@@ -1,0 +1,30 @@
+<TEI>
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="poem">
+        <lg type="strophe" n="II" xml:id="CB026_en_PB-lg-1">
+          <l n="1" xml:id="CB026_en_PB-l-1">[...] n&#8217;a pas d&#8217;effet et dispara&#238;t</l>
+          <l n="2" xml:id="CB026_en_PB-l-2">sans &#234;tre utile au salut.</l>
+        </lg>
+        <lg type="strophe" n="III" xml:id="CB026_en_PB-lg-2">
+          <l n="1" xml:id="CB026_en_PB-l-3">Si lorsqu'on t'invite &#224; des noces</l>
+          <l n="2" xml:id="CB026_en_PB-l-4">tu y vas</l>
+          <l n="3" xml:id="CB026_en_PB-l-5">sans l'habit nuptial,</l>
+          <l n="4" xml:id="CB026_en_PB-l-6">on te chassera</l>
+          <l n="5" xml:id="CB026_en_PB-l-7">de la cour royale,</l>
+          <l n="6" xml:id="CB026_en_PB-l-8">et si tu vas &#224; la rencontre</l>
+          <l n="7" xml:id="CB026_en_PB-l-9">de l&#8217;&#201;poux sans huile &#224; ta lampe,</l>
+          <l n="8" xml:id="CB026_en_PB-l-10">tu n'es qu'une vierge folle.</l>
+        </lg>
+        <lg type="strophe" n="IV" xml:id="CB026_en_PB-lg-3">
+          <l n="1" xml:id="CB026_en_PB-l-11">Veille donc &#224; ne pas dormir,</l>
+          <l n="2" xml:id="CB026_en_PB-l-12">mais reste &#233;veill&#233; pour ouvrir</l>
+          <l n="3" xml:id="CB026_en_PB-l-13">au Seigneur, quand il frappera.</l>
+          <l n="4" xml:id="CB026_en_PB-l-14">Heureux celui qu'il trouvera</l>
+          <l n="5" xml:id="CB026_en_PB-l-15">vigilant quand il reviendra !</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

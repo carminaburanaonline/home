@@ -1,0 +1,106 @@
+<TEI>
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="poem" met="II:[8pp]/7p, III:8pp/4pp/8p/6p/4pp/3x8pp, IV:5x8pp">
+        <lg type="strophe" n="II" met="[8pp]/7p" rhyme="a/b" xml:id="CB026_en-lg-1">
+          <l n="1" xml:id="CB026_en-l-1">
+            <w>[...]</w>
+            <w>aret</w>
+            <w>et</w>
+            <w>deficit</w>
+          </l>
+          <l n="2" xml:id="CB026_en-l-2">
+              <w>nec</w>
+              <w>efficit</w>
+              <w>beatum</w>
+              <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="III" met="8pp/4pp/8p/6p/4pp/8pp/8pp/8pp" rhyme="a/a/b/b/c/c/d/d" xml:id="CB026_en-lg-2">
+          <l n="1" xml:id="CB026_en-l-3">
+            <w>Si</w>
+            <w>vocatus</w>
+            <w>ad</w>
+            <w>nupcias</w>
+          </l>
+          <l n="2" xml:id="CB026_en-l-4">
+            <w>advenias</w>
+          </l>
+          <l n="3" xml:id="CB026_en-l-5">
+            <w>sine</w>
+            <w>veste</w>
+            <w>nupciali</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="4" xml:id="CB026_en-l-6">
+            <w>a</w>
+            <w>curia</w>
+            <w>regali</w>
+          </l>
+          <l n="5" xml:id="CB026_en-l-7">
+            <w>expelleris</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="6" xml:id="CB026_en-l-8">
+            <w>et</w>
+            <w>obviam</w>
+            <w>si</w>
+            <w>veneris</w>
+          </l>
+          <l n="7" xml:id="CB026_en-l-9">
+            <w>sponso</w>
+            <w>lampade</w>
+            <w>vacua</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="8" xml:id="CB026_en-l-10">
+            <w>es</w>
+            <w>quasi</w>
+            <w>virgo</w>
+            <w>fatua</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="IV" met="8pp/8pp/8pp/8pp/8pp" rhyme="a/a/b/b/b" xml:id="CB026_en-lg-3">
+          <l n="1" xml:id="CB026_en-l-11">
+            <w>Ergo</w>
+            <w>vide</w>
+            <w>ne</w>
+            <w>dormias</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="2" xml:id="CB026_en-l-12">
+            <w>sed</w>
+            <w>vigilans</w>
+            <app type="text">
+              <lem wit="CB Br Bu Da F H Rss HSB V T">
+                <w>aperias</w>
+              </lem>
+              <rdg wit="cod."><w>aperians</w></rdg>
+            </app>
+          </l>
+          <l n="3" xml:id="CB026_en-l-13">
+            <w>Domino</w>
+            <pc resp="#editor">,</pc>
+            <w>cum</w>
+            <w>pulsaverit</w>
+            <pc resp="#editor">.</pc>
+          </l>
+          <l n="4" xml:id="CB026_en-l-14">
+            <w>Beatus</w>
+            <pc resp="#editor">,</pc>
+            <w>quem</w>
+            <w>invenerit</w>
+          </l>
+          <l n="5" xml:id="CB026_en-l-15">
+            <w>vigilantem</w>
+            <w>cum</w>
+            <w>venerit</w>
+            <pc resp="#editor">!</pc>
+          </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
