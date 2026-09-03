@@ -411,24 +411,10 @@
   },
   {
     "abstract_item": "CB026",
-    "source": 34,
-    "foliation": "161v",
-    "title": "Ergo vide ne dormias",
-    "id": "CB026_ebu_1",
-    "SVGfiles": 1,
-    "IIIF_canvasIndex": "",
-    "IIIF_canvasId": "",
-    "alternative_img_link": "",
-    "language": [
-      1
-    ]
-  },
-  {
-    "abstract_item": "CB026",
-    "source": 34,
-    "foliation": "167r",
-    "title": "Si vocatus ad nupcias",
-    "id": "CB026_ebu_2",
+    "source": 356,
+    "foliation": "161v, 167r",
+    "title": "Si vocatus ad nupcias / Ergo vide ne dormias",
+    "id": "CB026_ebu",
     "SVGfiles": 1,
     "IIIF_canvasIndex": "",
     "IIIF_canvasId": "",
@@ -480,7 +466,7 @@
   },
   {
     "abstract_item": "CB027",
-    "source": 34,
+    "source": 359,
     "foliation": "157r-157v",
     "title": "Bonum est confidere",
     "id": "CB027_ebu",
