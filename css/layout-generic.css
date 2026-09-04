@@ -116,6 +116,18 @@ main {
   border-bottom: 1px solid #ddd;
 }
 
+.header-logos {
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  opacity: 0.66;
+}
+
+.header-logo {
+  height: 100%;
+  padding: 5px 5%;
+}
+
 .navbar {
   display: flex;
   align-items: center;
