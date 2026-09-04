@@ -1,0 +1,283 @@
+<TEI>
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="poem" met="I-V:4x8p 2x(8p 4pp)">
+        <lg type="strophe" n="I" met="8p/8p/8p/8p/8p/4pp/8p/4pp" rhyme="a/a/a/a/a/b/a/b" xml:id="CB202_egerton-lg-1">
+          <l n="1" xml:id="CB202_egerton-l-1">
+            <w>O</w>
+            <w>potores</w>
+            <w>exquisiti</w>
+          </l>
+          <l n="2" xml:id="CB202_egerton-l-2">
+            <w>licet</w>
+            <w>sitis</w>
+            <w>sine</w>
+            <w>siti</w>
+          </l>
+          <l n="3" xml:id="CB202_egerton-l-3">
+            <w>et</w>
+            <w>bibatis</w>
+            <w>expediti</w>
+          </l>
+          <l n="4" xml:id="CB202_egerton-l-4">
+            <w>et</w>
+            <w>ciforum</w>
+            <w>in</w>
+            <w>obliti</w>
+          </l>
+          <l n="5" xml:id="CB202_egerton-l-5">
+            <w>cifi</w>
+            <w>crebro</w>
+            <w>repetiti</w>
+          </l>
+          <l n="6" xml:id="CB202_egerton-l-6">
+            <w>non</w>
+            <w>dormiant</w>
+          </l>
+          <l n="7" xml:id="CB202_egerton-l-7">
+            <w>et</w>
+            <w>sermones</w>
+            <w>inauditi</w>
+          </l>
+          <l n="8" xml:id="CB202_egerton-l-8">
+            <w>prosiliant</w>
+          </l>
+        </lg>
+        <lg type="strophe" n="II" met="8p/8p/8p/8p/8p/4pp/8p/4pp" rhyme="a/a/a/a/a/b/a/b" xml:id="CB202_egerton-lg-2">
+          <l n="1" xml:id="CB202_egerton-l-9">
+            <w>Qui</w>
+            <w>potare</w>
+            <w>non</w>
+            <w>potestis</w>
+          </l>
+          <l n="2" xml:id="CB202_egerton-l-10">
+            <w>ite</w>
+            <w>procul</w>
+            <w>ab</w>
+            <w>hiis</w>
+            <w>festis</w>
+            <pc resp="#editor">!</pc>
+          </l>
+          <l n="3" xml:id="CB202_egerton-l-11">
+            <w>Procul</w>
+            <w>ite</w>
+            <pc resp="#editor">,</pc>
+            <w>quid</w>
+            <w>hic</w>
+            <w>estis</w>
+            <pc resp="#editor">?</pc>
+          </l>
+          <l n="4" xml:id="CB202_egerton-l-12">
+            <w>Non</w>
+            <w>est</w>
+            <w>locus</w>
+            <w>hic</w>
+            <w>modestis</w>
+          </l>
+          <l n="5" xml:id="CB202_egerton-l-13">
+            <w>inter</w>
+            <w>letos</w>
+            <w>mos</w>
+            <w>agrestis</w>
+          </l>
+          <l n="6" xml:id="CB202_egerton-l-14">
+            <w>modestie</w>
+          </l>
+          <l n="7" xml:id="CB202_egerton-l-15">
+            <w>iudex</w>
+            <w>est</w>
+            <w>et</w>
+            <w>certus</w>
+            <w>testis</w>
+          </l>
+          <l n="8" xml:id="CB202_egerton-l-16">
+            <w>ignavie</w>
+          </l>
+        </lg>
+        <lg type="strophe" n="III" met="8p/8p/8p/8p/8p/4pp/8p/4pp" rhyme="a/a/a/a/a/b/a/b" xml:id="CB202_egerton-lg-3">
+          <l n="1" xml:id="CB202_egerton-l-17">
+            <w>Vina</w>
+            <w>qui</w>
+            <w>non</w>
+            <w>gustat</w>
+            <w>pura</w>
+          </l>
+          <l n="2" xml:id="CB202_egerton-l-18">
+            <w>vinat</w>
+            <w>miser</w>
+            <w>et</w>
+            <w>in</w>
+            <w>cura</w>
+          </l>
+          <l n="3" xml:id="CB202_egerton-l-19">
+            <w>vino</w>
+            <w>fors</w>
+            <w>leniter</w>
+            <w>dura</w>
+          </l>
+          <l n="4" xml:id="CB202_egerton-l-20">
+            <w>procul</w>
+            <w>ergo</w>
+            <w>fit</w>
+            <w>mixtura</w>
+          </l>
+          <l n="5" xml:id="CB202_egerton-l-21">
+            <w>mustus</w>
+            <w>enim</w>
+            <w>et</w>
+            <w>quam</w>
+            <w>pura</w>
+          </l>
+          <l n="6" xml:id="CB202_egerton-l-22">
+            <w>delinquitur</w>
+            <pc resp="#editor">.</pc>
+          </l>
+          <l n="7" xml:id="CB202_egerton-l-23">
+            <w>Cum</w>
+            <w>hec</w>
+            <w>Dei</w>
+            <w>creatura</w>
+          </l>
+          <l n="8" xml:id="CB202_egerton-l-24">
+            <w>corumpitur</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="IV" met="8p/8p/8p/8p/8p/4pp/8p/4pp" rhyme="a/a/a/a/a/b/a/b" xml:id="CB202_egerton-lg-4">
+          <l n="1" xml:id="CB202_egerton-l-25">
+            <w>Dea</w>
+            <w>Deo</w>
+            <w>non</w>
+            <w>iungatur</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="2" xml:id="CB202_egerton-l-26">
+            <w>Dea</w>
+            <w>Deus</w>
+            <w>aspernatur</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="3" xml:id="CB202_egerton-l-27">
+            <w>nam</w>
+            <w>qui</w>
+            <w>liber</w>
+            <w>apellatur</w>
+          </l>
+          <l n="4" xml:id="CB202_egerton-l-28">
+            <w>libertate</w>
+            <w>gloriatur</w>
+          </l>
+          <l n="5" xml:id="CB202_egerton-l-29">
+            <w>virtus</w>
+            <w>eius</w>
+            <w>adnullatur</w>
+          </l>
+          <l n="6" xml:id="CB202_egerton-l-30">
+            <w>ad</w>
+            <w>pocula</w>
+          </l>
+          <l n="7" xml:id="CB202_egerton-l-31">
+            <w>et</w>
+            <w>ad</w>
+            <w>mortem</w>
+            <w>infirmatur</w>
+          </l>
+          <l n="8" xml:id="CB202_egerton-l-32">
+            <w>ei</w>
+            <w>copula</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="V" met="8p/8p/8p/8p/8p/4pp/8p/4pp" rhyme="a/a/a/a/a/b/a/b" xml:id="CB202_egerton-lg-5">
+          <l n="1" xml:id="CB202_egerton-l-33">
+            <w>Cum</w>
+            <w>regina</w>
+            <w>sit</w>
+            <w>in</w>
+            <w>mari</w>
+          </l>
+          <l n="2" xml:id="CB202_egerton-l-34">
+            <w>Dea</w>
+            <w>potest</w>
+            <w>appellari</w>
+          </l>
+          <l n="3" xml:id="CB202_egerton-l-35">
+            <w>sed</w>
+            <w>indigna</w>
+            <w>tanto</w>
+            <w>pari</w>
+          </l>
+          <l n="4" xml:id="CB202_egerton-l-36">
+            <w>quem</w>
+            <w>presumat</w>
+            <w>osculari</w>
+          </l>
+          <l n="5" xml:id="CB202_egerton-l-37">
+            <w>numquam</w>
+            <w>Bachus</w>
+            <w>adaquari</w>
+          </l>
+          <l n="6" xml:id="CB202_egerton-l-38">
+            <w>se</w>
+            <w>voluit</w>
+          </l>
+          <l n="7" xml:id="CB202_egerton-l-39">
+            <w>Neque</w>
+            <w>libens</w>
+            <w>baptizari</w>
+          </l>
+          <l n="8" xml:id="CB202_egerton-l-40">
+            <w>sustinuit</w>
+          </l>
+        </lg>
+        <lg type="strophe" n="VI" met="8p/8p/8p/8p/8p/4pp/8p/4pp" rhyme="a/a/a/a/a/b/a/b" xml:id="CB202_egerton-lg-6">
+          <l n="1" xml:id="CB202_egerton-l-41">
+            <w>Pure</w>
+            <w>sequarem</w>
+            <w>purarum</w>
+          </l>
+          <l n="2" xml:id="CB202_egerton-l-42">
+            <w>puritate</w>
+            <w>per</w>
+            <w>aquarum</w>
+          </l>
+          <l n="3" xml:id="CB202_egerton-l-43">
+            <w>quia</w>
+            <w>constat</w>
+            <w>omne</w>
+            <w>rarum</w>
+          </l>
+          <l n="4" xml:id="CB202_egerton-l-44">
+            <w>raritate</w>
+            <w>magis</w>
+            <w>carum</w>
+          </l>
+          <l n="5" xml:id="CB202_egerton-l-45">
+            <w>ut</w>
+            <w>in</w>
+            <w>vino</w>
+            <w>vis</w>
+            <w>aquarum</w>
+          </l>
+          <l n="6" xml:id="CB202_egerton-l-46">
+            <w>non</w>
+            <w>proficit</w>
+          </l>
+          <l n="7" xml:id="CB202_egerton-l-47">
+            <w>sic</w>
+            <w>in</w>
+            <w>aqua</w>
+            <w>vini</w>
+            <w>parum</w>
+          </l>
+          <l n="8" xml:id="CB202_egerton-l-48">
+            <w>non</w>
+            <w>sufficit</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

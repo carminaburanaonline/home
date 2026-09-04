@@ -9073,7 +9073,7 @@
       },
       {
         "abstract_item": "CB196",
-        "foliation": "103v-104v (both putative contrafacta"
+        "foliation": "103v-104v"
       }
     ],
     "music": true,
@@ -9124,7 +9124,7 @@
     "links": {
       "catalogue": "https://searcharchives.bl.uk/catalog/032-001985507",
       "images": "https://www.diamm.ac.uk/sources/207/#/inventory",
-      "iiif": null
+      "iiif": "https://www.diamm.ac.uk/sources/207/manifest/"
     },
     "notes": null
   },
