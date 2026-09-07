@@ -55,7 +55,7 @@ with open("neumes.json", "r", encoding="utf-8") as f:
 locator = locator_tei(len(neumes))
 
 for neume in neumes:
-	neume['locations'] = locator[f"{neume['n']}"]
+	neume['locations'] = locator[f"{neume['id']}"]
 
 with open("neumes.json", "w", encoding="utf-8") as f:
 	json.dump(neumes, f, indent=2, ensure_ascii=False)

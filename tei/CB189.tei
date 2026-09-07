@@ -10,7 +10,7 @@
               <seg type="syll" part="I">A<notatedMusic>
                 <neume fontname="buranus" glyph.num="7" label="vi"/>
                 <neume fontname="buranus" glyph.num="19" label="visu3"/>
-                <neume fontname="buranus" glyph.num="134" label="ci"/>
+                <neume fontname="buranus" glyph.num="135" label="ci"/>
                 <neume fontname="buranus" glyph.num="19" label="visu3"/>
               </notatedMusic>
               </seg>

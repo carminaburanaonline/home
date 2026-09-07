@@ -30,7 +30,7 @@ def update_neumes_count(neumes):
     counter = counter_tei(len(neumes))
 
     for neume in neumes:
-        neume['count'] = counter[f"{neume['n']}"]
+        neume['total_count'] = counter[f"{neume['id']}"]
     return neumes
 
 

@@ -576,6 +576,81 @@
         ]
       },
       {
+        "file": "CB100_4598",
+        "count": 118,
+        "ids": [
+          "CB100_4598-l-1",
+          "CB100_4598-l-3",
+          "CB100_4598-l-5",
+          "CB100_4598-l-8",
+          "CB100_4598-l-9",
+          "CB100_4598-l-11",
+          "CB100_4598-l-12",
+          "CB100_4598-l-13",
+          "CB100_4598-l-14",
+          "CB100_4598-l-16",
+          "CB100_4598-l-17",
+          "CB100_4598-l-18",
+          "CB100_4598-l-19",
+          "CB100_4598-l-20",
+          "CB100_4598-l-21",
+          "CB100_4598-l-22",
+          "CB100_4598-l-23",
+          "CB100_4598-l-24",
+          "CB100_4598-l-25",
+          "CB100_4598-l-26",
+          "CB100_4598-l-28",
+          "CB100_4598-l-29",
+          "CB100_4598-l-30",
+          "CB100_4598-l-31",
+          "CB100_4598-l-32",
+          "CB100_4598-l-33",
+          "CB100_4598-l-34",
+          "CB100_4598-l-35",
+          "CB100_4598-l-37",
+          "CB100_4598-l-38",
+          "CB100_4598-l-39",
+          "CB100_4598-l-40",
+          "CB100_4598-l-41",
+          "CB100_4598-l-42",
+          "CB100_4598-l-43",
+          "CB100_4598-l-44",
+          "CB100_4598-l-45",
+          "CB100_4598-l-46",
+          "CB100_4598-l-47",
+          "CB100_4598-l-48",
+          "CB100_4598-l-49",
+          "CB100_4598-l-50",
+          "CB100_4598-l-51",
+          "CB100_4598-l-52",
+          "CB100_4598-l-53",
+          "CB100_4598-l-54",
+          "CB100_4598-l-55",
+          "CB100_4598-l-56",
+          "CB100_4598-l-57",
+          "CB100_4598-l-58",
+          "CB100_4598-l-59",
+          "CB100_4598-l-60",
+          "CB100_4598-l-61",
+          "CB100_4598-l-62",
+          "CB100_4598-l-63",
+          "CB100_4598-l-64",
+          "CB100_4598-l-66",
+          "CB100_4598-l-67",
+          "CB100_4598-l-68",
+          "CB100_4598-l-69",
+          "CB100_4598-l-70",
+          "CB100_4598-l-71",
+          "CB100_4598-l-72",
+          "CB100_4598-l-73",
+          "CB100_4598-l-74",
+          "CB100_4598-l-75",
+          "CB100_4598-l-76",
+          "CB100_4598-l-77",
+          "CB100_4598-l-79"
+        ]
+      },
+      {
         "file": "CB014",
         "count": 115,
         "ids": [
@@ -1414,7 +1489,7 @@
         ]
       }
     ],
-    "total_count": 2869
+    "total_count": 2987
   },
   {
     "id": 2,
@@ -1669,6 +1744,15 @@
         ]
       },
       {
+        "file": "CB100_4598",
+        "count": 4,
+        "ids": [
+          "CB100_4598-l-1",
+          "CB100_4598-l-10",
+          "CB100_4598-l-22"
+        ]
+      },
+      {
         "file": "CB179",
         "count": 4,
         "ids": [
@@ -1766,7 +1850,7 @@
         ]
       }
     ],
-    "total_count": 117
+    "total_count": 121
   },
   {
     "id": 6,
@@ -2229,6 +2313,91 @@
           "CB227-p-30",
           "CB227-p-31",
           "CB227-p-33"
+        ]
+      },
+      {
+        "file": "CB100_4598",
+        "count": 304,
+        "ids": [
+          "CB100_4598-l-1",
+          "CB100_4598-l-2",
+          "CB100_4598-l-3",
+          "CB100_4598-l-4",
+          "CB100_4598-l-5",
+          "CB100_4598-l-6",
+          "CB100_4598-l-7",
+          "CB100_4598-l-8",
+          "CB100_4598-l-9",
+          "CB100_4598-l-10",
+          "CB100_4598-l-11",
+          "CB100_4598-l-12",
+          "CB100_4598-l-13",
+          "CB100_4598-l-14",
+          "CB100_4598-l-15",
+          "CB100_4598-l-16",
+          "CB100_4598-l-17",
+          "CB100_4598-l-18",
+          "CB100_4598-l-19",
+          "CB100_4598-l-20",
+          "CB100_4598-l-21",
+          "CB100_4598-l-22",
+          "CB100_4598-l-23",
+          "CB100_4598-l-24",
+          "CB100_4598-l-25",
+          "CB100_4598-l-26",
+          "CB100_4598-l-27",
+          "CB100_4598-l-28",
+          "CB100_4598-l-29",
+          "CB100_4598-l-30",
+          "CB100_4598-l-31",
+          "CB100_4598-l-32",
+          "CB100_4598-l-33",
+          "CB100_4598-l-34",
+          "CB100_4598-l-35",
+          "CB100_4598-l-36",
+          "CB100_4598-l-37",
+          "CB100_4598-l-38",
+          "CB100_4598-l-39",
+          "CB100_4598-l-40",
+          "CB100_4598-l-41",
+          "CB100_4598-l-42",
+          "CB100_4598-l-43",
+          "CB100_4598-l-44",
+          "CB100_4598-l-45",
+          "CB100_4598-l-46",
+          "CB100_4598-l-47",
+          "CB100_4598-l-48",
+          "CB100_4598-l-49",
+          "CB100_4598-l-50",
+          "CB100_4598-l-51",
+          "CB100_4598-l-52",
+          "CB100_4598-l-53",
+          "CB100_4598-l-54",
+          "CB100_4598-l-55",
+          "CB100_4598-l-56",
+          "CB100_4598-l-57",
+          "CB100_4598-l-58",
+          "CB100_4598-l-59",
+          "CB100_4598-l-60",
+          "CB100_4598-l-61",
+          "CB100_4598-l-62",
+          "CB100_4598-l-63",
+          "CB100_4598-l-64",
+          "CB100_4598-l-65",
+          "CB100_4598-l-66",
+          "CB100_4598-l-67",
+          "CB100_4598-l-68",
+          "CB100_4598-l-69",
+          "CB100_4598-l-70",
+          "CB100_4598-l-71",
+          "CB100_4598-l-72",
+          "CB100_4598-l-73",
+          "CB100_4598-l-74",
+          "CB100_4598-l-75",
+          "CB100_4598-l-76",
+          "CB100_4598-l-77",
+          "CB100_4598-l-78",
+          "CB100_4598-l-79"
         ]
       },
       {
@@ -2939,6 +3108,30 @@
         ]
       },
       {
+        "file": "CB159",
+        "count": 67,
+        "ids": [
+          "CB159-l-1",
+          "CB159-l-2",
+          "CB159-l-3",
+          "CB159-l-4",
+          "CB159-l-5",
+          "CB159-l-6",
+          "CB159-l-7",
+          "CB159-l-8",
+          "CB159-l-9",
+          "CB159-l-10",
+          "CB159-l-11",
+          "CB159-l-12",
+          "CB159-l-13",
+          "CB159-l-14",
+          "CB159-l-15",
+          "CB159-l-16",
+          "CB159-l-17",
+          "CB159-l-18"
+        ]
+      },
+      {
         "file": "CB128",
         "count": 67,
         "ids": [
@@ -2958,29 +3151,6 @@
           "CB128-l-14",
           "CB128-l-15",
           "CB128-l-16"
-        ]
-      },
-      {
-        "file": "CB159",
-        "count": 66,
-        "ids": [
-          "CB159-l-1",
-          "CB159-l-2",
-          "CB159-l-3",
-          "CB159-l-4",
-          "CB159-l-5",
-          "CB159-l-6",
-          "CB159-l-7",
-          "CB159-l-8",
-          "CB159-l-9",
-          "CB159-l-10",
-          "CB159-l-11",
-          "CB159-l-12",
-          "CB159-l-13",
-          "CB159-l-14",
-          "CB159-l-15",
-          "CB159-l-16",
-          "CB159-l-17"
         ]
       },
       {
@@ -3352,7 +3522,7 @@
         ]
       }
     ],
-    "total_count": 6306
+    "total_count": 6611
   },
   {
     "id": 8,
@@ -3604,6 +3774,19 @@
         ]
       },
       {
+        "file": "CB100_4598",
+        "count": 8,
+        "ids": [
+          "CB100_4598-l-3",
+          "CB100_4598-l-31",
+          "CB100_4598-l-42",
+          "CB100_4598-l-58",
+          "CB100_4598-l-68",
+          "CB100_4598-l-74",
+          "CB100_4598-l-77"
+        ]
+      },
+      {
         "file": "CB079",
         "count": 8,
         "ids": [
@@ -3767,7 +3950,7 @@
         ]
       }
     ],
-    "total_count": 255
+    "total_count": 263
   },
   {
     "id": 9,
@@ -4421,6 +4604,15 @@
         ]
       },
       {
+        "file": "CB100_4598",
+        "count": 3,
+        "ids": [
+          "CB100_4598-l-2",
+          "CB100_4598-l-7",
+          "CB100_4598-l-20"
+        ]
+      },
+      {
         "file": "CB131_hbi",
         "count": 3,
         "ids": [
@@ -4472,7 +4664,7 @@
         ]
       }
     ],
-    "total_count": 129
+    "total_count": 132
   },
   {
     "id": 20,
@@ -4596,6 +4788,13 @@
         ]
       },
       {
+        "file": "CB100_4598",
+        "count": 1,
+        "ids": [
+          "CB100_4598-l-4"
+        ]
+      },
+      {
         "file": "CB033",
         "count": 1,
         "ids": [
@@ -4603,7 +4802,7 @@
         ]
       }
     ],
-    "total_count": 10
+    "total_count": 11
   },
   {
     "id": 23,
@@ -4787,7 +4986,7 @@
       },
       {
         "file": "CB159",
-        "count": 14,
+        "count": 13,
         "ids": [
           "CB159-l-1",
           "CB159-l-2",
@@ -4801,8 +5000,7 @@
           "CB159-l-13",
           "CB159-l-15",
           "CB159-l-16",
-          "CB159-l-17",
-          "CB159-l-18"
+          "CB159-l-17"
         ]
       },
       {
@@ -4845,6 +5043,18 @@
           "CB014x-l-13",
           "CB014x-l-37",
           "CB014x-l-42"
+        ]
+      },
+      {
+        "file": "CB100_4598",
+        "count": 6,
+        "ids": [
+          "CB100_4598-l-33",
+          "CB100_4598-l-34",
+          "CB100_4598-l-40",
+          "CB100_4598-l-54",
+          "CB100_4598-l-77",
+          "CB100_4598-l-79"
         ]
       },
       {
@@ -4926,7 +5136,7 @@
         ]
       }
     ],
-    "total_count": 78
+    "total_count": 83
   },
   {
     "id": 31,
@@ -5248,6 +5458,29 @@
         ]
       },
       {
+        "file": "CB100_4598",
+        "count": 18,
+        "ids": [
+          "CB100_4598-l-7",
+          "CB100_4598-l-8",
+          "CB100_4598-l-11",
+          "CB100_4598-l-16",
+          "CB100_4598-l-19",
+          "CB100_4598-l-20",
+          "CB100_4598-l-21",
+          "CB100_4598-l-23",
+          "CB100_4598-l-28",
+          "CB100_4598-l-29",
+          "CB100_4598-l-37",
+          "CB100_4598-l-45",
+          "CB100_4598-l-53",
+          "CB100_4598-l-57",
+          "CB100_4598-l-74",
+          "CB100_4598-l-75",
+          "CB100_4598-l-78"
+        ]
+      },
+      {
         "file": "CB131",
         "count": 17,
         "ids": [
@@ -5487,7 +5720,7 @@
         ]
       }
     ],
-    "total_count": 542
+    "total_count": 560
   },
   {
     "id": 33,
@@ -5643,6 +5876,14 @@
         ]
       },
       {
+        "file": "CB100_4598",
+        "count": 2,
+        "ids": [
+          "CB100_4598-l-1",
+          "CB100_4598-l-48"
+        ]
+      },
+      {
         "file": "CB131_hbi",
         "count": 2,
         "ids": [
@@ -5694,7 +5935,7 @@
         ]
       }
     ],
-    "total_count": 61
+    "total_count": 63
   },
   {
     "id": 35,
@@ -6001,6 +6242,13 @@
   },
   {
     "id": 47,
+    "description": "2 prepuncta + pes",
+    "pattern": null,
+    "locations": [],
+    "total_count": 0
+  },
+  {
+    "id": 48,
     "description": "Torculus resupinus",
     "pattern": null,
     "locations": [
@@ -6056,7 +6304,7 @@
     "total_count": 13
   },
   {
-    "id": 48,
+    "id": 49,
     "description": "Pes + oriscus",
     "pattern": null,
     "locations": [
@@ -6078,7 +6326,7 @@
     "total_count": 2
   },
   {
-    "id": 49,
+    "id": 50,
     "description": "Pes + oriscus + 1 subpunctum",
     "pattern": null,
     "locations": [
@@ -6094,7 +6342,7 @@
     "total_count": 2
   },
   {
-    "id": 50,
+    "id": 51,
     "description": "Ancus",
     "pattern": null,
     "locations": [
@@ -6109,7 +6357,7 @@
     "total_count": 1
   },
   {
-    "id": 51,
+    "id": 52,
     "description": "Clivis",
     "pattern": null,
     "locations": [
@@ -6340,6 +6588,49 @@
           "CB048-l-49",
           "CB048-l-50",
           "CB048-l-52"
+        ]
+      },
+      {
+        "file": "CB100_4598",
+        "count": 49,
+        "ids": [
+          "CB100_4598-l-1",
+          "CB100_4598-l-2",
+          "CB100_4598-l-3",
+          "CB100_4598-l-4",
+          "CB100_4598-l-5",
+          "CB100_4598-l-10",
+          "CB100_4598-l-11",
+          "CB100_4598-l-14",
+          "CB100_4598-l-16",
+          "CB100_4598-l-17",
+          "CB100_4598-l-22",
+          "CB100_4598-l-23",
+          "CB100_4598-l-26",
+          "CB100_4598-l-28",
+          "CB100_4598-l-38",
+          "CB100_4598-l-40",
+          "CB100_4598-l-41",
+          "CB100_4598-l-44",
+          "CB100_4598-l-45",
+          "CB100_4598-l-46",
+          "CB100_4598-l-47",
+          "CB100_4598-l-48",
+          "CB100_4598-l-50",
+          "CB100_4598-l-52",
+          "CB100_4598-l-53",
+          "CB100_4598-l-54",
+          "CB100_4598-l-55",
+          "CB100_4598-l-56",
+          "CB100_4598-l-57",
+          "CB100_4598-l-59",
+          "CB100_4598-l-60",
+          "CB100_4598-l-62",
+          "CB100_4598-l-64",
+          "CB100_4598-l-66",
+          "CB100_4598-l-72",
+          "CB100_4598-l-74",
+          "CB100_4598-l-75"
         ]
       },
       {
@@ -6881,10 +7172,10 @@
         ]
       }
     ],
-    "total_count": 884
+    "total_count": 933
   },
   {
-    "id": 52,
+    "id": 53,
     "description": "Clivis liq.",
     "pattern": null,
     "locations": [
@@ -6930,7 +7221,7 @@
     "total_count": 8
   },
   {
-    "id": 53,
+    "id": 54,
     "description": "Clivis with stroke above",
     "pattern": null,
     "locations": [
@@ -6950,12 +7241,21 @@
           "CB227-l-151",
           "CB227-l-155"
         ]
+      },
+      {
+        "file": "CB100_4598",
+        "count": 3,
+        "ids": [
+          "CB100_4598-l-46",
+          "CB100_4598-l-58",
+          "CB100_4598-l-70"
+        ]
       }
     ],
-    "total_count": 11
+    "total_count": 14
   },
   {
-    "id": 54,
+    "id": 55,
     "description": "Clivis with stroke",
     "pattern": null,
     "locations": [
@@ -6980,7 +7280,7 @@
     "total_count": 5
   },
   {
-    "id": 55,
+    "id": 56,
     "description": "Clivis + stropha",
     "pattern": null,
     "locations": [
@@ -7025,7 +7325,7 @@
     "total_count": 7
   },
   {
-    "id": 56,
+    "id": 57,
     "description": "Clivis liq. + stropha",
     "pattern": null,
     "locations": [
@@ -7040,7 +7340,7 @@
     "total_count": 1
   },
   {
-    "id": 57,
+    "id": 58,
     "description": "1 prepunctum + clivis",
     "pattern": null,
     "locations": [
@@ -7055,7 +7355,7 @@
     "total_count": 1
   },
   {
-    "id": 58,
+    "id": 59,
     "description": "2 prepuncta + clivis",
     "pattern": null,
     "locations": [
@@ -7101,7 +7401,7 @@
     "total_count": 8
   },
   {
-    "id": 59,
+    "id": 60,
     "description": "2 prepuncta + clivis + stropha",
     "pattern": null,
     "locations": [
@@ -7117,7 +7417,7 @@
     "total_count": 2
   },
   {
-    "id": 60,
+    "id": 61,
     "description": "Clivis + 1 subpunctum",
     "pattern": null,
     "locations": [
@@ -7134,7 +7434,7 @@
     "total_count": 3
   },
   {
-    "id": 61,
+    "id": 62,
     "description": "Clivis + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -7178,7 +7478,7 @@
     "total_count": 6
   },
   {
-    "id": 62,
+    "id": 63,
     "description": "Clivis + 2 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -7193,7 +7493,7 @@
     "total_count": 1
   },
   {
-    "id": 63,
+    "id": 64,
     "description": "Clivis + 3 subpuncta",
     "pattern": null,
     "locations": [
@@ -7208,7 +7508,7 @@
     "total_count": 1
   },
   {
-    "id": 64,
+    "id": 65,
     "description": "Torculus",
     "pattern": null,
     "locations": [
@@ -7279,6 +7579,18 @@
           "CB215-p-14",
           "CB215-p-16",
           "CB215-p-25"
+        ]
+      },
+      {
+        "file": "CB100_4598",
+        "count": 9,
+        "ids": [
+          "CB100_4598-l-38",
+          "CB100_4598-l-39",
+          "CB100_4598-l-50",
+          "CB100_4598-l-51",
+          "CB100_4598-l-60",
+          "CB100_4598-l-66"
         ]
       },
       {
@@ -7384,10 +7696,10 @@
         ]
       }
     ],
-    "total_count": 116
+    "total_count": 125
   },
   {
-    "id": 65,
+    "id": 66,
     "description": "Torculus liq.",
     "pattern": null,
     "locations": [
@@ -7403,7 +7715,7 @@
     "total_count": 2
   },
   {
-    "id": 66,
+    "id": 67,
     "description": "Torculus + 1 subpunctum",
     "pattern": null,
     "locations": [
@@ -7425,7 +7737,7 @@
     "total_count": 2
   },
   {
-    "id": 67,
+    "id": 68,
     "description": "Torculus + oriscus",
     "pattern": null,
     "locations": [
@@ -7440,7 +7752,7 @@
     "total_count": 1
   },
   {
-    "id": 68,
+    "id": 69,
     "description": "Torculus + oriscus + 1 subpunctum",
     "pattern": null,
     "locations": [
@@ -7463,7 +7775,7 @@
     "total_count": 3
   },
   {
-    "id": 69,
+    "id": 70,
     "description": "1 prepunctum + torculus",
     "pattern": null,
     "locations": [
@@ -7478,7 +7790,7 @@
     "total_count": 1
   },
   {
-    "id": 70,
+    "id": 71,
     "description": "Porrectus",
     "pattern": null,
     "locations": [
@@ -7631,6 +7943,14 @@
         ]
       },
       {
+        "file": "CB100_4598",
+        "count": 2,
+        "ids": [
+          "CB100_4598-l-15",
+          "CB100_4598-l-27"
+        ]
+      },
+      {
         "file": "CB131_hbi",
         "count": 2,
         "ids": [
@@ -7674,10 +7994,10 @@
         ]
       }
     ],
-    "total_count": 115
+    "total_count": 117
   },
   {
-    "id": 71,
+    "id": 72,
     "description": "2 prepuncta + porrectus",
     "pattern": null,
     "locations": [
@@ -7692,7 +8012,7 @@
     "total_count": 1
   },
   {
-    "id": 72,
+    "id": 73,
     "description": "Porrectus liq.",
     "pattern": null,
     "locations": [
@@ -7707,7 +8027,7 @@
     "total_count": 1
   },
   {
-    "id": 73,
+    "id": 74,
     "description": "Porrectus + oriscus + 1 subpunctum",
     "pattern": null,
     "locations": [
@@ -7722,7 +8042,7 @@
     "total_count": 1
   },
   {
-    "id": 74,
+    "id": 75,
     "description": "Quilisma 2 loops + virga",
     "pattern": null,
     "locations": [
@@ -7881,7 +8201,7 @@
     "total_count": 87
   },
   {
-    "id": 75,
+    "id": 76,
     "description": "Quilisma 2 loops + virga liq.",
     "pattern": null,
     "locations": [
@@ -7913,7 +8233,7 @@
     "total_count": 6
   },
   {
-    "id": 76,
+    "id": 77,
     "description": "Quilisma 2 loops + virga + stropha",
     "pattern": null,
     "locations": [
@@ -7928,7 +8248,7 @@
     "total_count": 1
   },
   {
-    "id": 77,
+    "id": 78,
     "description": "Quilisma 2 loops + clivis",
     "pattern": null,
     "locations": [
@@ -8025,7 +8345,7 @@
     "total_count": 42
   },
   {
-    "id": 78,
+    "id": 79,
     "description": "Quilisma 2 loops + clivis liq.",
     "pattern": null,
     "locations": [
@@ -8041,7 +8361,7 @@
     "total_count": 2
   },
   {
-    "id": 79,
+    "id": 80,
     "description": "Quilisma 2 loops + clivis + 1 subpunctum",
     "pattern": null,
     "locations": [
@@ -8066,7 +8386,7 @@
     "total_count": 5
   },
   {
-    "id": 80,
+    "id": 81,
     "description": "Quilisma 2 loops + clivis + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -8081,7 +8401,7 @@
     "total_count": 1
   },
   {
-    "id": 81,
+    "id": 82,
     "description": "1 prepunctum + quilisma 2 loops + clivis + 1 subpunctum + stropha",
     "pattern": null,
     "locations": [
@@ -8096,7 +8416,7 @@
     "total_count": 1
   },
   {
-    "id": 82,
+    "id": 83,
     "description": "1 prepunctum + quilisma 2 loops + clivis",
     "pattern": null,
     "locations": [
@@ -8112,7 +8432,7 @@
     "total_count": 2
   },
   {
-    "id": 83,
+    "id": 84,
     "description": "Quilisma 2 loops + clivis + stropha",
     "pattern": null,
     "locations": [
@@ -8136,7 +8456,7 @@
     "total_count": 4
   },
   {
-    "id": 84,
+    "id": 85,
     "description": "1 prepunctum + quilisma 2 loops + clivis + stropha",
     "pattern": null,
     "locations": [
@@ -8153,7 +8473,7 @@
     "total_count": 3
   },
   {
-    "id": 85,
+    "id": 86,
     "description": "Quilisma 2 loops + porrectus",
     "pattern": null,
     "locations": [
@@ -8180,14 +8500,14 @@
     "total_count": 12
   },
   {
-    "id": 86,
+    "id": 87,
     "description": "1 prepunctum + quilisma 2 loops + clivis liq.",
     "pattern": null,
     "locations": [],
     "total_count": 0
   },
   {
-    "id": 87,
+    "id": 88,
     "description": "Quilisma 2 loops + virga + oriscus",
     "pattern": null,
     "locations": [
@@ -8204,14 +8524,14 @@
     "total_count": 4
   },
   {
-    "id": 88,
+    "id": 89,
     "description": "Quilisma 2 loops + virga + oriscus + 1 subpunctum",
     "pattern": null,
     "locations": [],
     "total_count": 0
   },
   {
-    "id": 89,
+    "id": 90,
     "description": "Quilisma 2 loops + virga + oriscus liq.",
     "pattern": null,
     "locations": [
@@ -8235,7 +8555,7 @@
     "total_count": 4
   },
   {
-    "id": 90,
+    "id": 91,
     "description": "Quilisma 2 loops + virga + oriscus liq. + 1 subpunctum",
     "pattern": null,
     "locations": [
@@ -8250,7 +8570,7 @@
     "total_count": 1
   },
   {
-    "id": 91,
+    "id": 92,
     "description": "1 prepunctum + quilisma 2 loops + virga + oriscus liq. + 1 substropha",
     "pattern": null,
     "locations": [
@@ -8265,7 +8585,7 @@
     "total_count": 1
   },
   {
-    "id": 92,
+    "id": 93,
     "description": "1 prepunctum + quilisma 2 loops + virga",
     "pattern": null,
     "locations": [
@@ -8304,7 +8624,7 @@
     "total_count": 13
   },
   {
-    "id": 93,
+    "id": 94,
     "description": "Quilisma 2 loops + virga + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -8389,7 +8709,7 @@
     "total_count": 39
   },
   {
-    "id": 94,
+    "id": 95,
     "description": "1 prepunctum + quilisma 2 loops + virga + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -8405,7 +8725,7 @@
     "total_count": 2
   },
   {
-    "id": 95,
+    "id": 96,
     "description": "Quilisma 2 loops + virga + 1 subpunctum + substropha",
     "pattern": null,
     "locations": [
@@ -8427,7 +8747,7 @@
     "total_count": 2
   },
   {
-    "id": 96,
+    "id": 97,
     "description": "1 prepunctum + quilisma 2 loops + virga + 1 subpunctum + substropha",
     "pattern": null,
     "locations": [
@@ -8444,7 +8764,7 @@
     "total_count": 3
   },
   {
-    "id": 97,
+    "id": 98,
     "description": "Quilisma 2 loops + virga + 2 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -8467,7 +8787,7 @@
     "total_count": 3
   },
   {
-    "id": 98,
+    "id": 99,
     "description": "1 prepunctum + quilisma 2 loops + virga + 2 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -8484,7 +8804,7 @@
     "total_count": 3
   },
   {
-    "id": 99,
+    "id": 100,
     "description": "Quilisma 2 loops + virga + 3 subpuncta",
     "pattern": null,
     "locations": [
@@ -8517,7 +8837,7 @@
     "total_count": 7
   },
   {
-    "id": 100,
+    "id": 101,
     "description": "Quilisma 2 loops + virga + 2 subpuncta + substropha",
     "pattern": null,
     "locations": [
@@ -8534,7 +8854,7 @@
     "total_count": 3
   },
   {
-    "id": 101,
+    "id": 102,
     "description": "1 prepunctum + quilisma 2 loops + virga + 2 subpuncta + substropha",
     "pattern": null,
     "locations": [
@@ -8549,7 +8869,7 @@
     "total_count": 1
   },
   {
-    "id": 102,
+    "id": 103,
     "description": "Quilisma 2 loops + virga + 3 subpuncta + substropha",
     "pattern": null,
     "locations": [
@@ -8564,7 +8884,7 @@
     "total_count": 1
   },
   {
-    "id": 103,
+    "id": 104,
     "description": "Quilisma 2 loops + virga + 4 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -8579,14 +8899,14 @@
     "total_count": 1
   },
   {
-    "id": 104,
+    "id": 105,
     "description": "Quilisma 2 loops + ancus + 2 subpuncta",
     "pattern": null,
     "locations": [],
     "total_count": 0
   },
   {
-    "id": 105,
+    "id": 106,
     "description": "Quilisma 3 loops + virga",
     "pattern": null,
     "locations": [
@@ -8734,7 +9054,7 @@
     "total_count": 70
   },
   {
-    "id": 106,
+    "id": 107,
     "description": "Quilisma 3 loops + virga liq.",
     "pattern": null,
     "locations": [
@@ -8757,7 +9077,7 @@
     "total_count": 3
   },
   {
-    "id": 107,
+    "id": 108,
     "description": "Quilisma 3 loops + ancus",
     "pattern": null,
     "locations": [
@@ -8772,7 +9092,7 @@
     "total_count": 1
   },
   {
-    "id": 108,
+    "id": 109,
     "description": "Quilisma 3 loops + clivis",
     "pattern": null,
     "locations": [
@@ -8861,7 +9181,7 @@
     "total_count": 36
   },
   {
-    "id": 109,
+    "id": 110,
     "description": "Quilisma 3 loops + clivis liq.",
     "pattern": null,
     "locations": [
@@ -8886,7 +9206,7 @@
     "total_count": 5
   },
   {
-    "id": 110,
+    "id": 111,
     "description": "Quilisma 3 loops + clivis + substropha",
     "pattern": null,
     "locations": [
@@ -8901,7 +9221,7 @@
     "total_count": 1
   },
   {
-    "id": 111,
+    "id": 112,
     "description": "1 prepunctum + quilisma 3 loops + clivis",
     "pattern": null,
     "locations": [
@@ -8916,7 +9236,7 @@
     "total_count": 1
   },
   {
-    "id": 112,
+    "id": 113,
     "description": "1 prepunctum + quilisma 3 loops + clivis + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -8931,7 +9251,7 @@
     "total_count": 1
   },
   {
-    "id": 113,
+    "id": 114,
     "description": "Quilisma 3 loops + clivis + 1 subpunctum",
     "pattern": null,
     "locations": [
@@ -8953,7 +9273,7 @@
     "total_count": 2
   },
   {
-    "id": 114,
+    "id": 115,
     "description": "Quilisma 3 loops + clivis + stropha",
     "pattern": null,
     "locations": [
@@ -8971,7 +9291,7 @@
     "total_count": 4
   },
   {
-    "id": 115,
+    "id": 116,
     "description": "1 prepunctum + quilisma 3 loops + clivis + stropha",
     "pattern": null,
     "locations": [
@@ -8986,7 +9306,7 @@
     "total_count": 1
   },
   {
-    "id": 116,
+    "id": 117,
     "description": "Quilisma 3 loops + porrectus",
     "pattern": null,
     "locations": [
@@ -9040,7 +9360,7 @@
     "total_count": 10
   },
   {
-    "id": 117,
+    "id": 118,
     "description": "1 prepunctum + quilisma 3 loops + porrectus",
     "pattern": null,
     "locations": [
@@ -9055,7 +9375,7 @@
     "total_count": 1
   },
   {
-    "id": 118,
+    "id": 119,
     "description": "Quilisma 3 loops + virga + oriscus",
     "pattern": null,
     "locations": [
@@ -9078,7 +9398,7 @@
     "total_count": 5
   },
   {
-    "id": 119,
+    "id": 120,
     "description": "Quilisma 3 loops + virga + oriscus liq.",
     "pattern": null,
     "locations": [
@@ -9096,14 +9416,14 @@
     "total_count": 4
   },
   {
-    "id": 120,
+    "id": 121,
     "description": "Quilisma 3 loops + virga + oriscus + 1 subpunctum",
     "pattern": null,
     "locations": [],
     "total_count": 0
   },
   {
-    "id": 121,
+    "id": 122,
     "description": "Quilisma 3 loops + virga + oriscus liq. + 1 subpunctum",
     "pattern": null,
     "locations": [
@@ -9118,7 +9438,7 @@
     "total_count": 1
   },
   {
-    "id": 122,
+    "id": 123,
     "description": "Quilisma 3 loops + virga + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -9163,7 +9483,7 @@
     "total_count": 13
   },
   {
-    "id": 123,
+    "id": 124,
     "description": "1 prepunctum + quilisma 3 loops + virga + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -9178,7 +9498,7 @@
     "total_count": 1
   },
   {
-    "id": 124,
+    "id": 125,
     "description": "Quilisma 3 loops + virga + 1 subpunctum + substropha",
     "pattern": null,
     "locations": [
@@ -9195,7 +9515,7 @@
     "total_count": 3
   },
   {
-    "id": 125,
+    "id": 126,
     "description": "Quilisma 3 loops + virga + 3 subpuncta",
     "pattern": null,
     "locations": [
@@ -9206,6 +9526,14 @@
           "CB227-l-37",
           "CB227-l-43",
           "CB227-l-52"
+        ]
+      },
+      {
+        "file": "CB100_4598",
+        "count": 2,
+        "ids": [
+          "CB100_4598-l-49",
+          "CB100_4598-l-61"
         ]
       },
       {
@@ -9223,10 +9551,10 @@
         ]
       }
     ],
-    "total_count": 5
+    "total_count": 7
   },
   {
-    "id": 126,
+    "id": 127,
     "description": "Quilisma 3 loops + virga + 2 subpuncta + substropha",
     "pattern": null,
     "locations": [
@@ -9247,7 +9575,7 @@
     "total_count": 8
   },
   {
-    "id": 127,
+    "id": 128,
     "description": "1 prepunctum + quilisma 3 loops + virga + 2 subpuncta + substropha",
     "pattern": null,
     "locations": [
@@ -9262,7 +9590,7 @@
     "total_count": 1
   },
   {
-    "id": 128,
+    "id": 129,
     "description": "Quilisma 3 loops + virga + 2 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -9284,7 +9612,7 @@
     "total_count": 2
   },
   {
-    "id": 129,
+    "id": 130,
     "description": "1 prepunctum + quilisma 3 loops + virga + 2 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -9300,7 +9628,7 @@
     "total_count": 2
   },
   {
-    "id": 130,
+    "id": 131,
     "description": "1 prepunctum + Quilisma 3 loops + virga + 2 subpuncta + substropha",
     "pattern": null,
     "locations": [
@@ -9315,7 +9643,7 @@
     "total_count": 1
   },
   {
-    "id": 131,
+    "id": 132,
     "description": "1 prepunctum + Quilisma 3 loops + virga",
     "pattern": null,
     "locations": [
@@ -9334,7 +9662,7 @@
     "total_count": 5
   },
   {
-    "id": 132,
+    "id": 133,
     "description": "Quilisma 4 loops + virga",
     "pattern": null,
     "locations": [
@@ -9356,7 +9684,7 @@
     "total_count": 2
   },
   {
-    "id": 133,
+    "id": 134,
     "description": "Quilisma 4 loops + virga + 3 subpuncta",
     "pattern": null,
     "locations": [
@@ -9371,7 +9699,7 @@
     "total_count": 1
   },
   {
-    "id": 134,
+    "id": 135,
     "description": "Virga + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -9723,6 +10051,28 @@
         ]
       },
       {
+        "file": "CB100_4598",
+        "count": 17,
+        "ids": [
+          "CB100_4598-l-1",
+          "CB100_4598-l-2",
+          "CB100_4598-l-3",
+          "CB100_4598-l-8",
+          "CB100_4598-l-19",
+          "CB100_4598-l-29",
+          "CB100_4598-l-38",
+          "CB100_4598-l-39",
+          "CB100_4598-l-42",
+          "CB100_4598-l-43",
+          "CB100_4598-l-45",
+          "CB100_4598-l-50",
+          "CB100_4598-l-57",
+          "CB100_4598-l-67",
+          "CB100_4598-l-78",
+          "CB100_4598-l-79"
+        ]
+      },
+      {
         "file": "CB119_lis",
         "count": 17,
         "ids": [
@@ -9920,10 +10270,10 @@
         ]
       }
     ],
-    "total_count": 547
+    "total_count": 564
   },
   {
-    "id": 135,
+    "id": 136,
     "description": "Virga with stroke + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -9945,7 +10295,7 @@
     "total_count": 2
   },
   {
-    "id": 136,
+    "id": 137,
     "description": "Virga + 2 subpuncta + epiphonus",
     "pattern": null,
     "locations": [
@@ -9970,7 +10320,7 @@
     "total_count": 11
   },
   {
-    "id": 137,
+    "id": 138,
     "description": "Virga + 2 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -10143,7 +10493,7 @@
     "total_count": 88
   },
   {
-    "id": 138,
+    "id": 139,
     "description": "Virga + 2 subpuncta + stropha + oriscus + 1subpunctum",
     "pattern": null,
     "locations": [
@@ -10174,64 +10524,7 @@
     "total_count": 5
   },
   {
-    "id": 139,
-    "description": "2 prepuncta + virga + 2 subpuncta",
-    "pattern": null,
-    "locations": [
-      {
-        "file": "CB016x",
-        "count": 2,
-        "ids": [
-          "CB016x-p-65"
-        ]
-      },
-      {
-        "file": "CB131_hbi",
-        "count": 1,
-        "ids": [
-          "CB131_hbi-l-29"
-        ]
-      },
-      {
-        "file": "CB033",
-        "count": 1,
-        "ids": [
-          "CB033-l-19"
-        ]
-      }
-    ],
-    "total_count": 4
-  },
-  {
     "id": 140,
-    "description": "2 prepuncta + virga + 2 subpuncta + stropha",
-    "pattern": null,
-    "locations": [
-      {
-        "file": "CB016x",
-        "count": 7,
-        "ids": [
-          "CB016x-l-42",
-          "CB016x-p-40",
-          "CB016x-p-41",
-          "CB016x-p-45",
-          "CB016x-p-64",
-          "CB016x-p-65"
-        ]
-      },
-      {
-        "file": "CB215",
-        "count": 2,
-        "ids": [
-          "CB215-p-14",
-          "CB215-p-34"
-        ]
-      }
-    ],
-    "total_count": 9
-  },
-  {
-    "id": 141,
     "description": "2 prepuncta + virga",
     "pattern": null,
     "locations": [
@@ -10351,7 +10644,79 @@
     "total_count": 48
   },
   {
+    "id": 141,
+    "description": "2 prepuncta + virga liq.",
+    "pattern": null,
+    "locations": [
+      {
+        "file": "CB016x",
+        "count": 1,
+        "ids": [
+          "CB016x-p-64"
+        ]
+      }
+    ],
+    "total_count": 1
+  },
+  {
     "id": 142,
+    "description": "2 prepuncta + virga + 2 subpuncta",
+    "pattern": null,
+    "locations": [
+      {
+        "file": "CB016x",
+        "count": 2,
+        "ids": [
+          "CB016x-p-65"
+        ]
+      },
+      {
+        "file": "CB131_hbi",
+        "count": 1,
+        "ids": [
+          "CB131_hbi-l-29"
+        ]
+      },
+      {
+        "file": "CB033",
+        "count": 1,
+        "ids": [
+          "CB033-l-19"
+        ]
+      }
+    ],
+    "total_count": 4
+  },
+  {
+    "id": 143,
+    "description": "2 prepuncta + virga + 2 subpuncta + stropha",
+    "pattern": null,
+    "locations": [
+      {
+        "file": "CB016x",
+        "count": 7,
+        "ids": [
+          "CB016x-l-42",
+          "CB016x-p-40",
+          "CB016x-p-41",
+          "CB016x-p-45",
+          "CB016x-p-64",
+          "CB016x-p-65"
+        ]
+      },
+      {
+        "file": "CB215",
+        "count": 2,
+        "ids": [
+          "CB215-p-14",
+          "CB215-p-34"
+        ]
+      }
+    ],
+    "total_count": 9
+  },
+  {
+    "id": 144,
     "description": "2 prepuncta + virga + 3 subpuncta",
     "pattern": null,
     "locations": [
@@ -10375,7 +10740,7 @@
     "total_count": 4
   },
   {
-    "id": 143,
+    "id": 145,
     "description": "2 prepuncta + virga + 3 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -10390,22 +10755,14 @@
     "total_count": 1
   },
   {
-    "id": 144,
-    "description": "2 prepuncta + virga liq.",
+    "id": 146,
+    "description": "2 prepuncta + virga + 6 subpuncta",
     "pattern": null,
-    "locations": [
-      {
-        "file": "CB016x",
-        "count": 1,
-        "ids": [
-          "CB016x-p-64"
-        ]
-      }
-    ],
-    "total_count": 1
+    "locations": [],
+    "total_count": 0
   },
   {
-    "id": 145,
+    "id": 147,
     "description": "1 prepunctum + tractulus + virga",
     "pattern": null,
     "locations": [
@@ -10441,7 +10798,7 @@
     "total_count": 10
   },
   {
-    "id": 146,
+    "id": 148,
     "description": "1 prepunctum + tractulus + quilisma 3 loops + virga",
     "pattern": null,
     "locations": [
@@ -10460,7 +10817,7 @@
     "total_count": 5
   },
   {
-    "id": 147,
+    "id": 149,
     "description": "Trigonus",
     "pattern": null,
     "locations": [

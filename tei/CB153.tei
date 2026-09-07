@@ -19,7 +19,7 @@
               </w>
               <w>
                 <seg type="syll" part="I">trans<notatedMusic>
-                  <neume fontname="buranus" glyph.num="51" label="cl"/>
+                  <neume fontname="buranus" glyph.num="52" label="cl"/>
                 </notatedMusic>
                 </seg>
                 <seg type="syll" part="F">it<notatedMusic>
@@ -57,7 +57,7 @@
               </w>
               <w>
                 <seg type="syll" part="I">re<notatedMusic>
-                  <neume fontname="buranus" glyph.num="51" label="cl"/>
+                  <neume fontname="buranus" glyph.num="52" label="cl"/>
                 </notatedMusic>
                 </seg>
                 <seg type="syll" part="M">no<notatedMusic>
@@ -136,7 +136,7 @@
               </w>
               <w>
                 <seg type="syll" part="I">re<notatedMusic>
-                  <neume fontname="buranus" glyph.num="51" label="cl"/>
+                  <neume fontname="buranus" glyph.num="52" label="cl"/>
                 </notatedMusic>
                 </seg>
                 <app type="neume">
@@ -274,7 +274,7 @@
                 </notatedMusic>
                 </seg>
                 <seg type="syll" part="F">or<notatedMusic>
-                  <neume fontname="buranus" glyph.num="51" label="cl"/>
+                  <neume fontname="buranus" glyph.num="52" label="cl"/>
                 </notatedMusic>
                 </seg>
               </w>
