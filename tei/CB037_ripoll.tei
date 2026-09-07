@@ -1,0 +1,57 @@
+<TEI>
+  <teiHeader></teiHeader>
+  <text>
+    <body>
+      <div type="poem" met="3x(8pp 7p) 7p 8pp 7p">
+        <lg type="strophe" met="8pp/7p/8pp/7p/8pp/7p/7p/8pp/7p" rhyme="a/b/a/b/a/b/b/a/b">
+          <l n="1">
+            <w>In</w>
+            <w>Gedeonis</w>
+            <w>area</w>
+          </l>
+          <l n="2">
+            <w>vellus</w>
+            <w>aret</w>
+            <w>extentum</w>
+          </l>
+          <l n="3">
+            <w>et</w>
+            <w>demolitur</w>
+            <w>timea</w>
+          </l>
+          <l n="4">
+            <w>regale</w>
+            <w>vestimentum</w>
+          </l>
+          <l n="5">
+            <w>super</w>
+            <w>habundat</w>
+            <w>palea</w>
+          </l>
+          <l n="6">
+            <w>que</w>
+            <w>sepelit</w>
+            <w>frumentum</w>
+          </l>
+          <l n="7">
+            <w>et</w>
+            <w>loquitur</w>
+            <w>iumentum</w>
+          </l>
+          <l n="8">
+            <w>non</w>
+            <w>redit</w>
+            <w>bos</w>
+            <w>ad</w>
+            <w>orrea</w>
+          </l>
+          <l n="9">
+            <w>sed</w>
+            <w>sequitur</w>
+            <w>carpentum</w>
+          </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
