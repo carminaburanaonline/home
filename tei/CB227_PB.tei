@@ -1,0 +1,1350 @@
+<TEI>
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="drama">
+        <stage n="1">Au d&#233;but, qu&#8217;un si&#232;ge soit plac&#233; pour Augustin devant l&#8217;&#233;glise, et qu&#8217;Augustin ait &#224; sa droite Isa&#239;e et Daniel et les autres proph&#232;tes, et &#224; sa gauche le chef de la synagogue et ses Juifs. Ensuite, qu&#8217;Isa&#239;e se l&#232;ve avec sa proph&#233;tie, que voici :</stage>
+        <sp n="1">
+          <div type="poem">
+            <lg type="strophe" xml:id="CB227_PB-lg-1">
+              <l n="1" xml:id="CB227_PB-l-1">
+                <seg type="hemistich">Voici qu&#8217;une vierge enfantera</seg>
+                <seg type="hemistich">sans semence d&#8217;homme,</seg>
+              </l>
+              <l n="2" xml:id="CB227_PB-l-2">
+                <seg type="hemistich">par quoi elle lavera le monde</seg>
+                <seg type="hemistich">du crime qu&#8217;est le p&#233;ch&#233;.</seg>
+              </l>
+              <l n="3" xml:id="CB227_PB-l-3">
+                <seg type="hemistich">De l&#8217;arriv&#233;e du Seigneur,</seg>
+                <seg type="hemistich">que la Jud&#233;e, &#224; pr&#233;sent aveugle,</seg>
+              </l>
+              <l n="4" xml:id="CB227_PB-l-4">
+                <seg type="hemistich">se r&#233;jouisse, qu&#8217;elle s&#8217;enfuie</seg>
+                <seg type="hemistich">loin du seuil de son erreur.</seg>
+              </l>
+            </lg>
+          </div>
+        </sp>
+        <stage n="2">Ensuite :</stage>
+        <sp n="2">
+          <p xml:id="CB227_PB-p-1">Voil&#224; qu&#8217;une vierge concevra...</p>
+        </sp>
+        <stage n="3">Qu&#8217;il chante encore :</stage>
+        <sp n="3">
+          <p xml:id="CB227_PB-p-2">Le Seigneur lui donnera le si&#232;ge de David...</p>
+        </sp>
+        <stage n="4">Puis que David s&#8217;avance, en pronon&#231;ant sa proph&#233;tie :</stage>
+        <sp n="4">
+          <div type="poem">
+            <lg type="strophe" n="I" xml:id="CB227_PB-lg-2">
+              <l n="1" xml:id="CB227_PB-l-5">
+                <seg type="hemistich">Ton privil&#232;ge finira,</seg>
+                <seg type="hemistich">mis&#233;rable Jud&#233;e,</seg>
+              </l>
+              <l n="2" xml:id="CB227_PB-l-6">
+                <seg type="hemistich">quand le roi des rois viendra</seg>
+                <seg type="hemistich">depuis son tr&#244;ne &#233;lev&#233;,</seg>
+              </l>
+              <l n="3" xml:id="CB227_PB-l-7">
+                <seg type="hemistich">quand sans perdre le lys</seg>
+                <seg type="hemistich">de sa chastet&#233; en fleur,</seg>
+              </l>
+              <l n="4" xml:id="CB227_PB-l-8">
+                <seg type="hemistich">heureuse d&#8217;accoucher,</seg>
+                <seg type="hemistich">la vierge enfantera un roi.</seg>
+              </l>
+            </lg>
+            <lg type="strophe" n="II" xml:id="CB227_PB-lg-3">
+              <l n="1" xml:id="CB227_PB-l-9">
+                <seg type="hemistich">Malheureuse Jud&#233;e,</seg>
+                <seg type="hemistich">rest&#233;e dans les t&#233;n&#232;bres,</seg>
+              </l>
+              <l n="2" xml:id="CB227_PB-l-10">
+                <seg type="hemistich">rejette la souillure</seg>
+                <seg type="hemistich">de ta faute fun&#232;bre,</seg>
+              </l>
+              <l n="3" xml:id="CB227_PB-l-11">
+                <seg type="hemistich">dans la jubilation</seg>
+                <seg type="hemistich">d&#8217;une naissance si c&#233;l&#232;bre,</seg>
+              </l>
+              <l n="4" xml:id="CB227_PB-l-12">
+                <seg type="hemistich">cesse de te plier</seg>
+                <seg type="hemistich">&#224; ta trompeuse erreur.</seg>
+              </l>
+            </lg>
+          </div>
+        </sp>
+        <stage n="5">Qu&#8217;il chante ensuite :</stage>
+        <sp n="5">
+          <p xml:id="CB227_PB-p-3">Je regardais en scrutant la nuit...</p>
+        </sp>
+        <stage n="6">Troisi&#232;mement, que s&#8217;avance la sybille avec des gestes emphatiques, et qu&#8217;en regardant l&#8217;&#233;toile en gesticulant elle chante :</stage>
+        <sp n="6">
+          <div type="poem">
+            <lg type="strophe" n="I" xml:id="CB227_PB-lg-4">
+              <l n="1" xml:id="CB227_PB-l-13">
+                <seg type="hemistich">Cette &#233;toile nouvelle</seg>
+                <seg type="hemistich">annonce une nouvelle :</seg>
+              </l>
+              <l n="2" xml:id="CB227_PB-l-14">
+                <seg type="hemistich">une vierge ignorant</seg>
+                <seg type="hemistich">le commerce de l&#8217;homme</seg>
+              </l>
+              <l n="3" xml:id="CB227_PB-l-15">
+                <seg type="hemistich">et vierge demeurant</seg>
+                <seg type="hemistich">apr&#232;s l&#8217;accouchement</seg>
+              </l>
+              <l n="4" xml:id="CB227_PB-l-16">
+                <seg type="hemistich">va enfanter un fils,</seg>
+                <seg type="hemistich">le salut pour le peuple.</seg>
+              </l>
+            </lg>
+            <lg type="strophe" n="II" xml:id="CB227_PB-lg-5">
+              <l n="1" xml:id="CB227_PB-l-17">
+                <seg type="hemistich">Ce rejeton nouveau,</seg>
+                <seg type="hemistich">sous une autre apparence,</seg>
+              </l>
+              <l n="2" xml:id="CB227_PB-l-18">
+                <seg type="hemistich">glisse du haut du ciel</seg>
+                <seg type="hemistich">vers le sein de sa m&#232;re,</seg>
+              </l>
+              <l n="3" xml:id="CB227_PB-l-19">
+                <seg type="hemistich">en rendant bienheureuses</seg>
+                <seg type="hemistich">les entrailles de celle</seg>
+              </l>
+              <l n="4" xml:id="CB227_PB-l-20">
+                <seg type="hemistich">qui obtint d&#8217;effacer</seg>
+                <seg type="hemistich">nos propres manquements.</seg>
+              </l>
+            </lg>
+            <lg type="strophe" n="III" xml:id="CB227_PB-lg-6">
+              <l n="1" xml:id="CB227_PB-l-21">
+                <seg type="hemistich">Fleur nouvelle, il viendra</seg>
+                <seg type="hemistich">pour entrer en son sein,</seg>
+              </l>
+              <l n="2" xml:id="CB227_PB-l-22">
+                <seg type="hemistich">quand la vierge intouch&#233;e</seg>
+                <seg type="hemistich">enfantera un fils</seg>
+              </l>
+              <l n="3" xml:id="CB227_PB-l-23">
+                <seg type="hemistich">qui saura menacer</seg>
+                <seg type="hemistich">l&#8217;Ennemi envieux</seg>
+              </l>
+              <l n="4" xml:id="CB227_PB-l-24">
+                <seg type="hemistich">et renouvellera</seg>
+                <seg type="hemistich">les si&#232;cles, roi nouveau.</seg>
+              </l>
+            </lg>
+            <lg type="strophe" n="IV" xml:id="CB227_PB-lg-7">
+              <l n="1" xml:id="CB227_PB-l-25">
+                <seg type="hemistich">Il descendra du ciel,</seg>
+                <seg type="hemistich">ce roi au nom fameux,</seg>
+              </l>
+              <l n="2" xml:id="CB227_PB-l-26">
+                <seg type="hemistich">r&#233;alisant l&#8217;alliance</seg>
+                <seg type="hemistich">entre &#234;tre humain et dieu,</seg>
+              </l>
+              <l n="3" xml:id="CB227_PB-l-27">
+                <seg type="hemistich">et en t&#233;tant le sein</seg>
+                <seg type="hemistich">de la vierge sa m&#232;re,</seg>
+              </l>
+              <l n="4" xml:id="CB227_PB-l-28">
+                <seg type="hemistich">il dissoudra la faute</seg>
+                <seg type="hemistich">et le p&#233;ch&#233; du monde.</seg>
+              </l>
+            </lg>
+          </div>
+        </sp>
+        <stage n="7">Qu&#8217;il chante encore ces vers :</stage>
+        <sp n="7">
+          <p xml:id="CB227_PB-p-4">Signe du jugement : la terre...</p>
+        </sp>
+        <stage n="8">Puis que s&#8217;avance Aaron, le quatri&#232;me proph&#232;te, portant la verge prise sur l&#8217;autel, celle qui fut seule &#224; fleurir parmi les douze verges s&#232;ches. Que le ch&#339;ur accompagne en procession ce personnage en chantant le r&#233;pons :</stage>
+        <sp n="8">
+          <p xml:id="CB227_PB-p-5">Salut, noble verge...</p>
+        </sp>
+        <stage n="9">Et qu&#8217;il dise cette proph&#233;tie :</stage>
+        <sp n="9">
+          <div type="poem">
+            <lg type="strophe" xml:id="CB227_PB-lg-8">
+              <l n="1" xml:id="CB227_PB-l-29">Voici que notre amandier pousse nouvellement des feuilles :</l>
+          <l n="2" xml:id="CB227_PB-l-30">une tige, le fruit en est le Christ, mais la tige, c&#8217;est la vierge bienheureuse.</l>
+            </lg>
+          </div>
+        </sp>
+        <stage n="10">Et qu&#8217;il dise :</stage>
+        <sp n="10">
+          <div type="poem">
+            <lg type="strophe" xml:id="CB227_PB-lg-9">
+            <l n="1" xml:id="CB227_PB-l-31">
+              <seg type="hemistich">Comme cette verge a fleuri</seg>
+              <seg type="hemistich">sans aucune nourriture,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-32">
+              <seg type="hemistich">ainsi la vierge enfantera</seg>
+              <seg type="hemistich">sans aucune atteinte &#224; sa chair.</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-33">
+              <seg type="hemistich">Comme ce rameau a verdi</seg>
+              <seg type="hemistich">sans l&#8217;aide de la nature,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-34">
+              <seg type="hemistich">mais pour pr&#233;figurer</seg>
+              <seg type="hemistich">en cette vierge des myst&#232;res,</seg>
+            </l>
+            <l n="5" xml:id="CB227_PB-l-35">
+              <seg type="hemistich">ainsi en elle seront closes</seg>
+              <seg type="hemistich">les portes de la pudeur,</seg>
+            </l>
+            <l n="6" xml:id="CB227_PB-l-36">
+              <seg type="hemistich">quand, vierge, elle enfantera</seg>
+              <seg type="hemistich">par gr&#226;ce spirituelle.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="11">Cinqui&#232;mement, que s&#8217;approche Balaam mont&#233; sur son &#226;nesse et chantant :</stage>
+        <sp n="11">
+          <p xml:id="CB227_PB-p-6">J&#8217;irai, j&#8217;irai maudire ce peuple.</p>
+        </sp>
+        <stage n="12">Que vienne &#224; sa rencontre un ange au glaive d&#233;gain&#233;, disant :</stage>
+        <sp n="12">
+          <p xml:id="CB227_PB-p-7">Attention, attention &#224; ne dire que ce que je t&#8217;aurai dit de dire.</p>
+        </sp>
+        <stage n="13">Et que l&#8217;&#226;ne que monte Balaam recule terroris&#233;. Puis que l&#8217;ange s&#8217;en aille et que Balaam chante ce r&#233;pons :</stage>
+        <sp n="13">
+          <p xml:id="CB227_PB-p-8">Une &#233;toile se l&#232;vera de Jacob...</p>
+        </sp>
+        <stage n="14">Que le chef de la synagogue comme ses Juifs, en entendant ces proph&#233;ties, se mette en rage fortement, et dise en bousculant son voisin, en agitant la t&#234;te et tout le corps, en frappant le sol du pied, en imitant avec son b&#226;ton les gestes des Juifs en tout. Et qu&#8217;indign&#233; il dise &#224; ses compagnons :</stage>
+        <sp n="14">
+          <div type="poem">
+          <lg type="strophe" n="I" xml:id="CB227_PB-lg-10">
+            <l n="1" xml:id="CB227_PB-l-37">
+              <seg type="hemistich">Dis-moi un peu ce qu&#8217;annonce</seg>
+              <seg type="hemistich">ce mur blanchi &#224; la chaux,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-38">
+              <seg type="hemistich">dis-moi un peu ce qu&#8217;affirme</seg>
+              <seg type="hemistich">cette insulte &#224; la v&#233;rit&#233;.</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-39">
+              <seg type="hemistich">Dis-moi ce qu&#8217;il en est</seg>
+              <seg type="hemistich">de ce que j&#8217;ai souvent entendu,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-40">
+              <seg type="hemistich">je voudrais bien savoir</seg>
+              <seg type="hemistich">comment c&#8217;est advenu.</seg>
+            </l>
+          </lg>
+          <lg type="strophe" n="II" xml:id="CB227_PB-lg-11">
+            <l n="1" xml:id="CB227_PB-l-41">
+              <seg type="hemistich">Je les entends, je crois,</seg>
+              <seg type="hemistich">se r&#233;pandre &#224; raconter</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-42">
+              <seg type="hemistich">que sans rapport charnel</seg>
+              <seg type="hemistich">une vierge doit enfanter.</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-43">
+              <seg type="hemistich">Oh quelle stupidit&#233;</seg>
+              <seg type="hemistich">les oblige &#224; d&#233;lirer,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-44">
+              <seg type="hemistich">eux qui annoncent en somme</seg>
+              <seg type="hemistich">qu&#8217;un chameau descend d&#8217;un b&#339;uf.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="15">Entendant le tumulte et les fausset&#233;s des Juifs, que l&#8217;&#233;v&#234;que des enfants dise :</stage>
+        <sp n="15">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-12">
+            <l n="1" xml:id="CB227_PB-l-45">
+              <seg type="hemistich">Leur discours est vain,</seg>
+              <seg type="hemistich">leur esprit bat la campagne,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-46">
+              <seg type="hemistich">ils sont mus par la fureur</seg>
+              <seg type="hemistich">et la licence du vin.</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-47">
+              <seg type="hemistich">Mais il reste &#224; consulter</seg>
+              <seg type="hemistich">le grand esprit d&#8217;Augustin,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-48">
+              <seg type="hemistich">par qui cette controverse</seg>
+              <seg type="hemistich">sera men&#233;e &#224; sa fin.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="16">Qu&#8217;aussit&#244;t les proh&#232;tes aillent devant Augustin et disent :</stage>
+        <sp n="16">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-13">
+            <l n="1" xml:id="CB227_PB-l-49">
+              <seg type="hemistich">Les paroles des Juifs</seg>
+              <seg type="hemistich">nous portent beaucoup de tort,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-50">
+              <seg type="hemistich">eux &#224; qui s&#8217;attache encore</seg>
+              <seg type="hemistich">l&#8217;ancienne crasse de l&#8217;erreur.</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-51">
+              <seg type="hemistich">Lorsque nous parlons du Christ,</seg>
+              <seg type="hemistich">ils se moquent et prof&#232;rent</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-52">
+              <seg type="hemistich">contre nous les arguments</seg>
+              <seg type="hemistich">de leur propre entendement.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="17">Augustin r&#233;pond :</stage>
+        <sp n="17">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-14">
+            <l n="1" xml:id="CB227_PB-l-53">
+              <seg type="hemistich">Que vienne &#224; nous ce peuple</seg>
+              <seg type="hemistich">enfoui dans les t&#233;n&#232;bres</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-54">
+              <seg type="hemistich">et soumis &#224; son erreur,</seg>
+              <seg type="hemistich">qu&#8217;il s&#8217;offre &#224; nos yeux,</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-55">
+              <seg type="hemistich">pour que leur erreur s&#8217;incline</seg>
+              <seg type="hemistich">devant l&#8217;expos&#233; des faits</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-56">
+              <seg type="hemistich">et que s&#8217;ouvre le chemin,</seg>
+              <seg type="hemistich">pour eux clos, de l&#8217;&#201;criture.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="18">Qu&#8217;approche le chef de la synagogue &#224; grandes protestations de lui et des siens, et qu&#8217;Augustin leur dise :</stage>
+        <sp n="18">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-15">
+            <l n="1" xml:id="CB227_PB-l-57">
+              <seg type="hemistich">Ouvre bien tes oreilles,</seg>
+              <seg type="hemistich">mis&#233;rable Jud&#233;e,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-58">
+              <seg type="hemistich">le roi des rois viendra</seg>
+              <seg type="hemistich">sous une autre apparence,</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-59">
+              <seg type="hemistich">et en t&#233;tant le sein</seg>
+              <seg type="hemistich">de la vierge sa m&#232;re,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-60">
+              <seg type="hemistich">entre &#234;tre humain et dieu</seg>
+              <seg type="hemistich">il scellera l&#8217;alliance.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="19">Le chef de la synagogue r&#233;pond avec de grands &#233;clats de rire :</stage>
+        <sp n="19">
+          <p xml:id="CB227_PB-p-9">O Augustin,</p>
+          <div type="poem">
+          <lg type="strophe" n="I" xml:id="CB227_PB-lg-16">
+            <l n="1" xml:id="CB227_PB-l-61">c&#8217;est bien du fond de ton esprit que tu tires cette invention,</l>
+            <l n="2" xml:id="CB227_PB-l-62">quand tu annonces qu&#8217;arrivera ce que refuse la raison,</l>
+            <l n="3" xml:id="CB227_PB-l-63">car si une vierge enfantait et cela sans rapport charnel,</l>
+            <l n="4" xml:id="CB227_PB-l-64">c&#8217;est une insulte &#224; la nature et en tout la confusion.</l>
+          </lg>
+          <lg type="strophe" n="II" xml:id="CB227_PB-lg-17">
+            <l n="1" xml:id="CB227_PB-l-65">
+              <seg type="hemistich">Pourquoi dis-tu le contraire,</seg>
+              <seg type="hemistich">atteint d&#8217;une ancienne erreur,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-66">
+              <seg type="hemistich">en ne consid&#233;rant pas</seg>
+              <seg type="hemistich">ce qui se fait justement ?</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-67">
+              <seg type="hemistich">Car si une vierge enfante,</seg>
+              <seg type="hemistich">ce que les gamins proph&#233;tisent,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-68">
+              <seg type="hemistich">la nature peut se plaindre</seg>
+              <seg type="hemistich">que son droit soit bafou&#233;.</seg>
+            </l>
+          </lg>
+          <lg type="strophe" n="III" xml:id="CB227_PB-lg-18">
+            <l n="1" xml:id="CB227_PB-l-69">
+              <seg type="hemistich">Quand une vierge enfantera,</seg>
+              <seg type="hemistich">Xante, remonte ton cours !</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-70">
+              <seg type="hemistich">alors le loup fuira l&#8217;agneau,</seg>
+              <seg type="hemistich">les plaines seront montagnes.</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-71">
+              <seg type="hemistich">Si tu vois les temps r&#233;cents</seg>
+              <seg type="hemistich">et te souviens du pass&#233;,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-72">
+              <seg type="hemistich">on tient pour contradictoire</seg>
+              <seg type="hemistich">une vierge qui accouche.</seg>
+            </l>
+          </lg>
+          <lg type="strophe" n="IV" xml:id="CB227_PB-lg-19">
+            <l n="1" xml:id="CB227_PB-l-73">
+              <seg type="hemistich">Qu&#8217;une vierge doive enfanter,</seg>
+              <seg type="hemistich">ou qu&#8217;elle l&#8217;ait d&#233;j&#224; fait,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-74">
+              <seg type="hemistich">sans avoir connu d&#8217;abord</seg>
+              <seg type="hemistich">aucune union charnelle,</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-75">
+              <seg type="hemistich">comme un bavard de proph&#232;te</seg>
+              <seg type="hemistich">ne cesse de l&#8217;affirmer,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-76">
+              <seg type="hemistich">la loi enseigne et d&#233;montre</seg>
+              <seg type="hemistich">que c&#8217;est fantasmagorique.</seg>
+            </l>
+          </lg>
+          <lg type="strophe" n="V" xml:id="CB227_PB-lg-20">
+            <l n="1" xml:id="CB227_PB-l-77">
+              <seg type="hemistich">Qu&#8217;un enfant puisse venir</seg>
+              <seg type="hemistich">ainsi d&#8217;une vierge intacte,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-78">
+              <seg type="hemistich">c&#8217;est une erreur de le croire,</seg>
+              <seg type="hemistich">pas le comble du savoir.</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-79">
+              <seg type="hemistich">Ainsi, que mon adversaire</seg>
+              <seg type="hemistich">r&#233;ponde &#224; mon objection,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-80">
+              <seg type="hemistich">ou qu&#8217;il fuie convaincu</seg>
+              <seg type="hemistich">d&#8217;erreur et de confusion.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="20">Qu&#8217;Augustin r&#233;ponde d&#8217;une voix sobre et mesur&#233;e :</stage>
+        <sp n="20">
+          <div type="poem">
+          <lg type="strophe" n="I" xml:id="CB227_PB-lg-21">
+            <l n="1" xml:id="CB227_PB-l-81">En cet heureux &#233;v&#233;nement, qui est un cas unique,</l>
+            <l n="2" xml:id="CB227_PB-l-82">que faiblissent les arguments et les r&#232;gles sophistiques.</l>
+            <l n="3" xml:id="CB227_PB-l-83">Car la raison enseigne que la nature n&#8217;est pas abolie</l>
+            <l n="4" xml:id="CB227_PB-l-84">pour un cas inhabituel qui une fois y contrevient.</l>
+          </lg>
+          <lg type="strophe" n="II" xml:id="CB227_PB-lg-22">
+            <l n="1" xml:id="CB227_PB-l-85">
+              <seg type="hemistich">Si on dit &#8216;un vivant mort&#8217;,</seg>
+              <seg type="hemistich">c&#8217;est un lien contradictoire,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-86">
+              <seg type="hemistich">ce qui chez Aristote</seg>
+              <seg type="hemistich">est une r&#232;gle pour enfants,</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-87">
+              <seg type="hemistich">mais ce qui est loi pour vous</seg>
+              <seg type="hemistich">est maintenant sans pouvoir,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-88">
+              <seg type="hemistich">quand nous venons &#224; parler</seg>
+              <seg type="hemistich">d&#8217;une vierge qui soit m&#232;re.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="21">Qu&#8217;Augustin dise :</stage>
+        <sp n="21">
+          <div type="poem">
+          <lg type="strophe" n="I" xml:id="CB227_PB-lg-23">
+            <l n="1" xml:id="CB227_PB-l-89">
+              <seg type="hemistich">Ne va pas traiter d&#8217;illusion</seg>
+              <seg type="hemistich">qu&#8217;une vierge va concevoir,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-90">
+              <seg type="hemistich">qu&#8217;elle enfante sans que s&#8217;ouvre</seg>
+              <seg type="hemistich">la porte de sa pudeur,</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-91">
+              <seg type="hemistich">nous aurons, venus de Jud&#233;e,</seg>
+              <seg type="hemistich">de multiples t&#233;moignages</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-92">
+              <seg type="hemistich">qui vous seront oppos&#233;s</seg>
+              <seg type="hemistich">et nous donneront raison.</seg>
+            </l>
+          </lg>
+          <lg type="strophe" n="II" xml:id="CB227_PB-lg-24">
+            <l n="1" xml:id="CB227_PB-l-93">
+              <seg type="hemistich">Comme un rayon de soleil</seg>
+              <seg type="hemistich">p&#233;n&#232;tre un verre solide</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-94">
+              <seg type="hemistich">et le traverse en entier</seg>
+              <seg type="hemistich">sans moindrement le briser,</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-95">
+              <seg type="hemistich">ainsi au sein d&#8217;une vierge</seg>
+              <seg type="hemistich">le fils du p&#232;re tr&#232;s haut</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-96">
+              <seg type="hemistich">se laissera tomber</seg>
+              <seg type="hemistich">sans toutefois le l&#233;ser.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="22">Puis qu&#8217;Augustin commence &#224; chanter :</stage>
+        <sp n="22">
+          <l xml:id="CB227_PB-l-97">Plein de joie</l>
+        </sp>
+        <stage n="23">le premier verset. Et le second du proph&#232;te :</stage>
+        <sp n="23">
+          <p xml:id="CB227_PB-p-10">Le lit de la vierge a produit le roi des rois, chose merveilleuse !</p>
+        </sp>
+        <stage n="24">Que le chef de la synagogue et les siens disent :</stage>
+        <sp n="24">
+          <p xml:id="CB227_PB-p-11">Non, chose impossible !</p>
+        </sp>
+        <stage n="25">Et encore Augustin et les siens : Chose merveilleuse ! Et encore le chef de la synagogue et les siens :</stage>
+        <sp n="25">
+          <p xml:id="CB227_PB-p-12">Chose impossible !</p>
+        </sp>
+        <stage n="26">Cela plusieurs fois. Qu&#8217;Augustin entonne :</stage>
+        <sp n="26">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-25">
+            <l n="1" xml:id="CB227_PB-l-98">L&#8217;ange du grand conseil est n&#233; d&#8217;une vierge,</l>
+            <l n="2" xml:id="CB227_PB-l-99">le soleil d&#8217;une &#233;toile.</l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="27">Que les proph&#232;tes r&#233;pondent :</stage>
+        <sp n="27">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-26">
+            <l n="1" xml:id="CB227_PB-l-100">Un soleil qui ne descend pas, une &#233;toile toujours brillante</l>
+            <l n="2" xml:id="CB227_PB-l-101">et toujours claire.</l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="28">Qu&#8217;Augustin dise :</stage>
+        <sp n="28">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-27">
+            <l n="1" xml:id="CB227_PB-l-102">Que le haut c&#232;dre du Liban prenne la forme de l&#8217;hysope</l>
+            <l n="2" xml:id="CB227_PB-l-103">sur notre terre.</l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="29">Que les proph&#232;tes disent :</stage>
+        <sp n="29">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-28">
+            <l n="1" xml:id="CB227_PB-l-104">Le verbe, essence du Tr&#232;s-Haut, a souffert, ayant pris</l>
+            <l n="2" xml:id="CB227_PB-l-105">chair corporelle.</l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="30">Puis qu&#8217;Augustin dise :</stage>
+        <sp n="30">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-29">
+            <l n="1" xml:id="CB227_PB-l-106">Isa&#239;e l&#8217;a chant&#233;,</l>
+            <l n="2" xml:id="CB227_PB-l-107">la synagogue l&#8217;a r&#233;p&#233;t&#233;,</l>
+            <l n="3" xml:id="CB227_PB-l-108">et n&#8217;a pourtant jamais cess&#233;</l>
+            <l n="4" xml:id="CB227_PB-l-109">d&#8217;&#234;tre aveugle.</l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="31">Que les proph&#232;tes r&#233;pondent :</stage>
+        <sp n="31">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-30">
+            <l n="1" xml:id="CB227_PB-l-110">Si elle n&#8217;en croit pas ses po&#232;tes,</l>
+            <l n="2" xml:id="CB227_PB-l-111">qu&#8217;au moins elle croie les pa&#239;ens,</l>
+            <l n="3" xml:id="CB227_PB-l-112">et les pr&#233;dictions faites</l>
+            <l n="4" xml:id="CB227_PB-l-113">dans les vers des Sibylles.</l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="32">Puis que dise Augustin avec tous les proph&#232;tes :</stage>
+        <sp n="32">
+          <div type="poem">
+            <lg type="strophe" n="I" xml:id="CB227_PB-lg-31">
+              <l n="1" xml:id="CB227_PB-l-114">Infortun&#233;e, d&#233;p&#234;che-toi,</l>
+              <l n="2" xml:id="CB227_PB-l-115">crois au moins les anciens,</l>
+              <l n="3" xml:id="CB227_PB-l-116">pourquoi te damnerais-tu, malheureux peuple ?</l>
+            </lg>
+            <lg type="strophe" n="II" xml:id="CB227_PB-lg-32">
+            <l n="1" xml:id="CB227_PB-l-117">Regarde le nouveau-n&#233;</l>
+            <l n="2" xml:id="CB227_PB-l-118">annonc&#233; par l&#8217;&#201;criture,</l>
+            <l n="3" xml:id="CB227_PB-l-119">celui qu&#8217;a engendr&#233; l&#8217;accouch&#233;e.</l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="33">Ensuite qu&#8217;Augustin chante tout seul :</stage>
+        <sp n="33">
+          <p xml:id="CB227_PB-p-13">Qu&#8217;apprennent maintenant tous les Juifs comment, se ralliant au Christ comme nous, ils doivent embrasser la joie nouvelle de cette nouvelle naissance, en l&#8217;attendant comme l&#8217;espoir d&#8217;un nouveau salut. Qu&#8217;ils croient &#224; sa venue et qu&#8217;ils attendent sa naissance en disant avec nous : Ce roi nouveau sera le salut pour le monde.</p>
+        </sp>
+        <stage n="34">Pendant qu&#8217;il chante, que le chef de la synagogue cherche &#224; couvrir sa voix, tout en gesticulant, en secouant la t&#234;te et en se moquant. Quand c&#8217;est fini, que les proph&#232;tes se d&#233;placent, soit qu&#8217;ils se retirent soit qu&#8217;ils aillent s&#8217;asseoir &#224; leur place, pour laisser la sc&#232;ne au jeu. Puis que l&#8217;ange apparaisse &#224; Marie occup&#233;e &#224; des travaux d&#8217;int&#233;rieur, et dise :</stage>
+        <sp n="34">
+          <p xml:id="CB227_PB-p-14">Salut Marie pleine de gr&#226;ce, le Seigneur est avec toi.</p>
+        </sp>
+        <stage n="35">Et encore :</stage>
+        <sp n="35">
+          <p xml:id="CB227_PB-p-15">Voil&#224; que tu vas concevoir et enfanter...</p>
+        </sp>
+        <stage n="36">Toute &#233;tonn&#233;e, qu&#8217;elle dise :</stage>
+        <sp n="36">
+          <p xml:id="CB227_PB-p-16">Comment cela se pourrait-il, puisque je ne connais pas d&#8217;homme ?</p>
+        </sp>
+        <stage n="37">Que l&#8217;ange r&#233;ponde :</stage>
+        <sp n="37">
+          <p xml:id="CB227_PB-p-17">L&#8217;Esprit Saint viendra...</p>
+        </sp>
+        <stage n="38">Verset :</stage>
+        <sp n="38">
+          <p xml:id="CB227_PB-p-18">C&#8217;est pourquoi cet &#234;tre saint qui na&#238;tra...</p>
+        </sp>
+        <stage n="39">Que Marie r&#233;ponde :</stage>
+        <sp n="39">
+          <p xml:id="CB227_PB-p-19">Je suis la servante du Seigneur...</p>
+        </sp>
+        <stage n="40">Puis que Marie aille comme par hasard, sans rien pr&#233;voir, aupr&#232;s de la vieille &#201;lisabeth qui est enceinte de Jean Baptiste et la salue, et que celle-ci dise :</stage>
+        <sp n="40">
+          <p xml:id="CB227_PB-p-20">D&#8217;o&#249; me vient cet honneur...</p>
+        </sp>
+        <stage n="41">Elle chantera :</stage>
+        <sp n="41">
+          <p xml:id="CB227_PB-p-21">Depuis que tes paroles de salutation ont retenti...</p>
+        </sp>
+        <stage n="42">Et qu&#8217;elle dise :</stage>
+        <sp n="42">
+          <p xml:id="CB227_PB-p-22">B&#233;nie es-tu entre les femmes...</p>
+          <p xml:id="CB227_PB-p-23">Toi qui porteras...</p>
+        </sp>
+        <stage n="43">Que Marie r&#233;ponde :</stage>
+        <sp n="43">
+          <p xml:id="CB227_PB-p-24">Mon &#226;me exalte le Seigneur.</p>
+        </sp>
+        <stage n="44">Ensuite, qu&#8217;&#201;lisabeth se retire, car ce personnage n&#8217;appara&#238;tra plus. Puis que Marie aille dans son lit, car elle a auparavant con&#231;u du Saint Esprit, et qu&#8217;elle enfante un fils ; et que Joseph l&#8217;assiste, en habit convenable, avec une barbe bien fournie. L&#8217;enfant n&#233;, que l&#8217;&#233;toile apparaisse, et que le ch&#339;ur entonne cette antienne :</stage>
+        <sp n="44">
+          <p xml:id="CB227_PB-p-25">Aujourd&#8217;hui le Christ est n&#233;...</p>
+        </sp>
+        <stage n="45">Quand elle est finie, que l&#8217;&#233;toile apparaisse. L&#8217;ayant vue, que trois rois viennent des diff&#233;rentes parties du monde, et qu&#8217;ils s&#8217;&#233;tonnent de l&#8217;apparition d&#8217;une pareille &#233;toile, et que le premier dise :</stage>
+        <sp n="45">
+          <div type="poem">
+          <lg type="strophe" n="I" xml:id="CB227_PB-lg-33">
+            <l n="1" xml:id="CB227_PB-l-120">
+              <seg type="hemistich">Un quadrige de soucis</seg>
+              <seg type="hemistich">ne cesse de m&#8217;&#233;branler,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-121">
+              <seg type="hemistich">car je souffre du naufrage</seg>
+              <seg type="hemistich">de la raison et de l&#8217;intelligence,</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-122">
+              <seg type="hemistich">quand je vois cette &#233;toile</seg>
+              <seg type="hemistich">qui apporte l&#8217;indice</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-123">
+              <seg type="hemistich">que sa nouveaut&#233;</seg>
+              <seg type="hemistich">doit apporter un message neuf.</seg>
+            </l>
+          </lg>
+          <lg type="strophe" n="II" xml:id="CB227_PB-lg-34">
+            <l n="1" xml:id="CB227_PB-l-124">Moi, j&#8217;ai appris le cours des astres et leur nature,</l>
+            <l n="2" xml:id="CB227_PB-l-125">
+              <seg type="hemistich">et je sais de m&#233;moire</seg>
+              <seg type="hemistich">d&#233;terminer leur nombre,</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-126">
+              <seg type="hemistich">mais quand je vois celle-ci,</seg>
+              <seg type="hemistich">je m&#8217;&#233;tonne derechef,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-127">car elle n&#8217;appara&#238;t pas chez aucun des anciens.</l>
+          </lg>
+          <lg type="strophe" n="III" xml:id="CB227_PB-lg-35">
+            <l n="1" xml:id="CB227_PB-l-128">Les quartiers de la lune, les &#233;clipses du soleil,</l>
+            <l n="2" xml:id="CB227_PB-l-129">l&#8217;effet que produit Mercure s&#8217;il accompagne V&#233;nus,</l>
+            <l n="3" xml:id="CB227_PB-l-130">
+              <seg type="hemistich">en quel degr&#233; surtout</seg>
+              <seg type="hemistich">Mars peut &#234;tre dit nocif,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-131">je l&#8217;ai fort bien appris en la langue de science ancienne.</l>
+          </lg>
+          <lg type="strophe" n="IV" xml:id="CB227_PB-lg-36">
+            <l n="1" xml:id="CB227_PB-l-132">Mais le rayon de cette &#233;toile me laisse sans voix :</l>
+            <l n="2" xml:id="CB227_PB-l-133">je ne sais pas ce qu&#8217;il pr&#233;sage ; mais &#224; mieux y r&#233;fl&#233;chir,</l>
+            <l n="3" xml:id="CB227_PB-l-134">
+              <seg type="hemistich">je conjecture seulement</seg>
+              <seg type="hemistich">qu&#8217;il est n&#233; un fils</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-135">&#224; qui le monde ob&#233;ira, qu&#8217;il craindra encore plus.</l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="46">Que le premier dise cela sans cesser de regarder l&#8217;&#233;toile, en parlant d&#8217;elle. Que le second dise :</stage>
+        <sp n="46">
+          <div type="poem">
+          <lg type="strophe" n="I" xml:id="CB227_PB-lg-37">
+            <l n="1" xml:id="CB227_PB-l-136">Une bien douce all&#233;gresse remplit &#224; pr&#233;sent mon c&#339;ur</l>
+            <l n="2" xml:id="CB227_PB-l-137">
+              <seg type="hemistich">et cela raccourcit bien</seg>
+              <seg type="hemistich">pour moi le chemin,</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-138">
+              <seg type="hemistich">du fait que quand j&#8217;h&#233;sitais</seg>
+              <seg type="hemistich">j&#8217;ai trouv&#233; pour compagnon</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-139">
+              <seg type="hemistich">quelqu&#8217;un qui partageait</seg>
+              <seg type="hemistich">mes doutes et mes soins.</seg>
+            </l>
+          </lg>
+          <lg type="strophe" n="II" xml:id="CB227_PB-lg-38">
+            <l n="1" xml:id="CB227_PB-l-140">
+              <seg type="hemistich">Quand d&#8217;un esprit attentif</seg>
+              <seg type="hemistich">je regarde les plan&#232;tes,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-141">ma raison comprend la puissance de chacune,</l>
+            <l n="3" xml:id="CB227_PB-l-142">de Mars ou bien de V&#233;nus, du Soleil et de Mercure,</l>
+            <l n="4" xml:id="CB227_PB-l-143">de Jupiter cl&#233;ment, de Saturne vieillissant,</l>
+            <l n="5" xml:id="CB227_PB-l-144">le pouvoir de chacune, et son domaine propre.</l>
+          </lg>
+          <lg type="strophe" n="III" xml:id="CB227_PB-lg-39">
+            <l n="1" xml:id="CB227_PB-l-145">
+              <seg type="hemistich">Mais celle que tu regardes</seg>
+              <seg type="hemistich">et que tu montres du doigt,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-146">
+              <seg type="hemistich">percevant comment elle est,</seg>
+              <seg type="hemistich">je doute de son effet.</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-147">
+              <seg type="hemistich">Mais &#233;coute avec moi</seg>
+              <seg type="hemistich">mon avis &#224; son sujet,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-148">
+              <seg type="hemistich">pour que nous partagions</seg>
+              <seg type="hemistich">la r&#233;ponse &#224; notre question.</seg>
+            </l>
+          </lg>
+          <lg type="strophe" n="IV" xml:id="CB227_PB-lg-40">
+            <l n="1" xml:id="CB227_PB-l-149">Cet astre que tu vois, &#224; l&#8217;&#233;clat si brillant</l>
+            <l n="2" xml:id="CB227_PB-l-150">
+              <seg type="hemistich">qu&#8217;il fait p&#226;lir</seg>
+              <seg type="hemistich">toutes les autres plan&#232;tes,</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-151">
+              <seg type="hemistich">annonce qu&#8217;un roi est n&#233;,</seg>
+              <seg type="hemistich">le plus grand qui jamais viendra,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-152">
+              <seg type="hemistich">&#224; la volont&#233; duquel</seg>
+              <seg type="hemistich">le monde entier se pliera.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="47">Que le troisi&#232;me dise, en montrant l&#8217;&#233;toile et en en discourant :</stage>
+        <sp n="47">
+          <div type="poem">
+          <lg type="strophe" n="I" xml:id="CB227_PB-lg-41">
+            <l n="1" xml:id="CB227_PB-l-153">
+              <seg type="hemistich">Il savait d&#233;nouer</seg>
+              <seg type="hemistich">le r&#233;seau des probl&#232;mes,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-154">
+              <seg type="hemistich">celui de qui je tiens</seg>
+              <seg type="hemistich">que lorsque se montre</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-155">le rayon d&#8217;une com&#232;te, alors faiblissent les plan&#232;tes</l>
+            <l n="4" xml:id="CB227_PB-l-156">et s&#8217;annoncent les fins de certains principats.</l>
+          </lg>
+          <lg type="strophe" n="II" xml:id="CB227_PB-lg-42">
+            <l n="1" xml:id="CB227_PB-l-157">Nous savons ce qu&#8217;est une &#233;toile, et ce qu&#8217;est une plan&#232;te :</l>
+            <l n="2" xml:id="CB227_PB-l-158">
+              <seg type="hemistich">ceci n&#8217;est ni l&#8217;un ni l&#8217;autre,</seg>
+              <seg type="hemistich">mais bien une com&#232;te,</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-159">
+              <seg type="hemistich">donc baignons dans la joie,</seg>
+              <seg type="hemistich">ayons l&#8217;esprit joyeux,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-160">
+              <seg type="hemistich">car c&#8217;est d&#8217;un grand prince</seg>
+              <seg type="hemistich">qu&#8217;elle est le vrai proph&#232;te.</seg>
+            </l>
+          </lg>
+          <lg type="strophe" n="III" xml:id="CB227_PB-lg-43">
+            <l n="1" xml:id="CB227_PB-l-161">
+              <seg type="hemistich">Vois comme se diffuse</seg>
+              <seg type="hemistich">la clart&#233; de l&#8217;&#233;toile,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-162">
+              <seg type="hemistich">elle &#233;touffe l&#8217;&#233;clat</seg>
+              <seg type="hemistich">de toutes les plan&#232;tes,</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-163">ce qui s&#8217;adapte bien &#224; celui qui est n&#233; :</l>
+            <l n="4" xml:id="CB227_PB-l-164">
+              <seg type="hemistich">par lui est obscurcie</seg>
+              <seg type="hemistich">la puissance de tous.</seg>
+            </l>
+          </lg>
+          <lg type="strophe" n="IV" xml:id="CB227_PB-lg-44">
+            <l n="1" xml:id="CB227_PB-l-165">
+              <seg type="hemistich">Donc avec des pr&#233;sents</seg>
+              <seg type="hemistich">prenons la route ensemble</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-166">
+              <seg type="hemistich">et dirigeons nos pas</seg>
+              <seg type="hemistich">o&#249; conduira l&#8217;&#233;toile,</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-167">
+              <seg type="hemistich">pour que, quand nous verrons</seg>
+              <seg type="hemistich">l&#8217;enfant de notre espoir,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-168">
+              <seg type="hemistich">nous puissions comme rois</seg>
+              <seg type="hemistich">lui offrir nos pr&#233;sents.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="48">Maintenant, que les rois s&#8217;avancent jusqu&#8217;au territoire d&#8217;H&#233;rode, s&#8217;enqu&#233;rant de l&#8217;enfant en chantant :</stage>
+        <sp n="48">
+          <p xml:id="CB227_PB-p-26">O&#249; est celui qui est n&#233;...</p>
+        </sp>
+        <stage n="49">Que viennent &#224; leur rencontre les messagers d&#8217;H&#233;rode, disant :</stage>
+        <sp n="49">
+          <div type="poem">
+          <lg type="strophe" n="I" xml:id="CB227_PB-lg-45">
+            <l n="1" xml:id="CB227_PB-l-169">Vous qui avez la tenue et les attributs de rois,</l>
+            <l n="2" xml:id="CB227_PB-l-170">faites-nous savoir la raison de votre venue</l>
+            <l n="3" xml:id="CB227_PB-l-171">et si vous savez quelque nouvelle digne d&#8217;&#234;tre d&#233;voil&#233;e</l>
+            <l n="4" xml:id="CB227_PB-l-172">que vous voudriez rapporter aux oreilles du roi H&#233;rode.</l>
+          </lg>
+          <lg type="strophe" n="II" xml:id="CB227_PB-lg-46">
+            <l n="1" xml:id="CB227_PB-l-173">Nous sommes les serviteurs et les vicaires d&#8217;H&#233;rode,</l>
+            <l n="2" xml:id="CB227_PB-l-174">vers qui convergent constamment des messagers de partout ;</l>
+            <l n="3" xml:id="CB227_PB-l-175">aucuns des secrets du palais ne nous sont inconnus,</l>
+            <l n="4" xml:id="CB227_PB-l-176">donc nous pouvons bien savoir ce qu&#8217;il en est de votre affaire.</l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="50">Les rois r&#233;pondent :</stage>
+        <sp n="50">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-47">
+            <l n="1" xml:id="CB227_PB-l-177">Nous ne voulons pas occulter ce qui nous est demand&#233;,</l>
+            <l n="2" xml:id="CB227_PB-l-178">l&#8217;&#233;toile que nous observons d&#233;voile ce fait m&#234;me :</l>
+            <l n="3" xml:id="CB227_PB-l-179">nous cherchons le roi nouveau-n&#233; dont parle l&#8217;&#233;toile,</l>
+            <l n="4" xml:id="CB227_PB-l-180">car son empire n&#8217;est born&#233; par aucune limite.</l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="51">Les messagers r&#233;pondent :</stage>
+        <sp n="51">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-48">
+            <l n="1" xml:id="CB227_PB-l-181">Voil&#224; une annonce qui plaira au roi H&#233;rode,</l>
+            <l n="2" xml:id="CB227_PB-l-182">il entendra volontiers des nouvelles de ce roi ;</l>
+            <l n="3" xml:id="CB227_PB-l-183">donc, pour qu&#8217;il s&#8217;en r&#233;jouisse tout d&#8217;abord par nous,</l>
+            <l n="4" xml:id="CB227_PB-l-184">suivez-nous, nous vous pr&#233;c&#233;dons.</l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="52">Qu&#8217;alors les messagers se h&#226;tent vers H&#233;rode, en disant :</stage>
+        <sp n="52">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-49">
+            <l n="1" xml:id="CB227_PB-l-185">Roi H&#233;rode, &#233;coute quelque chose d&#8217;&#233;tonnant,</l>
+            <l n="2" xml:id="CB227_PB-l-186">que bient&#244;t trois rois vont venir t&#8217;annoncer :</l>
+            <l n="3" xml:id="CB227_PB-l-187">ils affirment qu&#8217;est n&#233; un roi qu&#8217;il faut v&#233;n&#233;rer,</l>
+            <l n="4" xml:id="CB227_PB-l-188">qui, ils n&#8217;en doutent pas, doit soumettre le monde entier.</l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="53">H&#233;rode r&#233;pond avec beaucoup d&#8217;indignation :</stage>
+        <sp n="53">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-50">
+            <l n="1" xml:id="CB227_PB-l-189">Comment osez-vous dire &#224; votre roi de ces &#233;normit&#233;s ?</l>
+            <l n="2" xml:id="CB227_PB-l-190">N&#8217;allez pas, je vous le conseille, inventer des fausset&#233;s.</l>
+            <l n="3" xml:id="CB227_PB-l-191">J&#8217;ai, moi H&#233;rode, le pouvoir de soumettre</l>
+            <l n="4" xml:id="CB227_PB-l-192">tout ce que contient le monde, ciel, terre et mer.</l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="54">Apr&#232;s cela, que profond&#233;ment indign&#233; H&#233;rode convoque le chef de la synagogue avec ses Juifs, par ces mots :</stage>
+        <sp n="54">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-51">
+            <l n="1" xml:id="CB227_PB-l-193">
+              <seg type="hemistich">Que vienne ici la Jud&#233;e,</seg>
+              <seg type="hemistich">riche de bons conseils,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-194">
+              <seg type="hemistich">pour conf&#233;rer avec nous</seg>
+              <seg type="hemistich">sur la pr&#233;sente affaire.</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-195">
+              <seg type="hemistich">Et moi, j&#8217;ordonnerai</seg>
+              <seg type="hemistich">que vous soyez supplici&#233;s</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-196">
+              <seg type="hemistich">si tout compte fait</seg>
+              <seg type="hemistich">vous &#234;tes trouv&#233;s dissidents !</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="55">Que vienne alors le chef de la synagogue plein d&#8217;arrogance avec ses Juifs, &#224; qui H&#233;rode dira :</stage>
+        <sp n="55">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-52">
+            <l n="1" xml:id="CB227_PB-l-197">C&#8217;est &#224; toi, ma&#238;tre, que je parle, et que les autres y prennent garde !</l>
+            <l n="2" xml:id="CB227_PB-l-198">L&#8217;annonce d&#8217;une dure nouvelle me d&#233;chire le c&#339;ur :</l>
+            <l n="3" xml:id="CB227_PB-l-199">voici qu&#8217;arrivent trois mages qui connaissent bien les astres,</l>
+            <l n="4" xml:id="CB227_PB-l-200">s&#8217;empressant vers l&#8217;av&#232;nement d&#8217;un nouveau-n&#233; tout puissant !</l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="56">Le chef de la synagogue r&#233;pond, d&#8217;un ton savant et &#233;loquent :</stage>
+        <sp n="56">
+          <div type="poem">
+          <lg type="strophe" n="I" xml:id="CB227_PB-lg-53">
+            <l n="1" xml:id="CB227_PB-l-201">Seigneur, pour ne pas te trouver &#224; un carrefour de soucis,</l>
+            <l n="2" xml:id="CB227_PB-l-202">
+              <seg type="hemistich">que ces trois rois viennent ici</seg>
+              <seg type="hemistich">en s&#8217;enqu&#233;rant du nouveau-n&#233; ;</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-203">
+              <seg type="hemistich">tu te les concilieras</seg>
+              <seg type="hemistich">avec le plus grand soin,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-204">
+              <seg type="hemistich">et sous couvert d&#8217;affection</seg>
+              <seg type="hemistich">parle-leur de cette fa&#231;on :</seg>
+            </l>
+          </lg>
+          <lg type="strophe" n="II" xml:id="CB227_PB-lg-54">
+            <l n="1" xml:id="CB227_PB-l-205">
+              <seg type="hemistich">Vous &#234;tes rois, je le vois,</seg>
+              <seg type="hemistich">ce qu&#8217;annonce votre &#233;quipage.</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-206">
+              <seg type="hemistich">Il m&#8217;est fort agr&#233;able</seg>
+              <seg type="hemistich">que vous soyez pass&#233;s me voir.</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-207">
+              <seg type="hemistich">Mais dites-moi tout au long</seg>
+              <seg type="hemistich">ce qui vous a fait venir ici,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-208">
+              <seg type="hemistich">car le roi se mettra en tout</seg>
+              <seg type="hemistich">&#224; votre disposition.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="57">Les rois r&#233;pondent :</stage>
+        <sp n="57">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-55">
+            <l n="1" xml:id="CB227_PB-l-209">
+              <seg type="hemistich">Une &#233;toile neuve rayonne,</seg>
+              <seg type="hemistich">annon&#231;ant qu&#8217;est n&#233; celui</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-210">
+              <seg type="hemistich">&#224; qui le monde ob&#233;ira,</seg>
+              <seg type="hemistich">qui gouvernera l&#8217;univers,</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-211">
+              <seg type="hemistich">rien ne pourra se maintenir</seg>
+              <seg type="hemistich">si sa gr&#226;ce lui fait d&#233;faut.</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-212">
+              <seg type="hemistich">En lui portant ces pr&#233;sents</seg>
+              <seg type="hemistich">nous nous dirigeons vers lui.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="58">H&#233;rode r&#233;pond :</stage>
+        <sp n="58">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-56">
+            <l n="1" xml:id="CB227_PB-l-213">Je ne saurais contrecarrer votre projet de voyage,</l>
+            <l n="2" xml:id="CB227_PB-l-214">
+              <seg type="hemistich">passez ensuite chez nous</seg>
+              <seg type="hemistich">quand vous voudrez revenir,</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-215">
+              <seg type="hemistich">pour que j&#8217;aille moi aussi</seg>
+              <seg type="hemistich">porter le pr&#233;sent d&#8217;usage</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-216">&#224; celui &#224; qui, je n&#8217;en doute pas, le monde sera soumis.</l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="59">Que les trois rois quittent sans h&#226;te H&#233;rode en regardant l&#8217;&#233;toile et en en disputant. Pendant ce temps que l&#8217;ange apparaisse aux bergers et dise :</stage>
+        <sp n="59">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-57">
+            <l n="1" xml:id="CB227_PB-l-217">
+              <seg type="hemistich">Bergers, je vous annonce</seg>
+              <seg type="hemistich">une bien grande joie :</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-218">
+              <seg type="hemistich">car Dieu a rev&#234;tu</seg>
+              <seg type="hemistich">le manteau de votre chair,</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-219">
+              <seg type="hemistich">sa m&#232;re ne l&#8217;a con&#231;u</seg>
+              <seg type="hemistich">d&#8217;un commerce charnel,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-220">
+              <seg type="hemistich">mais en demeurant vierge</seg>
+              <seg type="hemistich">par son fils devient m&#232;re.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="60">Alors que les bergers se mettent en route, que le diable leur dise :</stage>
+        <sp n="60">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-58">
+            <l n="1" xml:id="CB227_PB-l-221">
+              <seg type="hemistich">N&#8217;allez pas croire &#224; cela,</seg>
+              <seg type="hemistich">pauvres na&#239;fs de bergers,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-222">
+              <seg type="hemistich">sachez bien qu&#8217;est sans valeur</seg>
+              <seg type="hemistich">ce qui n&#8217;est v&#233;rit&#233; prouv&#233;e.</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-223">
+              <seg type="hemistich">Qu&#8217;ainsi la divinit&#233;</seg>
+              <seg type="hemistich">s&#8217;enterre dans une cr&#232;che,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-224">
+              <seg type="hemistich">on voit au premier coup d&#8217;&#339;il</seg>
+              <seg type="hemistich">que c&#8217;est pure fausset&#233;.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="61">Alors que les bergers retournent &#224; leur travail, que l&#8217;ange leur dise :</stage>
+        <sp n="61">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-59">
+            <l n="1" xml:id="CB227_PB-l-225">
+              <seg type="hemistich">Bergers, allez trouver</seg>
+              <seg type="hemistich">dans la cr&#232;che le nouveau-n&#233;,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-226">
+              <seg type="hemistich">et pr&#233;sentez vos compliments</seg>
+              <seg type="hemistich">&#224; la m&#232;re et &#224; l&#8217;enfant,</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-227">
+              <seg type="hemistich">qu&#8217;il n&#8217;y ait de retard</seg>
+              <seg type="hemistich">&#224; cette d&#233;cision,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-228">
+              <seg type="hemistich">mais que vous y conduise</seg>
+              <seg type="hemistich">votre d&#233;votion.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="62">Tandis que les bergers y retournent, que le diable leur dise &#224; l&#8217;oreille :</stage>
+        <sp n="62">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-60">
+            <l n="1" xml:id="CB227_PB-l-229">
+              <seg type="hemistich">Troupe pauvre d&#8217;esprit,</seg>
+              <seg type="hemistich">vois donc quelle est l&#8217;astuce</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-230">
+              <seg type="hemistich">de celui qui controuve ainsi</seg>
+              <seg type="hemistich">ses contrev&#233;rit&#233;s :</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-231">
+              <seg type="hemistich">pour masquer par des riens</seg>
+              <seg type="hemistich">ses mensonges &#233;hont&#233;s,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-232">
+              <seg type="hemistich">il met en vers rim&#233;s</seg>
+              <seg type="hemistich">tout ce qu&#8217;il imagine.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="63">Que les bergers s&#8217;&#233;tonnent et se disent l&#8217;un &#224; l&#8217;autre :</stage>
+        <sp n="63">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-61">
+            <l n="1" xml:id="CB227_PB-l-233">
+              <seg type="hemistich">Fr&#232;re, est-ce que tu entends</seg>
+              <seg type="hemistich">les m&#234;mes choses que moi ?</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-234">
+              <seg type="hemistich">Car une voix sugg&#232;re</seg>
+              <seg type="hemistich">la naissance d&#8217;un Fils,</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-235">
+              <seg type="hemistich">mais au contraire,</seg>
+              <seg type="hemistich">de celui-ci j&#8217;apprends</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-236">
+              <seg type="hemistich">que ce que j&#8217;entends</seg>
+              <seg type="hemistich">est entach&#233; de mensonge.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="64">Que l&#8217;ange redise aux bergers :</stage>
+        <sp n="64">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-62">
+            <l n="1" xml:id="CB227_PB-l-237">
+              <seg type="hemistich">Pourquoi ne pas &#233;couter</seg>
+              <seg type="hemistich">le messager de v&#233;rit&#233;,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-238">
+              <seg type="hemistich">quel est cet &#234;tre rus&#233;</seg>
+              <seg type="hemistich">qui vous d&#233;tourne hors de la voie ?</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-239">
+              <seg type="hemistich">Pour que l&#8217;erreur ne vous prenne</seg>
+              <seg type="hemistich">&#224; cause de l&#8217;Ennemi,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-240">
+              <seg type="hemistich">allez-y, car la cr&#232;che</seg>
+              <seg type="hemistich">montrera ce que je pr&#233;dis.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="65">Alors qu&#8217;ils y vont, que le diable leur redise :</stage>
+        <sp n="65">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-63">
+            <l n="1" xml:id="CB227_PB-l-241">
+              <seg type="hemistich">O peuple trop na&#239;f</seg>
+              <seg type="hemistich">et d&#8217;esprit demeur&#233;,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-242">
+              <seg type="hemistich">porte fourrage et foin</seg>
+              <seg type="hemistich">que, au plaisir des b&#339;ufs,</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-243">
+              <seg type="hemistich">mangera l&#8217;&#234;tre divin</seg>
+              <seg type="hemistich">dans la cr&#232;che couch&#233; !</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-244">
+              <seg type="hemistich">Tu extravagues &#224; l&#8217;exc&#232;s</seg>
+              <seg type="hemistich">si tu prends &#231;a pour assur&#233;.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="66">De nouveau les bergers &#224; leurs compagnons :</stage>
+        <sp n="66">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-64">
+            <l n="1" xml:id="CB227_PB-l-245">
+              <seg type="hemistich">&#201;coute &#224; nouveau, mon fr&#232;re,</seg>
+              <seg type="hemistich">quelle contradiction !</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-246">
+              <seg type="hemistich">D&#8217;ici j&#8217;entends un discours,</seg>
+              <seg type="hemistich">et son contraire de l&#224;.</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-247">
+              <seg type="hemistich">Mon esprit ing&#233;nu,</seg>
+              <seg type="hemistich">ma raison &#233;gar&#233;e</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-248">
+              <seg type="hemistich">ne peut d&#233;cider lequel</seg>
+              <seg type="hemistich">de leurs avis est meilleur.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="67">Puis que se rassemblent les anges et qu&#8217;ils chantent ensemble :</stage>
+        <sp n="67">
+          <p xml:id="CB227_PB-p-27">Goire &#224; Dieu au plus haut des cieux et paix sur la terre aux hommes de bonne volont&#233;.</p>
+        </sp>
+        <stage n="68">Ayant entendu cela, qu&#8217;un berger dise &#224; ses compagnons :</stage>
+        <sp n="68">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-65">
+            <l n="1" xml:id="CB227_PB-l-249">
+              <seg type="hemistich">&#192; cette voix un soupir</seg>
+              <seg type="hemistich">s&#8217;exhale de mon esprit,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-250">
+              <seg type="hemistich">par elle je sens en moi</seg>
+              <seg type="hemistich">une harmonieuse joie.</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-251">
+              <seg type="hemistich">Ainsi approchons-nous donc</seg>
+              <seg type="hemistich">tous ensemble de la cr&#232;che,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-252">
+              <seg type="hemistich">et en pliant le genou</seg>
+              <seg type="hemistich">adorons le Fils.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="69">Puis que les bergers s&#8217;avancent vers la cr&#232;che en chantant cette antienne :</stage>
+        <sp n="69">
+          <p xml:id="CB227_PB-p-28">Avec l&#8217;ange est apparue une multitude c&#233;leste...</p>
+        </sp>
+        <stage n="70">Apr&#232;s ce chant que les bergers adorent l&#8217;enfant, puis qu&#8217;ils reviennent &#224; leurs occupations ; et qu&#8217;ils rencontrent les trois mages qui leur disent :</stage>
+        <sp n="70">
+          <p xml:id="CB227_PB-p-29">Bergers, dites ce que vous avez vu et annoncez la nativit&#233; du Christ.</p>
+        </sp>
+        <stage n="71">Que les bergers r&#233;pondent :</stage>
+        <sp n="71">
+          <p xml:id="CB227_PB-p-30">Nous avons vu un enfant envelopp&#233; de langes, et les ch&#339;urs des anges qui louaient le Sauveur.</p>
+        </sp>
+        <stage n="72">Ensuite que les mages aillent &#224; la cr&#232;che et que d&#8217;abord ils adorent le Sauveur, puis qu&#8217;ils lui offrent leurs pr&#233;sents : d&#8217;abord l&#8217;or, puis l&#8217;encens, en troisi&#232;me lieu la myrrhe. Puis qu&#8217;ils fassent un peu de chemin et puis s&#8217;endorment, et qu&#8217;un ange leur apparaisse en songe et leur dise :</stage>
+        <sp n="72">
+          <p xml:id="CB227_PB-p-31">Ne retournez pas aupr&#232;s d&#8217;H&#233;rode...</p>
+        </sp>
+        <stage n="73">Puis, comme ils ne retournent pas aupr&#232;s d&#8217;H&#233;rode, que celui-ci dise :</stage>
+        <sp n="73">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-66">
+            <l n="1" xml:id="CB227_PB-l-253">Que le peuple des Juifs se presse pour &#233;couter H&#233;rode,</l>
+            <l n="2" xml:id="CB227_PB-l-254">et fournisse un conseil pour un fait qui me tourmente.</l>
+            <l n="3" xml:id="CB227_PB-l-255">Le roi H&#233;rode inquiet ne sait ce qu&#8217;il doit faire,</l>
+            <l n="4" xml:id="CB227_PB-l-256">
+              <seg type="hemistich">puisqu&#8217;il se voit jou&#233;</seg>
+              <seg type="hemistich">par les trois rois.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="74">Que vienne le chef de la synagogue avec les siens, et qu&#8217;H&#233;rode lui dise :</stage>
+        <sp n="74">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-67">
+            <l n="1" xml:id="CB227_PB-l-257">
+              <seg type="hemistich">Toi, ma&#238;tre, ouvre pour nous</seg>
+              <seg type="hemistich">les &#233;crits des proph&#232;tes,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-258">
+              <seg type="hemistich">pour voir si ceux-ci transmettent</seg>
+              <seg type="hemistich">quelque chose d&#8217;un enfant.</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-259">
+              <seg type="hemistich">Quand tu m&#8217;auras fid&#232;lement</seg>
+              <seg type="hemistich">expliqu&#233; ce qu&#8217;il en est,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-260">
+              <seg type="hemistich">alors appara&#238;tront</seg>
+              <seg type="hemistich">les secrets de mon propre c&#339;ur.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="75">Le chef de la synagogue r&#233;pond :</stage>
+        <sp n="75">
+          <p xml:id="CB227_PB-p-32">Toi Bethl&#233;em, terre de Jud&#233;e...</p>
+        </sp>
+        <stage n="76">Qu&#8217;alors H&#233;rode furieux dise &#224; ses soldats :</stage>
+        <sp n="76">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-68">
+            <l n="1" xml:id="CB227_PB-l-261">
+              <seg type="hemistich">Allez, allez tous ensemble</seg>
+              <seg type="hemistich">le glaive &#224; la main,</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-262">
+              <seg type="hemistich">que leur &#226;ge encore tendre</seg>
+              <seg type="hemistich">aux enfants ne serve &#224; rien,</seg>
+            </l>
+            <l n="3" xml:id="CB227_PB-l-263">
+              <seg type="hemistich">mais que toutes les m&#232;res</seg>
+              <seg type="hemistich">pleurent leur sein d&#233;sol&#233;,</seg>
+            </l>
+            <l n="4" xml:id="CB227_PB-l-264">
+              <seg type="hemistich">pour que de ce nouveau n&#233;</seg>
+              <seg type="hemistich">je puisse &#234;tre veng&#233;.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="77">Que les soldats aillent tuer les enfants, dont les m&#232;res pleureront et se lamenteront ainsi :</stage>
+        <sp n="77">
+          <div type="poem">
+          <lg type="strophe" n="I" xml:id="CB227_PB-lg-69">
+            <l n="1" xml:id="CB227_PB-l-265">H&#233;las, h&#233;las, h&#233;las !</l>
+            <l n="2" xml:id="CB227_PB-l-266">Pourquoi la sauvagerie d&#8217;H&#233;rode</l>
+            <l n="3" xml:id="CB227_PB-l-267">s&#8217;attaque-t-elle farouchement</l>
+            <l n="4" xml:id="CB227_PB-l-268">au fruit de nos entrailles ?</l>
+          </lg>
+            <lg type="strophe" n="II" xml:id="CB227_PB-lg-70">
+            <l n="1" xml:id="CB227_PB-l-269">H&#233;las, h&#233;las, h&#233;las !</l>
+            <l n="2" xml:id="CB227_PB-l-270">Quels crimes a commis</l>
+            <l n="3" xml:id="CB227_PB-l-271">cet &#226;ge si tendre,</l>
+            <l n="4" xml:id="CB227_PB-l-272">encore nourri au sein ?</l>
+            </lg>
+            <lg type="strophe" n="III" xml:id="CB227_PB-lg-71">
+            <l n="1" xml:id="CB227_PB-l-273">H&#233;las, h&#233;las, h&#233;las !</l>
+            <l n="2" xml:id="CB227_PB-l-274">Quelle horrible douleur</l>
+            <l n="3" xml:id="CB227_PB-l-275">lorsque le glaive impie</l>
+            <l n="4" xml:id="CB227_PB-l-276">a transperc&#233; des innocents !</l>
+              </lg>
+            <lg type="strophe" n="IV" xml:id="CB227_PB-lg-72">
+            <l n="1" xml:id="CB227_PB-l-277">H&#233;las, h&#233;las, h&#233;las !</l>
+            <l n="2" xml:id="CB227_PB-l-278">Mon enfant encore si tendre,</l>
+            <l n="3" xml:id="CB227_PB-l-279">pour toi, ta pauvre m&#232;re</l>
+            <l n="4" xml:id="CB227_PB-l-280">descendra aux enfers !</l>
+              </lg>
+            <lg type="strophe" n="V" xml:id="CB227_PB-lg-73">
+            <l n="1" xml:id="CB227_PB-l-281">H&#233;las, h&#233;las, h&#233;las !</l>
+            <l n="2" xml:id="CB227_PB-l-282">Mon fils, joie de ma vie</l>
+            <l n="3" xml:id="CB227_PB-l-283">et &#224; pr&#233;sent son supplice,</l>
+            <l n="4" xml:id="CB227_PB-l-284">tu seras le seuil de ma mort.</l>
+          </lg>
+          </div>
+        </sp>
+        <stage n="78">Ensuite qu&#8217;H&#233;rode soit rong&#233; par les vers et que tombant mort de son tr&#244;ne, il soit saisi par les diables tout joyeux, et que son fils Archela&#252;s soit couronn&#233; &#224; sa place. Et que, lui r&#233;gnant, un ange apparaisse de nuit &#224; Joseph et lui dise :</stage>
+        <sp n="78">
+          <p xml:id="CB227_PB-p-33">Prends la m&#232;re et l&#8217;enfant et va en &#201;gypte.</p>
+        </sp>
+        <stage n="79">Marchant devant l&#8217;&#226;ne, que Marie dise :</stage>
+        <sp n="79">
+          <div type="poem">
+          <lg type="strophe" xml:id="CB227_PB-lg-74">
+            <l n="1" xml:id="CB227_PB-l-285">
+              <seg type="hemistich">J&#8217;ai souffert bien des tourments</seg>
+              <seg type="hemistich">en sauvant du danger mon enfant.</seg>
+            </l>
+            <l n="2" xml:id="CB227_PB-l-286">
+              <seg type="hemistich">Je suis m&#232;re, je suis devant toi ;</seg>
+              <seg type="hemistich">d&#233;sormais je marche, accompagne-moi.</seg>
+            </l>
+          </lg>
+          </div>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

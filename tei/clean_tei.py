@@ -30,7 +30,9 @@ if __name__ == "__main__":
 		#####
 		#####
 
-
+		for lg in tree.findall('.//lg'):
+			for x, l in enumerate(lg.findall('./l')):
+				l.set('n', str(x + 1))
 
 		#####
 		#####

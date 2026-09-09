@@ -204,7 +204,7 @@
           <l n="2" xml:id="CB100_4598-l-6">
             <w>
               <seg type="syll">o<notatedMusic>
-                <neume fontname="buranus" glyph.num="7" label="pu"/>
+                <neume fontname="buranus" glyph.num="1" label="pu"/>
               </notatedMusic>
               </seg>
             </w>
@@ -382,7 +382,7 @@
                 <app type="neume">
                   <lem>
                     <seg type="syll" part="M">no<notatedMusic>
-                  <neume fontname="buranus" glyph.num="0" label="vi"/>
+                  <neume fontname="buranus" glyph.num="7" label="vi"/>
                 </notatedMusic>
                 </seg>
                   </lem>
@@ -669,7 +669,7 @@
               <app type="neume">
                 <lem>
                   <seg type="syll" part="M">gi<notatedMusic>
-                <neume fontname="buranus" glyph.num="0" label="vi"/>
+                <neume fontname="buranus" glyph.num="7" label="vi"/>
               </notatedMusic>
               </seg>
                 </lem>
@@ -678,7 +678,7 @@
               <app type="neume">
                 <lem>
                   <seg type="syll" part="F">e<notatedMusic>
-                <neume fontname="buranus" glyph.num="0" label="vi"/>
+                <neume fontname="buranus" glyph.num="7" label="vi"/>
               </notatedMusic>
               </seg>
                 </lem>
@@ -1392,7 +1392,7 @@
               <app type="neume">
                 <lem>
                   <seg type="syll" part="I">va<notatedMusic>
-                <neume fontname="buranus" glyph.num="0" label="pe"/>
+                <neume fontname="buranus" glyph.num="32" label="pe"/>
               </notatedMusic>
               </seg>
                 </lem>
