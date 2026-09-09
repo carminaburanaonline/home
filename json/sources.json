@@ -10482,7 +10482,7 @@
     "siglum_edition": null,
     "country": "Status Civitatis Vaticanae",
     "city": "Città del Vaticano",
-    "library": "Biblioteca Apostolica Vaticana ",
+    "library": "Biblioteca Apostolica Vaticana",
     "shelfmark": "Vat. lat. 1583",
     "concordances": [
       {
@@ -10497,5 +10497,27 @@
       "iiif": "https://digi.vatlib.it/iiif/MSS_Vat.lat.1583/manifest.json"
     },
     "notes": null
+  },
+  {
+    "id": 454,
+    "rism": "FIN-Hy",
+    "siglum_edition": null,
+    "country": "Suomi (Finland)",
+    "city": "Helsinki",
+    "library": "Kansalliskirjasto/Nationalbiblioteket",
+    "shelfmark": null,
+    "concordances": [
+      {
+        "abstract_item": "CB142",
+        "foliation": "131r-132r"
+      }
+    ],
+    "music": true,
+    "links": {
+      "catalogue": "https://www.doria.fi/handle/10024/33333?show=full",
+      "images": "https://digi.kansalliskirjasto.fi/teos/binding/2137915?page=1",
+      "iiif": "https://digi.kansalliskirjasto.fi/api/iiif/2137915/manifest"
+    },
+    "notes": "Piae cantiones ecclesiasticae et scholasticae (1582)"
   }
 ]

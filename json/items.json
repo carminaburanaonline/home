@@ -480,7 +480,7 @@
   },
   {
     "abstract_item": "CB027",
-    "source": 359,
+    "source": 356,
     "foliation": "157r-157v",
     "title": "Bonum est confidere",
     "id": "CB027_ebu",
@@ -1423,14 +1423,14 @@
   },
   {
     "abstract_item": "CB142",
-    "source": 109,
-    "foliation": "197r-198r",
+    "source": 454,
+    "foliation": "185-186",
     "title": "Tempus adest floridum",
     "id": "CB142_pc",
     "SVGfiles": 1,
-    "IIIF_canvasIndex": "",
+    "IIIF_canvasIndex": "201",
     "IIIF_canvasId": "",
-    "alternative_img_link": "https://digi.kansalliskirjasto.fi/teos/binding/2137915?page=201",
+    "alternative_img_link": "",
     "language": [
       1
     ]
