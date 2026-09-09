@@ -27,12 +27,12 @@ button,
 
 button:hover,
 .tablinks:hover {
-  background-color: #f0d870; /* dark yellow */
+  background-color: #87cefabb;
 }
 
 button.active,
 .tablinks.active {
-  background-color: #ffed7f !important; /* light yellow */
+  background-color: #87cefa77 !important;
 }
 
 button:focus {
@@ -88,7 +88,7 @@ button:focus {
 }
 
 .dropdown-menu button:hover {
-  background-color: #f0d870; /* dark yellow */
+  background-color: #87cefabb;
 }
 
 .dropdown:hover .dropdown-menu {
