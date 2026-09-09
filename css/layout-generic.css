@@ -134,7 +134,7 @@ main {
 .header-title {
   background-color: #f08050aa;
   font-family: Georgia;
-  align-items: center;
+  text-align: center;
   padding: 15px 0;
 }
 
