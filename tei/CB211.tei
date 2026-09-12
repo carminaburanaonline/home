@@ -239,10 +239,15 @@
             </w>
           </l>
           <l n="2" xml:id="CB211-l-14">
-            <w>
+            <app type="text">
+              <lem wit="HSB V T ldm">
+                <w>
               <seg type="syll" part="I">vel</seg>
               <seg type="syll" part="F">ut</seg>
             </w>
+              </lem>
+              <rdg wit="cod."><w>velud</w></rdg>
+            </app>
             <w>
               <seg type="syll" part="I">u</seg>
               <seg type="syll" part="F">ter</seg>
@@ -285,7 +290,9 @@
               <seg type="syll" part="I">pin</seg>
               <seg type="syll" part="F">guis</seg>
             </w>
-            <w>
+            <app type="text">
+              <lem wit="HSB V T ldm">
+                <w>
               <seg type="syll" part="I">ru</seg>
               <seg type="syll" part="F">bet</seg>
             </w>
@@ -293,6 +300,9 @@
               <seg type="syll" part="I">ge</seg>
               <seg type="syll" part="F">na</seg>
             </w>
+              </lem>
+              <rdg wit="cod."><w>rubent</w><w>iena</w></rdg>
+            </app>
           </l>
           <l n="5" xml:id="CB211-l-17">
             <w>
@@ -333,7 +343,7 @@
               <seg type="syll" part="M">te</seg>
               <seg type="syll" part="F">na</seg>
             </w>
-            <pc resp="#editor">&#187;.</pc>
+            <pc resp="#editor">.&#187;</pc>
           </l>
         </lg>
         <lg type="strophe" n="IV" met="8p/8p/8p/8p/8p/8p" rhyme="a/a/b/b/c/c" xml:id="CB211-lg-4">
@@ -400,9 +410,14 @@
               <seg type="syll" part="I">pu</seg>
               <seg type="syll" part="F">gnat</seg>
             </w>
-            <w>
+            <app type="text">
+              <lem>
+                <w>
               <seg type="syll">cum</seg>
             </w>
+              </lem>
+              <note>add. s.l. man. r. cod.</note>
+            </app>
             <w>
               <seg type="syll" part="I">me</seg>
               <seg type="syll" part="M">do</seg>
@@ -595,10 +610,15 @@
             <w>
               <seg type="syll">min</seg>
             </w>
-            <w>
+            <app type="text">
+              <lem>
+                <w>
               <seg type="syll" part="I">su&#868;n</seg>
               <seg type="syll" part="F">deg</seg>
             </w>
+              </lem>
+              <note>&#868; man. r. cod.</note>
+            </app>
             <w>
               <seg type="syll" part="I">u</seg>
               <seg type="syll" part="F">ge</seg>
@@ -612,10 +632,15 @@
             <w>
               <seg type="syll">daz</seg>
             </w>
-            <w>
+            <app type="text">
+              <lem>
+                <w>
               <seg type="syll" part="I">scho&#868;</seg>
               <seg type="syll" part="F">ne</seg>
             </w>
+              </lem>
+              <note>&#868; man. r. cod.</note>
+            </app>
             <w>
               <seg type="syll">lant</seg>
             </w>
