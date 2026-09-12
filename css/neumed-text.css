@@ -103,7 +103,6 @@
 .apparatus-in-text {
   position: relative;
   display: inline-flex;
-  gap: 8px;
 }
 
 .apparatus-in-text > .word + .word {
