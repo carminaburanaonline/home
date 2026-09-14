@@ -10,10 +10,11 @@ export async function renderAbstractItemPage() {
 
   const selectedItems = items.filter(i => i.abstract_item == abstractItemId);
 
-  const h3Title = document.createElement('h3');
-  h3Title.textContent = abstractItemId;
+  document.getElementById('abstractItemId').innerHTML = abstractItemId;
 
-  document.getElementById('metadata').append(h3Title);
+  const res = await fetch(`html/abstract_items_meta/${abstractItemId.replace('*', 'x')}.html`);
+  const html = await res.text();
+  document.getElementById('metadata').innerHTML = html;
 
   let table = document.getElementById('concordancesTable');
 

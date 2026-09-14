@@ -72,11 +72,11 @@ export async function renderItemPage() {
   // Setting filename and path for download options
   document.getElementById("tei-download").setAttribute("href", `tei/${itemId}.tei`);
   document.getElementById("tei-download").setAttribute("download", `${itemId}.tei`);
-  document.getElementById("html-download").setAttribute("href", `html/${itemId}.html`);
+  document.getElementById("html-download").setAttribute("href", `html/plain_html/${itemId}.html`);
   document.getElementById("html-download").setAttribute("download", `${itemId}.html`);
   document.getElementById("tei-download-french").setAttribute("href", `tei/${itemId}_PB.tei`);
   document.getElementById("tei-download-french").setAttribute("download", `${itemId}_french.tei`);
-  document.getElementById("html-download-french").setAttribute("href", `html/${itemId}_PB.html`);
+  document.getElementById("html-download-french").setAttribute("href", `html/plain_html/${itemId}_PB.html`);
   document.getElementById("html-download-french").setAttribute("download", `${itemId}_french.html`);
 
   // PDF download for the main item

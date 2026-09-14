@@ -69,6 +69,6 @@ def to_html(tei_file):
 if __name__ == "__main__":
 	for file in os.listdir('tei'):
 		if file.endswith('.tei'):
-			html_file = open('html/' + file[:-3] + "html", 'w')
+			html_file = open('html/plain_html/' + file[:-3] + "html", 'w')
 			html_file.write(to_html(file))
 			html_file.close()

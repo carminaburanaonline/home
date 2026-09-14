@@ -41,5 +41,12 @@
   "partners": "Partners",
   "practicalExploration": "Practical exploration",
   "performanceEdition": "Performance edition",
-  "recordings": "Recordings"
+  "recordings": "Recordings",
+  "authorText": "Author of the text",
+  "notatedWitnesses": "Notated witnesses",
+  "otherWitnesses": "Other non-notated witnesses",
+  "repertoires": "Repertoires",
+  "editionsText": "Editions of the text",
+  "editionsMusic": "Editions of the music",
+  "bibliography": "Bibliography"
 }
