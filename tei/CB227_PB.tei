@@ -2,7 +2,7 @@
   <teiHeader/>
   <text>
     <body>
-      <div type="drama">
+      <div type="drama" xml:lang="fr">
         <stage n="1">Au d&#233;but, qu&#8217;un si&#232;ge soit plac&#233; pour Augustin devant l&#8217;&#233;glise, et qu&#8217;Augustin ait &#224; sa droite Isa&#239;e et Daniel et les autres proph&#232;tes, et &#224; sa gauche le chef de la synagogue et ses Juifs. Ensuite, qu&#8217;Isa&#239;e se l&#232;ve avec sa proph&#233;tie, que voici :</stage>
         <sp n="1">
           <div type="poem">

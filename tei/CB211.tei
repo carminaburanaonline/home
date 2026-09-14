@@ -250,15 +250,10 @@
             <pc>&#183;</pc>
           </l>
           <l n="2" xml:id="CB211-l-14">
-            <app type="text">
-              <lem wit="HSB V T ldm">
-                <w>
-                  <seg type="syll" part="I">vel</seg>
-                  <seg type="syll" part="F">ut</seg>
-                </w>
-              </lem>
-              <rdg wit="cod."><w>velud</w></rdg>
-            </app>
+            <w>
+              <seg type="syll" part="I">vel</seg>
+              <seg type="syll" part="F">ud</seg>
+            </w>
             <w>
               <seg type="syll" part="I">u</seg>
               <seg type="syll" part="F">ter</seg>
@@ -577,10 +572,15 @@
               <seg type="syll" part="F">tum</seg>
             </w>
             <pc resp="#editor">,</pc>
-            <w>
-              <seg type="syll" part="I">su</seg>
-              <seg type="syll" part="F">per</seg>
-            </w>
+            <app type="text">
+              <lem wit="HS V T">
+                <w>
+                  <seg type="syll" part="I">su</seg>
+                  <seg type="syll" part="F">per</seg>
+                </w>
+              </lem>
+              <rdg wit="cod. ldm"><w>et</w><w>super</w></rdg>
+            </app>
             <w>
               <seg type="syll" part="I">es</seg>
               <seg type="syll" part="F">cam</seg>
@@ -606,7 +606,7 @@
             <pc resp="#editor">.&#187;</pc>
           </l>
         </lg>
-        <lg type="strophe" n="VI" met="4-/4/.4-/4/4/4/4" rhyme="a/b/a/b/c/c/c" xml:id="CB211-lg-6">
+        <lg type="strophe" n="VI" xml:lang="middle-high-german" met="4-/4/.4-/4/4/4/4" rhyme="a/b/a/b/c/c/c" xml:id="CB211-lg-6">
           <l n="1" xml:id="CB211-l-31">
             <w>
               <seg type="syll">Nu</seg>

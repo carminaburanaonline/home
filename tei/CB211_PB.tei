@@ -1,0 +1,49 @@
+<TEI>
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="poem" xml:lang="fr">
+        <lg type="strophe" n="I" xml:id="CB211_PB-lg-1">
+          <l n="1" xml:id="CB211_PB-l-1">Epicure crie bien haut :</l>
+          <l n="2" xml:id="CB211_PB-l-2">&#171; Un ventre plein, c&#8217;est le confort. &#187;</l>
+          <l n="3" xml:id="CB211_PB-l-3">Or mon dieu, ce sera mon ventre.</l>
+          <l n="4" xml:id="CB211_PB-l-4">L&#8217;app&#233;tit r&#233;clame un tel dieu,</l>
+          <l n="5" xml:id="CB211_PB-l-5">qui a pour temple la cuisine,</l>
+          <l n="6" xml:id="CB211_PB-l-6">d&#8217;o&#249; sortent des odeurs divines.</l>
+        </lg>
+        <lg type="strophe" n="II" xml:id="CB211_PB-lg-2">
+          <l n="1" xml:id="CB211_PB-l-7">&#199;&#224;, c&#8217;est un dieu bien opportun :</l>
+          <l n="2" xml:id="CB211_PB-l-8">jamais il ne demeure &#224; jeun,</l>
+          <l n="3" xml:id="CB211_PB-l-9">avant le repas du matin</l>
+          <l n="4" xml:id="CB211_PB-l-10">d&#233;j&#224; ivre il rote son vin,</l>
+          <l n="5" xml:id="CB211_PB-l-11">et sa table et son verre plein</l>
+          <l n="6" xml:id="CB211_PB-l-12">sont la vraie b&#233;atitude.</l>
+        </lg>
+        <lg type="strophe" n="III" xml:id="CB211_PB-lg-3">
+          <l n="1" xml:id="CB211_PB-l-13">Sa peau est toujours bien tendue</l>
+          <l n="2" xml:id="CB211_PB-l-14">comme une outre ou comme un bidon ;</l>
+          <l n="3" xml:id="CB211_PB-l-15">il joint d&#233;jeuner et d&#238;ner.</l>
+          <l n="4" xml:id="CB211_PB-l-16">Aussi sa joue est rubiconde</l>
+          <l n="5" xml:id="CB211_PB-l-17">et si jamais sa trique gonfle,</l>
+          <l n="6" xml:id="CB211_PB-l-18">elle est plus dure qu&#8217;un gourdin.</l>
+        </lg>
+        <lg type="strophe" n="IV" xml:id="CB211_PB-lg-4">
+          <l n="1" xml:id="CB211_PB-l-19">Pratiquer cette religion</l>
+          <l n="2" xml:id="CB211_PB-l-20">cause au ventre bien des tracas :</l>
+          <l n="3" xml:id="CB211_PB-l-21">le ventre rugit au combat</l>
+          <l n="4" xml:id="CB211_PB-l-22">de l&#8217;hydromel contre le vin.</l>
+          <l n="5" xml:id="CB211_PB-l-23">Belle est la vie &#224; ne rien faire,</l>
+          <l n="6" xml:id="CB211_PB-l-24">mais c&#8217;est le ventre qui op&#232;re.</l>
+        </lg>
+        <lg type="strophe" n="V" xml:id="CB211_PB-lg-5">
+          <l n="1" xml:id="CB211_PB-l-25">Le ventre dit : &#171; Rien ne m&#8217;importe</l>
+          <l n="2" xml:id="CB211_PB-l-26">sinon moi-m&#234;me ; je me conduis</l>
+          <l n="3" xml:id="CB211_PB-l-27">pour pouvoir bien paisiblement,</l>
+          <l n="4" xml:id="CB211_PB-l-28">en me traitant douillettement,</l>
+          <l n="5" xml:id="CB211_PB-l-29">apr&#232;s boire et apr&#232;s manger</l>
+          <l n="6" xml:id="CB211_PB-l-30">bien dormir et me reposer. &#187;</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
