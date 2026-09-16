@@ -1493,6 +1493,22 @@
   },
   {
     "id": 2,
+    "description": "Punctum liq.",
+    "pattern": null,
+    "locations": [
+      {
+        "file": "CB048",
+        "count": 2,
+        "ids": [
+          "CB048-l-20",
+          "CB048-l-46"
+        ]
+      }
+    ],
+    "total_count": 2
+  },
+  {
+    "id": 3,
     "description": "3 puncta",
     "pattern": null,
     "locations": [
@@ -1507,7 +1523,7 @@
     "total_count": 1
   },
   {
-    "id": 3,
+    "id": 4,
     "description": "Tractulus",
     "pattern": null,
     "locations": [
@@ -1554,7 +1570,7 @@
     "total_count": 11
   },
   {
-    "id": 4,
+    "id": 5,
     "description": "Stropha",
     "pattern": null,
     "locations": [
@@ -1599,7 +1615,7 @@
     "total_count": 7
   },
   {
-    "id": 5,
+    "id": 6,
     "description": "Distropha",
     "pattern": null,
     "locations": [
@@ -1853,7 +1869,7 @@
     "total_count": 121
   },
   {
-    "id": 6,
+    "id": 7,
     "description": "Tristropha",
     "pattern": null,
     "locations": [
@@ -1868,7 +1884,7 @@
     "total_count": 1
   },
   {
-    "id": 7,
+    "id": 8,
     "description": "Virga",
     "pattern": null,
     "locations": [
@@ -3525,7 +3541,7 @@
     "total_count": 6611
   },
   {
-    "id": 8,
+    "id": 9,
     "description": "Virga liq.",
     "pattern": null,
     "locations": [
@@ -3953,7 +3969,7 @@
     "total_count": 263
   },
   {
-    "id": 9,
+    "id": 10,
     "description": "Special virga (?)",
     "pattern": null,
     "locations": [
@@ -4030,7 +4046,7 @@
     "total_count": 31
   },
   {
-    "id": 10,
+    "id": 11,
     "description": "Virga + oriscus",
     "pattern": null,
     "locations": [
@@ -4202,7 +4218,7 @@
     "total_count": 75
   },
   {
-    "id": 11,
+    "id": 12,
     "description": "Virga + oriscus + 1 subpunctum",
     "pattern": null,
     "locations": [
@@ -4326,7 +4342,7 @@
     "total_count": 78
   },
   {
-    "id": 12,
+    "id": 13,
     "description": "Virga + oriscus + 1 subpunctum + stropha",
     "pattern": null,
     "locations": [
@@ -4341,7 +4357,7 @@
     "total_count": 1
   },
   {
-    "id": 13,
+    "id": 14,
     "description": "Virga + oriscus + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -4363,7 +4379,7 @@
     "total_count": 2
   },
   {
-    "id": 14,
+    "id": 15,
     "description": "Virga + oriscus + 2 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -4378,7 +4394,7 @@
     "total_count": 1
   },
   {
-    "id": 15,
+    "id": 16,
     "description": "Virga + 1 subpunctum",
     "pattern": null,
     "locations": [
@@ -4394,14 +4410,14 @@
     "total_count": 2
   },
   {
-    "id": 16,
+    "id": 17,
     "description": "Virga liq. + 1 subpunctum",
     "pattern": null,
     "locations": [],
     "total_count": 0
   },
   {
-    "id": 17,
+    "id": 18,
     "description": "Virga liq. + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -4416,7 +4432,7 @@
     "total_count": 1
   },
   {
-    "id": 18,
+    "id": 19,
     "description": "Virga + 1 subpunctum + substropha",
     "pattern": null,
     "locations": [
@@ -4444,7 +4460,7 @@
     "total_count": 8
   },
   {
-    "id": 19,
+    "id": 20,
     "description": "Virga + 3 subpuncta",
     "pattern": null,
     "locations": [
@@ -4667,7 +4683,7 @@
     "total_count": 132
   },
   {
-    "id": 20,
+    "id": 21,
     "description": "Virga + 2 subpuncta + substropha",
     "pattern": null,
     "locations": [
@@ -4699,7 +4715,7 @@
     "total_count": 12
   },
   {
-    "id": 21,
+    "id": 22,
     "description": "Virga + 3 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -4757,7 +4773,7 @@
     "total_count": 14
   },
   {
-    "id": 22,
+    "id": 23,
     "description": "Virga + 4 subpuncta",
     "pattern": null,
     "locations": [
@@ -4805,7 +4821,7 @@
     "total_count": 11
   },
   {
-    "id": 23,
+    "id": 24,
     "description": "Virga + 3 subpuncta + epiphonus",
     "pattern": null,
     "locations": [
@@ -4827,7 +4843,7 @@
     "total_count": 8
   },
   {
-    "id": 24,
+    "id": 25,
     "description": "Virga + 3 subpuncta + substropha",
     "pattern": null,
     "locations": [
@@ -4850,7 +4866,7 @@
     "total_count": 3
   },
   {
-    "id": 25,
+    "id": 26,
     "description": "Virga + 4 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -4865,7 +4881,7 @@
     "total_count": 1
   },
   {
-    "id": 26,
+    "id": 27,
     "description": "Virga + 5 subpuncta",
     "pattern": null,
     "locations": [
@@ -4880,7 +4896,7 @@
     "total_count": 1
   },
   {
-    "id": 27,
+    "id": 28,
     "description": "Virga with stroke",
     "pattern": null,
     "locations": [
@@ -4930,7 +4946,7 @@
     "total_count": 12
   },
   {
-    "id": 28,
+    "id": 29,
     "description": "Virga liq. with stroke",
     "pattern": null,
     "locations": [
@@ -4945,7 +4961,7 @@
     "total_count": 1
   },
   {
-    "id": 29,
+    "id": 30,
     "description": "Virga + 2 subpuncta + substropha + stropha",
     "pattern": null,
     "locations": [
@@ -4961,7 +4977,7 @@
     "total_count": 2
   },
   {
-    "id": 30,
+    "id": 31,
     "description": "Epiphonus",
     "pattern": null,
     "locations": [
@@ -5139,7 +5155,7 @@
     "total_count": 83
   },
   {
-    "id": 31,
+    "id": 32,
     "description": "1 prepunctum + epiphonus",
     "pattern": null,
     "locations": [
@@ -5169,7 +5185,7 @@
     "total_count": 10
   },
   {
-    "id": 32,
+    "id": 33,
     "description": "Pes",
     "pattern": null,
     "locations": [
@@ -5723,7 +5739,7 @@
     "total_count": 560
   },
   {
-    "id": 33,
+    "id": 34,
     "description": "Pes liq.",
     "pattern": null,
     "locations": [
@@ -5796,7 +5812,7 @@
     "total_count": 17
   },
   {
-    "id": 34,
+    "id": 35,
     "description": "Pes + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -5938,7 +5954,7 @@
     "total_count": 63
   },
   {
-    "id": 35,
+    "id": 36,
     "description": "Pes + 1 subpunctum + substropha",
     "pattern": null,
     "locations": [
@@ -5953,7 +5969,7 @@
     "total_count": 1
   },
   {
-    "id": 36,
+    "id": 37,
     "description": "Pes + 2 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -5992,7 +6008,7 @@
     "total_count": 7
   },
   {
-    "id": 37,
+    "id": 38,
     "description": "Pes + 3 subpuncta",
     "pattern": null,
     "locations": [
@@ -6062,7 +6078,7 @@
     "total_count": 14
   },
   {
-    "id": 38,
+    "id": 39,
     "description": "Pes + 2 subpuncta + substropha",
     "pattern": null,
     "locations": [
@@ -6084,7 +6100,7 @@
     "total_count": 2
   },
   {
-    "id": 39,
+    "id": 40,
     "description": "Pes + 3 subpuncta + substropha",
     "pattern": null,
     "locations": [
@@ -6099,7 +6115,7 @@
     "total_count": 1
   },
   {
-    "id": 40,
+    "id": 41,
     "description": "Pes + 3 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -6128,7 +6144,7 @@
     "total_count": 3
   },
   {
-    "id": 41,
+    "id": 42,
     "description": "Pes + 2 subpuncta + substropha + stropha",
     "pattern": null,
     "locations": [
@@ -6143,7 +6159,7 @@
     "total_count": 1
   },
   {
-    "id": 42,
+    "id": 43,
     "description": "Pes + 4 subpuncta",
     "pattern": null,
     "locations": [
@@ -6158,7 +6174,7 @@
     "total_count": 1
   },
   {
-    "id": 43,
+    "id": 44,
     "description": "Pes + 4 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -6173,7 +6189,7 @@
     "total_count": 1
   },
   {
-    "id": 44,
+    "id": 45,
     "description": "1 prepunctum + pes",
     "pattern": null,
     "locations": [
@@ -6211,7 +6227,7 @@
     "total_count": 6
   },
   {
-    "id": 45,
+    "id": 46,
     "description": "1 prepunctum + pes liq.",
     "pattern": null,
     "locations": [
@@ -6226,7 +6242,7 @@
     "total_count": 1
   },
   {
-    "id": 46,
+    "id": 47,
     "description": "1 prepunctum + pes + 3 subpuncta",
     "pattern": null,
     "locations": [
@@ -6241,14 +6257,14 @@
     "total_count": 1
   },
   {
-    "id": 47,
+    "id": 48,
     "description": "2 prepuncta + pes",
     "pattern": null,
     "locations": [],
     "total_count": 0
   },
   {
-    "id": 48,
+    "id": 49,
     "description": "Torculus resupinus",
     "pattern": null,
     "locations": [
@@ -6304,7 +6320,7 @@
     "total_count": 13
   },
   {
-    "id": 49,
+    "id": 50,
     "description": "Pes + oriscus",
     "pattern": null,
     "locations": [
@@ -6326,7 +6342,7 @@
     "total_count": 2
   },
   {
-    "id": 50,
+    "id": 51,
     "description": "Pes + oriscus + 1 subpunctum",
     "pattern": null,
     "locations": [
@@ -6342,7 +6358,7 @@
     "total_count": 2
   },
   {
-    "id": 51,
+    "id": 52,
     "description": "Ancus",
     "pattern": null,
     "locations": [
@@ -6357,7 +6373,7 @@
     "total_count": 1
   },
   {
-    "id": 52,
+    "id": 53,
     "description": "Clivis",
     "pattern": null,
     "locations": [
@@ -7175,7 +7191,7 @@
     "total_count": 933
   },
   {
-    "id": 53,
+    "id": 54,
     "description": "Clivis liq.",
     "pattern": null,
     "locations": [
@@ -7221,7 +7237,7 @@
     "total_count": 8
   },
   {
-    "id": 54,
+    "id": 55,
     "description": "Clivis with stroke above",
     "pattern": null,
     "locations": [
@@ -7255,7 +7271,7 @@
     "total_count": 14
   },
   {
-    "id": 55,
+    "id": 56,
     "description": "Clivis with stroke",
     "pattern": null,
     "locations": [
@@ -7280,7 +7296,7 @@
     "total_count": 5
   },
   {
-    "id": 56,
+    "id": 57,
     "description": "Clivis + stropha",
     "pattern": null,
     "locations": [
@@ -7325,7 +7341,7 @@
     "total_count": 7
   },
   {
-    "id": 57,
+    "id": 58,
     "description": "Clivis liq. + stropha",
     "pattern": null,
     "locations": [
@@ -7340,7 +7356,7 @@
     "total_count": 1
   },
   {
-    "id": 58,
+    "id": 59,
     "description": "1 prepunctum + clivis",
     "pattern": null,
     "locations": [
@@ -7355,7 +7371,7 @@
     "total_count": 1
   },
   {
-    "id": 59,
+    "id": 60,
     "description": "2 prepuncta + clivis",
     "pattern": null,
     "locations": [
@@ -7401,7 +7417,7 @@
     "total_count": 8
   },
   {
-    "id": 60,
+    "id": 61,
     "description": "2 prepuncta + clivis + stropha",
     "pattern": null,
     "locations": [
@@ -7417,7 +7433,7 @@
     "total_count": 2
   },
   {
-    "id": 61,
+    "id": 62,
     "description": "Clivis + 1 subpunctum",
     "pattern": null,
     "locations": [
@@ -7434,7 +7450,7 @@
     "total_count": 3
   },
   {
-    "id": 62,
+    "id": 63,
     "description": "Clivis + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -7478,7 +7494,7 @@
     "total_count": 6
   },
   {
-    "id": 63,
+    "id": 64,
     "description": "Clivis + 2 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -7493,7 +7509,7 @@
     "total_count": 1
   },
   {
-    "id": 64,
+    "id": 65,
     "description": "Clivis + 3 subpuncta",
     "pattern": null,
     "locations": [
@@ -7508,7 +7524,7 @@
     "total_count": 1
   },
   {
-    "id": 65,
+    "id": 66,
     "description": "Torculus",
     "pattern": null,
     "locations": [
@@ -7699,7 +7715,7 @@
     "total_count": 125
   },
   {
-    "id": 66,
+    "id": 67,
     "description": "Torculus liq.",
     "pattern": null,
     "locations": [
@@ -7715,7 +7731,7 @@
     "total_count": 2
   },
   {
-    "id": 67,
+    "id": 68,
     "description": "Torculus + 1 subpunctum",
     "pattern": null,
     "locations": [
@@ -7737,7 +7753,7 @@
     "total_count": 2
   },
   {
-    "id": 68,
+    "id": 69,
     "description": "Torculus + oriscus",
     "pattern": null,
     "locations": [
@@ -7752,7 +7768,7 @@
     "total_count": 1
   },
   {
-    "id": 69,
+    "id": 70,
     "description": "Torculus + oriscus + 1 subpunctum",
     "pattern": null,
     "locations": [
@@ -7775,7 +7791,7 @@
     "total_count": 3
   },
   {
-    "id": 70,
+    "id": 71,
     "description": "1 prepunctum + torculus",
     "pattern": null,
     "locations": [
@@ -7790,7 +7806,7 @@
     "total_count": 1
   },
   {
-    "id": 71,
+    "id": 72,
     "description": "Porrectus",
     "pattern": null,
     "locations": [
@@ -7997,7 +8013,7 @@
     "total_count": 117
   },
   {
-    "id": 72,
+    "id": 73,
     "description": "2 prepuncta + porrectus",
     "pattern": null,
     "locations": [
@@ -8012,7 +8028,7 @@
     "total_count": 1
   },
   {
-    "id": 73,
+    "id": 74,
     "description": "Porrectus liq.",
     "pattern": null,
     "locations": [
@@ -8027,7 +8043,7 @@
     "total_count": 1
   },
   {
-    "id": 74,
+    "id": 75,
     "description": "Porrectus + oriscus + 1 subpunctum",
     "pattern": null,
     "locations": [
@@ -8042,7 +8058,7 @@
     "total_count": 1
   },
   {
-    "id": 75,
+    "id": 76,
     "description": "Quilisma 2 loops + virga",
     "pattern": null,
     "locations": [
@@ -8201,7 +8217,7 @@
     "total_count": 87
   },
   {
-    "id": 76,
+    "id": 77,
     "description": "Quilisma 2 loops + virga liq.",
     "pattern": null,
     "locations": [
@@ -8233,7 +8249,7 @@
     "total_count": 6
   },
   {
-    "id": 77,
+    "id": 78,
     "description": "Quilisma 2 loops + virga + stropha",
     "pattern": null,
     "locations": [
@@ -8248,7 +8264,7 @@
     "total_count": 1
   },
   {
-    "id": 78,
+    "id": 79,
     "description": "Quilisma 2 loops + clivis",
     "pattern": null,
     "locations": [
@@ -8345,7 +8361,7 @@
     "total_count": 42
   },
   {
-    "id": 79,
+    "id": 80,
     "description": "Quilisma 2 loops + clivis liq.",
     "pattern": null,
     "locations": [
@@ -8361,7 +8377,7 @@
     "total_count": 2
   },
   {
-    "id": 80,
+    "id": 81,
     "description": "Quilisma 2 loops + clivis + 1 subpunctum",
     "pattern": null,
     "locations": [
@@ -8386,7 +8402,7 @@
     "total_count": 5
   },
   {
-    "id": 81,
+    "id": 82,
     "description": "Quilisma 2 loops + clivis + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -8401,7 +8417,7 @@
     "total_count": 1
   },
   {
-    "id": 82,
+    "id": 83,
     "description": "1 prepunctum + quilisma 2 loops + clivis + 1 subpunctum + stropha",
     "pattern": null,
     "locations": [
@@ -8416,7 +8432,7 @@
     "total_count": 1
   },
   {
-    "id": 83,
+    "id": 84,
     "description": "1 prepunctum + quilisma 2 loops + clivis",
     "pattern": null,
     "locations": [
@@ -8432,7 +8448,7 @@
     "total_count": 2
   },
   {
-    "id": 84,
+    "id": 85,
     "description": "Quilisma 2 loops + clivis + stropha",
     "pattern": null,
     "locations": [
@@ -8456,7 +8472,7 @@
     "total_count": 4
   },
   {
-    "id": 85,
+    "id": 86,
     "description": "1 prepunctum + quilisma 2 loops + clivis + stropha",
     "pattern": null,
     "locations": [
@@ -8473,7 +8489,7 @@
     "total_count": 3
   },
   {
-    "id": 86,
+    "id": 87,
     "description": "Quilisma 2 loops + porrectus",
     "pattern": null,
     "locations": [
@@ -8500,14 +8516,14 @@
     "total_count": 12
   },
   {
-    "id": 87,
+    "id": 88,
     "description": "1 prepunctum + quilisma 2 loops + clivis liq.",
     "pattern": null,
     "locations": [],
     "total_count": 0
   },
   {
-    "id": 88,
+    "id": 89,
     "description": "Quilisma 2 loops + virga + oriscus",
     "pattern": null,
     "locations": [
@@ -8524,14 +8540,14 @@
     "total_count": 4
   },
   {
-    "id": 89,
+    "id": 90,
     "description": "Quilisma 2 loops + virga + oriscus + 1 subpunctum",
     "pattern": null,
     "locations": [],
     "total_count": 0
   },
   {
-    "id": 90,
+    "id": 91,
     "description": "Quilisma 2 loops + virga + oriscus liq.",
     "pattern": null,
     "locations": [
@@ -8555,7 +8571,7 @@
     "total_count": 4
   },
   {
-    "id": 91,
+    "id": 92,
     "description": "Quilisma 2 loops + virga + oriscus liq. + 1 subpunctum",
     "pattern": null,
     "locations": [
@@ -8570,7 +8586,7 @@
     "total_count": 1
   },
   {
-    "id": 92,
+    "id": 93,
     "description": "1 prepunctum + quilisma 2 loops + virga + oriscus liq. + 1 substropha",
     "pattern": null,
     "locations": [
@@ -8585,7 +8601,7 @@
     "total_count": 1
   },
   {
-    "id": 93,
+    "id": 94,
     "description": "1 prepunctum + quilisma 2 loops + virga",
     "pattern": null,
     "locations": [
@@ -8624,7 +8640,7 @@
     "total_count": 13
   },
   {
-    "id": 94,
+    "id": 95,
     "description": "Quilisma 2 loops + virga + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -8709,7 +8725,7 @@
     "total_count": 39
   },
   {
-    "id": 95,
+    "id": 96,
     "description": "1 prepunctum + quilisma 2 loops + virga + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -8725,7 +8741,7 @@
     "total_count": 2
   },
   {
-    "id": 96,
+    "id": 97,
     "description": "Quilisma 2 loops + virga + 1 subpunctum + substropha",
     "pattern": null,
     "locations": [
@@ -8747,7 +8763,7 @@
     "total_count": 2
   },
   {
-    "id": 97,
+    "id": 98,
     "description": "1 prepunctum + quilisma 2 loops + virga + 1 subpunctum + substropha",
     "pattern": null,
     "locations": [
@@ -8764,7 +8780,7 @@
     "total_count": 3
   },
   {
-    "id": 98,
+    "id": 99,
     "description": "Quilisma 2 loops + virga + 2 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -8787,7 +8803,7 @@
     "total_count": 3
   },
   {
-    "id": 99,
+    "id": 100,
     "description": "1 prepunctum + quilisma 2 loops + virga + 2 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -8804,7 +8820,7 @@
     "total_count": 3
   },
   {
-    "id": 100,
+    "id": 101,
     "description": "Quilisma 2 loops + virga + 3 subpuncta",
     "pattern": null,
     "locations": [
@@ -8837,7 +8853,7 @@
     "total_count": 7
   },
   {
-    "id": 101,
+    "id": 102,
     "description": "Quilisma 2 loops + virga + 2 subpuncta + substropha",
     "pattern": null,
     "locations": [
@@ -8854,7 +8870,7 @@
     "total_count": 3
   },
   {
-    "id": 102,
+    "id": 103,
     "description": "1 prepunctum + quilisma 2 loops + virga + 2 subpuncta + substropha",
     "pattern": null,
     "locations": [
@@ -8869,7 +8885,7 @@
     "total_count": 1
   },
   {
-    "id": 103,
+    "id": 104,
     "description": "Quilisma 2 loops + virga + 3 subpuncta + substropha",
     "pattern": null,
     "locations": [
@@ -8884,7 +8900,7 @@
     "total_count": 1
   },
   {
-    "id": 104,
+    "id": 105,
     "description": "Quilisma 2 loops + virga + 4 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -8899,14 +8915,14 @@
     "total_count": 1
   },
   {
-    "id": 105,
+    "id": 106,
     "description": "Quilisma 2 loops + ancus + 2 subpuncta",
     "pattern": null,
     "locations": [],
     "total_count": 0
   },
   {
-    "id": 106,
+    "id": 107,
     "description": "Quilisma 3 loops + virga",
     "pattern": null,
     "locations": [
@@ -9054,7 +9070,7 @@
     "total_count": 70
   },
   {
-    "id": 107,
+    "id": 108,
     "description": "Quilisma 3 loops + virga liq.",
     "pattern": null,
     "locations": [
@@ -9077,7 +9093,7 @@
     "total_count": 3
   },
   {
-    "id": 108,
+    "id": 109,
     "description": "Quilisma 3 loops + ancus",
     "pattern": null,
     "locations": [
@@ -9092,7 +9108,7 @@
     "total_count": 1
   },
   {
-    "id": 109,
+    "id": 110,
     "description": "Quilisma 3 loops + clivis",
     "pattern": null,
     "locations": [
@@ -9181,7 +9197,7 @@
     "total_count": 36
   },
   {
-    "id": 110,
+    "id": 111,
     "description": "Quilisma 3 loops + clivis liq.",
     "pattern": null,
     "locations": [
@@ -9206,7 +9222,7 @@
     "total_count": 5
   },
   {
-    "id": 111,
+    "id": 112,
     "description": "Quilisma 3 loops + clivis + substropha",
     "pattern": null,
     "locations": [
@@ -9221,7 +9237,7 @@
     "total_count": 1
   },
   {
-    "id": 112,
+    "id": 113,
     "description": "1 prepunctum + quilisma 3 loops + clivis",
     "pattern": null,
     "locations": [
@@ -9236,7 +9252,7 @@
     "total_count": 1
   },
   {
-    "id": 113,
+    "id": 114,
     "description": "1 prepunctum + quilisma 3 loops + clivis + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -9251,7 +9267,7 @@
     "total_count": 1
   },
   {
-    "id": 114,
+    "id": 115,
     "description": "Quilisma 3 loops + clivis + 1 subpunctum",
     "pattern": null,
     "locations": [
@@ -9273,7 +9289,7 @@
     "total_count": 2
   },
   {
-    "id": 115,
+    "id": 116,
     "description": "Quilisma 3 loops + clivis + stropha",
     "pattern": null,
     "locations": [
@@ -9291,7 +9307,7 @@
     "total_count": 4
   },
   {
-    "id": 116,
+    "id": 117,
     "description": "1 prepunctum + quilisma 3 loops + clivis + stropha",
     "pattern": null,
     "locations": [
@@ -9306,7 +9322,7 @@
     "total_count": 1
   },
   {
-    "id": 117,
+    "id": 118,
     "description": "Quilisma 3 loops + porrectus",
     "pattern": null,
     "locations": [
@@ -9360,7 +9376,7 @@
     "total_count": 10
   },
   {
-    "id": 118,
+    "id": 119,
     "description": "1 prepunctum + quilisma 3 loops + porrectus",
     "pattern": null,
     "locations": [
@@ -9375,7 +9391,7 @@
     "total_count": 1
   },
   {
-    "id": 119,
+    "id": 120,
     "description": "Quilisma 3 loops + virga + oriscus",
     "pattern": null,
     "locations": [
@@ -9398,7 +9414,7 @@
     "total_count": 5
   },
   {
-    "id": 120,
+    "id": 121,
     "description": "Quilisma 3 loops + virga + oriscus liq.",
     "pattern": null,
     "locations": [
@@ -9416,14 +9432,14 @@
     "total_count": 4
   },
   {
-    "id": 121,
+    "id": 122,
     "description": "Quilisma 3 loops + virga + oriscus + 1 subpunctum",
     "pattern": null,
     "locations": [],
     "total_count": 0
   },
   {
-    "id": 122,
+    "id": 123,
     "description": "Quilisma 3 loops + virga + oriscus liq. + 1 subpunctum",
     "pattern": null,
     "locations": [
@@ -9438,7 +9454,7 @@
     "total_count": 1
   },
   {
-    "id": 123,
+    "id": 124,
     "description": "Quilisma 3 loops + virga + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -9483,7 +9499,7 @@
     "total_count": 13
   },
   {
-    "id": 124,
+    "id": 125,
     "description": "1 prepunctum + quilisma 3 loops + virga + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -9498,7 +9514,7 @@
     "total_count": 1
   },
   {
-    "id": 125,
+    "id": 126,
     "description": "Quilisma 3 loops + virga + 1 subpunctum + substropha",
     "pattern": null,
     "locations": [
@@ -9515,7 +9531,7 @@
     "total_count": 3
   },
   {
-    "id": 126,
+    "id": 127,
     "description": "Quilisma 3 loops + virga + 3 subpuncta",
     "pattern": null,
     "locations": [
@@ -9554,7 +9570,7 @@
     "total_count": 7
   },
   {
-    "id": 127,
+    "id": 128,
     "description": "Quilisma 3 loops + virga + 2 subpuncta + substropha",
     "pattern": null,
     "locations": [
@@ -9575,7 +9591,7 @@
     "total_count": 8
   },
   {
-    "id": 128,
+    "id": 129,
     "description": "1 prepunctum + quilisma 3 loops + virga + 2 subpuncta + substropha",
     "pattern": null,
     "locations": [
@@ -9590,7 +9606,7 @@
     "total_count": 1
   },
   {
-    "id": 129,
+    "id": 130,
     "description": "Quilisma 3 loops + virga + 2 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -9612,7 +9628,7 @@
     "total_count": 2
   },
   {
-    "id": 130,
+    "id": 131,
     "description": "1 prepunctum + quilisma 3 loops + virga + 2 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -9628,7 +9644,7 @@
     "total_count": 2
   },
   {
-    "id": 131,
+    "id": 132,
     "description": "1 prepunctum + Quilisma 3 loops + virga + 2 subpuncta + substropha",
     "pattern": null,
     "locations": [
@@ -9643,7 +9659,7 @@
     "total_count": 1
   },
   {
-    "id": 132,
+    "id": 133,
     "description": "1 prepunctum + Quilisma 3 loops + virga",
     "pattern": null,
     "locations": [
@@ -9662,7 +9678,7 @@
     "total_count": 5
   },
   {
-    "id": 133,
+    "id": 134,
     "description": "Quilisma 4 loops + virga",
     "pattern": null,
     "locations": [
@@ -9684,7 +9700,7 @@
     "total_count": 2
   },
   {
-    "id": 134,
+    "id": 135,
     "description": "Quilisma 4 loops + virga + 3 subpuncta",
     "pattern": null,
     "locations": [
@@ -9699,7 +9715,7 @@
     "total_count": 1
   },
   {
-    "id": 135,
+    "id": 136,
     "description": "Virga + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -10273,7 +10289,7 @@
     "total_count": 564
   },
   {
-    "id": 136,
+    "id": 137,
     "description": "Virga with stroke + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -10295,7 +10311,7 @@
     "total_count": 2
   },
   {
-    "id": 137,
+    "id": 138,
     "description": "Virga + 2 subpuncta + epiphonus",
     "pattern": null,
     "locations": [
@@ -10320,7 +10336,7 @@
     "total_count": 11
   },
   {
-    "id": 138,
+    "id": 139,
     "description": "Virga + 2 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -10493,7 +10509,7 @@
     "total_count": 88
   },
   {
-    "id": 139,
+    "id": 140,
     "description": "Virga + 2 subpuncta + stropha + oriscus + 1subpunctum",
     "pattern": null,
     "locations": [
@@ -10524,7 +10540,7 @@
     "total_count": 5
   },
   {
-    "id": 140,
+    "id": 141,
     "description": "2 prepuncta + virga",
     "pattern": null,
     "locations": [
@@ -10644,7 +10660,7 @@
     "total_count": 48
   },
   {
-    "id": 141,
+    "id": 142,
     "description": "2 prepuncta + virga liq.",
     "pattern": null,
     "locations": [
@@ -10659,7 +10675,7 @@
     "total_count": 1
   },
   {
-    "id": 142,
+    "id": 143,
     "description": "2 prepuncta + virga + 2 subpuncta",
     "pattern": null,
     "locations": [
@@ -10688,7 +10704,7 @@
     "total_count": 4
   },
   {
-    "id": 143,
+    "id": 144,
     "description": "2 prepuncta + virga + 2 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -10716,7 +10732,7 @@
     "total_count": 9
   },
   {
-    "id": 144,
+    "id": 145,
     "description": "2 prepuncta + virga + 3 subpuncta",
     "pattern": null,
     "locations": [
@@ -10740,7 +10756,7 @@
     "total_count": 4
   },
   {
-    "id": 145,
+    "id": 146,
     "description": "2 prepuncta + virga + 3 subpuncta + stropha",
     "pattern": null,
     "locations": [
@@ -10755,14 +10771,14 @@
     "total_count": 1
   },
   {
-    "id": 146,
+    "id": 147,
     "description": "2 prepuncta + virga + 6 subpuncta",
     "pattern": null,
     "locations": [],
     "total_count": 0
   },
   {
-    "id": 147,
+    "id": 148,
     "description": "1 prepunctum + tractulus + virga",
     "pattern": null,
     "locations": [
@@ -10798,7 +10814,7 @@
     "total_count": 10
   },
   {
-    "id": 148,
+    "id": 149,
     "description": "1 prepunctum + tractulus + quilisma 3 loops + virga",
     "pattern": null,
     "locations": [
@@ -10817,7 +10833,7 @@
     "total_count": 5
   },
   {
-    "id": 149,
+    "id": 150,
     "description": "Trigonus",
     "pattern": null,
     "locations": [
