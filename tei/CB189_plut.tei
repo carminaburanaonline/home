@@ -24,7 +24,8 @@
             <pc resp="#editor">.</pc>
           </l>
           <l n="4" xml:id="CB189_plut-l-4">
-            <w>&#8216;Quid</w>
+            <pc resp="#editor" pre="true">&#8216;</pc>
+            <w>Quid</w>
             <w>Rome</w>
             <w>faciam</w>
             <pc>&#61936;</pc>
@@ -34,7 +35,7 @@
             <w>Mentiri</w>
             <w>nescio</w>
             <pc>&#183;</pc>
-            <pc resp="#editor">&#8217;.</pc>
+            <pc resp="#editor">.&#8217;</pc>
           </l>
           <l n="6" xml:id="CB189_plut-l-6">
             <w>Potentum</w>

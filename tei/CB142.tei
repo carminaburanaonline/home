@@ -315,8 +315,9 @@
         <lg type="strophe" n="III" met="7pp+6p/.7pp+6p/7pp+6p/7pp+6p" rhyme="a/a/a/a" xml:id="CB142-lg-3">
           <l n="1" rhyme="b+a" xml:id="CB142-l-9">
             <seg type="hemistich">
+              <pc resp="#editor" pre="true">&#171;</pc>
               <w>
-                <seg type="syll">&#171;O</seg>
+                <seg type="syll">O</seg>
               </w>
               <w>
                 <seg type="syll" part="I">di</seg>

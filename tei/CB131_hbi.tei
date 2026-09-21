@@ -940,8 +940,9 @@
             <pc resp="#editor">:</pc>
           </l>
           <l n="2" xml:id="CB131_hbi-l-26">
+            <pc resp="#editor" pre="true">&#171;</pc>
             <w>
-              <seg type="syll" part="I">&#171;Ho<notatedMusic>
+              <seg type="syll" part="I">Ho<notatedMusic>
                   <neume fontname="buranus" glyph.num="33" label="pe"/>
                 </notatedMusic>
               </seg>

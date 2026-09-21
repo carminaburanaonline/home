@@ -611,8 +611,8 @@
               </notatedMusic>
               </seg>
             </w>
+            <pc>&#183;</pc>
           </l>
-          <pc>&#183;</pc>
           <l n="2" xml:id="CB048-l-13">
             <w>
               <seg type="syll" part="I">post<notatedMusic>
@@ -706,13 +706,16 @@
             <pc resp="#editor">.</pc>
           </l>
           <l n="4" met="[10pp]" xml:id="CB048-l-15">
-            <w>[...]</w>
+            <w></w>
+            <pc resp="#editor">[...]</pc>
           </l>
           <l n="5" met="[5pp]" xml:id="CB048-l-16">
-            <w>[...]</w>
+            <w></w>
+            <pc resp="#editor">[...]</pc>
           </l>
           <l n="6" met="[10pp]" xml:id="CB048-l-17">
-            <w>[...]</w>
+            <w></w>
+            <pc resp="#editor">[...]</pc>
           </l>
           <l n="7" xml:id="CB048-l-18">
             <w>

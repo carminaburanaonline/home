@@ -76,7 +76,8 @@
           </l>
           <l n="2" met="7pp+7pp" xml:id="CB090_5539-l-6">
             <seg type="hemistich">
-              <w>&#171;quid</w>
+              <pc resp="#editor" pre="true">&#171;</pc>
+              <w>quid</w>
               <w>tu</w>
               <w>facis</w>
               <pc resp="#editor">,</pc>

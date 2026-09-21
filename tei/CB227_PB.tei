@@ -3,8 +3,8 @@
   <text>
     <body>
       <div type="drama" xml:lang="fr">
-        <stage n="1">Au d&#233;but, qu&#8217;un si&#232;ge soit plac&#233; pour Augustin devant l&#8217;&#233;glise, et qu&#8217;Augustin ait &#224; sa droite Isa&#239;e et Daniel et les autres proph&#232;tes, et &#224; sa gauche le chef de la synagogue et ses Juifs. Ensuite, qu&#8217;Isa&#239;e se l&#232;ve avec sa proph&#233;tie, que voici :</stage>
-        <sp n="1">
+        <stage n="1" xml:id="CB227_PB-stage-1">Au d&#233;but, qu&#8217;un si&#232;ge soit plac&#233; pour Augustin devant l&#8217;&#233;glise, et qu&#8217;Augustin ait &#224; sa droite Isa&#239;e et Daniel et les autres proph&#232;tes, et &#224; sa gauche le chef de la synagogue et ses Juifs. Ensuite, qu&#8217;Isa&#239;e se l&#232;ve avec sa proph&#233;tie, que voici :</stage>
+        <sp n="1" xml:id="CB227_PB-sp-1">
           <div type="poem">
             <lg type="strophe" xml:id="CB227_PB-lg-1">
               <l n="1" xml:id="CB227_PB-l-1">
@@ -26,16 +26,16 @@
             </lg>
           </div>
         </sp>
-        <stage n="2">Ensuite :</stage>
-        <sp n="2">
+        <stage n="2" xml:id="CB227_PB-stage-2">Ensuite :</stage>
+        <sp n="2" xml:id="CB227_PB-sp-2">
           <p xml:id="CB227_PB-p-1">Voil&#224; qu&#8217;une vierge concevra...</p>
         </sp>
-        <stage n="3">Qu&#8217;il chante encore :</stage>
-        <sp n="3">
+        <stage n="3" xml:id="CB227_PB-stage-3">Qu&#8217;il chante encore :</stage>
+        <sp n="3" xml:id="CB227_PB-sp-3">
           <p xml:id="CB227_PB-p-2">Le Seigneur lui donnera le si&#232;ge de David...</p>
         </sp>
-        <stage n="4">Puis que David s&#8217;avance, en pronon&#231;ant sa proph&#233;tie :</stage>
-        <sp n="4">
+        <stage n="4" xml:id="CB227_PB-stage-4">Puis que David s&#8217;avance, en pronon&#231;ant sa proph&#233;tie :</stage>
+        <sp n="4" xml:id="CB227_PB-sp-4">
           <div type="poem">
             <lg type="strophe" n="I" xml:id="CB227_PB-lg-2">
               <l n="1" xml:id="CB227_PB-l-5">
@@ -75,12 +75,12 @@
             </lg>
           </div>
         </sp>
-        <stage n="5">Qu&#8217;il chante ensuite :</stage>
-        <sp n="5">
+        <stage n="5" xml:id="CB227_PB-stage-5">Qu&#8217;il chante ensuite :</stage>
+        <sp n="5" xml:id="CB227_PB-sp-5">
           <p xml:id="CB227_PB-p-3">Je regardais en scrutant la nuit...</p>
         </sp>
-        <stage n="6">Troisi&#232;mement, que s&#8217;avance la sybille avec des gestes emphatiques, et qu&#8217;en regardant l&#8217;&#233;toile en gesticulant elle chante :</stage>
-        <sp n="6">
+        <stage n="6" xml:id="CB227_PB-stage-6">Troisi&#232;mement, que s&#8217;avance la sybille avec des gestes emphatiques, et qu&#8217;en regardant l&#8217;&#233;toile en gesticulant elle chante :</stage>
+        <sp n="6" xml:id="CB227_PB-sp-6">
           <div type="poem">
             <lg type="strophe" n="I" xml:id="CB227_PB-lg-4">
               <l n="1" xml:id="CB227_PB-l-13">
@@ -156,16 +156,16 @@
             </lg>
           </div>
         </sp>
-        <stage n="7">Qu&#8217;il chante encore ces vers :</stage>
-        <sp n="7">
+        <stage n="7" xml:id="CB227_PB-stage-7">Qu&#8217;il chante encore ces vers :</stage>
+        <sp n="7" xml:id="CB227_PB-sp-7">
           <p xml:id="CB227_PB-p-4">Signe du jugement : la terre...</p>
         </sp>
-        <stage n="8">Puis que s&#8217;avance Aaron, le quatri&#232;me proph&#232;te, portant la verge prise sur l&#8217;autel, celle qui fut seule &#224; fleurir parmi les douze verges s&#232;ches. Que le ch&#339;ur accompagne en procession ce personnage en chantant le r&#233;pons :</stage>
-        <sp n="8">
+        <stage n="8" xml:id="CB227_PB-stage-8">Puis que s&#8217;avance Aaron, le quatri&#232;me proph&#232;te, portant la verge prise sur l&#8217;autel, celle qui fut seule &#224; fleurir parmi les douze verges s&#232;ches. Que le ch&#339;ur accompagne en procession ce personnage en chantant le r&#233;pons :</stage>
+        <sp n="8" xml:id="CB227_PB-sp-8">
           <p xml:id="CB227_PB-p-5">Salut, noble verge...</p>
         </sp>
-        <stage n="9">Et qu&#8217;il dise cette proph&#233;tie :</stage>
-        <sp n="9">
+        <stage n="9" xml:id="CB227_PB-stage-9">Et qu&#8217;il dise cette proph&#233;tie :</stage>
+        <sp n="9" xml:id="CB227_PB-sp-9">
           <div type="poem">
             <lg type="strophe" xml:id="CB227_PB-lg-8">
               <l n="1" xml:id="CB227_PB-l-29">Voici que notre amandier pousse nouvellement des feuilles :</l>
@@ -173,8 +173,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="10">Et qu&#8217;il dise :</stage>
-        <sp n="10">
+        <stage n="10" xml:id="CB227_PB-stage-10">Et qu&#8217;il dise :</stage>
+        <sp n="10" xml:id="CB227_PB-sp-10">
           <div type="poem">
             <lg type="strophe" xml:id="CB227_PB-lg-9">
             <l n="1" xml:id="CB227_PB-l-31">
@@ -204,20 +204,20 @@
           </lg>
           </div>
         </sp>
-        <stage n="11">Cinqui&#232;mement, que s&#8217;approche Balaam mont&#233; sur son &#226;nesse et chantant :</stage>
-        <sp n="11">
+        <stage n="11" xml:id="CB227_PB-stage-11">Cinqui&#232;mement, que s&#8217;approche Balaam mont&#233; sur son &#226;nesse et chantant :</stage>
+        <sp n="11" xml:id="CB227_PB-sp-11">
           <p xml:id="CB227_PB-p-6">J&#8217;irai, j&#8217;irai maudire ce peuple.</p>
         </sp>
-        <stage n="12">Que vienne &#224; sa rencontre un ange au glaive d&#233;gain&#233;, disant :</stage>
-        <sp n="12">
+        <stage n="12" xml:id="CB227_PB-stage-12">Que vienne &#224; sa rencontre un ange au glaive d&#233;gain&#233;, disant :</stage>
+        <sp n="12" xml:id="CB227_PB-sp-12">
           <p xml:id="CB227_PB-p-7">Attention, attention &#224; ne dire que ce que je t&#8217;aurai dit de dire.</p>
         </sp>
-        <stage n="13">Et que l&#8217;&#226;ne que monte Balaam recule terroris&#233;. Puis que l&#8217;ange s&#8217;en aille et que Balaam chante ce r&#233;pons :</stage>
-        <sp n="13">
+        <stage n="13" xml:id="CB227_PB-stage-13">Et que l&#8217;&#226;ne que monte Balaam recule terroris&#233;. Puis que l&#8217;ange s&#8217;en aille et que Balaam chante ce r&#233;pons :</stage>
+        <sp n="13" xml:id="CB227_PB-sp-13">
           <p xml:id="CB227_PB-p-8">Une &#233;toile se l&#232;vera de Jacob...</p>
         </sp>
-        <stage n="14">Que le chef de la synagogue comme ses Juifs, en entendant ces proph&#233;ties, se mette en rage fortement, et dise en bousculant son voisin, en agitant la t&#234;te et tout le corps, en frappant le sol du pied, en imitant avec son b&#226;ton les gestes des Juifs en tout. Et qu&#8217;indign&#233; il dise &#224; ses compagnons :</stage>
-        <sp n="14">
+        <stage n="14" xml:id="CB227_PB-stage-14">Que le chef de la synagogue comme ses Juifs, en entendant ces proph&#233;ties, se mette en rage fortement, et dise en bousculant son voisin, en agitant la t&#234;te et tout le corps, en frappant le sol du pied, en imitant avec son b&#226;ton les gestes des Juifs en tout. Et qu&#8217;indign&#233; il dise &#224; ses compagnons :</stage>
+        <sp n="14" xml:id="CB227_PB-sp-14">
           <div type="poem">
           <lg type="strophe" n="I" xml:id="CB227_PB-lg-10">
             <l n="1" xml:id="CB227_PB-l-37">
@@ -257,8 +257,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="15">Entendant le tumulte et les fausset&#233;s des Juifs, que l&#8217;&#233;v&#234;que des enfants dise :</stage>
-        <sp n="15">
+        <stage n="15" xml:id="CB227_PB-stage-15">Entendant le tumulte et les fausset&#233;s des Juifs, que l&#8217;&#233;v&#234;que des enfants dise :</stage>
+        <sp n="15" xml:id="CB227_PB-sp-15">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-12">
             <l n="1" xml:id="CB227_PB-l-45">
@@ -280,8 +280,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="16">Qu&#8217;aussit&#244;t les proh&#232;tes aillent devant Augustin et disent :</stage>
-        <sp n="16">
+        <stage n="16" xml:id="CB227_PB-stage-16">Qu&#8217;aussit&#244;t les proh&#232;tes aillent devant Augustin et disent :</stage>
+        <sp n="16" xml:id="CB227_PB-sp-16">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-13">
             <l n="1" xml:id="CB227_PB-l-49">
@@ -303,8 +303,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="17">Augustin r&#233;pond :</stage>
-        <sp n="17">
+        <stage n="17" xml:id="CB227_PB-stage-17">Augustin r&#233;pond :</stage>
+        <sp n="17" xml:id="CB227_PB-sp-17">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-14">
             <l n="1" xml:id="CB227_PB-l-53">
@@ -326,8 +326,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="18">Qu&#8217;approche le chef de la synagogue &#224; grandes protestations de lui et des siens, et qu&#8217;Augustin leur dise :</stage>
-        <sp n="18">
+        <stage n="18" xml:id="CB227_PB-stage-18">Qu&#8217;approche le chef de la synagogue &#224; grandes protestations de lui et des siens, et qu&#8217;Augustin leur dise :</stage>
+        <sp n="18" xml:id="CB227_PB-sp-18">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-15">
             <l n="1" xml:id="CB227_PB-l-57">
@@ -349,8 +349,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="19">Le chef de la synagogue r&#233;pond avec de grands &#233;clats de rire :</stage>
-        <sp n="19">
+        <stage n="19" xml:id="CB227_PB-stage-19">Le chef de la synagogue r&#233;pond avec de grands &#233;clats de rire :</stage>
+        <sp n="19" xml:id="CB227_PB-sp-19">
           <p xml:id="CB227_PB-p-9">O Augustin,</p>
           <div type="poem">
           <lg type="strophe" n="I" xml:id="CB227_PB-lg-16">
@@ -433,8 +433,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="20">Qu&#8217;Augustin r&#233;ponde d&#8217;une voix sobre et mesur&#233;e :</stage>
-        <sp n="20">
+        <stage n="20" xml:id="CB227_PB-stage-20">Qu&#8217;Augustin r&#233;ponde d&#8217;une voix sobre et mesur&#233;e :</stage>
+        <sp n="20" xml:id="CB227_PB-sp-20">
           <div type="poem">
           <lg type="strophe" n="I" xml:id="CB227_PB-lg-21">
             <l n="1" xml:id="CB227_PB-l-81">En cet heureux &#233;v&#233;nement, qui est un cas unique,</l>
@@ -462,8 +462,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="21">Qu&#8217;Augustin dise :</stage>
-        <sp n="21">
+        <stage n="21" xml:id="CB227_PB-stage-21">Qu&#8217;Augustin dise :</stage>
+        <sp n="21" xml:id="CB227_PB-sp-21">
           <div type="poem">
           <lg type="strophe" n="I" xml:id="CB227_PB-lg-23">
             <l n="1" xml:id="CB227_PB-l-89">
@@ -503,24 +503,24 @@
           </lg>
           </div>
         </sp>
-        <stage n="22">Puis qu&#8217;Augustin commence &#224; chanter :</stage>
-        <sp n="22">
+        <stage n="22" xml:id="CB227_PB-stage-22">Puis qu&#8217;Augustin commence &#224; chanter :</stage>
+        <sp n="22" xml:id="CB227_PB-sp-22">
           <l xml:id="CB227_PB-l-97">Plein de joie</l>
         </sp>
-        <stage n="23">le premier verset. Et le second du proph&#232;te :</stage>
-        <sp n="23">
+        <stage n="23" xml:id="CB227_PB-stage-23">le premier verset. Et le second du proph&#232;te :</stage>
+        <sp n="23" xml:id="CB227_PB-sp-23">
           <p xml:id="CB227_PB-p-10">Le lit de la vierge a produit le roi des rois, chose merveilleuse !</p>
         </sp>
-        <stage n="24">Que le chef de la synagogue et les siens disent :</stage>
-        <sp n="24">
+        <stage n="24" xml:id="CB227_PB-stage-24">Que le chef de la synagogue et les siens disent :</stage>
+        <sp n="24" xml:id="CB227_PB-sp-24">
           <p xml:id="CB227_PB-p-11">Non, chose impossible !</p>
         </sp>
-        <stage n="25">Et encore Augustin et les siens : Chose merveilleuse ! Et encore le chef de la synagogue et les siens :</stage>
-        <sp n="25">
+        <stage n="25" xml:id="CB227_PB-stage-25">Et encore Augustin et les siens : Chose merveilleuse ! Et encore le chef de la synagogue et les siens :</stage>
+        <sp n="25" xml:id="CB227_PB-sp-25">
           <p xml:id="CB227_PB-p-12">Chose impossible !</p>
         </sp>
-        <stage n="26">Cela plusieurs fois. Qu&#8217;Augustin entonne :</stage>
-        <sp n="26">
+        <stage n="26" xml:id="CB227_PB-stage-26">Cela plusieurs fois. Qu&#8217;Augustin entonne :</stage>
+        <sp n="26" xml:id="CB227_PB-sp-26">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-25">
             <l n="1" xml:id="CB227_PB-l-98">L&#8217;ange du grand conseil est n&#233; d&#8217;une vierge,</l>
@@ -528,8 +528,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="27">Que les proph&#232;tes r&#233;pondent :</stage>
-        <sp n="27">
+        <stage n="27" xml:id="CB227_PB-stage-27">Que les proph&#232;tes r&#233;pondent :</stage>
+        <sp n="27" xml:id="CB227_PB-sp-27">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-26">
             <l n="1" xml:id="CB227_PB-l-100">Un soleil qui ne descend pas, une &#233;toile toujours brillante</l>
@@ -537,8 +537,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="28">Qu&#8217;Augustin dise :</stage>
-        <sp n="28">
+        <stage n="28" xml:id="CB227_PB-stage-28">Qu&#8217;Augustin dise :</stage>
+        <sp n="28" xml:id="CB227_PB-sp-28">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-27">
             <l n="1" xml:id="CB227_PB-l-102">Que le haut c&#232;dre du Liban prenne la forme de l&#8217;hysope</l>
@@ -546,8 +546,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="29">Que les proph&#232;tes disent :</stage>
-        <sp n="29">
+        <stage n="29" xml:id="CB227_PB-stage-29">Que les proph&#232;tes disent :</stage>
+        <sp n="29" xml:id="CB227_PB-sp-29">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-28">
             <l n="1" xml:id="CB227_PB-l-104">Le verbe, essence du Tr&#232;s-Haut, a souffert, ayant pris</l>
@@ -555,8 +555,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="30">Puis qu&#8217;Augustin dise :</stage>
-        <sp n="30">
+        <stage n="30" xml:id="CB227_PB-stage-30">Puis qu&#8217;Augustin dise :</stage>
+        <sp n="30" xml:id="CB227_PB-sp-30">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-29">
             <l n="1" xml:id="CB227_PB-l-106">Isa&#239;e l&#8217;a chant&#233;,</l>
@@ -566,8 +566,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="31">Que les proph&#232;tes r&#233;pondent :</stage>
-        <sp n="31">
+        <stage n="31" xml:id="CB227_PB-stage-31">Que les proph&#232;tes r&#233;pondent :</stage>
+        <sp n="31" xml:id="CB227_PB-sp-31">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-30">
             <l n="1" xml:id="CB227_PB-l-110">Si elle n&#8217;en croit pas ses po&#232;tes,</l>
@@ -577,8 +577,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="32">Puis que dise Augustin avec tous les proph&#232;tes :</stage>
-        <sp n="32">
+        <stage n="32" xml:id="CB227_PB-stage-32">Puis que dise Augustin avec tous les proph&#232;tes :</stage>
+        <sp n="32" xml:id="CB227_PB-sp-32">
           <div type="poem">
             <lg type="strophe" n="I" xml:id="CB227_PB-lg-31">
               <l n="1" xml:id="CB227_PB-l-114">Infortun&#233;e, d&#233;p&#234;che-toi,</l>
@@ -592,57 +592,57 @@
           </lg>
           </div>
         </sp>
-        <stage n="33">Ensuite qu&#8217;Augustin chante tout seul :</stage>
-        <sp n="33">
+        <stage n="33" xml:id="CB227_PB-stage-33">Ensuite qu&#8217;Augustin chante tout seul :</stage>
+        <sp n="33" xml:id="CB227_PB-sp-33">
           <p xml:id="CB227_PB-p-13">Qu&#8217;apprennent maintenant tous les Juifs comment, se ralliant au Christ comme nous, ils doivent embrasser la joie nouvelle de cette nouvelle naissance, en l&#8217;attendant comme l&#8217;espoir d&#8217;un nouveau salut. Qu&#8217;ils croient &#224; sa venue et qu&#8217;ils attendent sa naissance en disant avec nous : Ce roi nouveau sera le salut pour le monde.</p>
         </sp>
-        <stage n="34">Pendant qu&#8217;il chante, que le chef de la synagogue cherche &#224; couvrir sa voix, tout en gesticulant, en secouant la t&#234;te et en se moquant. Quand c&#8217;est fini, que les proph&#232;tes se d&#233;placent, soit qu&#8217;ils se retirent soit qu&#8217;ils aillent s&#8217;asseoir &#224; leur place, pour laisser la sc&#232;ne au jeu. Puis que l&#8217;ange apparaisse &#224; Marie occup&#233;e &#224; des travaux d&#8217;int&#233;rieur, et dise :</stage>
-        <sp n="34">
+        <stage n="34" xml:id="CB227_PB-stage-34">Pendant qu&#8217;il chante, que le chef de la synagogue cherche &#224; couvrir sa voix, tout en gesticulant, en secouant la t&#234;te et en se moquant. Quand c&#8217;est fini, que les proph&#232;tes se d&#233;placent, soit qu&#8217;ils se retirent soit qu&#8217;ils aillent s&#8217;asseoir &#224; leur place, pour laisser la sc&#232;ne au jeu. Puis que l&#8217;ange apparaisse &#224; Marie occup&#233;e &#224; des travaux d&#8217;int&#233;rieur, et dise :</stage>
+        <sp n="34" xml:id="CB227_PB-sp-34">
           <p xml:id="CB227_PB-p-14">Salut Marie pleine de gr&#226;ce, le Seigneur est avec toi.</p>
         </sp>
-        <stage n="35">Et encore :</stage>
-        <sp n="35">
+        <stage n="35" xml:id="CB227_PB-stage-35">Et encore :</stage>
+        <sp n="35" xml:id="CB227_PB-sp-35">
           <p xml:id="CB227_PB-p-15">Voil&#224; que tu vas concevoir et enfanter...</p>
         </sp>
-        <stage n="36">Toute &#233;tonn&#233;e, qu&#8217;elle dise :</stage>
-        <sp n="36">
+        <stage n="36" xml:id="CB227_PB-stage-36">Toute &#233;tonn&#233;e, qu&#8217;elle dise :</stage>
+        <sp n="36" xml:id="CB227_PB-sp-36">
           <p xml:id="CB227_PB-p-16">Comment cela se pourrait-il, puisque je ne connais pas d&#8217;homme ?</p>
         </sp>
-        <stage n="37">Que l&#8217;ange r&#233;ponde :</stage>
-        <sp n="37">
+        <stage n="37" xml:id="CB227_PB-stage-37">Que l&#8217;ange r&#233;ponde :</stage>
+        <sp n="37" xml:id="CB227_PB-sp-37">
           <p xml:id="CB227_PB-p-17">L&#8217;Esprit Saint viendra...</p>
         </sp>
-        <stage n="38">Verset :</stage>
-        <sp n="38">
+        <stage n="38" xml:id="CB227_PB-stage-38">Verset :</stage>
+        <sp n="38" xml:id="CB227_PB-sp-38">
           <p xml:id="CB227_PB-p-18">C&#8217;est pourquoi cet &#234;tre saint qui na&#238;tra...</p>
         </sp>
-        <stage n="39">Que Marie r&#233;ponde :</stage>
-        <sp n="39">
+        <stage n="39" xml:id="CB227_PB-stage-39">Que Marie r&#233;ponde :</stage>
+        <sp n="39" xml:id="CB227_PB-sp-39">
           <p xml:id="CB227_PB-p-19">Je suis la servante du Seigneur...</p>
         </sp>
-        <stage n="40">Puis que Marie aille comme par hasard, sans rien pr&#233;voir, aupr&#232;s de la vieille &#201;lisabeth qui est enceinte de Jean Baptiste et la salue, et que celle-ci dise :</stage>
-        <sp n="40">
+        <stage n="40" xml:id="CB227_PB-stage-40">Puis que Marie aille comme par hasard, sans rien pr&#233;voir, aupr&#232;s de la vieille &#201;lisabeth qui est enceinte de Jean Baptiste et la salue, et que celle-ci dise :</stage>
+        <sp n="40" xml:id="CB227_PB-sp-40">
           <p xml:id="CB227_PB-p-20">D&#8217;o&#249; me vient cet honneur...</p>
         </sp>
-        <stage n="41">Elle chantera :</stage>
-        <sp n="41">
+        <stage n="41" xml:id="CB227_PB-stage-41">Elle chantera :</stage>
+        <sp n="41" xml:id="CB227_PB-sp-41">
           <p xml:id="CB227_PB-p-21">Depuis que tes paroles de salutation ont retenti...</p>
         </sp>
-        <stage n="42">Et qu&#8217;elle dise :</stage>
-        <sp n="42">
+        <stage n="42" xml:id="CB227_PB-stage-42">Et qu&#8217;elle dise :</stage>
+        <sp n="42" xml:id="CB227_PB-sp-42">
           <p xml:id="CB227_PB-p-22">B&#233;nie es-tu entre les femmes...</p>
           <p xml:id="CB227_PB-p-23">Toi qui porteras...</p>
         </sp>
-        <stage n="43">Que Marie r&#233;ponde :</stage>
-        <sp n="43">
+        <stage n="43" xml:id="CB227_PB-stage-43">Que Marie r&#233;ponde :</stage>
+        <sp n="43" xml:id="CB227_PB-sp-43">
           <p xml:id="CB227_PB-p-24">Mon &#226;me exalte le Seigneur.</p>
         </sp>
-        <stage n="44">Ensuite, qu&#8217;&#201;lisabeth se retire, car ce personnage n&#8217;appara&#238;tra plus. Puis que Marie aille dans son lit, car elle a auparavant con&#231;u du Saint Esprit, et qu&#8217;elle enfante un fils ; et que Joseph l&#8217;assiste, en habit convenable, avec une barbe bien fournie. L&#8217;enfant n&#233;, que l&#8217;&#233;toile apparaisse, et que le ch&#339;ur entonne cette antienne :</stage>
-        <sp n="44">
+        <stage n="44" xml:id="CB227_PB-stage-44">Ensuite, qu&#8217;&#201;lisabeth se retire, car ce personnage n&#8217;appara&#238;tra plus. Puis que Marie aille dans son lit, car elle a auparavant con&#231;u du Saint Esprit, et qu&#8217;elle enfante un fils ; et que Joseph l&#8217;assiste, en habit convenable, avec une barbe bien fournie. L&#8217;enfant n&#233;, que l&#8217;&#233;toile apparaisse, et que le ch&#339;ur entonne cette antienne :</stage>
+        <sp n="44" xml:id="CB227_PB-sp-44">
           <p xml:id="CB227_PB-p-25">Aujourd&#8217;hui le Christ est n&#233;...</p>
         </sp>
-        <stage n="45">Quand elle est finie, que l&#8217;&#233;toile apparaisse. L&#8217;ayant vue, que trois rois viennent des diff&#233;rentes parties du monde, et qu&#8217;ils s&#8217;&#233;tonnent de l&#8217;apparition d&#8217;une pareille &#233;toile, et que le premier dise :</stage>
-        <sp n="45">
+        <stage n="45" xml:id="CB227_PB-stage-45">Quand elle est finie, que l&#8217;&#233;toile apparaisse. L&#8217;ayant vue, que trois rois viennent des diff&#233;rentes parties du monde, et qu&#8217;ils s&#8217;&#233;tonnent de l&#8217;apparition d&#8217;une pareille &#233;toile, et que le premier dise :</stage>
+        <sp n="45" xml:id="CB227_PB-sp-45">
           <div type="poem">
           <lg type="strophe" n="I" xml:id="CB227_PB-lg-33">
             <l n="1" xml:id="CB227_PB-l-120">
@@ -694,8 +694,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="46">Que le premier dise cela sans cesser de regarder l&#8217;&#233;toile, en parlant d&#8217;elle. Que le second dise :</stage>
-        <sp n="46">
+        <stage n="46" xml:id="CB227_PB-stage-46">Que le premier dise cela sans cesser de regarder l&#8217;&#233;toile, en parlant d&#8217;elle. Que le second dise :</stage>
+        <sp n="46" xml:id="CB227_PB-sp-46">
           <div type="poem">
           <lg type="strophe" n="I" xml:id="CB227_PB-lg-37">
             <l n="1" xml:id="CB227_PB-l-136">Une bien douce all&#233;gresse remplit &#224; pr&#233;sent mon c&#339;ur</l>
@@ -757,8 +757,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="47">Que le troisi&#232;me dise, en montrant l&#8217;&#233;toile et en en discourant :</stage>
-        <sp n="47">
+        <stage n="47" xml:id="CB227_PB-stage-47">Que le troisi&#232;me dise, en montrant l&#8217;&#233;toile et en en discourant :</stage>
+        <sp n="47" xml:id="CB227_PB-sp-47">
           <div type="poem">
           <lg type="strophe" n="I" xml:id="CB227_PB-lg-41">
             <l n="1" xml:id="CB227_PB-l-153">
@@ -822,12 +822,12 @@
           </lg>
           </div>
         </sp>
-        <stage n="48">Maintenant, que les rois s&#8217;avancent jusqu&#8217;au territoire d&#8217;H&#233;rode, s&#8217;enqu&#233;rant de l&#8217;enfant en chantant :</stage>
-        <sp n="48">
+        <stage n="48" xml:id="CB227_PB-stage-48">Maintenant, que les rois s&#8217;avancent jusqu&#8217;au territoire d&#8217;H&#233;rode, s&#8217;enqu&#233;rant de l&#8217;enfant en chantant :</stage>
+        <sp n="48" xml:id="CB227_PB-sp-48">
           <p xml:id="CB227_PB-p-26">O&#249; est celui qui est n&#233;...</p>
         </sp>
-        <stage n="49">Que viennent &#224; leur rencontre les messagers d&#8217;H&#233;rode, disant :</stage>
-        <sp n="49">
+        <stage n="49" xml:id="CB227_PB-stage-49">Que viennent &#224; leur rencontre les messagers d&#8217;H&#233;rode, disant :</stage>
+        <sp n="49" xml:id="CB227_PB-sp-49">
           <div type="poem">
           <lg type="strophe" n="I" xml:id="CB227_PB-lg-45">
             <l n="1" xml:id="CB227_PB-l-169">Vous qui avez la tenue et les attributs de rois,</l>
@@ -843,8 +843,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="50">Les rois r&#233;pondent :</stage>
-        <sp n="50">
+        <stage n="50" xml:id="CB227_PB-stage-50">Les rois r&#233;pondent :</stage>
+        <sp n="50" xml:id="CB227_PB-sp-50">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-47">
             <l n="1" xml:id="CB227_PB-l-177">Nous ne voulons pas occulter ce qui nous est demand&#233;,</l>
@@ -854,8 +854,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="51">Les messagers r&#233;pondent :</stage>
-        <sp n="51">
+        <stage n="51" xml:id="CB227_PB-stage-51">Les messagers r&#233;pondent :</stage>
+        <sp n="51" xml:id="CB227_PB-sp-51">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-48">
             <l n="1" xml:id="CB227_PB-l-181">Voil&#224; une annonce qui plaira au roi H&#233;rode,</l>
@@ -865,8 +865,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="52">Qu&#8217;alors les messagers se h&#226;tent vers H&#233;rode, en disant :</stage>
-        <sp n="52">
+        <stage n="52" xml:id="CB227_PB-stage-52">Qu&#8217;alors les messagers se h&#226;tent vers H&#233;rode, en disant :</stage>
+        <sp n="52" xml:id="CB227_PB-sp-52">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-49">
             <l n="1" xml:id="CB227_PB-l-185">Roi H&#233;rode, &#233;coute quelque chose d&#8217;&#233;tonnant,</l>
@@ -876,8 +876,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="53">H&#233;rode r&#233;pond avec beaucoup d&#8217;indignation :</stage>
-        <sp n="53">
+        <stage n="53" xml:id="CB227_PB-stage-53">H&#233;rode r&#233;pond avec beaucoup d&#8217;indignation :</stage>
+        <sp n="53" xml:id="CB227_PB-sp-53">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-50">
             <l n="1" xml:id="CB227_PB-l-189">Comment osez-vous dire &#224; votre roi de ces &#233;normit&#233;s ?</l>
@@ -887,8 +887,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="54">Apr&#232;s cela, que profond&#233;ment indign&#233; H&#233;rode convoque le chef de la synagogue avec ses Juifs, par ces mots :</stage>
-        <sp n="54">
+        <stage n="54" xml:id="CB227_PB-stage-54">Apr&#232;s cela, que profond&#233;ment indign&#233; H&#233;rode convoque le chef de la synagogue avec ses Juifs, par ces mots :</stage>
+        <sp n="54" xml:id="CB227_PB-sp-54">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-51">
             <l n="1" xml:id="CB227_PB-l-193">
@@ -910,8 +910,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="55">Que vienne alors le chef de la synagogue plein d&#8217;arrogance avec ses Juifs, &#224; qui H&#233;rode dira :</stage>
-        <sp n="55">
+        <stage n="55" xml:id="CB227_PB-stage-55">Que vienne alors le chef de la synagogue plein d&#8217;arrogance avec ses Juifs, &#224; qui H&#233;rode dira :</stage>
+        <sp n="55" xml:id="CB227_PB-sp-55">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-52">
             <l n="1" xml:id="CB227_PB-l-197">C&#8217;est &#224; toi, ma&#238;tre, que je parle, et que les autres y prennent garde !</l>
@@ -921,8 +921,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="56">Le chef de la synagogue r&#233;pond, d&#8217;un ton savant et &#233;loquent :</stage>
-        <sp n="56">
+        <stage n="56" xml:id="CB227_PB-stage-56">Le chef de la synagogue r&#233;pond, d&#8217;un ton savant et &#233;loquent :</stage>
+        <sp n="56" xml:id="CB227_PB-sp-56">
           <div type="poem">
           <lg type="strophe" n="I" xml:id="CB227_PB-lg-53">
             <l n="1" xml:id="CB227_PB-l-201">Seigneur, pour ne pas te trouver &#224; un carrefour de soucis,</l>
@@ -959,8 +959,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="57">Les rois r&#233;pondent :</stage>
-        <sp n="57">
+        <stage n="57" xml:id="CB227_PB-stage-57">Les rois r&#233;pondent :</stage>
+        <sp n="57" xml:id="CB227_PB-sp-57">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-55">
             <l n="1" xml:id="CB227_PB-l-209">
@@ -982,8 +982,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="58">H&#233;rode r&#233;pond :</stage>
-        <sp n="58">
+        <stage n="58" xml:id="CB227_PB-stage-58">H&#233;rode r&#233;pond :</stage>
+        <sp n="58" xml:id="CB227_PB-sp-58">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-56">
             <l n="1" xml:id="CB227_PB-l-213">Je ne saurais contrecarrer votre projet de voyage,</l>
@@ -999,8 +999,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="59">Que les trois rois quittent sans h&#226;te H&#233;rode en regardant l&#8217;&#233;toile et en en disputant. Pendant ce temps que l&#8217;ange apparaisse aux bergers et dise :</stage>
-        <sp n="59">
+        <stage n="59" xml:id="CB227_PB-stage-59">Que les trois rois quittent sans h&#226;te H&#233;rode en regardant l&#8217;&#233;toile et en en disputant. Pendant ce temps que l&#8217;ange apparaisse aux bergers et dise :</stage>
+        <sp n="59" xml:id="CB227_PB-sp-59">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-57">
             <l n="1" xml:id="CB227_PB-l-217">
@@ -1022,8 +1022,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="60">Alors que les bergers se mettent en route, que le diable leur dise :</stage>
-        <sp n="60">
+        <stage n="60" xml:id="CB227_PB-stage-60">Alors que les bergers se mettent en route, que le diable leur dise :</stage>
+        <sp n="60" xml:id="CB227_PB-sp-60">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-58">
             <l n="1" xml:id="CB227_PB-l-221">
@@ -1045,8 +1045,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="61">Alors que les bergers retournent &#224; leur travail, que l&#8217;ange leur dise :</stage>
-        <sp n="61">
+        <stage n="61" xml:id="CB227_PB-stage-61">Alors que les bergers retournent &#224; leur travail, que l&#8217;ange leur dise :</stage>
+        <sp n="61" xml:id="CB227_PB-sp-61">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-59">
             <l n="1" xml:id="CB227_PB-l-225">
@@ -1068,8 +1068,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="62">Tandis que les bergers y retournent, que le diable leur dise &#224; l&#8217;oreille :</stage>
-        <sp n="62">
+        <stage n="62" xml:id="CB227_PB-stage-62">Tandis que les bergers y retournent, que le diable leur dise &#224; l&#8217;oreille :</stage>
+        <sp n="62" xml:id="CB227_PB-sp-62">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-60">
             <l n="1" xml:id="CB227_PB-l-229">
@@ -1091,8 +1091,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="63">Que les bergers s&#8217;&#233;tonnent et se disent l&#8217;un &#224; l&#8217;autre :</stage>
-        <sp n="63">
+        <stage n="63" xml:id="CB227_PB-stage-63">Que les bergers s&#8217;&#233;tonnent et se disent l&#8217;un &#224; l&#8217;autre :</stage>
+        <sp n="63" xml:id="CB227_PB-sp-63">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-61">
             <l n="1" xml:id="CB227_PB-l-233">
@@ -1114,8 +1114,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="64">Que l&#8217;ange redise aux bergers :</stage>
-        <sp n="64">
+        <stage n="64" xml:id="CB227_PB-stage-64">Que l&#8217;ange redise aux bergers :</stage>
+        <sp n="64" xml:id="CB227_PB-sp-64">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-62">
             <l n="1" xml:id="CB227_PB-l-237">
@@ -1137,8 +1137,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="65">Alors qu&#8217;ils y vont, que le diable leur redise :</stage>
-        <sp n="65">
+        <stage n="65" xml:id="CB227_PB-stage-65">Alors qu&#8217;ils y vont, que le diable leur redise :</stage>
+        <sp n="65" xml:id="CB227_PB-sp-65">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-63">
             <l n="1" xml:id="CB227_PB-l-241">
@@ -1160,8 +1160,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="66">De nouveau les bergers &#224; leurs compagnons :</stage>
-        <sp n="66">
+        <stage n="66" xml:id="CB227_PB-stage-66">De nouveau les bergers &#224; leurs compagnons :</stage>
+        <sp n="66" xml:id="CB227_PB-sp-66">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-64">
             <l n="1" xml:id="CB227_PB-l-245">
@@ -1183,12 +1183,12 @@
           </lg>
           </div>
         </sp>
-        <stage n="67">Puis que se rassemblent les anges et qu&#8217;ils chantent ensemble :</stage>
-        <sp n="67">
+        <stage n="67" xml:id="CB227_PB-stage-67">Puis que se rassemblent les anges et qu&#8217;ils chantent ensemble :</stage>
+        <sp n="67" xml:id="CB227_PB-sp-67">
           <p xml:id="CB227_PB-p-27">Goire &#224; Dieu au plus haut des cieux et paix sur la terre aux hommes de bonne volont&#233;.</p>
         </sp>
-        <stage n="68">Ayant entendu cela, qu&#8217;un berger dise &#224; ses compagnons :</stage>
-        <sp n="68">
+        <stage n="68" xml:id="CB227_PB-stage-68">Ayant entendu cela, qu&#8217;un berger dise &#224; ses compagnons :</stage>
+        <sp n="68" xml:id="CB227_PB-sp-68">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-65">
             <l n="1" xml:id="CB227_PB-l-249">
@@ -1210,24 +1210,24 @@
           </lg>
           </div>
         </sp>
-        <stage n="69">Puis que les bergers s&#8217;avancent vers la cr&#232;che en chantant cette antienne :</stage>
-        <sp n="69">
+        <stage n="69" xml:id="CB227_PB-stage-69">Puis que les bergers s&#8217;avancent vers la cr&#232;che en chantant cette antienne :</stage>
+        <sp n="69" xml:id="CB227_PB-sp-69">
           <p xml:id="CB227_PB-p-28">Avec l&#8217;ange est apparue une multitude c&#233;leste...</p>
         </sp>
-        <stage n="70">Apr&#232;s ce chant que les bergers adorent l&#8217;enfant, puis qu&#8217;ils reviennent &#224; leurs occupations ; et qu&#8217;ils rencontrent les trois mages qui leur disent :</stage>
-        <sp n="70">
+        <stage n="70" xml:id="CB227_PB-stage-70">Apr&#232;s ce chant que les bergers adorent l&#8217;enfant, puis qu&#8217;ils reviennent &#224; leurs occupations ; et qu&#8217;ils rencontrent les trois mages qui leur disent :</stage>
+        <sp n="70" xml:id="CB227_PB-sp-70">
           <p xml:id="CB227_PB-p-29">Bergers, dites ce que vous avez vu et annoncez la nativit&#233; du Christ.</p>
         </sp>
-        <stage n="71">Que les bergers r&#233;pondent :</stage>
-        <sp n="71">
+        <stage n="71" xml:id="CB227_PB-stage-71">Que les bergers r&#233;pondent :</stage>
+        <sp n="71" xml:id="CB227_PB-sp-71">
           <p xml:id="CB227_PB-p-30">Nous avons vu un enfant envelopp&#233; de langes, et les ch&#339;urs des anges qui louaient le Sauveur.</p>
         </sp>
-        <stage n="72">Ensuite que les mages aillent &#224; la cr&#232;che et que d&#8217;abord ils adorent le Sauveur, puis qu&#8217;ils lui offrent leurs pr&#233;sents : d&#8217;abord l&#8217;or, puis l&#8217;encens, en troisi&#232;me lieu la myrrhe. Puis qu&#8217;ils fassent un peu de chemin et puis s&#8217;endorment, et qu&#8217;un ange leur apparaisse en songe et leur dise :</stage>
-        <sp n="72">
+        <stage n="72" xml:id="CB227_PB-stage-72">Ensuite que les mages aillent &#224; la cr&#232;che et que d&#8217;abord ils adorent le Sauveur, puis qu&#8217;ils lui offrent leurs pr&#233;sents : d&#8217;abord l&#8217;or, puis l&#8217;encens, en troisi&#232;me lieu la myrrhe. Puis qu&#8217;ils fassent un peu de chemin et puis s&#8217;endorment, et qu&#8217;un ange leur apparaisse en songe et leur dise :</stage>
+        <sp n="72" xml:id="CB227_PB-sp-72">
           <p xml:id="CB227_PB-p-31">Ne retournez pas aupr&#232;s d&#8217;H&#233;rode...</p>
         </sp>
-        <stage n="73">Puis, comme ils ne retournent pas aupr&#232;s d&#8217;H&#233;rode, que celui-ci dise :</stage>
-        <sp n="73">
+        <stage n="73" xml:id="CB227_PB-stage-73">Puis, comme ils ne retournent pas aupr&#232;s d&#8217;H&#233;rode, que celui-ci dise :</stage>
+        <sp n="73" xml:id="CB227_PB-sp-73">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-66">
             <l n="1" xml:id="CB227_PB-l-253">Que le peuple des Juifs se presse pour &#233;couter H&#233;rode,</l>
@@ -1240,8 +1240,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="74">Que vienne le chef de la synagogue avec les siens, et qu&#8217;H&#233;rode lui dise :</stage>
-        <sp n="74">
+        <stage n="74" xml:id="CB227_PB-stage-74">Que vienne le chef de la synagogue avec les siens, et qu&#8217;H&#233;rode lui dise :</stage>
+        <sp n="74" xml:id="CB227_PB-sp-74">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-67">
             <l n="1" xml:id="CB227_PB-l-257">
@@ -1263,12 +1263,12 @@
           </lg>
           </div>
         </sp>
-        <stage n="75">Le chef de la synagogue r&#233;pond :</stage>
-        <sp n="75">
+        <stage n="75" xml:id="CB227_PB-stage-75">Le chef de la synagogue r&#233;pond :</stage>
+        <sp n="75" xml:id="CB227_PB-sp-75">
           <p xml:id="CB227_PB-p-32">Toi Bethl&#233;em, terre de Jud&#233;e...</p>
         </sp>
-        <stage n="76">Qu&#8217;alors H&#233;rode furieux dise &#224; ses soldats :</stage>
-        <sp n="76">
+        <stage n="76" xml:id="CB227_PB-stage-76">Qu&#8217;alors H&#233;rode furieux dise &#224; ses soldats :</stage>
+        <sp n="76" xml:id="CB227_PB-sp-76">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-68">
             <l n="1" xml:id="CB227_PB-l-261">
@@ -1290,8 +1290,8 @@
           </lg>
           </div>
         </sp>
-        <stage n="77">Que les soldats aillent tuer les enfants, dont les m&#232;res pleureront et se lamenteront ainsi :</stage>
-        <sp n="77">
+        <stage n="77" xml:id="CB227_PB-stage-77">Que les soldats aillent tuer les enfants, dont les m&#232;res pleureront et se lamenteront ainsi :</stage>
+        <sp n="77" xml:id="CB227_PB-sp-77">
           <div type="poem">
           <lg type="strophe" n="I" xml:id="CB227_PB-lg-69">
             <l n="1" xml:id="CB227_PB-l-265">H&#233;las, h&#233;las, h&#233;las !</l>
@@ -1325,12 +1325,12 @@
           </lg>
           </div>
         </sp>
-        <stage n="78">Ensuite qu&#8217;H&#233;rode soit rong&#233; par les vers et que tombant mort de son tr&#244;ne, il soit saisi par les diables tout joyeux, et que son fils Archela&#252;s soit couronn&#233; &#224; sa place. Et que, lui r&#233;gnant, un ange apparaisse de nuit &#224; Joseph et lui dise :</stage>
-        <sp n="78">
+        <stage n="78" xml:id="CB227_PB-stage-78">Ensuite qu&#8217;H&#233;rode soit rong&#233; par les vers et que tombant mort de son tr&#244;ne, il soit saisi par les diables tout joyeux, et que son fils Archela&#252;s soit couronn&#233; &#224; sa place. Et que, lui r&#233;gnant, un ange apparaisse de nuit &#224; Joseph et lui dise :</stage>
+        <sp n="78" xml:id="CB227_PB-sp-78">
           <p xml:id="CB227_PB-p-33">Prends la m&#232;re et l&#8217;enfant et va en &#201;gypte.</p>
         </sp>
-        <stage n="79">Marchant devant l&#8217;&#226;ne, que Marie dise :</stage>
-        <sp n="79">
+        <stage n="79" xml:id="CB227_PB-stage-79">Marchant devant l&#8217;&#226;ne, que Marie dise :</stage>
+        <sp n="79" xml:id="CB227_PB-sp-79">
           <div type="poem">
           <lg type="strophe" xml:id="CB227_PB-lg-74">
             <l n="1" xml:id="CB227_PB-l-285">

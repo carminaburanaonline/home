@@ -6,7 +6,8 @@
         <lg type="strophe" met="[6pp]+6pp/6pp/6pp+6pp" rhyme="a+b/b/a+b" xml:id="CB012_cjec-lg-1">
           <l n="4" xml:id="CB012_cjec-l-1">
             <seg type="hemistich">
-              <w>[...]trarium</w>
+              <pc resp="#editor" pre="true">[...]</pc>
+              <w>trarium</w>
             </seg>
             <seg type="hemistich">
               <w>ab</w>

@@ -20,15 +20,12 @@ if __name__ == "__main__":
 		#####
 		#####
 
-		for k, lg in enumerate(tree.findall(".//lg")):
-			id = "-".join([name[:-4], "lg", f"{k + 1}"])
-			lg.set("{http://www.w3.org/XML/1998/namespace}id", id)
-		for k, l in enumerate(tree.findall(".//l")):
-			id = "-".join([name[:-4], "l", f"{k + 1}"])
-			l.set("{http://www.w3.org/XML/1998/namespace}id", id)
-		for k, p in enumerate(tree.findall(".//p")):
-			id = "-".join([name[:-4], "p", f"{k + 1}"])
-			p.set("{http://www.w3.org/XML/1998/namespace}id", id)
+		tags = ['lg', 'l', 'p', 'sp', 'stage']
+
+		for tag in tags:
+			for k, element in enumerate(tree.findall(".//" + tag)):
+				id = "-".join([name[:-4], tag, f"{k + 1}"])
+				element.set("{http://www.w3.org/XML/1998/namespace}id", id)
 
 		#####
 		#####

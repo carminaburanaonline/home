@@ -107,12 +107,13 @@
             <pc resp="#editor">:</pc>
           </l>
           <l n="4" xml:id="CB119_chartres-l-14">
-            <w>&#8216;ubi</w>
+            <pc resp="#editor" pre="true">&#8216;</pc>
+            <w>ubi</w>
             <w>amor</w>
             <pc resp="#editor">,</pc>
             <w>ibi</w>
             <w>miseria</w>
-            <pc resp="#editor">.&#8217;</pc>
+            <pc resp="#editor">&#8217;.</pc>
           </l>
           <l n="5" xml:id="CB119_chartres-l-15">
             <w>Gravis</w>

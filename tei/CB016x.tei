@@ -55,8 +55,8 @@
         </castList>
       </front>
       <div type="drama">
-        <stage n="1"><w>Primitus</w><w>producatur</w><w>Pilatus</w><w>et</w><w>uxor</w><w>sua</w><w>cum</w><w>militibus</w><w>in</w><w>locum</w><w>suum</w><pc resp="#editor">.</pc><w>Deinde</w><w>Herodes</w><w>cum</w><w>militibus</w><w>suis</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Deinde</w><w>pontifices</w><pc resp="#editor">.</pc><w>Tunc</w><w>mercator</w><w>et</w><w>uxor</w><w>sua</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Deinde</w><w>Maria</w><w>Magdalena</w><pc>&#183;</pc><pc resp="#editor">.</pc></stage>
-        <sp n="1">
+        <stage n="1" xml:id="CB016x-stage-1"><w>Primitus</w><w>producatur</w><w>Pilatus</w><w>et</w><w>uxor</w><w>sua</w><w>cum</w><w>militibus</w><w>in</w><w>locum</w><w>suum</w><pc resp="#editor">.</pc><w>Deinde</w><w>Herodes</w><w>cum</w><w>militibus</w><w>suis</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Deinde</w><w>pontifices</w><pc resp="#editor">.</pc><w>Tunc</w><w>mercator</w><w>et</w><w>uxor</w><w>sua</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Deinde</w><w>Maria</w><w>Magdalena</w><pc>&#183;</pc><pc resp="#editor">.</pc></stage>
+        <sp n="1" xml:id="CB016x-sp-1">
           <p xml:id="CB016x-p-1">
             <w>
               <seg type="syll" part="I">In<notatedMusic>
@@ -92,8 +92,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="2"><w>Postea</w><w>vadat</w><w>dominica</w><w>persona</w><w>sola</w><w>ad</w><w>litus</w><w>maris</w><pc>&#183;</pc><w>vocare</w><w>Petrum</w><w>et</w><w>Andream</w><pc>&#183;</pc><w>et</w><w>inveniat</w><w>eos</w><w>piscantes</w><pc resp="#editor">,</pc><w>et</w><w>dominus</w><w>dicat</w><w>ad</w><w>eos</w></stage>
-        <sp n="2">
+        <stage n="2" xml:id="CB016x-stage-2"><w>Postea</w><w>vadat</w><w>dominica</w><w>persona</w><w>sola</w><w>ad</w><w>litus</w><w>maris</w><pc>&#183;</pc><w>vocare</w><w>Petrum</w><w>et</w><w>Andream</w><pc>&#183;</pc><w>et</w><w>inveniat</w><w>eos</w><w>piscantes</w><pc resp="#editor">,</pc><w>et</w><w>dominus</w><w>dicat</w><w>ad</w><w>eos</w></stage>
+        <sp n="2" xml:id="CB016x-sp-2">
           <p xml:id="CB016x-p-2">
             <w>
               <seg type="syll" part="I">Ve<notatedMusic>
@@ -178,8 +178,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="3"><w>Illi</w><w>dicunt</w></stage>
-        <sp who="#petrus #andr" n="3">
+        <stage n="3" xml:id="CB016x-stage-3"><w>Illi</w><w>dicunt</w></stage>
+        <sp who="#petrus #andr" n="3" xml:id="CB016x-sp-3">
           <p xml:id="CB016x-p-3">
             <w>
               <seg type="syll" part="I">Do<notatedMusic>
@@ -306,8 +306,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="4"><w>Postea</w><w>vadat</w><w>dominica</w><w>persona</w><w>ad</w><w>Zacheum</w><w>et</w><w>obviet</w><w>ei</w><w>cecus</w></stage>
-        <sp n="4">
+        <stage n="4" xml:id="CB016x-stage-4"><w>Postea</w><w>vadat</w><w>dominica</w><w>persona</w><w>ad</w><w>Zacheum</w><w>et</w><w>obviet</w><w>ei</w><w>cecus</w></stage>
+        <sp n="4" xml:id="CB016x-sp-4">
           <p xml:id="CB016x-p-4">
             <w>
               <seg type="syll" part="I">Do<notatedMusic>
@@ -386,8 +386,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="5"><w>Iesus</w><w>respondeat</w></stage>
-        <sp who="#ies" n="5">
+        <stage n="5" xml:id="CB016x-stage-5"><w>Iesus</w><w>respondeat</w></stage>
+        <sp who="#ies" n="5" xml:id="CB016x-sp-5">
           <p xml:id="CB016x-p-5">
             <w>
               <seg type="syll">Quid<notatedMusic>
@@ -435,8 +435,8 @@
             <pc resp="#editor">?</pc>
           </p>
         </sp>
-        <stage n="6"><w>Cecus</w></stage>
-        <sp who="#cecus" n="6">
+        <stage n="6" xml:id="CB016x-stage-6"><w>Cecus</w></stage>
+        <sp who="#cecus" n="6" xml:id="CB016x-sp-6">
           <p xml:id="CB016x-p-6">
             <w>
               <app type="neume">
@@ -497,8 +497,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="7"><w>Iesus</w><w>dicat</w></stage>
-        <sp who="#ies" n="7">
+        <stage n="7" xml:id="CB016x-stage-7"><w>Iesus</w><w>dicat</w></stage>
+        <sp who="#ies" n="7" xml:id="CB016x-sp-7">
           <p xml:id="CB016x-p-7">
             <w>
               <seg type="syll" part="I">Re<notatedMusic>
@@ -575,8 +575,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="8"><w>Hiis</w><w>factis</w><w>Iesus</w><w>procedat</w><w>ad</w><w>Zacheum</w><w>et</w><w>vocet</w><w>illum</w><w>de</w><w>arbore</w><pc>&#183;</pc></stage>
-        <sp who="#ies" n="8">
+        <stage n="8" xml:id="CB016x-stage-8"><w>Hiis</w><w>factis</w><w>Iesus</w><w>procedat</w><w>ad</w><w>Zacheum</w><w>et</w><w>vocet</w><w>illum</w><w>de</w><w>arbore</w><pc>&#183;</pc></stage>
+        <sp who="#ies" n="8" xml:id="CB016x-sp-8">
           <p xml:id="CB016x-p-8">
             <w>
               <seg type="syll" part="I">Za<notatedMusic>
@@ -709,8 +709,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="9"><w>Zacheus</w><w>dicat</w></stage>
-        <sp who="#zach" n="9">
+        <stage n="9" xml:id="CB016x-stage-9"><w>Zacheus</w><w>dicat</w></stage>
+        <sp who="#zach" n="9" xml:id="CB016x-sp-9">
           <p xml:id="CB016x-p-9">
             <w>
               <seg type="syll" part="I">Do<notatedMusic>
@@ -800,8 +800,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="10"><w>Iesus</w><w>respondeat</w></stage>
-        <sp who="#ies" n="10">
+        <stage n="10" xml:id="CB016x-stage-10"><w>Iesus</w><w>respondeat</w></stage>
+        <sp who="#ies" n="10" xml:id="CB016x-sp-10">
           <p xml:id="CB016x-p-10">
             <w>
               <seg type="syll" part="I">Qui<notatedMusic>
@@ -944,8 +944,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="11"><w>Iesus</w><w>venit</w></stage>
-        <sp n="11">
+        <stage n="11" xml:id="CB016x-stage-11"><w>Iesus</w><w>venit</w></stage>
+        <sp n="11" xml:id="CB016x-sp-11">
           <p xml:id="CB016x-p-11">
             <w>
               <seg type="syll">Cum<notatedMusic>
@@ -962,8 +962,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="12"><w>Et</w><w>pueri</w><w>prosternentes</w><w>frondes</w><w>et</w><w>vestes</w></stage>
-        <sp n="12">
+        <stage n="12" xml:id="CB016x-stage-12"><w>Et</w><w>pueri</w><w>prosternentes</w><w>frondes</w><w>et</w><w>vestes</w></stage>
+        <sp n="12" xml:id="CB016x-sp-12">
           <p xml:id="CB016x-p-12">
             <w>
               <seg type="syll" part="I">Pu<notatedMusic>
@@ -1000,8 +1000,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="13"><w>Item</w><w>pueri</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Item</w></stage>
-        <sp n="13">
+        <stage n="13" xml:id="CB016x-stage-13"><w>Item</w><w>pueri</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Item</w></stage>
+        <sp n="13" xml:id="CB016x-sp-13">
           <p xml:id="CB016x-p-13">
             <w>
               <seg type="syll" part="I">Glo<notatedMusic>
@@ -1027,8 +1027,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="14"><w>Tunc</w><w>veniat</w><w>phariseus</w><w>et</w><w>vocet</w><w>Iesum</w><w>ad</w><w>cenam</w></stage>
-        <sp who="#phar" n="14">
+        <stage n="14" xml:id="CB016x-stage-14"><w>Tunc</w><w>veniat</w><w>phariseus</w><w>et</w><w>vocet</w><w>Iesum</w><w>ad</w><w>cenam</w></stage>
+        <sp who="#phar" n="14" xml:id="CB016x-sp-14">
           <p xml:id="CB016x-p-14">
             <w>
               <seg type="syll" part="I">Ra<notatedMusic>
@@ -1157,8 +1157,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="15"><w>Iesus</w><w>respondeat</w></stage>
-        <sp who="#ies" n="15">
+        <stage n="15" xml:id="CB016x-stage-15"><w>Iesus</w><w>respondeat</w></stage>
+        <sp who="#ies" n="15" xml:id="CB016x-sp-15">
           <p xml:id="CB016x-p-15">
             <w>
               <seg type="syll" part="I">Fi<notatedMusic>
@@ -1194,8 +1194,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="16"><w>Phariseus</w><w>dicat</w><w>ad</w><w>servum</w></stage>
-        <sp who="#phar" n="16">
+        <stage n="16" xml:id="CB016x-stage-16"><w>Phariseus</w><w>dicat</w><w>ad</w><w>servum</w></stage>
+        <sp who="#phar" n="16" xml:id="CB016x-sp-16">
           <p xml:id="CB016x-p-16">
             <w>
               <seg type="syll" part="I">I<notatedMusic>
@@ -1328,8 +1328,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="17"><w>Maria</w><w>Magdalena</w><w>cantet</w><pc>&#183;</pc></stage>
-        <sp who="#mar-magd" n="17">
+        <stage n="17" xml:id="CB016x-stage-17"><w>Maria</w><w>Magdalena</w><w>cantet</w><pc>&#183;</pc></stage>
+        <sp who="#mar-magd" n="17" xml:id="CB016x-sp-17">
           <div type="poem" met="7pp+6p 7pp+6p" rhyme="a/a">
             <lg type="strophe" n="I" met="7pp+6p/7pp+6p" rhyme="a/a" xml:id="CB016x-lg-1">
               <l n="1" rhyme="b+a" xml:id="CB016x-l-1">
@@ -1921,8 +1921,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="18"><w>Modo</w><w>vadat</w><w>Maria</w><w>cum</w><w>puellis</w><w>ad</w><w>mercatorem</w><w>cantando</w></stage>
-        <sp who="#mar-magd" n="18">
+        <stage n="18" xml:id="CB016x-stage-18"><w>Modo</w><w>vadat</w><w>Maria</w><w>cum</w><w>puellis</w><w>ad</w><w>mercatorem</w><w>cantando</w></stage>
+        <sp who="#mar-magd" n="18" xml:id="CB016x-sp-18">
           <div type="poem" met="7pp+6p 7pp+6p" rhyme="a/a">
             <lg type="strophe" n="I" met="7pp+6p/7pp+6p" rhyme="a/a" xml:id="CB016x-lg-5">
               <l n="1" xml:id="CB016x-l-9">
@@ -2221,8 +2221,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="19"><w>Mercator</w><w>cantet</w></stage>
-        <sp who="#merc" n="19">
+        <stage n="19" xml:id="CB016x-stage-19"><w>Mercator</w><w>cantet</w></stage>
+        <sp who="#merc" n="19" xml:id="CB016x-sp-19">
           <div type="poem" met="7pp+6p 7pp+6p" rhyme="a/a">
             <lg type="strophe" n="I" met="7pp+6p/7pp+6p" rhyme="a/a" xml:id="CB016x-lg-7">
               <l n="1" xml:id="CB016x-l-13">
@@ -2517,8 +2517,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="20"><w>Maria</w><w>Magdalena</w></stage>
-        <sp who="#mar-magd" xml:lang="middle-high-german" n="20">
+        <stage n="20" xml:id="CB016x-stage-20"><w>Maria</w><w>Magdalena</w></stage>
+        <sp who="#mar-magd" xml:lang="middle-high-german" n="20" xml:id="CB016x-sp-20">
           <div type="poem" met="4+3- 4+5-" rhyme="a/a">
             <lg type="strophe" met="4+3-/4+5-" rhyme="a/a" xml:id="CB016x-lg-9">
               <l n="1" xml:id="CB016x-l-17">
@@ -2715,8 +2715,8 @@
             </lg>
           </div>
         </sp>
-        <stage><w>Item</w></stage>
-        <sp who="#mar-magd" xml:lang="middle-high-german" n="20">
+        <stage xml:id="CB016x-stage-21"><w>Item</w></stage>
+        <sp who="#mar-magd" xml:lang="middle-high-german" n="20" xml:id="CB016x-sp-21">
           <div type="poem">
             <lg type="refrain" met="2+2/3-" rhyme="A+A/B" xml:id="CB016x-lg-10">
               <l n="1" xml:id="CB016x-l-19">
@@ -2807,8 +2807,8 @@
             </lg>
           </div>
         </sp>
-        <stage><w>Item</w></stage>
-        <sp who="#mar-magd" xml:lang="middle-high-german" n="20">
+        <stage xml:id="CB016x-stage-22"><w>Item</w></stage>
+        <sp who="#mar-magd" xml:lang="middle-high-german" n="20" xml:id="CB016x-sp-22">
           <div type="poem" met="4+3- 4+5-" rhyme="a/a">
             <lg type="strophe" met="4+3-/4+5-" rhyme="a/a" xml:id="CB016x-lg-11">
               <l n="1" xml:id="CB016x-l-21">
@@ -3030,10 +3030,10 @@
             </lg>
           </div>
         </sp>
-        <stage><w>Item</w></stage>
-        <sp who="#mar-magd" xml:lang="middle-high-german" n="20">
-          <div type="poem" met="3+A3- 4+5-" rhyme="a/a">
-            <lg type="strophe" met="3+A3-/4+5-" rhyme="a/a" xml:id="CB016x-lg-13">
+        <stage xml:id="CB016x-stage-23"><w>Item</w></stage>
+        <sp who="#mar-magd" xml:lang="middle-high-german" n="20" xml:id="CB016x-sp-23">
+          <div type="poem" met="3+3- 4+5-" rhyme="a/a">
+            <lg type="strophe" met="3+.3-/4+5-" rhyme="a/a" xml:id="CB016x-lg-13">
               <l n="1" xml:id="CB016x-l-24">
                 <seg type="hemistich">
                   <w>
@@ -3234,8 +3234,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="21"><w>Postea</w><w>vadat</w><w>dormitum</w><w>et</w><w>angelus</w><w>cantet</w></stage>
-        <sp who="#angelus" n="21">
+        <stage n="21" xml:id="CB016x-stage-24"><w>Postea</w><w>vadat</w><w>dormitum</w><w>et</w><w>angelus</w><w>cantet</w></stage>
+        <sp who="#angelus" n="21" xml:id="CB016x-sp-24">
           <div type="poem" met="8p 7pp 7pp 7p 8p 8p 10p 7p 7pp" rhyme="a/b/b/c/d/d/e/c/e">
             <lg type="strophe" met="8p/7pp/7pp/7p/8p/8p/10p/7p/7pp" rhyme="a/b/b/c/d/d/e/c/e" xml:id="CB016x-lg-15">
               <l n="1" xml:id="CB016x-l-27">
@@ -3599,8 +3599,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="22"><w>Recedat</w><w>angelus</w><w>et</w><w>surgat</w><w>Maria</w><w>cantando</w></stage>
-        <sp who="#mar-magd" n="22">
+        <stage n="22" xml:id="CB016x-stage-25"><w>Recedat</w><w>angelus</w><w>et</w><w>surgat</w><w>Maria</w><w>cantando</w></stage>
+        <sp who="#mar-magd" n="22" xml:id="CB016x-sp-25">
           <p xml:id="CB016x-p-17">
             <w>
               <seg type="syll" part="I">Mun<notatedMusic>
@@ -3638,8 +3638,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="23"><w>Tunc</w><w>accedat</w><w>amator</w><w>quem</w><w>Maria</w><w>salutet</w><w>et</w><w>cum</w><w>parum</w><w>locuntur</w><pc resp="#editor">,</pc><w>cantet</w><w>Maria</w><w>ad</w><w>puellas</w></stage>
-        <sp who="#mar-magd" xml:lang="middle-high-german" n="23">
+        <stage n="23" xml:id="CB016x-stage-26"><w>Tunc</w><w>accedat</w><w>amator</w><w>quem</w><w>Maria</w><w>salutet</w><w>et</w><w>cum</w><w>parum</w><w>locuntur</w><pc resp="#editor">,</pc><w>cantet</w><w>Maria</w><w>ad</w><w>puellas</w></stage>
+        <sp who="#mar-magd" xml:lang="middle-high-german" n="23" xml:id="CB016x-sp-26">
           <div type="poem" met="4+3- 4+5- 2+2+4" rhyme="a/a/b+b+b">
             <lg type="strophe" met="4+3-/4+5-/2+2+4" rhyme="a/a/b+b+b" xml:id="CB016x-lg-16">
               <l n="1" xml:id="CB016x-l-36">
@@ -3919,8 +3919,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="24"><w>Iterum</w><w>cantet</w></stage>
-        <sp who="#mar-magd" xml:lang="middle-high-german" n="24">
+        <stage n="24" xml:id="CB016x-stage-27"><w>Iterum</w><w>cantet</w></stage>
+        <sp who="#mar-magd" xml:lang="middle-high-german" n="24" xml:id="CB016x-sp-27">
           <p xml:id="CB016x-p-18">
             <w>
               <seg type="syll" part="I">Chra<notatedMusic>
@@ -3964,10 +3964,10 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="25"><w>Mercator</w><w>respondeat</w><pc>&#183;</pc></stage>
-        <sp who="#merc" xml:lang="middle-high-german" n="25">
-          <div type="poem" met="A4+3 3-+5- 2+2+3-" rhyme="a/a/b+b+a">
-            <lg type="strophe" met="A4+3/3-+5-/2+2+3-" rhyme="a/a/b+b+a" xml:id="CB016x-lg-17">
+        <stage n="25" xml:id="CB016x-stage-28"><w>Mercator</w><w>respondeat</w><pc>&#183;</pc></stage>
+        <sp who="#merc" xml:lang="middle-high-german" n="25" xml:id="CB016x-sp-28">
+          <div type="poem" met="4+3 3-+5- 2+2+3-" rhyme="a/a/b+b+a">
+            <lg type="strophe" met=".4+3/3-+5-/2+2+3-" rhyme="a/a/b+b+a" xml:id="CB016x-lg-17">
               <l n="1" xml:id="CB016x-l-39">
                 <seg type="hemistich">
                   <w>
@@ -4235,8 +4235,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="26"><w>Accepto</w><w>ungento</w><w>vadat</w><w>dormitum</w><pc resp="#editor">.</pc><w>[Angelus.]</w></stage>
-        <sp who="#angelus" n="26">
+        <stage n="26" xml:id="CB016x-stage-29"><w>Accepto</w><w>ungento</w><w>vadat</w><w>dormitum</w><pc resp="#editor">.</pc><w>[Angelus.]</w></stage>
+        <sp who="#angelus" n="26" xml:id="CB016x-sp-29">
           <p xml:id="CB016x-p-19">
             <w>
               <seg type="syll">O<notatedMusic>
@@ -4278,8 +4278,8 @@
             </w>
           </p>
         </sp>
-        <stage n="27"><w>et</w><w>iterum</w><w>evanescat</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Tunc</w><w>surgat</w><w>Maria</w><w>et</w><w>cantet</w></stage>
-        <sp who="#mar-magd" n="27">
+        <stage n="27" xml:id="CB016x-stage-30"><w>et</w><w>iterum</w><w>evanescat</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Tunc</w><w>surgat</w><w>Maria</w><w>et</w><w>cantet</w></stage>
+        <sp who="#mar-magd" n="27" xml:id="CB016x-sp-30">
           <p xml:id="CB016x-p-20">
             <w>
               <seg type="syll" part="I">Mun<notatedMusic>
@@ -4317,8 +4317,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="28"><w>Et</w><w>iterum</w><w>postea</w><w>obdormiat</w><w>et</w><w>angelus</w><w>veniat</w><w>cantando</w><w>ut</w><w>supra</w><w>et</w><w>iterum</w><w>evanescat</w><pc>&#183;</pc><pc resp="#editor">.</pc></stage>
-        <sp who="#mar-magd" n="28">
+        <stage n="28" xml:id="CB016x-stage-31"><w>Et</w><w>iterum</w><w>postea</w><w>obdormiat</w><w>et</w><w>angelus</w><w>veniat</w><w>cantando</w><w>ut</w><w>supra</w><w>et</w><w>iterum</w><w>evanescat</w><pc>&#183;</pc><pc resp="#editor">.</pc></stage>
+        <sp who="#mar-magd" n="28" xml:id="CB016x-sp-31">
           <div type="poem" met="7pp+6p 7pp+6p" rhyme="a/a">
             <lg type="strophe" n="I" met="7pp+6p/7pp+6p" rhyme="a/a" xml:id="CB016x-lg-18">
               <l n="1" xml:id="CB016x-l-42">
@@ -4619,8 +4619,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="29"><w>Angelus</w><w>dicat</w><w>sibi</w><pc>&#183;</pc></stage>
-        <sp who="#angelus" n="29">
+        <stage n="29" xml:id="CB016x-stage-32"><w>Angelus</w><w>dicat</w><w>sibi</w><pc>&#183;</pc></stage>
+        <sp who="#angelus" n="29" xml:id="CB016x-sp-32">
           <p xml:id="CB016x-p-21">
             <w>
               <seg type="syll" part="I">Di<notatedMusic>
@@ -4768,8 +4768,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="30"><w>Maria</w><pc>&#183;</pc></stage>
-        <sp who="#mar-magd" n="30">
+        <stage n="30" xml:id="CB016x-stage-33"><w>Maria</w><pc>&#183;</pc></stage>
+        <sp who="#mar-magd" n="30" xml:id="CB016x-sp-33">
           <div type="poem" met="7pp+6p 7pp+6p" rhyme="a/a">
             <lg type="strophe" n="I" met="7pp+6p/7pp+6p" rhyme="a/a" xml:id="CB016x-lg-20">
               <l n="1" xml:id="CB016x-l-46">
@@ -5090,8 +5090,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="31"><w>Tunc</w><w>deponat</w><w>vestimenta</w><w>secularia</w><w>et</w><w>induat</w><w>nigrum</w><w>pallium</w><pc>&#183;</pc><pc resp="#editor">,</pc><w>et</w><w>amator</w><w>recedat</w><w>et</w><w>diabolus</w><app type="text"><lem><w>veniat</w><w>ad</w><w>mercatorem</w></lem><note>add. marg. cod.</note></app><pc>&#183;</pc></stage>
-        <sp n="31">
+        <stage n="31" xml:id="CB016x-stage-34"><w>Tunc</w><w>deponat</w><w>vestimenta</w><w>secularia</w><w>et</w><w>induat</w><w>nigrum</w><w>pallium</w><pc>&#183;</pc><pc resp="#editor">,</pc><w>et</w><w>amator</w><w>recedat</w><w>et</w><w>diabolus</w><app type="text"><lem><w>veniat</w><w>ad</w><w>mercatorem</w></lem><note>add. marg. cod.</note></app><pc>&#183;</pc></stage>
+        <sp n="31" xml:id="CB016x-sp-34">
           <div type="poem" met="10pp 10pp 10pp 8p" rhyme="a/a/a/b">
             <lg type="strophe" met="10pp/10pp/10pp/8p" rhyme="a/a/a/b" xml:id="CB016x-lg-22">
               <l n="1" xml:id="CB016x-l-50">
@@ -5303,8 +5303,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="32"><w>Mercator</w><w>respondeat</w></stage>
-        <sp n="32">
+        <stage n="32" xml:id="CB016x-stage-35"><w>Mercator</w><w>respondeat</w></stage>
+        <sp n="32" xml:id="CB016x-sp-35">
           <div type="poem" met="10pp 10pp 9pp 4pp" rhyme="a/a/a/b">
             <lg type="strophe" met="10pp/10pp/9pp/4pp" rhyme="a/a/a/b" xml:id="CB016x-lg-23">
               <l n="1" xml:id="CB016x-l-54">
@@ -5484,8 +5484,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="33"><w>Et</w><w>chorus</w><w>cantet</w></stage>
-        <sp n="33">
+        <stage n="33" xml:id="CB016x-stage-36"><w>Et</w><w>chorus</w><w>cantet</w></stage>
+        <sp n="33" xml:id="CB016x-sp-36">
           <p xml:id="CB016x-p-22">
             <w>
               <seg type="syll" part="I">Ac<notatedMusic>
@@ -5524,8 +5524,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="34"><w>Accepto</w><w>ungento</w><w>vadat</w><w>ad</w><w>dominicam</w><w>personam</w><pc>&#183;</pc><w>cantando</w><w>flendo</w><pc>&#183;</pc></stage>
-        <sp n="34">
+        <stage n="34" xml:id="CB016x-stage-37"><w>Accepto</w><w>ungento</w><w>vadat</w><w>ad</w><w>dominicam</w><w>personam</w><pc>&#183;</pc><w>cantando</w><w>flendo</w><pc>&#183;</pc></stage>
+        <sp n="34" xml:id="CB016x-sp-37">
           <div type="poem" met="7pp+6p 7pp+6p" rhyme="a/a">
             <lg type="strophe" n="I" met="7pp+6p/7pp+6p" rhyme="a/a" xml:id="CB016x-lg-24">
               <l n="1" xml:id="CB016x-l-58">
@@ -5827,10 +5827,10 @@
             </lg>
           </div>
         </sp>
-        <stage n="35"><app type="text"><lem wit="HSB V"><w>Item</w></lem><rdg wit="cod."><w>Item</w><w>Item</w></rdg></app></stage>
-        <sp xml:lang="middle-high-german" n="35">
-          <div type="poem" met="4 4 2A4 4" rhyme="a/a/b/b">
-            <lg type="strophe" met="4/4/2A4/4" rhyme="a/a/b/b" xml:id="CB016x-lg-26">
+        <stage n="35" xml:id="CB016x-stage-38"><app type="text"><lem wit="HSB V"><w>Item</w></lem><rdg wit="cod."><w>Item</w><w>Item</w></rdg></app></stage>
+        <sp xml:lang="middle-high-german" n="35" xml:id="CB016x-sp-38">
+          <div type="poem" met="4x4" rhyme="a/a/b/b">
+            <lg type="strophe" met="4/4/..4/4" rhyme="a/a/b/b" xml:id="CB016x-lg-26">
               <l n="1" xml:id="CB016x-l-62">
                 <w>
                   <seg type="syll" part="I">Ie</seg>
@@ -5923,10 +5923,10 @@
             </lg>
           </div>
         </sp>
-        <stage n="36"><w>Item</w></stage>
-        <sp xml:lang="middle-high-german" n="36">
-          <div type="poem" met="A4 2A4 2A4 4" rhyme="a/a/b/b">
-            <lg type="strophe" met="A4/2A4/2A4/4" rhyme="a/a/b/b" xml:id="CB016x-lg-27">
+        <stage n="36" xml:id="CB016x-stage-39"><w>Item</w></stage>
+        <sp xml:lang="middle-high-german" n="36" xml:id="CB016x-sp-39">
+          <div type="poem" met="4x4" rhyme="a/a/b/b">
+            <lg type="strophe" met=".4/..4/..4/4" rhyme="a/a/b/b" xml:id="CB016x-lg-27">
               <l n="1" xml:id="CB016x-l-66">
                 <w>
                   <seg type="syll">Ich</seg>
@@ -6030,8 +6030,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="37"><w>Loquatur</w><w>phariseus</w><w>intra</w><w>se</w></stage>
-        <sp who="#phar" n="37">
+        <stage n="37" xml:id="CB016x-stage-40"><w>Loquatur</w><w>phariseus</w><w>intra</w><w>se</w></stage>
+        <sp who="#phar" n="37" xml:id="CB016x-sp-40">
           <p xml:id="CB016x-p-23">
             <w>
               <seg type="syll">Si<notatedMusic>
@@ -6199,8 +6199,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="38"><w>Et</w><w>dicat</w><w>Iudas</w></stage>
-        <sp who="#iudas" n="38">
+        <stage n="38" xml:id="CB016x-stage-41"><w>Et</w><w>dicat</w><w>Iudas</w></stage>
+        <sp who="#iudas" n="38" xml:id="CB016x-sp-41">
           <p xml:id="CB016x-p-24">
             <w>
               <seg type="syll">Ut<notatedMusic>
@@ -6336,8 +6336,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="39"><w>Iesus</w><w>cantet</w></stage>
-        <sp who="#ies" n="39">
+        <stage n="39" xml:id="CB016x-stage-42"><w>Iesus</w><w>cantet</w></stage>
+        <sp who="#ies" n="39" xml:id="CB016x-sp-42">
           <p xml:id="CB016x-p-25">
             <w>
               <seg type="syll">Quid<notatedMusic>
@@ -6458,8 +6458,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="40"><w>Item</w><w>statim</w></stage>
-        <sp who="#ies" n="40">
+        <stage n="40" xml:id="CB016x-stage-43"><w>Item</w><w>statim</w></stage>
+        <sp who="#ies" n="40" xml:id="CB016x-sp-43">
           <p xml:id="CB016x-p-26">
             <w>
               <seg type="syll" part="I">Sy<notatedMusic>
@@ -6528,8 +6528,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="41"><w>Symon</w><w>Petrus</w></stage>
-        <sp who="#petrus" n="41">
+        <stage n="41" xml:id="CB016x-stage-44"><w>Symon</w><w>Petrus</w></stage>
+        <sp who="#petrus" n="41" xml:id="CB016x-sp-44">
           <p xml:id="CB016x-p-27">
             <w>
               <seg type="syll" part="I">Ma<notatedMusic>
@@ -6557,8 +6557,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="42"><w>Dicit</w><w>Iesus</w><pc>&#183;</pc></stage>
-        <sp who="#ies" n="42">
+        <stage n="42" xml:id="CB016x-stage-45"><w>Dicit</w><w>Iesus</w><pc>&#183;</pc></stage>
+        <sp who="#ies" n="42" xml:id="CB016x-sp-45">
           <div type="poem" met="7pp+6p 7pp+6p" rhyme="a/a">
             <lg type="strophe" n="I" met="7pp+6p/7pp+6p" rhyme="a/a" xml:id="CB016x-lg-28">
               <l n="1" xml:id="CB016x-l-70">
@@ -6997,8 +6997,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="43"><w>Symon</w><w>respondeat</w><pc>&#183;</pc></stage>
-        <sp who="#petrus" n="43">
+        <stage n="43" xml:id="CB016x-stage-46"><w>Symon</w><w>respondeat</w><pc>&#183;</pc></stage>
+        <sp who="#petrus" n="43" xml:id="CB016x-sp-46">
           <div type="poem" met="7pp+6p" rhyme="a">
             <lg type="strophe" met="7pp+6p" rhyme="a" xml:id="CB016x-lg-31">
               <l n="1" xml:id="CB016x-l-76">
@@ -7078,8 +7078,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="44"><w>Iesus</w><w>dicat</w><pc>&#183;</pc></stage>
-        <sp who="#ies" n="44">
+        <stage n="44" xml:id="CB016x-stage-47"><w>Iesus</w><w>dicat</w><pc>&#183;</pc></stage>
+        <sp who="#ies" n="44" xml:id="CB016x-sp-47">
           <div type="poem" met="7pp+6p" rhyme="a">
             <lg type="strophe" met="7pp+6p" rhyme="a" xml:id="CB016x-lg-32">
               <l n="1" xml:id="CB016x-l-77">
@@ -7154,8 +7154,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="45"><w>Item</w><w>Iesus</w><w>cantet</w><w>ad</w><w>Mariam</w></stage>
-        <sp who="#ies" n="45">
+        <stage n="45" xml:id="CB016x-stage-48"><w>Item</w><w>Iesus</w><w>cantet</w><w>ad</w><w>Mariam</w></stage>
+        <sp who="#ies" n="45" xml:id="CB016x-sp-48">
           <p xml:id="CB016x-p-28">
             <w>Mulier</w>
             <pc resp="#editor">,</pc>
@@ -7264,8 +7264,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="46"><w>Tunc</w><w>Maria</w><w>surgat</w><w>et</w><w>vadat</w><w>lamentando</w><w>cantans</w><pc>&#183;</pc></stage>
-        <sp who="#mar-magd" n="46">
+        <stage n="46" xml:id="CB016x-stage-49"><w>Tunc</w><w>Maria</w><w>surgat</w><w>et</w><w>vadat</w><w>lamentando</w><w>cantans</w><pc>&#183;</pc></stage>
+        <sp who="#mar-magd" n="46" xml:id="CB016x-sp-49">
           <div type="poem" met="? ? ? ?" rhyme="a/a/b/b">
             <lg type="strophe" n="I" met="?/?/?/?" rhyme="a/a/b/b" xml:id="CB016x-lg-33">
               <l n="1" xml:id="CB016x-l-78">
@@ -7717,8 +7717,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="47"><w>Interea</w><w>cantent</w><w>discipuli</w></stage>
-        <sp n="47">
+        <stage n="47" xml:id="CB016x-stage-50"><w>Interea</w><w>cantent</w><w>discipuli</w></stage>
+        <sp n="47" xml:id="CB016x-sp-50">
           <p xml:id="CB016x-p-30">
             <w>
               <seg type="syll" part="I">Pha<notatedMusic>
@@ -7826,8 +7826,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="48"><w>Tunc</w><w>vadat</w><w>Iesus</w><w>ad</w><w>resuscitandum</w><w>Lazarum</w><pc>&#183;</pc><pc resp="#editor">,</pc><w>et</w><w>ibi</w><w>occurrant</w><w>Maria</w><w>Magdalena</w><pc>&#183;</pc><w>et</w><w>Martha</w><w>plorantes</w><w>pro</w><w>Lazaro</w><pc>&#183;</pc><pc resp="#editor">,</pc><w>et</w><w>Iesus</w><w>cantet</w><pc>&#183;</pc></stage>
-        <sp who="#ies" n="48">
+        <stage n="48" xml:id="CB016x-stage-51"><w>Tunc</w><w>vadat</w><w>Iesus</w><w>ad</w><w>resuscitandum</w><w>Lazarum</w><pc>&#183;</pc><pc resp="#editor">,</pc><w>et</w><w>ibi</w><w>occurrant</w><w>Maria</w><w>Magdalena</w><pc>&#183;</pc><w>et</w><w>Martha</w><w>plorantes</w><w>pro</w><w>Lazaro</w><pc>&#183;</pc><pc resp="#editor">,</pc><w>et</w><w>Iesus</w><w>cantet</w><pc>&#183;</pc></stage>
+        <sp who="#ies" n="48" xml:id="CB016x-sp-51">
           <p xml:id="CB016x-p-31">
             <w>
               <seg type="syll" part="I">La<notatedMusic>
@@ -7950,8 +7950,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="49"><w>Tunc</w><w>Maria</w><w>Magdalena</w><w>et</w><w>Martha</w><w>flendo</w><w>cantent</w></stage>
-        <sp who="#mar-magd #martha" n="49">
+        <stage n="49" xml:id="CB016x-stage-52"><w>Tunc</w><w>Maria</w><w>Magdalena</w><w>et</w><w>Martha</w><w>flendo</w><w>cantent</w></stage>
+        <sp who="#mar-magd #martha" n="49" xml:id="CB016x-sp-52">
           <p xml:id="CB016x-p-32">
             <w>Domine</w>
             <pc resp="#editor">,</pc>
@@ -7962,8 +7962,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="50"><w>Et</w><w>sic</w><w>tacendo</w><w>clerus</w><w>cantet</w></stage>
-        <sp n="50">
+        <stage n="50" xml:id="CB016x-stage-53"><w>Et</w><w>sic</w><w>tacendo</w><w>clerus</w><w>cantet</w></stage>
+        <sp n="50" xml:id="CB016x-sp-53">
           <p xml:id="CB016x-p-33">
             <w>
               <seg type="syll" part="I">Vi<notatedMusic>
@@ -7979,8 +7979,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="51"><w>Et</w><w>Iesus</w><w>cantet</w></stage>
-        <sp who="#ies" n="51">
+        <stage n="51" xml:id="CB016x-stage-54"><w>Et</w><w>Iesus</w><w>cantet</w></stage>
+        <sp who="#ies" n="51" xml:id="CB016x-sp-54">
           <p xml:id="CB016x-p-34">
             <w>
               <seg type="syll" part="I">La<notatedMusic>
@@ -8021,8 +8021,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="52"><w>Et</w><w>clerus</w><w>cantet</w></stage>
-        <sp n="52">
+        <stage n="52" xml:id="CB016x-stage-55"><w>Et</w><w>clerus</w><w>cantet</w></stage>
+        <sp n="52" xml:id="CB016x-sp-55">
           <p xml:id="CB016x-p-35">
             <w>Et</w><w>produc</w><w>ligatis</w><w>manibus</w><w>et</w><w>pedibus</w>
             <pc resp="#editor">,</pc>
@@ -8030,8 +8030,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="53"><w>Interim</w><w>Iudas</w><w>veniat</w><w>festinando</w><w>et</w><w>querat</w><w>oportunitatem</w><w>tradendi</w><w>dicens</w></stage>
-        <sp who="#iudas" n="53">
+        <stage n="53" xml:id="CB016x-stage-56"><w>Interim</w><w>Iudas</w><w>veniat</w><w>festinando</w><w>et</w><w>querat</w><w>oportunitatem</w><w>tradendi</w><w>dicens</w></stage>
+        <sp who="#iudas" n="53" xml:id="CB016x-sp-56">
           <p xml:id="CB016x-p-36">
             <w>
               <seg type="syll">O<notatedMusic>
@@ -8152,8 +8152,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="54"><w>Cui</w><w>pontifices</w><w>respondeant</w><pc>&#183;</pc></stage>
-        <sp n="54">
+        <stage n="54" xml:id="CB016x-stage-57"><w>Cui</w><w>pontifices</w><w>respondeant</w><pc>&#183;</pc></stage>
+        <sp n="54" xml:id="CB016x-sp-57">
           <p xml:id="CB016x-p-37">
             <w>
               <seg type="syll">O<notatedMusic>
@@ -8285,8 +8285,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="55"><app type="text"><lem wit="HSB V T"><w>Iudas</w></lem><rdg wit="cod."><w>Iesum</w></rdg></app><w>respondeat</w><pc>&#183;</pc></stage>
-        <sp who="#iudas" n="55">
+        <stage n="55" xml:id="CB016x-stage-58"><app type="text"><lem wit="HSB V T"><w>Iudas</w></lem><rdg wit="cod."><w>Iesum</w></rdg></app><w>respondeat</w><pc>&#183;</pc></stage>
+        <sp who="#iudas" n="55" xml:id="CB016x-sp-58">
           <div type="poem" met="7pp 9pp 8pp 8pp" rhyme="a/a/a/a">
             <lg type="strophe" met="7pp/9pp/8pp/8pp" rhyme="a/a/a/a" xml:id="CB016x-lg-35">
               <l n="1" xml:id="CB016x-l-86">
@@ -8466,8 +8466,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="56"><w>Pontifices</w><w>cantent</w></stage>
-        <sp n="56">
+        <stage n="56" xml:id="CB016x-stage-59"><w>Pontifices</w><w>cantent</w></stage>
+        <sp n="56" xml:id="CB016x-sp-59">
           <div type="poem" met="7pp 8pp 8pp 8pp" rhyme="a/a/b/b">
             <lg type="strophe" met="7pp/8pp/8pp/8pp" rhyme="a/a/b/b" xml:id="CB016x-lg-36">
               <l n="1" xml:id="CB016x-l-90">
@@ -8641,8 +8641,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="57"><w>Iudas</w><w>tunc</w><w>det</w><w>Iudeis</w><w>signum</w><w>cantando</w></stage>
-        <sp who="#iudas" n="57">
+        <stage n="57" xml:id="CB016x-stage-60"><w>Iudas</w><w>tunc</w><w>det</w><w>Iudeis</w><w>signum</w><w>cantando</w></stage>
+        <sp who="#iudas" n="57" xml:id="CB016x-sp-60">
           <p xml:id="CB016x-p-38">
             <w>
               <seg type="syll" part="I">Quem<notatedMusic>
@@ -8735,8 +8735,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="58"><w>Tunc</w><w>turba</w><w>Iudeorum</w><w>sequatur</w><w>Iudam</w><w>cum</w><w>gladiis</w><w>et</w><w>fustibus</w><w>et</w><w>lucernis</w><w>donec</w><w>ad</w><w>Iesum</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Interea</w><w>Iesus</w><w>faciat</w><w>ut</w><w>mos</w><w>est</w><w>in</w><w>cena</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Postea</w><w>assumat</w><w>quatuor</w><w>discipulos</w><w>et</w><w>ceteris</w><w>dicat</w><pc resp="#editor">,</pc><w>quos</w><w>relinquit</w><pc>&#183;</pc></stage>
-        <sp who="#ies" n="58">
+        <stage n="58" xml:id="CB016x-stage-61"><w>Tunc</w><w>turba</w><w>Iudeorum</w><w>sequatur</w><w>Iudam</w><w>cum</w><w>gladiis</w><w>et</w><w>fustibus</w><w>et</w><w>lucernis</w><w>donec</w><w>ad</w><w>Iesum</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Interea</w><w>Iesus</w><w>faciat</w><w>ut</w><w>mos</w><w>est</w><w>in</w><w>cena</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Postea</w><w>assumat</w><w>quatuor</w><w>discipulos</w><w>et</w><w>ceteris</w><w>dicat</w><pc resp="#editor">,</pc><w>quos</w><w>relinquit</w><pc>&#183;</pc></stage>
+        <sp who="#ies" n="58" xml:id="CB016x-sp-61">
           <p xml:id="CB016x-p-39">
             <w>
               <seg type="syll" part="I">Dor<notatedMusic>
@@ -8790,8 +8790,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="59"><w>Deinde</w><w>vadat</w><w>orare</w><pc>&#183;</pc><w>et</w><w>dicat</w><w>quattuor</w><w>discipulis</w></stage>
-        <sp who="#ies" n="59">
+        <stage n="59" xml:id="CB016x-stage-62"><w>Deinde</w><w>vadat</w><w>orare</w><pc>&#183;</pc><w>et</w><w>dicat</w><w>quattuor</w><w>discipulis</w></stage>
+        <sp who="#ies" n="59" xml:id="CB016x-sp-62">
           <p xml:id="CB016x-p-40">
             <w>
               <seg type="syll" part="I">Tris<notatedMusic>
@@ -8888,8 +8888,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="60"><w>Tunc</w><w>ascendat</w><w>in</w><w>montem</w><w>Oliveti</w><w>et</w><w>flexis</w><w>genibus</w><w>respiciens</w><w>celum</w><w>petat</w><w>dicendo</w><pc>&#183;</pc></stage>
-        <sp who="#ies" n="60">
+        <stage n="60" xml:id="CB016x-stage-63"><w>Tunc</w><w>ascendat</w><w>in</w><w>montem</w><w>Oliveti</w><w>et</w><w>flexis</w><w>genibus</w><w>respiciens</w><w>celum</w><w>petat</w><w>dicendo</w><pc>&#183;</pc></stage>
+        <sp who="#ies" n="60" xml:id="CB016x-sp-63">
           <p xml:id="CB016x-p-41">
             <w>
               <seg type="syll" part="I">Pa<notatedMusic>
@@ -9098,8 +9098,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="61"><w>Hoc</w><w>facto</w><w>redeat</w><w>ad</w><w>quattuor</w><w>discipulos</w><w>et</w><w>inveniat</w><w>eos</w><w>dormientes</w><pc>&#183;</pc><w>et</w><w>dicat</w><w>Petro</w><pc>&#183;</pc></stage>
-        <sp who="#ies" n="61">
+        <stage n="61" xml:id="CB016x-stage-64"><w>Hoc</w><w>facto</w><w>redeat</w><w>ad</w><w>quattuor</w><w>discipulos</w><w>et</w><w>inveniat</w><w>eos</w><w>dormientes</w><pc>&#183;</pc><w>et</w><w>dicat</w><w>Petro</w><pc>&#183;</pc></stage>
+        <sp who="#ies" n="61" xml:id="CB016x-sp-64">
           <p xml:id="CB016x-p-42">
             <w>
               <seg type="syll" part="I">Sy<notatedMusic>
@@ -9258,10 +9258,10 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="62"><w>Postea</w><w>vadat</w><w>iterum</w><w>orare</w><w>ut</w><w>antea</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Tunc</w><w>iterato</w><w>veniat</w><w>ad</w><w>discipulos</w><w>et</w><w>inveniat</w><w>eos</w><w>dormientes</w><w>et</w><w>dicat</w><w>ad</w><w>eos</w><pc>&#183;</pc><pc resp="#editor">:</pc></stage>
-        <sp who="#ies" n="62">Manete hic<pc>&#183;</pc><pc resp="#editor">.</pc></sp>
-        <stage n="63"><w>Et</w><w>iterum</w><w>dicat</w></stage>
-        <sp who="#ies" n="63">
+        <stage n="62" xml:id="CB016x-stage-65"><w>Postea</w><w>vadat</w><w>iterum</w><w>orare</w><w>ut</w><w>antea</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Tunc</w><w>iterato</w><w>veniat</w><w>ad</w><w>discipulos</w><w>et</w><w>inveniat</w><w>eos</w><w>dormientes</w><w>et</w><w>dicat</w><w>ad</w><w>eos</w><pc>&#183;</pc><pc resp="#editor">:</pc></stage>
+        <sp who="#ies" n="62" xml:id="CB016x-sp-65">Manete hic<pc>&#183;</pc><pc resp="#editor">.</pc></sp>
+        <stage n="63" xml:id="CB016x-stage-66"><w>Et</w><w>iterum</w><w>dicat</w></stage>
+        <sp who="#ies" n="63" xml:id="CB016x-sp-66">
           <p xml:id="CB016x-p-44">
             <w>
               <seg type="syll" part="I">Pa<notatedMusic>
@@ -9397,8 +9397,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="64"><w>Tunc</w><w>redeat</w><w>ad</w><w>discipulos</w><w>et</w><w>cantet</w></stage>
-        <sp who="#ies" n="64">
+        <stage n="64" xml:id="CB016x-stage-67"><w>Tunc</w><w>redeat</w><w>ad</w><w>discipulos</w><w>et</w><w>cantet</w></stage>
+        <sp who="#ies" n="64" xml:id="CB016x-sp-67">
           <p xml:id="CB016x-p-45">
             <w>
               <seg type="syll" part="I">U<notatedMusic>
@@ -9777,8 +9777,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="65"><w>Veniat</w><w>Iudas</w><w>ad</w><w>Iesum</w><w>cum</w><w>turba</w><w>Iudeorum,</w><w>quibus</w><w>Iesus</w><w>dicat</w></stage>
-        <sp who="#ies" n="65">
+        <stage n="65" xml:id="CB016x-stage-68"><w>Veniat</w><w>Iudas</w><w>ad</w><w>Iesum</w><w>cum</w><w>turba</w><w>Iudeorum,</w><w>quibus</w><w>Iesus</w><w>dicat</w></stage>
+        <sp who="#ies" n="65" xml:id="CB016x-sp-68">
           <p xml:id="CB016x-p-48">
             <w>
               <seg type="syll">Quem<notatedMusic>
@@ -9804,8 +9804,8 @@
             <pc resp="#editor">?</pc>
           </p>
         </sp>
-        <stage n="66"><w>Qui</w><w>respondeant</w></stage>
-        <sp n="66">
+        <stage n="66" xml:id="CB016x-stage-69"><w>Qui</w><w>respondeant</w></stage>
+        <sp n="66" xml:id="CB016x-sp-69">
           <p xml:id="CB016x-p-49">
             <w>
               <seg type="syll" part="I">Ie<notatedMusic>
@@ -9839,8 +9839,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="67"><w>Iesus</w><w>dicat</w></stage>
-        <sp who="#ies" n="67">
+        <stage n="67" xml:id="CB016x-stage-70"><w>Iesus</w><w>dicat</w></stage>
+        <sp who="#ies" n="67" xml:id="CB016x-sp-70">
           <p n="1" xml:id="CB016x-p-50">
             <w>
               <seg type="syll" part="I">E<notatedMusic>
@@ -9862,8 +9862,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="68"><w>Et</w><w>turba</w><w>retrocedat</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Item</w><w>Iesus</w><w>dicat</w></stage>
-        <sp who="#ies" n="68">
+        <stage n="68" xml:id="CB016x-stage-71"><w>Et</w><w>turba</w><w>retrocedat</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Item</w><w>Iesus</w><w>dicat</w></stage>
+        <sp who="#ies" n="68" xml:id="CB016x-sp-71">
           <p xml:id="CB016x-p-51">
             <w>
               <seg type="syll">Quem<notatedMusic>
@@ -9889,8 +9889,8 @@
             <pc resp="#editor">?</pc>
           </p>
         </sp>
-        <stage n="69"><w>Iudei</w></stage>
-        <sp n="69">
+        <stage n="69" xml:id="CB016x-stage-72"><w>Iudei</w></stage>
+        <sp n="69" xml:id="CB016x-sp-72">
           <p xml:id="CB016x-p-52">
             <w>
               <seg type="syll" part="I">Ie<notatedMusic>
@@ -9924,8 +9924,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="70"><w>Iesus</w><w>respondeat</w></stage>
-        <sp who="#ies" n="70">
+        <stage n="70" xml:id="CB016x-stage-73"><w>Iesus</w><w>respondeat</w></stage>
+        <sp who="#ies" n="70" xml:id="CB016x-sp-73">
           <p xml:id="CB016x-p-53">
             <w>
               <seg type="syll" part="I">Di<notatedMusic>
@@ -9977,8 +9977,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="71"><w>Item</w></stage>
-        <sp who="#ies" n="71">
+        <stage n="71" xml:id="CB016x-stage-74"><w>Item</w></stage>
+        <sp who="#ies" n="71" xml:id="CB016x-sp-74">
           <p xml:id="CB016x-p-54">
             <w>
               <seg type="syll">Si<notatedMusic>
@@ -10054,8 +10054,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="72"><w>Tunc</w><w>apostoli</w><w>dent</w><w>fugam</w><w>excepto</w><w>Petro</w><w>et</w><w>Iudas</w><w>dicat</w></stage>
-        <sp who="#iudas" n="72">
+        <stage n="72" xml:id="CB016x-stage-75"><w>Tunc</w><w>apostoli</w><w>dent</w><w>fugam</w><w>excepto</w><w>Petro</w><w>et</w><w>Iudas</w><w>dicat</w></stage>
+        <sp who="#iudas" n="72" xml:id="CB016x-sp-75">
           <p xml:id="CB016x-p-55">
             <w>
               <seg type="syll" part="I">A<notatedMusic>
@@ -10081,8 +10081,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="73"><w>Iesus</w><w>illi</w><w>respondeat</w></stage>
-        <sp who="#ies" n="73">
+        <stage n="73" xml:id="CB016x-stage-76"><w>Iesus</w><w>illi</w><w>respondeat</w></stage>
+        <sp who="#ies" n="73" xml:id="CB016x-sp-76">
           <div type="poem" met="8p 9p 7pp 7pp 4p" rhyme="a/a/b/b/b">
             <lg type="strophe" met="8p/9p/7pp/7pp/4p" rhyme="a/a/b/b/b" xml:id="CB016x-lg-37">
               <l n="1" xml:id="CB016x-l-94">
@@ -10176,7 +10176,7 @@
             </lg>
           </div>
         </sp>
-        <stage n="74">
+        <stage n="74" xml:id="CB016x-stage-77">
           <app type="text">
             <lem>
               <w>Et</w>
@@ -10184,7 +10184,7 @@
             <note><w>de</w><w>Petro</w><w>et</w><w>ancilla</w> add. marg. al. man. cod.</note>
           </app>
           <w>Petro</w><w>sequente</w><w>Iesum</w><w>una</w><w>ancilla</w><w>dicat</w><pc>&#183;</pc></stage>
-        <sp who="#ancilla" n="74">
+        <sp who="#ancilla" n="74" xml:id="CB016x-sp-77">
           <p xml:id="CB016x-p-56">
             <app type="text">
               <lem>
@@ -10196,8 +10196,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="75"><w>Ipse</w><w>dicat</w></stage>
-        <sp who="#petrus" n="75">
+        <stage n="75" xml:id="CB016x-stage-78"><w>Ipse</w><w>dicat</w></stage>
+        <sp who="#petrus" n="75" xml:id="CB016x-sp-78">
           <p xml:id="CB016x-p-57">
             <app type="text">
               <lem>
@@ -10208,8 +10208,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="76"><w>Item</w><w>ancilla</w></stage>
-        <sp who="#ancilla" n="76">
+        <stage n="76" xml:id="CB016x-stage-79"><w>Item</w><w>ancilla</w></stage>
+        <sp who="#ancilla" n="76" xml:id="CB016x-sp-79">
           <p xml:id="CB016x-p-58">
             <app type="text">
               <lem>
@@ -10221,8 +10221,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="77"><w>Petrus</w></stage>
-        <sp who="#petrus" n="77">
+        <stage n="77" xml:id="CB016x-stage-80"><w>Petrus</w></stage>
+        <sp who="#petrus" n="77" xml:id="CB016x-sp-80">
           <p xml:id="CB016x-p-59">
             <app type="text">
               <lem>
@@ -10234,8 +10234,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="78"><w>[Ancilla]</w></stage>
-        <sp who="#ancilla" n="78">
+        <stage n="78" xml:id="CB016x-stage-81"><w>[Ancilla]</w></stage>
+        <sp who="#ancilla" n="78" xml:id="CB016x-sp-81">
           <p xml:id="CB016x-p-60">
             <app type="text">
               <lem>
@@ -10247,8 +10247,8 @@
             <pc resp="#editor">?</pc>
           </p>
         </sp>
-        <stage n="79"><w>[Petrus]</w></stage>
-        <sp who="#petrus" n="79">
+        <stage n="79" xml:id="CB016x-stage-82"><w>[Petrus]</w></stage>
+        <sp who="#petrus" n="79" xml:id="CB016x-sp-82">
           <p xml:id="CB016x-p-61">
             <app type="text">
               <lem>
@@ -10259,8 +10259,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="80"><w>Et</w><w>Iesus</w><w>dicat</w></stage>
-        <sp who="#ies" n="80">
+        <stage n="80" xml:id="CB016x-stage-83"><w>Et</w><w>Iesus</w><w>dicat</w></stage>
+        <sp who="#ies" n="80" xml:id="CB016x-sp-83">
           <p xml:id="CB016x-p-62">
             <w>
               <seg type="syll" part="I">Tan<notatedMusic>
@@ -10379,8 +10379,8 @@
             <w rend="italic">etc.</w>
           </p>
         </sp>
-        <stage n="81"><w>Et</w><w>ducatur</w><w>Iesus</w><w>ad</w><w>pontifices</w><pc>&#183;</pc><w>et</w><w>chorus</w><w>cantet</w><pc>&#183;</pc></stage>
-        <sp n="81">
+        <stage n="81" xml:id="CB016x-stage-84"><w>Et</w><w>ducatur</w><w>Iesus</w><w>ad</w><w>pontifices</w><pc>&#183;</pc><w>et</w><w>chorus</w><w>cantet</w><pc>&#183;</pc></stage>
+        <sp n="81" xml:id="CB016x-sp-84">
           <p xml:id="CB016x-p-63">
             <w>
               <seg type="syll" part="I">Col<notatedMusic>
@@ -10440,8 +10440,8 @@
             </w>
           </p>
         </sp>
-        <stage n="82"><w>Et</w><w>pontifices</w><w>cantent</w><w>et</w><w>cogitent</w><w>quid</w><w>faciant</w></stage>
-        <sp n="82">
+        <stage n="82" xml:id="CB016x-stage-85"><w>Et</w><w>pontifices</w><w>cantent</w><w>et</w><w>cogitent</w><w>quid</w><w>faciant</w></stage>
+        <sp n="82" xml:id="CB016x-sp-85">
           <p xml:id="CB016x-p-64">
             <w>
               <seg type="syll">Quid<notatedMusic>
@@ -10604,8 +10604,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="83"><w>Et</w><w>Cayphas</w><w>cantet</w></stage>
-        <sp who="#cayphas" n="83">
+        <stage n="83" xml:id="CB016x-stage-86"><w>Et</w><w>Cayphas</w><w>cantet</w></stage>
+        <sp who="#cayphas" n="83" xml:id="CB016x-sp-86">
           <p xml:id="CB016x-p-65">
             <w>
               <seg type="syll" part="I">Ex<notatedMusic>
@@ -10743,8 +10743,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="84"><w>Clerus</w><w>cantet</w></stage>
-        <sp n="84">
+        <stage n="84" xml:id="CB016x-stage-87"><w>Clerus</w><w>cantet</w></stage>
+        <sp n="84" xml:id="CB016x-sp-87">
           <p xml:id="CB016x-p-66">
             <w>
               <seg type="syll">Ab<notatedMusic>
@@ -10823,8 +10823,8 @@
             </w>
           </p>
         </sp>
-        <stage n="85"><w>Postea</w><w>ducitur</w><w>ad</w><w>Pilatum</w><w>Iesus</w><w>et</w><w>dicunt</w><w>Iudei</w></stage>
-        <sp n="85">
+        <stage n="85" xml:id="CB016x-stage-88"><w>Postea</w><w>ducitur</w><w>ad</w><w>Pilatum</w><w>Iesus</w><w>et</w><w>dicunt</w><w>Iudei</w></stage>
+        <sp n="85" xml:id="CB016x-sp-88">
           <p xml:id="CB016x-p-67"><w>Hic</w><w>dixit</w><pc>&#183;</pc></p>
           <p xml:id="CB016x-p-68">
             <w>
@@ -10923,8 +10923,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="86"><w>Pilatus</w><w>respondeat</w><pc>&#183;</pc></stage>
-        <sp who="#pilatus" n="86">
+        <stage n="86" xml:id="CB016x-stage-89"><w>Pilatus</w><w>respondeat</w><pc>&#183;</pc></stage>
+        <sp who="#pilatus" n="86" xml:id="CB016x-sp-89">
           <p xml:id="CB016x-p-69">
             <w>
               <seg type="syll">Quam<notatedMusic>
@@ -11011,8 +11011,8 @@
             <pc resp="#editor">?</pc>
           </p>
         </sp>
-        <stage n="87"><w>Iudei</w><w>respondent</w></stage>
-        <sp n="87">
+        <stage n="87" xml:id="CB016x-stage-90"><w>Iudei</w><w>respondent</w></stage>
+        <sp n="87" xml:id="CB016x-sp-90">
           <p xml:id="CB016x-p-70">
             <w>
               <seg type="syll">Si<notatedMusic>
@@ -11113,8 +11113,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="88"><w>Pilatus</w><pc>&#183;</pc></stage>
-        <sp who="#pilatus" n="88">
+        <stage n="88" xml:id="CB016x-stage-91"><w>Pilatus</w><pc>&#183;</pc></stage>
+        <sp who="#pilatus" n="88" xml:id="CB016x-sp-91">
           <p n="1" xml:id="CB016x-p-71">
             <w>
               <seg type="syll" part="I">Ac<notatedMusic>
@@ -11221,8 +11221,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="89"><w>Iudei</w><pc>&#183;</pc></stage>
-        <sp n="89">
+        <stage n="89" xml:id="CB016x-stage-92"><w>Iudei</w><pc>&#183;</pc></stage>
+        <sp n="89" xml:id="CB016x-sp-92">
           <p xml:id="CB016x-p-72">
             <w>
               <seg type="syll" part="I">No<notatedMusic>
@@ -11286,8 +11286,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="90"><w>Postea</w><w>ducatur</w><w>Iesus</w><w>ad</w><w>Herodem</w><pc>&#183;</pc><w>qui</w><w>dicat</w><w>ei</w><pc>&#183;</pc></stage>
-        <sp who="#herodes" n="90">
+        <stage n="90" xml:id="CB016x-stage-93"><w>Postea</w><w>ducatur</w><w>Iesus</w><w>ad</w><w>Herodem</w><pc>&#183;</pc><w>qui</w><w>dicat</w><w>ei</w><pc>&#183;</pc></stage>
+        <sp who="#herodes" n="90" xml:id="CB016x-sp-93">
           <p xml:id="CB016x-p-73">
             <w>
               <seg type="syll" part="I">Ho<notatedMusic>
@@ -11327,8 +11327,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="91"><w>Iesus</w><w>vero</w><w>tacebat</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Et</w><w>Herodes</w><w>iterum</w><w>dicit</w><pc>&#183;</pc></stage>
-        <sp who="#herodes" n="91">
+        <stage n="91" xml:id="CB016x-stage-94"><w>Iesus</w><w>vero</w><w>tacebat</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Et</w><w>Herodes</w><w>iterum</w><w>dicit</w><pc>&#183;</pc></stage>
+        <sp who="#herodes" n="91" xml:id="CB016x-sp-94">
           <p xml:id="CB016x-p-74">
             <w>
               <seg type="syll">Quem<notatedMusic>
@@ -11366,8 +11366,8 @@
             <pc resp="#editor">?</pc>
           </p>
         </sp>
-        <stage n="92"><w>Iesus</w><w>non</w><w>respondet</w><w>ei</w><w>ad</w><w>unum</w><w>verbum</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Tunc</w><w>Iesus</w><w>inducitur</w><w>veste</w><w>alba</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Et</w><w>reducunt</w><w>Iesum</w><w>ad</w><w>Pilatum</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Tunc</w><w>conveniunt</w><w>Pilatus</w><w>et</w><w>Herodes</w><w>et</w><w>osculantur</w><w>invicem</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Et</w><w>Iesus</w><w>veniat</w><w>ad</w><w>Pilatum</w><w>et</w><w>ipse</w><w>dicit</w><pc>&#183;</pc></stage>
-        <sp who="#pilatus" n="92">
+        <stage n="92" xml:id="CB016x-stage-95"><w>Iesus</w><w>non</w><w>respondet</w><w>ei</w><w>ad</w><w>unum</w><w>verbum</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Tunc</w><w>Iesus</w><w>inducitur</w><w>veste</w><w>alba</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Et</w><w>reducunt</w><w>Iesum</w><w>ad</w><w>Pilatum</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Tunc</w><w>conveniunt</w><w>Pilatus</w><w>et</w><w>Herodes</w><w>et</w><w>osculantur</w><w>invicem</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Et</w><w>Iesus</w><w>veniat</w><w>ad</w><w>Pilatum</w><w>et</w><w>ipse</w><w>dicit</w><pc>&#183;</pc></stage>
+        <sp who="#pilatus" n="92" xml:id="CB016x-sp-95">
           <p xml:id="CB016x-p-75">
             <w>
               <seg type="syll" part="I">Nul<notatedMusic>
@@ -11446,8 +11446,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="93"><w>Iudei</w><w>dicant</w></stage>
-        <sp n="93">
+        <stage n="93" xml:id="CB016x-stage-96"><w>Iudei</w><w>dicant</w></stage>
+        <sp n="93" xml:id="CB016x-sp-96">
           <p xml:id="CB016x-p-76">
             <w>
               <seg type="syll" part="I">Re<notatedMusic>
@@ -11479,8 +11479,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="94"><w>Tunc</w><w>Pilatus</w><w>dicat</w><w>ad</w><w>Iesum</w></stage>
-        <sp who="#pilatus" n="94">
+        <stage n="94" xml:id="CB016x-stage-97"><w>Tunc</w><w>Pilatus</w><w>dicat</w><w>ad</w><w>Iesum</w></stage>
+        <sp who="#pilatus" n="94" xml:id="CB016x-sp-97">
           <p xml:id="CB016x-p-77">
             <w>
               <seg type="syll">Tu<notatedMusic>
@@ -11519,8 +11519,8 @@
             <pc resp="#editor">?</pc>
           </p>
         </sp>
-        <stage n="95"><w>Iesus</w><w>respondit</w><pc>&#183;</pc></stage>
-        <sp who="#ies" n="95">
+        <stage n="95" xml:id="CB016x-stage-98"><w>Iesus</w><w>respondit</w><pc>&#183;</pc></stage>
+        <sp who="#ies" n="95" xml:id="CB016x-sp-98">
           <p xml:id="CB016x-p-78">
             <w>
               <seg type="syll">Tu<notatedMusic>
@@ -11564,8 +11564,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="96"><w>Pilatus</w><w>dicat</w></stage>
-        <sp who="#pilatus" n="96">
+        <stage n="96" xml:id="CB016x-stage-99"><w>Pilatus</w><w>dicat</w></stage>
+        <sp who="#pilatus" n="96" xml:id="CB016x-sp-99">
           <p xml:id="CB016x-p-79">
             <w>
               <seg type="syll">Gens<notatedMusic>
@@ -11655,8 +11655,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="97"><w>Iesus</w><w>paulatim</w><w>dicat</w></stage>
-        <sp who="#ies" n="97">
+        <stage n="97" xml:id="CB016x-stage-100"><w>Iesus</w><w>paulatim</w><w>dicat</w></stage>
+        <sp who="#ies" n="97" xml:id="CB016x-sp-100">
           <p xml:id="CB016x-p-80">
             <w>
               <seg type="syll" part="I">Re<notatedMusic>
@@ -11716,8 +11716,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="98"><w>Pilatus</w><w>item</w><w>dicat</w></stage>
-        <sp who="#pilatus" n="98">
+        <stage n="98" xml:id="CB016x-stage-101"><w>Pilatus</w><w>item</w><w>dicat</w></stage>
+        <sp who="#pilatus" n="98" xml:id="CB016x-sp-101">
           <p n="1" xml:id="CB016x-p-81">
             <w>
               <seg type="syll" part="I">Er<notatedMusic>
@@ -11775,8 +11775,8 @@
             <pc resp="#editor">?</pc>
           </p>
         </sp>
-        <stage n="99"><w>Iesus</w><w>vero</w><w>taceat</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Et</w><w>Pilatus</w><w>dicat</w><w>ad</w><w>pontifices</w></stage>
-        <sp who="#pilatus" n="99">
+        <stage n="99" xml:id="CB016x-stage-102"><w>Iesus</w><w>vero</w><w>taceat</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Et</w><w>Pilatus</w><w>dicat</w><w>ad</w><w>pontifices</w></stage>
+        <sp who="#pilatus" n="99" xml:id="CB016x-sp-102">
           <p xml:id="CB016x-p-82">
             <w>
               <seg type="syll">Quid<notatedMusic>
@@ -11836,8 +11836,8 @@
             <pc resp="#editor">?</pc>
           </p>
         </sp>
-        <stage n="100"><w>Iudei</w></stage>
-        <sp n="100">
+        <stage n="100" xml:id="CB016x-stage-103"><w>Iudei</w></stage>
+        <sp n="100" xml:id="CB016x-sp-103">
           <p xml:id="CB016x-p-83">
             <w>
               <seg type="syll" part="I">Cru<notatedMusic>
@@ -11865,8 +11865,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="101"><w>Pilatus</w></stage>
-        <sp who="#pilatus" n="101">
+        <stage n="101" xml:id="CB016x-stage-104"><w>Pilatus</w></stage>
+        <sp who="#pilatus" n="101" xml:id="CB016x-sp-104">
           <p xml:id="CB016x-p-84">
             <w>
               <seg type="syll" part="I">Cor<notatedMusic>
@@ -11930,8 +11930,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="102"><w>Tunc</w><w>ducitur</w><w>Iesus</w><w>ad</w><w>flagellandum</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Postea</w><w>Iesus</w><w>induatur</w><w>veste</w><w>purpurea</w><w>et</w><w>spinea</w><w>corona</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Tunc</w><w>dicant</w><w>Iudei</w><w>plasphemando</w><w>ad</w><w>Iesum</w></stage>
-        <sp n="102">
+        <stage n="102" xml:id="CB016x-stage-105"><w>Tunc</w><w>ducitur</w><w>Iesus</w><w>ad</w><w>flagellandum</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Postea</w><w>Iesus</w><w>induatur</w><w>veste</w><w>purpurea</w><w>et</w><w>spinea</w><w>corona</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Tunc</w><w>dicant</w><w>Iudei</w><w>plasphemando</w><w>ad</w><w>Iesum</w></stage>
+        <sp n="102" xml:id="CB016x-sp-105">
           <p xml:id="CB016x-p-85">
             <w>
               <seg type="syll" part="I">A<notatedMusic>
@@ -11971,8 +11971,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="103"><w>Et</w><w>dent</w><w>ei</w><w>alapas</w><pc>&#183;</pc><pc resp="#editor">.</pc></stage>
-        <sp n="103">
+        <stage n="103" xml:id="CB016x-stage-106"><w>Et</w><w>dent</w><w>ei</w><w>alapas</w><pc>&#183;</pc><pc resp="#editor">.</pc></stage>
+        <sp n="103" xml:id="CB016x-sp-106">
           <p xml:id="CB016x-p-86">
             <w>
               <seg type="syll" part="I">Pro<notatedMusic>
@@ -12034,8 +12034,8 @@
             <pc resp="#editor">?</pc>
           </p>
         </sp>
-        <stage n="104"><w>Et</w><w>ducant</w><w>eum</w><w>ad</w><w>Pilatum</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Cui</w><w>Pilatus</w><w>dicat</w></stage>
-        <sp who="#pilatus" n="104">
+        <stage n="104" xml:id="CB016x-stage-107"><w>Et</w><w>ducant</w><w>eum</w><w>ad</w><w>Pilatum</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Cui</w><w>Pilatus</w><w>dicat</w></stage>
+        <sp who="#pilatus" n="104" xml:id="CB016x-sp-107">
           <p xml:id="CB016x-p-87">
             <w>
               <seg type="syll" part="I">Ec<notatedMusic>
@@ -12061,8 +12061,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="105"><w>Iudei</w></stage>
-        <sp n="105">
+        <stage n="105" xml:id="CB016x-stage-108"><w>Iudei</w></stage>
+        <sp n="105" xml:id="CB016x-sp-108">
           <p xml:id="CB016x-p-88">
             <w>
               <seg type="syll" part="I">Cru<notatedMusic>
@@ -12117,8 +12117,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="106"><w>Pilatus</w></stage>
-        <sp who="#pilatus" n="106">
+        <stage n="106" xml:id="CB016x-stage-109"><w>Pilatus</w></stage>
+        <sp who="#pilatus" n="106" xml:id="CB016x-sp-109">
           <p xml:id="CB016x-p-90">
             <w>
               <seg type="syll" part="I">Ac<notatedMusic>
@@ -12244,8 +12244,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="107"><w>Iudei</w></stage>
-        <sp n="107">
+        <stage n="107" xml:id="CB016x-stage-110"><w>Iudei</w></stage>
+        <sp n="107" xml:id="CB016x-sp-110">
           <p xml:id="CB016x-p-92">
             <w>
               <seg type="syll">Si<notatedMusic>
@@ -12318,8 +12318,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="108"><w>Item</w></stage>
-        <sp n="108">
+        <stage n="108" xml:id="CB016x-stage-111"><w>Item</w></stage>
+        <sp n="108" xml:id="CB016x-sp-111">
           <p xml:id="CB016x-p-93">
             <w>
               <seg type="syll" part="I">Om<notatedMusic>
@@ -12399,8 +12399,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="109"><w>Pilatus</w></stage>
-        <sp who="#pilatus" n="109">
+        <stage n="109" xml:id="CB016x-stage-112"><w>Pilatus</w></stage>
+        <sp who="#pilatus" n="109" xml:id="CB016x-sp-112">
           <p xml:id="CB016x-p-94">
             <w>
               <seg type="syll" part="I">Un<notatedMusic>
@@ -12428,8 +12428,8 @@
             <pc resp="#editor">?</pc>
           </p>
         </sp>
-        <stage n="110"><w>Iesus</w><w>tacet</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Pilatus</w></stage>
-        <sp who="#pilatus" n="110">
+        <stage n="110" xml:id="CB016x-stage-113"><w>Iesus</w><w>tacet</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Pilatus</w></stage>
+        <sp who="#pilatus" n="110" xml:id="CB016x-sp-113">
           <p xml:id="CB016x-p-95">
             <w>
               <seg type="syll" part="I">Mi<notatedMusic>
@@ -12465,8 +12465,8 @@
             <pc resp="#editor">?</pc>
           </p>
         </sp>
-        <stage n="111"><w>Item</w></stage>
-        <sp who="#pilatus" n="111">
+        <stage n="111" xml:id="CB016x-stage-114"><w>Item</w></stage>
+        <sp who="#pilatus" n="111" xml:id="CB016x-sp-114">
           <p xml:id="CB016x-p-96">
             <w>
               <seg type="syll" part="I">Ne<notatedMusic>
@@ -12600,8 +12600,8 @@
             <pc resp="#editor">?</pc>
           </p>
         </sp>
-        <stage n="112"><w>Iesus</w><w>respondeat</w></stage>
-        <sp who="#ies" n="112">
+        <stage n="112" xml:id="CB016x-stage-115"><w>Iesus</w><w>respondeat</w></stage>
+        <sp who="#ies" n="112" xml:id="CB016x-sp-115">
           <p xml:id="CB016x-p-97">
             <w>
               <seg type="syll">Non<notatedMusic>
@@ -12712,8 +12712,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="113"><w>Pilatus</w><w>ad</w><w>Iudeos</w></stage>
-        <sp who="#pilatus" n="113">
+        <stage n="113" xml:id="CB016x-stage-116"><w>Pilatus</w><w>ad</w><w>Iudeos</w></stage>
+        <sp who="#pilatus" n="113" xml:id="CB016x-sp-116">
           <p xml:id="CB016x-p-98">
             <w>
               <seg type="syll" part="I">Re<notatedMusic>
@@ -12757,8 +12757,8 @@
             <pc resp="#editor">?</pc>
           </p>
         </sp>
-        <stage n="114"><w>Iudei</w><w>respondeant</w></stage>
-        <sp n="114">
+        <stage n="114" xml:id="CB016x-stage-117"><w>Iudei</w><w>respondeant</w></stage>
+        <sp n="114" xml:id="CB016x-sp-117">
           <p xml:id="CB016x-p-99">
             <w>
               <seg type="syll" part="I">Cru<notatedMusic>
@@ -12836,8 +12836,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="115"><w>Pilatus</w><w>lavans</w><w>manus</w><w>suas</w><w>cum</w><w>aqua</w><w>et</w><w>dicat</w><w>ad</w><w>Iudeos</w></stage>
-        <sp who="pilatus" n="115">
+        <stage n="115" xml:id="CB016x-stage-118"><w>Pilatus</w><w>lavans</w><w>manus</w><w>suas</w><w>cum</w><w>aqua</w><w>et</w><w>dicat</w><w>ad</w><w>Iudeos</w></stage>
+        <sp who="pilatus" n="115" xml:id="CB016x-sp-118">
           <p xml:id="CB016x-p-100">
             <w>
               <seg type="syll" part="I">In<notatedMusic>
@@ -12928,8 +12928,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="116"><w>Tunc</w><w>Iesus</w><w>ducatur</w><w>ad</w><w>crucifigendum</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Tunc</w><w>Iudas</w><w>ad</w><w>pontifices</w><w>vadat</w><w>cantando</w><w>et</w><w>reiectis</w><w>denariis</w><w>dicat</w><w>flendo</w><pc>&#183;</pc></stage>
-        <sp who="#iudas" n="116">
+        <stage n="116" xml:id="CB016x-stage-119"><w>Tunc</w><w>Iesus</w><w>ducatur</w><w>ad</w><w>crucifigendum</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Tunc</w><w>Iudas</w><w>ad</w><w>pontifices</w><w>vadat</w><w>cantando</w><w>et</w><w>reiectis</w><w>denariis</w><w>dicat</w><w>flendo</w><pc>&#183;</pc></stage>
+        <sp who="#iudas" n="116" xml:id="CB016x-sp-119">
           <p xml:id="CB016x-p-101">
             <w>
               <seg type="syll" part="I">Pe<notatedMusic>
@@ -13032,8 +13032,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="117"><w>Item</w></stage>
-        <sp who="iudas" n="117">
+        <stage n="117" xml:id="CB016x-stage-120"><w>Item</w></stage>
+        <sp who="iudas" n="117" xml:id="CB016x-sp-120">
           <p xml:id="CB016x-p-102">
             <w>
               <seg type="syll" part="I">Re<notatedMusic>
@@ -13195,8 +13195,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="118"><w>Pontifices</w></stage>
-        <sp n="118">
+        <stage n="118" xml:id="CB016x-stage-121"><w>Pontifices</w></stage>
+        <sp n="118" xml:id="CB016x-sp-121">
           <p xml:id="CB016x-p-104">
             <w>
               <seg type="syll">Quid<notatedMusic>
@@ -13269,8 +13269,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="119"><w>Statim</w><w>veniat</w><w>diabolus</w><w>et</w><w>ducat</w><w>Iudam</w><w>ad</w><w>suspendium</w><w>et</w><w>suspenditur</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Tunc</w><w>veniant</w><w>mulieres</w><w>a</w><w>longe</w><w>plorantes</w><w>flere</w><w>Iesum</w><pc>&#183;</pc><pc resp="#editor">,</pc><w>quibus</w><w>Iesus</w><w>dicat</w><pc>&#183;</pc></stage>
-        <sp n="119">
+        <stage n="119" xml:id="CB016x-stage-122"><w>Statim</w><w>veniat</w><w>diabolus</w><w>et</w><w>ducat</w><w>Iudam</w><w>ad</w><w>suspendium</w><w>et</w><w>suspenditur</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Tunc</w><w>veniant</w><w>mulieres</w><w>a</w><w>longe</w><w>plorantes</w><w>flere</w><w>Iesum</w><pc>&#183;</pc><pc resp="#editor">,</pc><w>quibus</w><w>Iesus</w><w>dicat</w><pc>&#183;</pc></stage>
+        <sp n="119" xml:id="CB016x-sp-122">
           <p xml:id="CB016x-p-105">
             <w>Filie</w><w>Ierusalem</w>
             <pc resp="#editor">,</pc>
@@ -13281,8 +13281,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="120"><w>Tunc</w><w>Iesus</w><w>suspenditur</w><w>in</w><w>cruce</w><pc>&#183;</pc><w>et</w><w>titulus</w><w>fiat</w></stage>
-        <sp n="120">
+        <stage n="120" xml:id="CB016x-stage-123"><w>Tunc</w><w>Iesus</w><w>suspenditur</w><w>in</w><w>cruce</w><pc>&#183;</pc><w>et</w><w>titulus</w><w>fiat</w></stage>
+        <sp n="120" xml:id="CB016x-sp-123">
           <p xml:id="CB016x-p-106">
             <w>
               <seg type="syll" part="I">Ie<notatedMusic>
@@ -13340,8 +13340,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="121"><w>Tunc</w><w>respondeant</w><w>Iudei</w><w>Pilato</w><w>cantando</w><pc>&#183;</pc></stage>
-        <sp n="121">
+        <stage n="121" xml:id="CB016x-stage-124"><w>Tunc</w><w>respondeant</w><w>Iudei</w><w>Pilato</w><w>cantando</w><pc>&#183;</pc></stage>
+        <sp n="121" xml:id="CB016x-sp-124">
           <p xml:id="CB016x-p-107">
             <w>
               <seg type="syll" part="I">Re<notatedMusic>
@@ -13403,8 +13403,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="122"><w>Pilatus</w></stage>
-        <sp who="#pilatus" n="122">
+        <stage n="122" xml:id="CB016x-stage-125"><w>Pilatus</w></stage>
+        <sp who="#pilatus" n="122" xml:id="CB016x-sp-125">
           <p xml:id="CB016x-p-108">
             <w>
               <seg type="syll">Quod<notatedMusic>
@@ -13436,8 +13436,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="123"><w>Tunc</w><w>veniat</w><w>mater</w><w>domini</w><w>lamentando</w><w>cum</w><w>Iohanne</w><w>ewangelista</w><pc>&#183;</pc><pc resp="#editor">,</pc><w>et</w><w>ipsa</w><w>accedens</w><w>crucem</w><w>respicit</w><w>crucifixum</w><pc>&#183;</pc></stage>
-        <sp who="#maria" xml:lang="middle-high-german" n="123">
+        <stage n="123" xml:id="CB016x-stage-126"><w>Tunc</w><w>veniat</w><w>mater</w><w>domini</w><w>lamentando</w><w>cum</w><w>Iohanne</w><w>ewangelista</w><pc>&#183;</pc><pc resp="#editor">,</pc><w>et</w><w>ipsa</w><w>accedens</w><w>crucem</w><w>respicit</w><w>crucifixum</w><pc>&#183;</pc></stage>
+        <sp who="#maria" xml:lang="middle-high-german" n="123" xml:id="CB016x-sp-126">
           <p xml:id="CB016x-p-109">
             <w>
               <seg type="syll" part="I">A<notatedMusic>
@@ -13716,8 +13716,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="124"><w>Item</w></stage>
-        <sp who="#maria" xml:lang="middle-high-german" n="124">
+        <stage n="124" xml:id="CB016x-stage-127"><w>Item</w></stage>
+        <sp who="#maria" xml:lang="middle-high-german" n="124" xml:id="CB016x-sp-127">
           <div type="poem" met="? ? ? ?" rhyme="a/a/b/b">
             <lg type="strophe" met="?/?/?/?" rhyme="a/a/b/b" xml:id="CB016x-lg-39">
               <l n="1" xml:id="CB016x-l-103">
@@ -13930,8 +13930,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="125"><w>Item</w></stage>
-        <sp who="#maria" xml:lang="middle-high-german" n="125">
+        <stage n="125" xml:id="CB016x-stage-128"><w>Item</w></stage>
+        <sp who="#maria" xml:lang="middle-high-german" n="125" xml:id="CB016x-sp-128">
           <div type="poem" met="? ? ? ?" rhyme="a/a/b/b">
             <lg type="strophe" met="?/?/?/?" rhyme="a/a/b/b" xml:id="CB016x-lg-40">
               <l n="1" xml:id="CB016x-l-107">
@@ -14131,8 +14131,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="126"><w>Item</w></stage>
-        <sp who="#maria" xml:lang="middle-high-german" n="126">
+        <stage n="126" xml:id="CB016x-stage-129"><w>Item</w></stage>
+        <sp who="#maria" xml:lang="middle-high-german" n="126" xml:id="CB016x-sp-129">
           <div type="poem" met="? ? ? ?" rhyme="a/a/b/b">
             <lg type="strophe" met="?/?/?/?" rhyme="a/a/b/b" xml:id="CB016x-lg-41">
               <l n="1" xml:id="CB016x-l-111">
@@ -14331,8 +14331,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="127"><w>Item</w><w>mater</w><w>domini</w><w>omni</w><w>ploratu</w><w>exhibens</w><w>multos</w><w>planctus</w><w>et</w><w>clamat</w><w>ad</w><w>mulieres</w><w>flentes</w><w>et</w><w>conquerendo</w><w>valde</w><pc>&#183;</pc></stage>
-        <sp who="#maria" n="127">
+        <stage n="127" xml:id="CB016x-stage-130"><w>Item</w><w>mater</w><w>domini</w><w>omni</w><w>ploratu</w><w>exhibens</w><w>multos</w><w>planctus</w><w>et</w><w>clamat</w><w>ad</w><w>mulieres</w><w>flentes</w><w>et</w><w>conquerendo</w><w>valde</w><pc>&#183;</pc></stage>
+        <sp who="#maria" n="127" xml:id="CB016x-sp-130">
           <div type="sequence">
             <lg type="strophe" n="I" met="8pp/8pp/6pp/6pp/6pp" rhyme="a/a/b/b/a" xml:id="CB016x-lg-42">
               <l n="1" xml:id="CB016x-l-115">
@@ -15036,8 +15036,8 @@
           </div>
           <p xml:id="CB016x-p-110"><w>Dum</w><w>caput</w><w>cernu[um]</w></p>
         </sp>
-        <stage n="128"><w>Tunc</w><w>Maria</w><w>amplexetur</w><w>Iohannem</w><w>et</w><w>cantet</w><w>eum</w><w>habens</w><w>inter</w><w>brachia</w><pc>&#183;</pc></stage>
-        <sp who="#maria" n="128">
+        <stage n="128" xml:id="CB016x-stage-131"><w>Tunc</w><w>Maria</w><w>amplexetur</w><w>Iohannem</w><w>et</w><w>cantet</w><w>eum</w><w>habens</w><w>inter</w><w>brachia</w><pc>&#183;</pc></stage>
+        <sp who="#maria" n="128" xml:id="CB016x-sp-131">
           <div type="poem" met="8p 8p 7pp 7pp 6p 7pp 7pp 6p" rhyme="a/a/b/b/c/d/d/c">
             <lg type="strophe" met="8p/8p/7pp/7pp/6p/7pp/7pp/6p" rhyme="a/a/b/b/c/d/d/c" xml:id="CB016x-lg-45">
               <l n="1" xml:id="CB016x-l-135">
@@ -15340,8 +15340,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="129"><w>Et</w><w>per</w><w>horam</w><w>quiescat</w><w>sedendo</w><pc>&#183;</pc><w>et</w><w>iterum</w><w>surgat</w><w>et</w><w>cantet</w><pc>&#183;</pc></stage>
-        <sp who="#maria" n="129">
+        <stage n="129" xml:id="CB016x-stage-132"><w>Et</w><w>per</w><w>horam</w><w>quiescat</w><w>sedendo</w><pc>&#183;</pc><w>et</w><w>iterum</w><w>surgat</w><w>et</w><w>cantet</w><pc>&#183;</pc></stage>
+        <sp who="#maria" n="129" xml:id="CB016x-sp-132">
           <p xml:id="CB016x-p-111">
             <w>
               <seg type="syll" part="I">Planc<notatedMusic>
@@ -15364,12 +15364,12 @@
             <w>nescia</w><w rend="italic">etc.</w>
           </p>
         </sp>
-        <stage n="130"><w>Tunc</w><w>iterum</w><w>amplexetur</w><w>Iohannem</w><w>et</w><w>cantet</w></stage>
-        <sp who="#maria" n="130">
+        <stage n="130" xml:id="CB016x-stage-133"><w>Tunc</w><w>iterum</w><w>amplexetur</w><w>Iohannem</w><w>et</w><w>cantet</w></stage>
+        <sp who="#maria" n="130" xml:id="CB016x-sp-133">
           <p xml:id="CB016x-p-112"><w>Mi</w><w>Iohannes</w><w rend="italic">etc.</w></p>
         </sp>
-        <stage n="131"><w>Iohannes</w><w>ad</w><w>hec</w></stage>
-        <sp who="#iohannes" n="131">
+        <stage n="131" xml:id="CB016x-stage-134"><w>Iohannes</w><w>ad</w><w>hec</w></stage>
+        <sp who="#iohannes" n="131" xml:id="CB016x-sp-134">
           <div type="poem" met="8p 8p 7pp 8pp" rhyme="a/a/b/b">
             <lg type="strophe" met="8p/8p/7pp/8pp" rhyme="a/a/b/b" xml:id="CB016x-lg-46">
               <l n="1" xml:id="CB016x-l-143">
@@ -15545,8 +15545,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="132"><w>Et</w><w>Iohannem</w><w>teneat</w><w>Mariam</w><w>sub</w><w>humeris</w><pc>&#183;</pc><w>et</w><w>dicat</w><w>Iesus</w><w>ad</w><w>eam</w><pc>&#183;</pc></stage>
-        <sp who="#ies" n="132">
+        <stage n="132" xml:id="CB016x-stage-135"><w>Et</w><w>Iohannem</w><w>teneat</w><w>Mariam</w><w>sub</w><w>humeris</w><pc>&#183;</pc><w>et</w><w>dicat</w><w>Iesus</w><w>ad</w><w>eam</w><pc>&#183;</pc></stage>
+        <sp who="#ies" n="132" xml:id="CB016x-sp-135">
           <p xml:id="CB016x-p-113">
             <w>
               <seg type="syll" part="I">Mu<notatedMusic>
@@ -15601,8 +15601,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="133"><w>Deinde</w><w>dicat</w><w>ad</w><w>Iohannem</w></stage>
-        <sp who="#ies" n="133">
+        <stage n="133" xml:id="CB016x-stage-136"><w>Deinde</w><w>dicat</w><w>ad</w><w>Iohannem</w></stage>
+        <sp who="#ies" n="133" xml:id="CB016x-sp-136">
           <p xml:id="CB016x-p-114">
             <w>
               <seg type="syll" part="I">Ec<notatedMusic>
@@ -15638,8 +15638,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="134"><w>Postea</w><w>vadant</w><w>Maria</w><w>et</w><w>Iohannes</w><w>de</w><w>cruce</w><w>et</w><w>Iesus</w><w>dicat</w></stage>
-        <sp who="#ies" n="134">
+        <stage n="134" xml:id="CB016x-stage-137"><w>Postea</w><w>vadant</w><w>Maria</w><w>et</w><w>Iohannes</w><w>de</w><w>cruce</w><w>et</w><w>Iesus</w><w>dicat</w></stage>
+        <sp who="#ies" n="134" xml:id="CB016x-sp-137">
           <p xml:id="CB016x-p-115">
             <w>
               <seg type="syll" part="I">Si<notatedMusic>
@@ -15659,8 +15659,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="135"><w>Statim</w><w>veniant</w><w>Iudei</w><w>prebentes</w><w>spongiam</w><w>cum</w><w>acceto</w><w>et</w><w>Iesus</w><w>bibat</w></stage>
-        <sp n="135">
+        <stage n="135" xml:id="CB016x-stage-138"><w>Statim</w><w>veniant</w><w>Iudei</w><w>prebentes</w><w>spongiam</w><w>cum</w><w>acceto</w><w>et</w><w>Iesus</w><w>bibat</w></stage>
+        <sp n="135" xml:id="CB016x-sp-138">
           <p xml:id="CB016x-p-116">
             <w>
               <seg type="syll" part="I">Con<notatedMusic>
@@ -15690,8 +15690,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="136"><w>Tunc</w><w>Longinus</w><w>veniat</w><w>cum</w><w>lancea</w><w>et</w><w>perforet</w><w>latus</w><w>eius</w><pc>&#183;</pc><w>et</w><w>ille</w><w>dicat</w><w>aperte</w></stage>
-        <sp who="#longinus" xml:lang="middle-high-german" n="136">
+        <stage n="136" xml:id="CB016x-stage-139"><w>Tunc</w><w>Longinus</w><w>veniat</w><w>cum</w><w>lancea</w><w>et</w><w>perforet</w><w>latus</w><w>eius</w><pc>&#183;</pc><w>et</w><w>ille</w><w>dicat</w><w>aperte</w></stage>
+        <sp who="#longinus" xml:lang="middle-high-german" n="136" xml:id="CB016x-sp-139">
           <div type="poem" met="? ?" rhyme="a/a">
             <lg type="strophe" met="?/?" rhyme="a/a" xml:id="CB016x-lg-47">
               <l n="1" xml:id="CB016x-l-147">
@@ -15809,8 +15809,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="137"><w>Iesus</w><w>videns</w><w>finem</w><w>dicit</w><w>clamando</w></stage>
-        <sp who="#ies" n="137">
+        <stage n="137" xml:id="CB016x-stage-140"><w>Iesus</w><w>videns</w><w>finem</w><w>dicit</w><w>clamando</w></stage>
+        <sp who="#ies" n="137" xml:id="CB016x-sp-140">
           <p xml:id="CB016x-p-117">
             <w>Ely</w>
             <pc>&#183;</pc>
@@ -15821,9 +15821,9 @@
             <pc resp="#editor">?</pc>
           </p>
         </sp>
-        <stage><w>Hoc</w><w>est</w><pc resp="#editor">:</pc><pc resp="#editor" pre="true">&#171;</pc><w>Deus</w><w>meus</w><pc resp="#editor">,</pc><w>Deus</w><w>meus</w><pc resp="#editor">,</pc><w>ut</w><w>quid</w><w>dereliquisti</w><w>me</w><pc>&#183;</pc><pc resp="#editor">?&#187;</pc></stage>
-        <stage n="138"><w>Et</w><w>inclinato</w><w>capite</w><w>emittat</w><w>spiritum</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Longinus</w></stage>
-        <sp who="#longinus" n="138">
+        <stage xml:id="CB016x-stage-141"><w>Hoc</w><w>est</w><pc resp="#editor">:</pc><pc resp="#editor" pre="true">&#171;</pc><w>Deus</w><w>meus</w><pc resp="#editor">,</pc><w>Deus</w><w>meus</w><pc resp="#editor">,</pc><w>ut</w><w>quid</w><w>dereliquisti</w><w>me</w><pc>&#183;</pc><pc resp="#editor">?&#187;</pc></stage>
+        <stage n="138" xml:id="CB016x-stage-142"><w>Et</w><w>inclinato</w><w>capite</w><w>emittat</w><w>spiritum</w><pc>&#183;</pc><pc resp="#editor">.</pc><w>Longinus</w></stage>
+        <sp who="#longinus" n="138" xml:id="CB016x-sp-141">
           <p xml:id="CB016x-p-118">
             <w>
               <seg type="syll" part="I">Ve<notatedMusic>
@@ -15883,8 +15883,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="139"><w>Item</w></stage>
-        <sp who="#longinus" xml:lang="middle-high-german" n="139">
+        <stage n="139" xml:id="CB016x-stage-143"><w>Item</w></stage>
+        <sp who="#longinus" xml:lang="middle-high-german" n="139" xml:id="CB016x-sp-142">
           <p xml:id="CB016x-p-119">
             <w>
               <seg type="syll" part="I">Dir<notatedMusic>
@@ -15938,8 +15938,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="140"><w>Item</w></stage>
-        <sp who="#longinus" xml:lang="middle-high-german" n="140">
+        <stage n="140" xml:id="CB016x-stage-144"><w>Item</w></stage>
+        <sp who="#longinus" xml:lang="middle-high-german" n="140" xml:id="CB016x-sp-143">
           <div type="poem" met="? ?" rhyme="a/a">
             <lg type="strophe" met="?/?" rhyme="a/a" xml:id="CB016x-lg-48">
               <l n="1" xml:id="CB016x-l-149">
@@ -16041,8 +16041,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="141"><w>Et</w><w>unus</w><w>ex</w><w>Iudeis</w><w>dicat</w><w>ad</w><w>Iudeos</w></stage>
-        <sp n="141">
+        <stage n="141" xml:id="CB016x-stage-145"><w>Et</w><w>unus</w><w>ex</w><w>Iudeis</w><w>dicat</w><w>ad</w><w>Iudeos</w></stage>
+        <sp n="141" xml:id="CB016x-sp-144">
           <p xml:id="CB016x-p-120">
             <w>
               <seg type="syll" part="I">E<notatedMusic>
@@ -16192,8 +16192,8 @@
             <pc resp="#editor">?</pc>
           </p>
         </sp>
-        <stage n="142"><w>Alter</w><w>Iudeus</w><pc>&#183;</pc></stage>
-        <sp n="142">
+        <stage n="142" xml:id="CB016x-stage-146"><w>Alter</w><w>Iudeus</w><pc>&#183;</pc></stage>
+        <sp n="142" xml:id="CB016x-sp-145">
           <p xml:id="CB016x-p-121">
             <w>
               <seg type="syll">Si<notatedMusic>
@@ -16265,8 +16265,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="143"><w>Item</w><w>alter</w><pc>&#183;</pc></stage>
-        <sp n="143">
+        <stage n="143" xml:id="CB016x-stage-147"><w>Item</w><w>alter</w><pc>&#183;</pc></stage>
+        <sp n="143" xml:id="CB016x-sp-146">
           <p xml:id="CB016x-p-122">
             <w>
               <seg type="syll" part="I">A<notatedMusic>

@@ -585,8 +585,9 @@
         <lg type="strophe" n="VI" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a" xml:id="CB099-lg-6">
           <l n="1" xml:id="CB099-l-16">
             <seg type="hemistich">
+              <pc resp="#editor" pre="true">&#171;</pc>
               <w>
-                <seg type="syll" part="I">&#171;E</seg>
+                <seg type="syll" part="I">E</seg>
                 <seg type="syll" part="M">ne</seg>
                 <seg type="syll" part="F">a</seg>
               </w>
@@ -1287,8 +1288,9 @@
         <lg type="strophe" n="XIII" met="6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a" xml:id="CB099-lg-13">
           <l n="1" xml:id="CB099-l-37">
             <seg type="hemistich">
+              <pc resp="#editor" pre="true">&#171;</pc>
               <w>
-                <seg type="syll">&#171;Non</seg>
+                <seg type="syll">Non</seg>
               </w>
               <app type="text">
                 <lem wit="cod. V T">

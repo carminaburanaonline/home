@@ -295,8 +295,9 @@
         </lg>
         <lg type="strophe" n="II" met="7pp/7pp/7pp/7pp" rhyme="a/a/b/b" xml:id="CB180-lg-3">
           <l n="1" xml:id="CB180-l-7">
+            <pc resp="#editor" pre="true">&#171;</pc>
             <w>
-              <seg type="syll">&#171;Que</seg>
+              <seg type="syll">Que</seg>
             </w>
             <w>
               <seg type="syll">est</seg>
@@ -318,8 +319,9 @@
               <seg type="syll" part="F">xi</seg>
             </w>
             <pc resp="#editor">,</pc>
+            <pc resp="#editor" pre="true">&#171;</pc>
             <w>
-              <seg type="syll">&#171;tam</seg>
+              <seg type="syll">tam</seg>
             </w>
             <w>
               <seg type="syll" part="I">pre</seg>

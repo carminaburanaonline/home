@@ -103,7 +103,8 @@
             <pc resp="#editor">:</pc>
           </l>
           <l n="14" xml:id="CB021_plut-l-14">
-            <w>&#171;surge</w>
+            <pc resp="#editor" pre="true">&#171;</pc>
+            <w>surge</w>
             <pc resp="#editor">,</pc>
             <w>tolle</w>
             <w>grabatum</w>

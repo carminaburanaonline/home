@@ -3,8 +3,8 @@
   <text>
     <body>
       <div type="drama">
-        <stage n="1"><w>Primo</w><w>ponatur</w><w>sedes</w><w>Augustino</w><w>in</w><w>fronte</w><w>ecclesie</w><pc resp="#editor">,</pc><w>et</w><w>Augustinus</w><w>habeat</w><w>a</w><w>dextera</w><w>parte</w><w>Ysaiam</w><w>et</w><w>Danielem</w><w>et</w><w>alios</w><w>prophetas</w><pc resp="#editor">,</pc><w>a</w><w>sinistra</w><w>autem</w><w>archisynagogum</w><w>et</w><w>suos</w><w>Iudeos</w><pc resp="#editor">.</pc><w>Postea</w><w>surgat</w><w>Ysaias</w><w>cum</w><w>prophetia</w><w>sua</w><w>sic</w></stage>
-        <sp n="1">
+        <stage n="1" xml:id="CB227-stage-1"><w>Primo</w><w>ponatur</w><w>sedes</w><w>Augustino</w><w>in</w><w>fronte</w><w>ecclesie</w><pc resp="#editor">,</pc><w>et</w><w>Augustinus</w><w>habeat</w><w>a</w><w>dextera</w><w>parte</w><w>Ysaiam</w><w>et</w><w>Danielem</w><w>et</w><w>alios</w><w>prophetas</w><pc resp="#editor">,</pc><w>a</w><w>sinistra</w><w>autem</w><w>archisynagogum</w><w>et</w><w>suos</w><w>Iudeos</w><pc resp="#editor">.</pc><w>Postea</w><w>surgat</w><w>Ysaias</w><w>cum</w><w>prophetia</w><w>sua</w><w>sic</w></stage>
+        <sp n="1" xml:id="CB227-sp-1">
           <div type="poem" met="7pp+7pp 7pp+7pp 7pp+7pp 7pp+7pp" rhyme="a/a/a/a">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-1">
               <l n="1" xml:id="CB227-l-1">
@@ -319,8 +319,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="2"><w>Postea</w><pc resp="#editor">:</pc></stage>
-        <sp n="2">
+        <stage n="2" xml:id="CB227-stage-2"><w>Postea</w><pc resp="#editor">:</pc></stage>
+        <sp n="2" xml:id="CB227-sp-2">
           <p xml:id="CB227-p-1">
             <w>
               <seg type="syll" part="I">Ec<notatedMusic>
@@ -347,8 +347,8 @@
             <w rend="italic">etc.</w>
           </p>
         </sp>
-        <stage n="3"><w>Iterum</w><w>cantet</w><pc resp="#editor">:</pc></stage>
-        <sp n="3">
+        <stage n="3" xml:id="CB227-stage-3"><w>Iterum</w><w>cantet</w><pc resp="#editor">:</pc></stage>
+        <sp n="3" xml:id="CB227-sp-3">
           <p xml:id="CB227-p-2">
             <w>
               <seg type="syll" part="I">Da<notatedMusic>
@@ -408,8 +408,8 @@
             <w rend="italic">etc.</w>
           </p>
         </sp>
-        <stage n="4"><w>Postea</w><w>Daniel</w><w>procedat</w><pc resp="#editor">,</pc><w>prophetiam</w><w>suam</w><w>exprimens</w><pc resp="#editor">:</pc></stage>
-        <sp n="4">
+        <stage n="4" xml:id="CB227-stage-4"><w>Postea</w><w>Daniel</w><w>procedat</w><pc resp="#editor">,</pc><w>prophetiam</w><w>suam</w><w>exprimens</w><pc resp="#editor">:</pc></stage>
+        <sp n="4" xml:id="CB227-sp-4">
           <div type="poem" met="I-II:4x(6pp+6pp)" rhyme="a/a/a/a">
             <lg type="strophe" n="I" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a/a" xml:id="CB227-lg-2">
               <l n="1" xml:id="CB227-l-5">
@@ -991,8 +991,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="5"><w>Postea</w><w>cantet</w><pc resp="#editor">:</pc></stage>
-        <sp n="5">
+        <stage n="5" xml:id="CB227-stage-5"><w>Postea</w><w>cantet</w><pc resp="#editor">:</pc></stage>
+        <sp n="5" xml:id="CB227-sp-5">
           <p xml:id="CB227-p-3">
             <w>
               <seg type="syll" part="I">A<notatedMusic>
@@ -1048,8 +1048,8 @@
             <w rend="italic">etc.</w>
           </p>
         </sp>
-        <stage n="6"><w>Tercio</w><w>loco</w><w>sybilla</w><w>gesticulose</w><w>procedat,</w><w>que</w><w>inspiciendo</w><w>stellam</w><w>cum</w><w>gestu</w><w>mobili</w><w>cantet</w></stage>
-        <sp n="6">
+        <stage n="6" xml:id="CB227-stage-6"><w>Tercio</w><w>loco</w><w>sybilla</w><w>gesticulose</w><w>procedat,</w><w>que</w><w>inspiciendo</w><w>stellam</w><w>cum</w><w>gestu</w><w>mobili</w><w>cantet</w></stage>
+        <sp n="6" xml:id="CB227-sp-6">
           <div type="poem" met="6pp+6pp 6pp+6pp 6pp+6pp 6pp+6pp" rhyme="a/a/a/a">
             <lg type="strophe" n="I" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a/a" xml:id="CB227-lg-4">
               <l n="1" xml:id="CB227-l-13">
@@ -2160,8 +2160,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="7"><w>Item</w><w>cantet</w><w>hos</w><w>versus</w><pc resp="#editor">:</pc></stage>
-        <sp n="7">
+        <stage n="7" xml:id="CB227-stage-7"><w>Item</w><w>cantet</w><w>hos</w><w>versus</w><pc resp="#editor">:</pc></stage>
+        <sp n="7" xml:id="CB227-sp-7">
           <p xml:id="CB227-p-4">
             <w>
               <seg type="syll" part="I">Iu<notatedMusic>
@@ -2205,8 +2205,8 @@
             <w rend="italic">etc.</w>
           </p>
         </sp>
-        <stage n="8"><w>Deinde</w><w>procedat</w><w>Aaron</w><w>quartus</w><w>propheta</w><w>portans</w><w>virgam</w><pc resp="#editor">,</pc><w>que</w><w>sumpta</w><w>super</w><w>altare</w><w>inter</w><w>XII</w><w>virgas</w><w>aridas</w><w>sola</w><w>floruit</w><pc resp="#editor">.</pc><w>Illam</w><w>personam</w><w>conducat</w><w>chorus</w><w>cum</w><w>hoc</w><w>responsorio</w><pc resp="#editor">:</pc></stage>
-        <sp n="8">
+        <stage n="8" xml:id="CB227-stage-8"><w>Deinde</w><w>procedat</w><w>Aaron</w><w>quartus</w><w>propheta</w><w>portans</w><w>virgam</w><pc resp="#editor">,</pc><w>que</w><w>sumpta</w><w>super</w><w>altare</w><w>inter</w><w>XII</w><w>virgas</w><w>aridas</w><w>sola</w><w>floruit</w><pc resp="#editor">.</pc><w>Illam</w><w>personam</w><w>conducat</w><w>chorus</w><w>cum</w><w>hoc</w><w>responsorio</w><pc resp="#editor">:</pc></stage>
+        <sp n="8" xml:id="CB227-sp-8">
           <p xml:id="CB227-p-5">
             <w>
               <seg type="syll" part="I">Sal<notatedMusic>
@@ -2247,8 +2247,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="9"><w>Et</w><w>dicat</w><w>hanc</w><w>prophetiam</w><pc resp="#editor">:</pc></stage>
-        <sp n="9">
+        <stage n="9" xml:id="CB227-stage-9"><w>Et</w><w>dicat</w><w>hanc</w><w>prophetiam</w><pc resp="#editor">:</pc></stage>
+        <sp n="9" xml:id="CB227-sp-9">
           <div type="poem" met="6p+9p 6p+9p" rhyme="a/b">
             <lg type="strophe" met="6p+9p/6p+9p" rhyme="a/b" xml:id="CB227-lg-8">
               <l n="1" xml:id="CB227-l-29">
@@ -2429,8 +2429,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="10"><w>Et</w><w>dicat</w><pc resp="#editor">:</pc></stage>
-        <sp n="10">
+        <stage n="10" xml:id="CB227-stage-10"><w>Et</w><w>dicat</w><pc resp="#editor">:</pc></stage>
+        <sp n="10" xml:id="CB227-sp-10">
           <div type="poem" met="7pp+8p 7pp+8p 7pp+7pp 7pp+7pp 7pp+7pp 7pp+7pp" rhyme="a/a/b/b/b/b">
             <lg type="strophe" met="7pp+8p/7pp+8p/7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/b/b/b/b" xml:id="CB227-lg-9">
               <l n="1" met="5pp+8p" xml:id="CB227-l-31">
@@ -2903,8 +2903,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="11"><w>Quinto</w><w>loco</w><w>procedat</w><w>Balaam</w><w>sedens</w><w>in</w><w>asina</w><w>et</w><w>cantans</w><pc resp="#editor">:</pc></stage>
-        <sp n="11">
+        <stage n="11" xml:id="CB227-stage-11"><w>Quinto</w><w>loco</w><w>procedat</w><w>Balaam</w><w>sedens</w><w>in</w><w>asina</w><w>et</w><w>cantans</w><pc resp="#editor">:</pc></stage>
+        <sp n="11" xml:id="CB227-sp-11">
           <p xml:id="CB227-p-6">
             <w>
               <seg type="syll" part="I">Va<notatedMusic>
@@ -2985,8 +2985,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="12"><w>Cui</w><w>occurrat</w><w>angelus</w><w>evaginato</w><w>gladio</w><w>dicens</w><pc resp="#editor">:</pc></stage>
-        <sp n="12">
+        <stage n="12" xml:id="CB227-stage-12"><w>Cui</w><w>occurrat</w><w>angelus</w><w>evaginato</w><w>gladio</w><w>dicens</w><pc resp="#editor">:</pc></stage>
+        <sp n="12" xml:id="CB227-sp-12">
           <p xml:id="CB227-p-7">
             <w>
               <seg type="syll" part="I">Ca<notatedMusic>
@@ -3095,8 +3095,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="13"><w>Et</w><w>asinus</w><w>cui</w><w>insidet</w><w>Balaam</w><w>perterritus</w><w>retrocedat</w><pc resp="#editor">.</pc><w>Postea</w><w>recedat</w><w>angelus</w><w>et</w><w>Balaam</w><w>cantet</w><w>hoc</w><w>responsorium</w><pc resp="#editor">:</pc></stage>
-        <sp n="13">
+        <stage n="13" xml:id="CB227-stage-13"><w>Et</w><w>asinus</w><w>cui</w><w>insidet</w><w>Balaam</w><w>perterritus</w><w>retrocedat</w><pc resp="#editor">.</pc><w>Postea</w><w>recedat</w><w>angelus</w><w>et</w><w>Balaam</w><w>cantet</w><w>hoc</w><w>responsorium</w><pc resp="#editor">:</pc></stage>
+        <sp n="13" xml:id="CB227-sp-13">
           <p xml:id="CB227-p-8">
             <w>
               <seg type="syll" part="I">O<notatedMusic>
@@ -3148,8 +3148,8 @@
             <w rend="italic">etc.</w>
           </p>
         </sp>
-        <stage n="14"><w>Archisynagogus</w><w>cum</w><w>suis</w><w>Iudeis</w><w>valde</w><w>obstrepet</w><w>auditis</w><w>prophetiis</w><w>et</w><w>dicat</w><w>trudendo</w><w>socium</w><w>suum</w><pc resp="#editor">,</pc><w>movendo</w><w>caput</w><w>suum</w><w>et</w><w>totum</w><w>corpus</w><w>et</w><w>percuciendo</w><w>terram</w><w>pede</w><pc resp="#editor">,</pc><w>baculo</w><w>etiam</w><w>imitando</w><w>gestus</w><w>Iudei</w><w>in</w><w>omnibus</w><pc resp="#editor">.</pc><w>Et</w><w>sociis</w><w>suis</w><w>indignando</w><w>dicat</w><pc resp="#editor">:</pc></stage>
-        <sp n="14">
+        <stage n="14" xml:id="CB227-stage-14"><w>Archisynagogus</w><w>cum</w><w>suis</w><w>Iudeis</w><w>valde</w><w>obstrepet</w><w>auditis</w><w>prophetiis</w><w>et</w><w>dicat</w><w>trudendo</w><w>socium</w><w>suum</w><pc resp="#editor">,</pc><w>movendo</w><w>caput</w><w>suum</w><w>et</w><w>totum</w><w>corpus</w><w>et</w><w>percuciendo</w><w>terram</w><w>pede</w><pc resp="#editor">,</pc><w>baculo</w><w>etiam</w><w>imitando</w><w>gestus</w><w>Iudei</w><w>in</w><w>omnibus</w><pc resp="#editor">.</pc><w>Et</w><w>sociis</w><w>suis</w><w>indignando</w><w>dicat</w><pc resp="#editor">:</pc></stage>
+        <sp n="14" xml:id="CB227-sp-14">
           <div type="poem" met="7pp+7pp 7pp+7pp 7pp+7pp 7pp+7pp" rhyme="a/a/a/a">
             <lg type="strophe" n="I" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-10">
               <l n="1" xml:id="CB227-l-37">
@@ -3796,8 +3796,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="15"><w>Auditis</w><w>tumultu</w><w>et</w><w>errore</w><w>Iudeorum</w><pc resp="#editor">,</pc><w>dicat</w><w>episcopus</w><w>puerorum</w><pc resp="#editor">:</pc></stage>
-        <sp n="15">
+        <stage n="15" xml:id="CB227-stage-15"><w>Auditis</w><w>tumultu</w><w>et</w><w>errore</w><w>Iudeorum</w><pc resp="#editor">,</pc><w>dicat</w><w>episcopus</w><w>puerorum</w><pc resp="#editor">:</pc></stage>
+        <sp n="15" xml:id="CB227-sp-15">
           <div type="poem" met="7pp+6p 7pp+6p 7pp+6p 7pp+6p" rhyme="a/a/a/a">
             <lg type="strophe" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="a/a/a/a" xml:id="CB227-lg-12">
               <l n="1" xml:id="CB227-l-45">
@@ -3931,8 +3931,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="16"><w>Statim</w><w>prophete</w><w>vadant</w><w>ante</w><w>Augustinum</w><w>et</w><w>dicant</w><pc resp="#editor">:</pc></stage>
-        <sp n="16">
+        <stage n="16" xml:id="CB227-stage-16"><w>Statim</w><w>prophete</w><w>vadant</w><w>ante</w><w>Augustinum</w><w>et</w><w>dicant</w><pc resp="#editor">:</pc></stage>
+        <sp n="16" xml:id="CB227-sp-16">
           <div type="poem" met="7pp+6p 7pp+6p 7pp+6p 7pp+6p" rhyme="a/a/a/a">
             <lg type="strophe" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="a/a/a/a" xml:id="CB227-lg-13">
               <l n="1" xml:id="CB227-l-49">
@@ -4248,8 +4248,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="17"><w>Respondeat</w><w>Augustinus</w><pc resp="#editor">:</pc></stage>
-        <sp n="17">
+        <stage n="17" xml:id="CB227-stage-17"><w>Respondeat</w><w>Augustinus</w><pc resp="#editor">:</pc></stage>
+        <sp n="17" xml:id="CB227-sp-17">
           <div type="poem" met="7pp+7pp 7pp+7pp 7pp+7pp 7pp+7pp" rhyme="a/a/a/a">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-14">
               <l n="1" xml:id="CB227-l-53">
@@ -4568,8 +4568,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="18"><w>Veniat</w><w>archisynagogus</w><w>cum</w><w>magno</w><w>murmure</w><w>sui</w><w>et</w><w>suorum</w><pc resp="#editor">,</pc><w>quibus</w><w>dicat</w><w>Augustinus</w><pc resp="#editor">:</pc></stage>
-        <sp n="18">
+        <stage n="18" xml:id="CB227-stage-18"><w>Veniat</w><w>archisynagogus</w><w>cum</w><w>magno</w><w>murmure</w><w>sui</w><w>et</w><w>suorum</w><pc resp="#editor">,</pc><w>quibus</w><w>dicat</w><w>Augustinus</w><pc resp="#editor">:</pc></stage>
+        <sp n="18" xml:id="CB227-sp-18">
           <div type="poem" met="6pp+6pp 6pp+6pp 6pp+6pp 6pp+6pp" rhyme="a/a/a/a">
             <lg type="strophe" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a/a" xml:id="CB227-lg-15">
               <l n="1" xml:id="CB227-l-57">
@@ -4852,8 +4852,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="19"><w>Respondeat</w><w>archisynagogus</w><w>cum</w><w>nimio</w><w>cachinno</w><pc resp="#editor">:</pc></stage>
-        <sp n="19">
+        <stage n="19" xml:id="CB227-stage-19"><w>Respondeat</w><w>archisynagogus</w><w>cum</w><w>nimio</w><w>cachinno</w><pc resp="#editor">:</pc></stage>
+        <sp n="19" xml:id="CB227-sp-19">
           <p xml:id="CB227-p-9">
             <w>
               <seg type="syll">O<notatedMusic>
@@ -6471,8 +6471,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="20"><w>Voce</w><w>sobria</w><w>et</w><w>discreta</w><w>respondeat</w><w>Augustinus</w><pc resp="#editor">:</pc></stage>
-        <sp n="20">
+        <stage n="20" xml:id="CB227-stage-20"><w>Voce</w><w>sobria</w><w>et</w><w>discreta</w><w>respondeat</w><w>Augustinus</w><pc resp="#editor">:</pc></stage>
+        <sp n="20" xml:id="CB227-sp-20">
           <div type="poem" met="7pp+7pp 7pp+7pp 7pp+7pp 7pp+7pp" rhyme="a/a/a/a">
             <lg type="strophe" n="I" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-21">
               <l n="1" xml:id="CB227-l-81">
@@ -7128,8 +7128,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="21"><w>Augustinus</w><w>dicat</w><pc resp="#editor">:</pc></stage>
-        <sp n="21">
+        <stage n="21" xml:id="CB227-stage-21"><w>Augustinus</w><w>dicat</w><pc resp="#editor">:</pc></stage>
+        <sp n="21" xml:id="CB227-sp-21">
           <div type="poem" met="7pp+7pp 7pp+7pp 7pp+7pp 7pp+7pp" rhyme="a/a/a/a">
             <lg type="strophe" n="I" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-23">
               <l n="1" xml:id="CB227-l-89">
@@ -7748,8 +7748,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="22"><w>Postea</w><w>incipiat</w><w>Augustinus</w><w>cantare</w><pc resp="#editor">:</pc></stage>
-        <sp n="22">
+        <stage n="22" xml:id="CB227-stage-22"><w>Postea</w><w>incipiat</w><w>Augustinus</w><w>cantare</w><pc resp="#editor">:</pc></stage>
+        <sp n="22" xml:id="CB227-sp-22">
           <p xml:id="CB227-p-10">
             <w>
               <seg type="syll" part="I">Le<notatedMusic>
@@ -7773,8 +7773,8 @@
             <pc>&#183;</pc>
           </p>
         </sp>
-        <stage n="23"><w>primum</w><w>versum</w><pc resp="#editor">.</pc><w>Et</w><w>secundum</w><w>prophete</w><pc resp="#editor">:</pc></stage>
-        <sp n="23">
+        <stage n="23" xml:id="CB227-stage-23"><w>primum</w><w>versum</w><pc resp="#editor">.</pc><w>Et</w><w>secundum</w><w>prophete</w><pc resp="#editor">:</pc></stage>
+        <sp n="23" xml:id="CB227-sp-23">
           <p xml:id="CB227-p-11">
             <w>
               <seg type="syll" part="I">Re<notatedMusic>
@@ -7862,8 +7862,8 @@
             <w rend="italic">etc.</w>
           </p>
         </sp>
-        <stage n="24"><w>Dicat</w><w>archisynagogus</w><w>cum</w><w>suis</w><pc resp="#editor">:</pc></stage>
-        <sp n="24">
+        <stage n="24" xml:id="CB227-stage-24"><w>Dicat</w><w>archisynagogus</w><w>cum</w><w>suis</w><pc resp="#editor">:</pc></stage>
+        <sp n="24" xml:id="CB227-sp-24">
           <p xml:id="CB227-p-12">
             <w>
               <seg type="syll">Res<notatedMusic>
@@ -7889,16 +7889,16 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="25"><w>Iterum</w><w>Augustinus</w><w>cum</w><w>suis</w><pc resp="#editor">:</pc><w>Res</w><w>miranda</w><pc resp="#editor">.</pc><w>Iterum</w><w>archisynagogus</w><w>cum</w><w>suis</w><pc resp="#editor">:</pc></stage>
-        <sp n="25">
+        <stage n="25" xml:id="CB227-stage-25"><w>Iterum</w><w>Augustinus</w><w>cum</w><w>suis</w><pc resp="#editor">:</pc><w>Res</w><w>miranda</w><pc resp="#editor">.</pc><w>Iterum</w><w>archisynagogus</w><w>cum</w><w>suis</w><pc resp="#editor">:</pc></stage>
+        <sp n="25" xml:id="CB227-sp-25">
           <p xml:id="CB227-p-13">
             <w>Res</w><w>neganda</w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="26"><w>Hoc</w><w>fiat</w><w>pluries</w><pc resp="#editor">.</pc><w>Augustinus</w><w>incipiat</w><pc resp="#editor">:</pc></stage>
-        <sp n="26">
+        <stage n="26" xml:id="CB227-stage-26"><w>Hoc</w><w>fiat</w><w>pluries</w><pc resp="#editor">.</pc><w>Augustinus</w><w>incipiat</w><pc resp="#editor">:</pc></stage>
+        <sp n="26" xml:id="CB227-sp-26">
           <div type="poem" met="7pp 7pp 4p" rhyme="a/b/c">
             <lg type="strophe" met="7pp/7pp/4p" rhyme="a/b/c" xml:id="CB227-lg-25">
               <l n="1" xml:id="CB227-l-97">
@@ -8005,8 +8005,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="27"><w>Respondeant</w><w>prophete</w><pc resp="#editor">:</pc></stage>
-        <sp n="27">
+        <stage n="27" xml:id="CB227-stage-27"><w>Respondeant</w><w>prophete</w><pc resp="#editor">:</pc></stage>
+        <sp n="27" xml:id="CB227-sp-27">
           <div type="poem" met="7pp 7pp 4p" rhyme="a/b/c">
             <lg type="strophe" met="7pp/7pp/4p" rhyme="a/b/c" xml:id="CB227-lg-26">
               <l n="1" xml:id="CB227-l-100">
@@ -8112,8 +8112,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="28"><w>Dicat</w><w>Augustinus</w><pc resp="#editor">:</pc></stage>
-        <sp n="28">
+        <stage n="28" xml:id="CB227-stage-28"><w>Dicat</w><w>Augustinus</w><pc resp="#editor">:</pc></stage>
+        <sp n="28" xml:id="CB227-sp-28">
           <div type="poem" met="7pp 7pp 4p" rhyme="a/b/c">
             <lg type="strophe" met="7pp/7pp/4p" rhyme="a/b/c" xml:id="CB227-lg-27">
               <l n="1" xml:id="CB227-l-103">
@@ -8213,8 +8213,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="29"><w>Dicant</w><w>prophete</w><pc resp="#editor">:</pc></stage>
-        <sp n="29">
+        <stage n="29" xml:id="CB227-stage-29"><w>Dicant</w><w>prophete</w><pc resp="#editor">:</pc></stage>
+        <sp n="29" xml:id="CB227-sp-29">
           <div type="poem" met="7pp 7pp 4p" rhyme="a/b/c">
             <lg type="strophe" met="7pp/7pp/4p" rhyme="a/b/c" xml:id="CB227-lg-28">
               <l n="1" xml:id="CB227-l-106">
@@ -8316,8 +8316,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="30"><w>Postea</w><w>dicat</w><w>Augustinus</w><pc resp="#editor">:</pc></stage>
-        <sp n="30">
+        <stage n="30" xml:id="CB227-stage-30"><w>Postea</w><w>dicat</w><w>Augustinus</w><pc resp="#editor">:</pc></stage>
+        <sp n="30" xml:id="CB227-sp-30">
           <div type="poem" met="7pp 7pp 7pp 4p" rhyme="a/a/a/b">
             <lg type="strophe" met="7pp/7pp/7pp/4p" rhyme="a/a/a/b" xml:id="CB227-lg-29">
               <l n="1" xml:id="CB227-l-109">
@@ -8455,8 +8455,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="31"><w>Respondeant</w><w>prophete</w><pc resp="#editor">:</pc></stage>
-        <sp n="31">
+        <stage n="31" xml:id="CB227-stage-31"><w>Respondeant</w><w>prophete</w><pc resp="#editor">:</pc></stage>
+        <sp n="31" xml:id="CB227-sp-31">
           <div type="poem" met="7pp 7pp 7pp 4p" rhyme="a/a/a/b">
             <lg type="strophe" met="7pp/7pp/7pp/4p" rhyme="a/a/a/b" xml:id="CB227-lg-30">
               <l n="1" xml:id="CB227-l-113">
@@ -8596,8 +8596,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="32"><w>Postea</w><w>dicat</w><w>Augustinus</w><w>cum</w><w>prophetis</w><w>omnibus</w><pc resp="#editor">:</pc></stage>
-        <sp n="32">
+        <stage n="32" xml:id="CB227-stage-32"><w>Postea</w><w>dicat</w><w>Augustinus</w><w>cum</w><w>prophetis</w><w>omnibus</w><pc resp="#editor">:</pc></stage>
+        <sp n="32" xml:id="CB227-sp-32">
           <div type="poem" met="6pp 6pp 9pp" rhyme="A/A/A">
             <lg type="strophe" n="I" met="6pp/6pp/9pp" rhyme="A/A/A" xml:id="CB227-lg-31">
               <l n="1" xml:id="CB227-l-117">
@@ -8840,8 +8840,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="33"><w>Postea</w><w>Augustinus</w><w>solus</w><w>cantet</w><pc resp="#editor">:</pc></stage>
-        <sp n="33">
+        <stage n="33" xml:id="CB227-stage-33"><w>Postea</w><w>Augustinus</w><w>solus</w><w>cantet</w><pc resp="#editor">:</pc></stage>
+        <sp n="33" xml:id="CB227-sp-33">
           <p xml:id="CB227-p-14">
             <w>
               <seg type="syll" part="I">Dis<notatedMusic>
@@ -9244,8 +9244,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="34"><w>Inter</w><w>cantandum</w><w>omnia</w><w>ista</w><pc resp="#editor">,</pc><w>archisynagogus</w><w>obstrepet</w><w>movendo</w><w>corpus</w><w>et</w><w>caput</w><w>et</w><w>deridendo</w><w>predicta</w><pc resp="#editor">.</pc><w>Hoc</w><w>completo</w><w>detur</w><w>locus</w><w>prophetis</w><w>vel</w><w>ut</w><w>recedant</w><w>vel</w><w>sedeant</w><w>in</w><w>locis</w><w>suis</w><w>propter</w><w>honorem</w><w>ludi</w><pc resp="#editor">.</pc><w>Deinde</w><w>angelus</w><w>appareat</w><w>Marie</w><w>operanti</w><w>muliebriter</w><w>et</w><w>dicat</w><pc resp="#editor">:</pc></stage>
-        <sp n="34">
+        <stage n="34" xml:id="CB227-stage-34"><w>Inter</w><w>cantandum</w><w>omnia</w><w>ista</w><pc resp="#editor">,</pc><w>archisynagogus</w><w>obstrepet</w><w>movendo</w><w>corpus</w><w>et</w><w>caput</w><w>et</w><w>deridendo</w><w>predicta</w><pc resp="#editor">.</pc><w>Hoc</w><w>completo</w><w>detur</w><w>locus</w><w>prophetis</w><w>vel</w><w>ut</w><w>recedant</w><w>vel</w><w>sedeant</w><w>in</w><w>locis</w><w>suis</w><w>propter</w><w>honorem</w><w>ludi</w><pc resp="#editor">.</pc><w>Deinde</w><w>angelus</w><w>appareat</w><w>Marie</w><w>operanti</w><w>muliebriter</w><w>et</w><w>dicat</w><pc resp="#editor">:</pc></stage>
+        <sp n="34" xml:id="CB227-sp-34">
           <p xml:id="CB227-p-15">
             <w>
               <seg type="syll" part="I">A<notatedMusic>
@@ -9294,8 +9294,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="35"><w>Et</w><w>iterum</w><pc resp="#editor">:</pc></stage>
-        <sp n="35">
+        <stage n="35" xml:id="CB227-stage-35"><w>Et</w><w>iterum</w><pc resp="#editor">:</pc></stage>
+        <sp n="35" xml:id="CB227-sp-35">
           <p xml:id="CB227-p-16">
             <w>
               <seg type="syll" part="I">Ec<notatedMusic>
@@ -9349,8 +9349,8 @@
             <w rend="italic">etc.</w>
           </p>
         </sp>
-        <stage n="36"><w>Illa</w><w>stupefacta</w><w>dicat</w><pc resp="#editor">:</pc></stage>
-        <sp n="36">
+        <stage n="36" xml:id="CB227-stage-36"><w>Illa</w><w>stupefacta</w><w>dicat</w><pc resp="#editor">:</pc></stage>
+        <sp n="36" xml:id="CB227-sp-36">
           <p xml:id="CB227-p-17">
             <w>
               <seg type="syll" part="I">Quo<notatedMusic>
@@ -9445,8 +9445,8 @@
             <pc resp="#editor">?</pc>
           </p>
         </sp>
-        <stage n="37"><w>Respondeat</w><w>angelus</w><pc resp="#editor">:</pc></stage>
-        <sp n="37">
+        <stage n="37" xml:id="CB227-stage-37"><w>Respondeat</w><w>angelus</w><pc resp="#editor">:</pc></stage>
+        <sp n="37" xml:id="CB227-sp-37">
           <p xml:id="CB227-p-18">
             <w>
               <seg type="syll" part="I">Spi<notatedMusic>
@@ -9502,8 +9502,8 @@
             <w rend="italic">etc.</w>
           </p>
         </sp>
-        <stage n="38"><w>Versum</w></stage>
-        <sp n="38">
+        <stage n="38" xml:id="CB227-stage-38"><w>Versum</w></stage>
+        <sp n="38" xml:id="CB227-sp-38">
           <p xml:id="CB227-p-19">
             <w>
               <seg type="syll" part="I">Id<notatedMusic>
@@ -9547,8 +9547,8 @@
             <w rend="italic">etc.</w>
           </p>
         </sp>
-        <stage n="39"><w>Respondeat</w><w>Maria</w><pc resp="#editor">:</pc></stage>
-        <sp n="39">
+        <stage n="39" xml:id="CB227-stage-39"><w>Respondeat</w><w>Maria</w><pc resp="#editor">:</pc></stage>
+        <sp n="39" xml:id="CB227-sp-39">
           <p xml:id="CB227-p-20">
             <w>
               <seg type="syll" part="I">Ec<notatedMusic>
@@ -9585,8 +9585,8 @@
             <w rend="italic">etc.</w>
           </p>
         </sp>
-        <stage n="40"><w>Deinde</w><w>Maria</w><w>vadat</w><w>casualiter</w><w>nichil</w><w>cogitans</w><w>de</w><w>Elisabeth</w><w>vetula</w><w>Iohanne</w><w>impregnata</w><w>et</w><w>salutet</w><w>eam</w><w>et</w><w>dicat</w><pc resp="#editor">:</pc></stage>
-        <sp n="40">
+        <stage n="40" xml:id="CB227-stage-40"><w>Deinde</w><w>Maria</w><w>vadat</w><w>casualiter</w><w>nichil</w><w>cogitans</w><w>de</w><w>Elisabeth</w><w>vetula</w><w>Iohanne</w><w>impregnata</w><w>et</w><w>salutet</w><w>eam</w><w>et</w><w>dicat</w><pc resp="#editor">:</pc></stage>
+        <sp n="40" xml:id="CB227-sp-40">
           <p xml:id="CB227-p-21">
             <w>Unde</w>
             <w>hoc</w>
@@ -9595,8 +9595,8 @@
             <w rend="italic">etc.</w>
           </p>
         </sp>
-        <stage n="41"><w>Et</w><w>cantabit</w><pc resp="#editor">:</pc></stage>
-        <sp n="41">
+        <stage n="41" xml:id="CB227-stage-41"><w>Et</w><w>cantabit</w><pc resp="#editor">:</pc></stage>
+        <sp n="41" xml:id="CB227-sp-41">
           <p xml:id="CB227-p-22">
             <w>
               <seg type="syll">Ex<notatedMusic>
@@ -9654,8 +9654,8 @@
             <w rend="italic">etc.</w>
           </p>
         </sp>
-        <stage n="42"><w>Eadem</w><w>dicat</w><pc resp="#editor">:</pc></stage>
-        <sp n="42">
+        <stage n="42" xml:id="CB227-stage-42"><w>Eadem</w><w>dicat</w><pc resp="#editor">:</pc></stage>
+        <sp n="42" xml:id="CB227-sp-42">
           <p xml:id="CB227-p-23">
             <w>
               <seg type="syll" part="I">Be<notatedMusic>
@@ -9742,8 +9742,8 @@
             </app>
           </p>
         </sp>
-        <stage n="43"><w>Respondeat</w><w>Maria</w><pc resp="#editor">:</pc></stage>
-        <sp n="43">
+        <stage n="43" xml:id="CB227-stage-43"><w>Respondeat</w><w>Maria</w><pc resp="#editor">:</pc></stage>
+        <sp n="43" xml:id="CB227-sp-43">
           <p xml:id="CB227-p-25">
             <w>
               <seg type="syll" part="I">Ma<notatedMusic>
@@ -9791,8 +9791,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="44"><w>Deinde</w><w>recedat</w><w>Elysabeth</w><w>quia</w><w>amplius</w><w>non</w><w>habebit</w><w>locum</w><w>hec</w><w>persona</w><pc resp="#editor">.</pc><w>Deinde</w><w>Maria</w><w>vadat</w><w>in</w><w>lectum</w><w>suum</w><pc resp="#editor">,</pc><w>que</w><w>iam</w><w>de</w><w>spiritu</w><w>sancto</w><w>concepit</w><w>et</w><w>pariat</w><w>filium</w><pc resp="#editor">;</pc><w>cui</w><w>assideat</w><w>Ioseph</w><w>in</w><w>habitu</w><w>honesto</w><w>et</w><w>prolixa</w><w>barba</w><pc resp="#editor">.</pc><w>Nato</w><w>puero</w><w>appareat</w><w>stella</w><w>et</w><w>incipiat</w><w>chorus</w><w>hanc</w><w>antiphonam</w><pc resp="#editor">:</pc></stage>
-        <sp n="44">
+        <stage n="44" xml:id="CB227-stage-44"><w>Deinde</w><w>recedat</w><w>Elysabeth</w><w>quia</w><w>amplius</w><w>non</w><w>habebit</w><w>locum</w><w>hec</w><w>persona</w><pc resp="#editor">.</pc><w>Deinde</w><w>Maria</w><w>vadat</w><w>in</w><w>lectum</w><w>suum</w><pc resp="#editor">,</pc><w>que</w><w>iam</w><w>de</w><w>spiritu</w><w>sancto</w><w>concepit</w><w>et</w><w>pariat</w><w>filium</w><pc resp="#editor">;</pc><w>cui</w><w>assideat</w><w>Ioseph</w><w>in</w><w>habitu</w><w>honesto</w><w>et</w><w>prolixa</w><w>barba</w><pc resp="#editor">.</pc><w>Nato</w><w>puero</w><w>appareat</w><w>stella</w><w>et</w><w>incipiat</w><w>chorus</w><w>hanc</w><w>antiphonam</w><pc resp="#editor">:</pc></stage>
+        <sp n="44" xml:id="CB227-sp-44">
           <p xml:id="CB227-p-26">
             <w>
               <seg type="syll" part="I">Ho<notatedMusic>
@@ -9839,8 +9839,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="45"><w>Qua</w><w>finita</w><pc resp="#editor">,</pc><w>stella</w><w>appareat</w><pc resp="#editor">;</pc><w>qua</w><w>visa</w><pc resp="#editor">,</pc><w>tres</w><w>reges</w><w>a</w><w>diversis</w><w>partibus</w><w>mundi</w><w>veniant</w><w>et</w><w>ammirentur</w><w>de</w><w>apparitione</w><w>talis</w><w>stelle</w><pc resp="#editor">,</pc><w>quorum</w><w>primus</w><w>dicat</w><pc resp="#editor">:</pc></stage>
-        <sp n="45">
+        <stage n="45" xml:id="CB227-stage-45"><w>Qua</w><w>finita</w><pc resp="#editor">,</pc><w>stella</w><w>appareat</w><pc resp="#editor">;</pc><w>qua</w><w>visa</w><pc resp="#editor">,</pc><w>tres</w><w>reges</w><w>a</w><w>diversis</w><w>partibus</w><w>mundi</w><w>veniant</w><w>et</w><w>ammirentur</w><w>de</w><w>apparitione</w><w>talis</w><w>stelle</w><pc resp="#editor">,</pc><w>quorum</w><w>primus</w><w>dicat</w><pc resp="#editor">:</pc></stage>
+        <sp n="45" xml:id="CB227-sp-45">
           <div type="poem" met="7pp+7pp 7pp+7pp 7pp+7pp 7pp+7pp" rhyme="a/a/a/a">
             <lg type="strophe" n="I" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-33">
               <l n="1" xml:id="CB227-l-123">
@@ -11103,8 +11103,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="46"><w>Hoc</w><w>dicat</w><w>primus</w><w>semper</w><w>inspiciendo</w><w>stellam</w><w>et</w><w>disputet</w><w>de</w><w>illa</w><pc resp="#editor">.</pc><w>Dicat</w><w>secundus</w><pc resp="#editor">:</pc></stage>
-        <sp n="46">
+        <stage n="46" xml:id="CB227-stage-46"><w>Hoc</w><w>dicat</w><w>primus</w><w>semper</w><w>inspiciendo</w><w>stellam</w><w>et</w><w>disputet</w><w>de</w><w>illa</w><pc resp="#editor">.</pc><w>Dicat</w><w>secundus</w><pc resp="#editor">:</pc></stage>
+        <sp n="46" xml:id="CB227-sp-46">
           <div type="poem" met="7pp+7pp 7pp+7pp 7pp+7pp 7pp+7pp" rhyme="a/a/a/a">
             <lg type="strophe" n="I" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-37">
               <l n="1" xml:id="CB227-l-139">
@@ -12468,8 +12468,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="47"><w>Dicat</w><w>tercius</w><w>monstrando</w><w>et</w><w>disputando</w><w>de</w><w>stella</w><pc resp="#editor">:</pc></stage>
-        <sp n="47">
+        <stage n="47" xml:id="CB227-stage-47"><w>Dicat</w><w>tercius</w><w>monstrando</w><w>et</w><w>disputando</w><w>de</w><w>stella</w><pc resp="#editor">:</pc></stage>
+        <sp n="47" xml:id="CB227-sp-47">
           <div type="poem" met="7pp+6p 7pp+6p 7pp+6p 7pp+6p" rhyme="a/a/a/a">
             <lg type="strophe" n="I" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="a/a/a/a" xml:id="CB227-lg-41">
               <l n="1" xml:id="CB227-l-156">
@@ -13421,16 +13421,16 @@
             </lg>
           </div>
         </sp>
-        <stage n="48"><w>Modo</w><w>procedant</w><w>reges</w><w>usque</w><w>in</w><w>terram</w><w>Herodis</w><pc resp="#editor">,</pc><w>querendo</w><w>de</w><w>puero</w><w>et</w><w>cantando</w><pc resp="#editor">:</pc></stage>
-        <sp n="48">
+        <stage n="48" xml:id="CB227-stage-48"><w>Modo</w><w>procedant</w><w>reges</w><w>usque</w><w>in</w><w>terram</w><w>Herodis</w><pc resp="#editor">,</pc><w>querendo</w><w>de</w><w>puero</w><w>et</w><w>cantando</w><pc resp="#editor">:</pc></stage>
+        <sp n="48" xml:id="CB227-sp-48">
           <p xml:id="CB227-p-27">
             <w>Ubi</w><w>est</w><w>qui</w><w>natus</w><w>est</w>
             <pc>&#183;</pc>
             <w rend="italic">etc.</w>
           </p>
         </sp>
-        <stage n="49"><w>Quibus</w><w>occurrant</w><w>nuntii</w><w>Herodis</w><w>dicentes</w><pc resp="#editor">:</pc></stage>
-        <sp n="49">
+        <stage n="49" xml:id="CB227-stage-49"><w>Quibus</w><w>occurrant</w><w>nuntii</w><w>Herodis</w><w>dicentes</w><pc resp="#editor">:</pc></stage>
+        <sp n="49" xml:id="CB227-sp-49">
           <div type="poem" met="7pp+7pp 7pp+7pp 7pp+7pp 7pp+7pp" rhyme="a/a/a/a">
             <lg type="strophe" n="I" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-45">
               <l n="1" xml:id="CB227-l-172">
@@ -13728,8 +13728,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="50"><w>Respondent</w><w>reges</w><pc resp="#editor">:</pc></stage>
-        <sp n="50">
+        <stage n="50" xml:id="CB227-stage-50"><w>Respondent</w><w>reges</w><pc resp="#editor">:</pc></stage>
+        <sp n="50" xml:id="CB227-sp-50">
           <div type="poem" met="7pp+7pp 7pp+7pp 7pp+7pp 7pp+7pp" rhyme="a/a/a/a">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-47">
               <l n="1" xml:id="CB227-l-180">
@@ -13870,8 +13870,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="51"><w>Respondent</w><w>nuntii</w><pc resp="#editor">:</pc></stage>
-        <sp n="51">
+        <stage n="51" xml:id="CB227-stage-51"><w>Respondent</w><w>nuntii</w><pc resp="#editor">:</pc></stage>
+        <sp n="51" xml:id="CB227-sp-51">
           <div type="poem" met="7pp+7pp 7pp+7pp 7pp+7pp 7pp+7pp" rhyme="a/a/a/a">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-48">
               <l n="1" xml:id="CB227-l-184">
@@ -14015,8 +14015,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="52"><w>Postea</w><w>nuntii</w><w>festinent</w><w>ad</w><w>Herodem</w><w>dicentes</w><pc resp="#editor">:</pc></stage>
-        <sp n="52">
+        <stage n="52" xml:id="CB227-stage-52"><w>Postea</w><w>nuntii</w><w>festinent</w><w>ad</w><w>Herodem</w><w>dicentes</w><pc resp="#editor">:</pc></stage>
+        <sp n="52" xml:id="CB227-sp-52">
           <div type="poem" met="7pp+6p 7pp+6p 7pp+6p 7pp+6p" rhyme="a/a/a/a">
             <lg type="strophe" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="a/a/a/a" xml:id="CB227-lg-49">
               <l n="1" xml:id="CB227-l-188">
@@ -14148,8 +14148,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="53"><w>Respondet</w><w>Herodes</w><w>cum</w><w>magna</w><w>indignatione</w><pc resp="#editor">:</pc></stage>
-        <sp n="53">
+        <stage n="53" xml:id="CB227-stage-53"><w>Respondet</w><w>Herodes</w><w>cum</w><w>magna</w><w>indignatione</w><pc resp="#editor">:</pc></stage>
+        <sp n="53" xml:id="CB227-sp-53">
           <div type="poem" met="7pp+6p 7pp+6p 7pp+6p 7pp+6p" rhyme="a/a/a/a">
             <lg type="strophe" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="a/a/a/a" xml:id="CB227-lg-50">
               <l n="1" xml:id="CB227-l-192">
@@ -14299,8 +14299,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="54"><w>Post</w><w>hec</w><w>Herodes</w><w>maxime</w><w>indignatus</w><w>vocari</w><w>faciat</w><w>archisynagogus</w><w>cum</w><w>Iudeis</w><w>suis</w><w>dicens</w><pc resp="#editor">:</pc></stage>
-        <sp n="54">
+        <stage n="54" xml:id="CB227-stage-54"><w>Post</w><w>hec</w><w>Herodes</w><w>maxime</w><w>indignatus</w><w>vocari</w><w>faciat</w><w>archisynagogus</w><w>cum</w><w>Iudeis</w><w>suis</w><w>dicens</w><pc resp="#editor">:</pc></stage>
+        <sp n="54" xml:id="CB227-sp-54">
           <div type="poem" met="4x(7pp+7pp)">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-51">
               <l n="1" xml:id="CB227-l-196">
@@ -14441,8 +14441,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="55"><w>Modo</w><w>veniat</w><w>archigynagogus</w><w>cum</w><w>magna</w><w>superbia</w><w>et</w><w>Iudeis</w><w>suis</w><pc resp="#editor">,</pc><w>cui</w><w>dicat</w><w>Herodes</w><pc resp="#editor">:</pc></stage>
-        <sp n="55">
+        <stage n="55" xml:id="CB227-stage-55"><w>Modo</w><w>veniat</w><w>archigynagogus</w><w>cum</w><w>magna</w><w>superbia</w><w>et</w><w>Iudeis</w><w>suis</w><pc resp="#editor">,</pc><w>cui</w><w>dicat</w><w>Herodes</w><pc resp="#editor">:</pc></stage>
+        <sp n="55" xml:id="CB227-sp-55">
           <div type="poem" met="4x(7pp+7pp)">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-52">
               <l n="1" xml:id="CB227-l-200">
@@ -14588,8 +14588,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="56"><w>Respondeat</w><w>archisynagogus</w><w>cum</w><w>magna</w><w>sapientia</w><w>et</w><w>eloquentia</w><pc resp="#editor">:</pc></stage>
-        <sp n="56">
+        <stage n="56" xml:id="CB227-stage-56"><w>Respondeat</w><w>archisynagogus</w><w>cum</w><w>magna</w><w>sapientia</w><w>et</w><w>eloquentia</w><pc resp="#editor">:</pc></stage>
+        <sp n="56" xml:id="CB227-sp-56">
           <div type="poem" met="4x(7pp+7pp)">
             <lg type="strophe" n="I" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-53">
               <l n="1" xml:id="CB227-l-204">
@@ -14884,8 +14884,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="57"><w>Respondent</w><w>reges</w><pc resp="#editor">:</pc></stage>
-        <sp n="57">
+        <stage n="57" xml:id="CB227-stage-57"><w>Respondent</w><w>reges</w><pc resp="#editor">:</pc></stage>
+        <sp n="57" xml:id="CB227-sp-57">
           <div type="poem" met="4x(7pp+7pp)">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-55">
               <l n="1" xml:id="CB227-l-212">
@@ -15037,8 +15037,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="58"><w>Herodes</w><w>respondet</w><pc resp="#editor">:</pc></stage>
-        <sp n="58">
+        <stage n="58" xml:id="CB227-stage-58"><w>Herodes</w><w>respondet</w><pc resp="#editor">:</pc></stage>
+        <sp n="58" xml:id="CB227-sp-58">
           <div type="poem" met="4x(7pp+7pp)">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-56">
               <l n="1" xml:id="CB227-l-216">
@@ -15187,8 +15187,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="59"><w>Ab</w><w>Herode</w><w>discedant</w><w>tres</w><w>magi</w><w>paulatim</w><w>inspicientes</w><w>stellam</w><w>et</w><w>disputantes</w><w>de</w><w>illa</w><pc resp="#editor">.</pc><w>Interim</w><w>angelus</w><w>appareat</w><w>pastoribus</w><w>et</w><w>dicat</w><pc resp="#editor">:</pc></stage>
-        <sp n="59">
+        <stage n="59" xml:id="CB227-stage-59"><w>Ab</w><w>Herode</w><w>discedant</w><w>tres</w><w>magi</w><w>paulatim</w><w>inspicientes</w><w>stellam</w><w>et</w><w>disputantes</w><w>de</w><w>illa</w><pc resp="#editor">.</pc><w>Interim</w><w>angelus</w><w>appareat</w><w>pastoribus</w><w>et</w><w>dicat</w><pc resp="#editor">:</pc></stage>
+        <sp n="59" xml:id="CB227-sp-59">
           <div type="poem" met="4x(7pp+7pp)">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-57">
               <l n="1" xml:id="CB227-l-220">
@@ -15338,8 +15338,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="60"><w>Pastoribus</w><w>euntibus</w><w>dicat</w><w>diabolus</w><pc resp="#editor">:</pc></stage>
-        <sp n="60">
+        <stage n="60" xml:id="CB227-stage-60"><w>Pastoribus</w><w>euntibus</w><w>dicat</w><w>diabolus</w><pc resp="#editor">:</pc></stage>
+        <sp n="60" xml:id="CB227-sp-60">
           <div type="poem" met="4x(7pp+7pp)">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-58">
               <l n="1" xml:id="CB227-l-224">
@@ -15486,8 +15486,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="61"><w>Iterum</w><w>pastoribus</w><w>ad</w><w>negocium</w><w>suum</w><w>redeuntibus</w><w>dicat</w><w>angelus</w><pc resp="#editor">:</pc></stage>
-        <sp n="61">
+        <stage n="61" xml:id="CB227-stage-61"><w>Iterum</w><w>pastoribus</w><w>ad</w><w>negocium</w><w>suum</w><w>redeuntibus</w><w>dicat</w><w>angelus</w><pc resp="#editor">:</pc></stage>
+        <sp n="61" xml:id="CB227-sp-61">
           <div type="poem" met="4x(6pp+6pp)">
             <lg type="strophe" met="6pp+6pp/6pp+6pp/6pp+6pp/6pp+6pp" rhyme="a/a/a/a" xml:id="CB227-lg-59">
               <l n="1" met="6pp+7pp" xml:id="CB227-l-228">
@@ -15623,8 +15623,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="62"><w>Iterum</w><w>pastoribus</w><w>abeuntibus</w><w>dicat</w><w>diabolus</w><w>ad</w><w>aures</w><w>eorum</w><pc resp="#editor">:</pc></stage>
-        <sp n="62">
+        <stage n="62" xml:id="CB227-stage-62"><w>Iterum</w><w>pastoribus</w><w>abeuntibus</w><w>dicat</w><w>diabolus</w><w>ad</w><w>aures</w><w>eorum</w><pc resp="#editor">:</pc></stage>
+        <sp n="62" xml:id="CB227-sp-62">
           <div type="poem" met="4x(7pp+6pp)">
             <lg type="strophe" met="7pp+6pp/7pp+6pp/7pp+6pp/7pp+6pp" rhyme="a/a/a/a" xml:id="CB227-lg-60">
               <l n="1" xml:id="CB227-l-232">
@@ -15763,8 +15763,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="63"><w>Mirentur</w><w>pastores</w><w>et</w><w>unus</w><w>dicat</w><w>ad</w><w>alterum</w><pc resp="#editor">:</pc></stage>
-        <sp n="63">
+        <stage n="63" xml:id="CB227-stage-63"><w>Mirentur</w><w>pastores</w><w>et</w><w>unus</w><w>dicat</w><w>ad</w><w>alterum</w><pc resp="#editor">:</pc></stage>
+        <sp n="63" xml:id="CB227-sp-63">
           <div type="poem" met="4x(7pp+6pp)">
             <lg type="strophe" met="7pp+6pp/7pp+6pp/7pp+6pp/7pp+6pp" rhyme="a/a/a/a" xml:id="CB227-lg-61">
               <l n="1" xml:id="CB227-l-236">
@@ -15904,8 +15904,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="64"><w>Dicat</w><w>iterum</w><w>angelus</w><w>ad</w><w>pastores</w><pc resp="#editor">:</pc></stage>
-        <sp n="64">
+        <stage n="64" xml:id="CB227-stage-64"><w>Dicat</w><w>iterum</w><w>angelus</w><w>ad</w><w>pastores</w><pc resp="#editor">:</pc></stage>
+        <sp n="64" xml:id="CB227-sp-64">
           <div type="poem" met="4x(7pp+7pp)">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-62">
               <l n="1" xml:id="CB227-l-240">
@@ -16058,8 +16058,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="65"><w>Dicat</w><w>iterum</w><w>euntibus</w><w>diabolus</w><pc resp="#editor">:</pc></stage>
-        <sp n="65">
+        <stage n="65" xml:id="CB227-stage-65"><w>Dicat</w><w>iterum</w><w>euntibus</w><w>diabolus</w><pc resp="#editor">:</pc></stage>
+        <sp n="65" xml:id="CB227-sp-65">
           <div type="poem" met="4x(7pp+.6p)">
             <lg type="strophe" met="7pp+.6p/7pp+.6p/7pp+.6p/7pp+.6p" rhyme="a/a/a/a" xml:id="CB227-lg-63">
               <l n="1" xml:id="CB227-l-244">
@@ -16214,8 +16214,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="66"><w>Iterum</w><w>pastores</w><w>ad</w><w>socios</w><w>suos</w><pc resp="#editor">:</pc></stage>
-        <sp n="66">
+        <stage n="66" xml:id="CB227-stage-66"><w>Iterum</w><w>pastores</w><w>ad</w><w>socios</w><w>suos</w><pc resp="#editor">:</pc></stage>
+        <sp n="66" xml:id="CB227-sp-66">
           <div type="poem" met="4x(7pp+7pp)">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-64">
               <l n="1" xml:id="CB227-l-248">
@@ -16365,8 +16365,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="67"><w>Postea</w><w>simul</w><w>conveniant</w><w>angeli</w><w>et</w><w>simul</w><w>cantent</w><pc resp="#editor">:</pc></stage>
-        <sp n="67">
+        <stage n="67" xml:id="CB227-stage-67"><w>Postea</w><w>simul</w><w>conveniant</w><w>angeli</w><w>et</w><w>simul</w><w>cantent</w><pc resp="#editor">:</pc></stage>
+        <sp n="67" xml:id="CB227-sp-67">
           <p xml:id="CB227-p-28">
             <w>
               <seg type="syll" part="I">Glo<notatedMusic>
@@ -16529,8 +16529,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="68"><w>Qua</w><w>voce</w><w>audita</w><w>dicat</w><w>pastor</w><w>ad</w><w>socios</w><w>suos</w><pc resp="#editor">:</pc></stage>
-        <sp n="68">
+        <stage n="68" xml:id="CB227-stage-68"><w>Qua</w><w>voce</w><w>audita</w><w>dicat</w><w>pastor</w><w>ad</w><w>socios</w><w>suos</w><pc resp="#editor">:</pc></stage>
+        <sp n="68" xml:id="CB227-sp-68">
           <div type="poem" met="7pp+7pp 7pp+7pp 7pp+7pp 7pp+7pp" rhyme="a/a/a/a">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-65">
               <l n="1" xml:id="CB227-l-252">
@@ -16835,8 +16835,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="69"><w>Deinde</w><w>procedant</w><w>pastores</w><w>ad</w><w>presepe</w><w>cantando</w><w>hanc</w><w>antiphonam</w><pc resp="#editor">:</pc></stage>
-        <sp n="69">
+        <stage n="69" xml:id="CB227-stage-69"><w>Deinde</w><w>procedant</w><w>pastores</w><w>ad</w><w>presepe</w><w>cantando</w><w>hanc</w><w>antiphonam</w><pc resp="#editor">:</pc></stage>
+        <sp n="69" xml:id="CB227-sp-69">
           <p xml:id="CB227-p-29">
             <w>
               <seg type="syll" part="I">Fac<notatedMusic>
@@ -16904,8 +16904,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="70"><w>Quo</w><w>cantato</w><w>adorent</w><w>puerum</w><pc resp="#editor">.</pc><w>Deinde</w><w>revertantur</w><w>pastores</w><w>ad</w><w>officia</w><w>sua</w><pc resp="#editor">,</pc><w>quibus</w><w>occurrant</w><w>tres</w><w>magi</w><w>dicentes</w><pc resp="#editor">:</pc></stage>
-        <sp n="70">
+        <stage n="70" xml:id="CB227-stage-70"><w>Quo</w><w>cantato</w><w>adorent</w><w>puerum</w><pc resp="#editor">.</pc><w>Deinde</w><w>revertantur</w><w>pastores</w><w>ad</w><w>officia</w><w>sua</w><pc resp="#editor">,</pc><w>quibus</w><w>occurrant</w><w>tres</w><w>magi</w><w>dicentes</w><pc resp="#editor">:</pc></stage>
+        <sp n="70" xml:id="CB227-sp-70">
           <p xml:id="CB227-p-30">
             <w>
               <seg type="syll" part="I">Pas<notatedMusic>
@@ -16986,8 +16986,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="71"><w>Respondeant</w><w>pastores</w><pc resp="#editor">:</pc></stage>
-        <sp n="71">
+        <stage n="71" xml:id="CB227-stage-71"><w>Respondeant</w><w>pastores</w><pc resp="#editor">:</pc></stage>
+        <sp n="71" xml:id="CB227-sp-71">
           <p xml:id="CB227-p-31">
             <w>
               <seg type="syll" part="I">In<notatedMusic>
@@ -17068,16 +17068,16 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="72"><w>Postea</w><w>reges</w><w>vadant</w><w>ad</w><w>presepe</w><w>et</w><w>primo</w><w>adorent</w><w>puerum</w><pc resp="#editor">,</pc><w>et</w><w>postea</w><w>offerant</w><w>ei</w><w>munera</w><w>sua</w><pc resp="#editor">,</pc><w>primo</w><w>aurum</w><pc resp="#editor">,</pc><w>postea</w><w>thus</w><pc resp="#editor">,</pc><w>tercio</w><w>mirram</w><pc resp="#editor">;</pc><w>deinde</w><w>modicum</w><w>procedant</w><w>et</w><w>tunc</w><w>dormiant</w><pc resp="#editor">,</pc><w>et</w><w>angelus</w><w>appareat</w><w>eis</w><w>in</w><w>somnis</w><w>dicens</w><pc resp="#editor">:</pc></stage>
-        <sp n="72">
+        <stage n="72" xml:id="CB227-stage-72"><w>Postea</w><w>reges</w><w>vadant</w><w>ad</w><w>presepe</w><w>et</w><w>primo</w><w>adorent</w><w>puerum</w><pc resp="#editor">,</pc><w>et</w><w>postea</w><w>offerant</w><w>ei</w><w>munera</w><w>sua</w><pc resp="#editor">,</pc><w>primo</w><w>aurum</w><pc resp="#editor">,</pc><w>postea</w><w>thus</w><pc resp="#editor">,</pc><w>tercio</w><w>mirram</w><pc resp="#editor">;</pc><w>deinde</w><w>modicum</w><w>procedant</w><w>et</w><w>tunc</w><w>dormiant</w><pc resp="#editor">,</pc><w>et</w><w>angelus</w><w>appareat</w><w>eis</w><w>in</w><w>somnis</w><w>dicens</w><pc resp="#editor">:</pc></stage>
+        <sp n="72" xml:id="CB227-sp-72">
           <p xml:id="CB227-p-32">
             <w>Nolite</w><w>redire</w><w>ad</w><w>Herodem</w>
             <pc>&#183;</pc>
             <w rend="italic">etc.</w>
           </p>
         </sp>
-        <stage n="73"><w>Postea</w><w>non</w><w>revertentibus</w><w>ad</w><w>Herodem</w><w>sic</w><w>dicat</w><pc resp="#editor">:</pc></stage>
-        <sp n="73">
+        <stage n="73" xml:id="CB227-stage-73"><w>Postea</w><w>non</w><w>revertentibus</w><w>ad</w><w>Herodem</w><w>sic</w><w>dicat</w><pc resp="#editor">:</pc></stage>
+        <sp n="73" xml:id="CB227-sp-73">
           <div type="poem" met="7pp+7pp 7pp+7pp 7pp+7pp 7pp+7pp" rhyme="a/a/a/a">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-66">
               <l n="1" xml:id="CB227-l-256">
@@ -17226,8 +17226,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="74"><w>Veniat</w><w>archisynagogus</w><w>cum</w><w>suis</w><pc resp="#editor">,</pc> cui dicat Herodes<pc resp="#editor">:</pc></stage>
-        <sp n="74">
+        <stage n="74" xml:id="CB227-stage-74"><w>Veniat</w><w>archisynagogus</w><w>cum</w><w>suis</w><pc resp="#editor">,</pc> cui dicat Herodes<pc resp="#editor">:</pc></stage>
+        <sp n="74" xml:id="CB227-sp-74">
           <div type="poem" met="7pp+7pp 7pp+7pp 7pp+7pp 7pp+7pp" rhyme="a/a/a/a">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-67">
               <l n="1" xml:id="CB227-l-260">
@@ -17376,8 +17376,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="75"><w>Respondeat</w><w>archisynagogus</w><pc resp="#editor">:</pc></stage>
-        <sp n="75">
+        <stage n="75" xml:id="CB227-stage-75"><w>Respondeat</w><w>archisynagogus</w><pc resp="#editor">:</pc></stage>
+        <sp n="75" xml:id="CB227-sp-75">
           <p xml:id="CB227-p-33">
             <w>
               <seg type="syll">Tu<notatedMusic>
@@ -17423,8 +17423,8 @@
             <w rend="italic">etc.</w>
           </p>
         </sp>
-        <stage n="76"><w>Deinde</w><w>Herodes</w><w>iratus</w><w>dicat</w><w>ad</w><w>milites</w><w>suos</w><pc resp="#editor">:</pc></stage>
-        <sp n="76">
+        <stage n="76" xml:id="CB227-stage-76"><w>Deinde</w><w>Herodes</w><w>iratus</w><w>dicat</w><w>ad</w><w>milites</w><w>suos</w><pc resp="#editor">:</pc></stage>
+        <sp n="76" xml:id="CB227-sp-76">
           <div type="poem" met="7pp+7pp 7pp+7pp 7pp+7pp 7pp+7pp" rhyme="a/a/a/a">
             <lg type="strophe" met="7pp+7pp/7pp+7pp/7pp+7pp/7pp+7pp" rhyme="a/a/a/a" xml:id="CB227-lg-68">
               <l n="1" xml:id="CB227-l-264">
@@ -17570,8 +17570,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="77"><w>Vadant</w><w>milites</w><w>et</w><w>interficiant</w><w>pueros</w><w>quorum</w><w>matres</w><w>sic</w><w>lugeant</w><w>et</w><w>lamententur</w><pc resp="#editor">:</pc></stage>
-        <sp n="77">
+        <stage n="77" xml:id="CB227-stage-77"><w>Vadant</w><w>milites</w><w>et</w><w>interficiant</w><w>pueros</w><w>quorum</w><w>matres</w><w>sic</w><w>lugeant</w><w>et</w><w>lamententur</w><pc resp="#editor">:</pc></stage>
+        <sp n="77" xml:id="CB227-sp-77">
           <div type="poem" met=" 7pp 7pp 7pp" rhyme="A/b/b/b">
             <lg type="strophe" n="I" met="/7pp/7pp/7pp" rhyme="A/b/b/b" xml:id="CB227-lg-69">
               <l n="1" xml:id="CB227-l-268">
@@ -17912,8 +17912,8 @@
             </lg>
           </div>
         </sp>
-        <stage n="78"><w>Postea</w><w>Herodes</w><w>corrodatur</w><w>a</w><w>vermibus</w><w>et</w><w>excedens</w><w>de</w><w>sede</w><w>sua</w><w>mortuus</w><pc resp="#editor">,</pc><w>accipiatur</w><w>a</w><w>diabolis</w><w>multum</w><w>congaudentibus</w><pc resp="#editor">,</pc><w>et</w><w>Herodis</w><w>corona</w><w>inponatur</w><w>Archelao</w><w>filio</w><w>suo</w><pc resp="#editor">.</pc><w>Quo</w><w>regnante</w><w>appareat</w><w>in</w><w>nocte</w><w>angelus</w><w>Ioseph</w><w>dicens</w><pc resp="#editor">:</pc></stage>
-        <sp n="78">
+        <stage n="78" xml:id="CB227-stage-78"><w>Postea</w><w>Herodes</w><w>corrodatur</w><w>a</w><w>vermibus</w><w>et</w><w>excedens</w><w>de</w><w>sede</w><w>sua</w><w>mortuus</w><pc resp="#editor">,</pc><w>accipiatur</w><w>a</w><w>diabolis</w><w>multum</w><w>congaudentibus</w><pc resp="#editor">,</pc><w>et</w><w>Herodis</w><w>corona</w><w>inponatur</w><w>Archelao</w><w>filio</w><w>suo</w><pc resp="#editor">.</pc><w>Quo</w><w>regnante</w><w>appareat</w><w>in</w><w>nocte</w><w>angelus</w><w>Ioseph</w><w>dicens</w><pc resp="#editor">:</pc></stage>
+        <sp n="78" xml:id="CB227-sp-78">
           <p xml:id="CB227-p-34">
             <w>Accipe</w><w>matrem</w><w>et</w><w>filium</w>
             <pc>&#183;</pc>
@@ -17922,8 +17922,8 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="79"><w>Precedens</w><w>Maria</w><w>asinum</w><w>dicat</w><pc resp="#editor">:</pc></stage>
-        <sp n="79">
+        <stage n="79" xml:id="CB227-stage-79"><w>Precedens</w><w>Maria</w><w>asinum</w><w>dicat</w><pc resp="#editor">:</pc></stage>
+        <sp n="79" xml:id="CB227-sp-79">
           <div type="poem" met="7p+9p 5p+8p" rhyme="a/a/b/b">
             <lg type="strophe" met="7p+9p/5p+8p" rhyme="a/a/b/b" xml:id="CB227-lg-74">
               <l n="1" xml:id="CB227-l-288">

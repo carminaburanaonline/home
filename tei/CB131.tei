@@ -1843,8 +1843,9 @@
               </seg>
             </w>
             <pc resp="#editor">:</pc>
+            <pc resp="#editor" pre="true">&#171;</pc>
             <w>
-              <seg type="syll">&#171;Non<notatedMusic>
+              <seg type="syll">Non<notatedMusic>
                 <neume fontname="buranus" glyph.num="8" label="vi"/>
               </notatedMusic>
               </seg>

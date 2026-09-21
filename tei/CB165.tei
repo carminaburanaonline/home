@@ -1025,14 +1025,12 @@
             <pc resp="#editor">!</pc>
           </l>
           <l n="7" rhyme="[d]" xml:id="CB165-l-31">
-            <w>
-              <seg type="syll">[...]</seg>
-            </w>
+            <w></w>
+            <pc resp="#editor">[...]</pc>
           </l>
           <l n="8" rhyme="[d]" xml:id="CB165-l-32">
-            <w>
-              <seg type="syll">[...]</seg>
-            </w>
+            <w></w>
+            <pc resp="#editor">[...]</pc>
           </l>
         </lg>
       </div>

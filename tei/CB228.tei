@@ -3,12 +3,12 @@
   <text>
     <body>
       <div type="drama">
-        <stage n="1">
+        <stage n="1" xml:id="CB228-stage-1">
           <w>Rex</w><w>Egipti</w><w>cum</w><w>comitatu</w><w>suo</w><w>in</w><w>locum</w><w>suum</w><w>producatur</w><w>cum</w><w>conductu</w>
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="1">
+        <sp n="1" xml:id="CB228-sp-1">
           <p xml:id="CB228-p-1">
             <w>Estivali</w><w>gaudio</w>
             <pc>&#183;</pc>
@@ -132,12 +132,12 @@
             </lg>
           </div>
         </sp>
-        <stage n="2">
+        <stage n="2" xml:id="CB228-stage-2">
           <w>Et</w><w>tam</w><w>iste</w><w>comitatus</w><w>quam</w><w>comitatus</w><w>regis</w><w>hec</w><w>sepius</w><w>cantent</w>
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="2">
+        <sp n="2" xml:id="CB228-sp-2">
           <div type="poem" met="8p+7p 8p+7p 8p+7p" rhyme="a/a/a">
             <lg type="strophe" n="I" met="8p+7p/8p+7p/8p+7p" rhyme="a/a/a" xml:id="CB228-lg-3">
               <l n="1" xml:id="CB228-l-13">
@@ -510,12 +510,12 @@
             </lg>
           </div>
         </sp>
-        <stage n="3">
+        <stage n="3" xml:id="CB228-stage-3">
           <w>Et</w><w>sepius</w><w>repetant</w>
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="3">
+        <sp n="3" xml:id="CB228-sp-3">
           <p xml:id="CB228-p-2">
             <w>Deorum</w><w>inmortalitas</w>
             <pc>&#183;</pc>
@@ -527,7 +527,7 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="4">
+        <stage n="4" xml:id="CB228-stage-4">
           <w>In</w><w>ingressu</w><w>Mariae</w><w>et</w><w>Ioseph</w><w>cum</w><w>Iesu</w>
           <pc>&#183;</pc>
           <w>omnia</w><w>ydola</w><w>Egyptiorum</w><w>corruant</w>
@@ -539,7 +539,7 @@
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="4">
+        <sp n="4" xml:id="CB228-sp-4">
           <div type="poem" met="8p 8p 7pp 8p 8p 7pp" rhyme="a/a/b/c/c/b">
             <lg type="strophe" n="I" met="8p/8p/7pp/8p/8p/7pp" rhyme="a/a/b/c/c/b" xml:id="CB228-lg-18">
               <l n="1" xml:id="CB228-l-43">
@@ -648,7 +648,7 @@
             </lg>
           </div>
         </sp>
-        <stage n="5">
+        <stage n="5" xml:id="CB228-stage-5">
           <w>Quod</w><w>quia</w><w>non</w><w>proficit</w>
           <pc>&#183;</pc>
           <pc resp="#editor">,</pc>
@@ -656,7 +656,7 @@
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="5">
+        <sp n="5" xml:id="CB228-sp-5">
           <div type="poem" met="8p 8p 8p 7pp 8p 8p 8p 7pp" rhyme="a/a/a/b/c/c/c/b">
             <lg type="strophe" met="8p/8p/8p/7pp/8p/8p/8p/7pp" rhyme="a/a/a/b/c/c/c/b" xml:id="CB228-lg-20">
               <l n="1" xml:id="CB228-l-55">
@@ -723,12 +723,12 @@
             </lg>
           </div>
         </sp>
-        <stage n="6">
+        <stage n="6" xml:id="CB228-stage-6">
           <w>Quibus</w><w>rex</w><w>mirabili</w><w>gestu</w><w>respondeat</w>
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="6">
+        <sp n="6" xml:id="CB228-sp-6">
           <div type="poem" met="hex hex" rhyme="?/?">
             <lg type="strophe" met="hex/hex" rhyme="?/?" xml:id="CB228-lg-21">
               <l n="1" xml:id="CB228-l-63">
@@ -757,14 +757,14 @@
             </lg>
           </div>
         </sp>
-        <stage n="7">
+        <stage n="7" xml:id="CB228-stage-7">
           <w>Tunc</w><w>armiger</w><w>vocet</w><w>sapientes</w><w>ad</w><w>presentiam</w><w>regis</w>
           <pc>&#183;</pc>
           <w>et</w><w>cantet</w>
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="7">
+        <sp n="7" xml:id="CB228-sp-7">
           <p met="hex" xml:id="CB228-p-4">
             <w>Regia</w><w>vos</w><w>mandata</w><w>vocant</w>
             <pc>&#183;</pc>
@@ -774,12 +774,12 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="8">
+        <stage n="8" xml:id="CB228-stage-8">
           <w>Tunc</w><w>dicat</w><w>rex</w><w>sapientibus</w>
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="8">
+        <sp n="8" xml:id="CB228-sp-8">
           <p xml:id="CB228-p-5">
             <w>Scire</w><w>volo</w>
             <pc>&#183;</pc>
@@ -792,12 +792,12 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="9">
+        <stage n="9" xml:id="CB228-stage-9">
           <w>Sapientes</w><w>respondeant</w>
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="9">
+        <sp n="9" xml:id="CB228-sp-9">
           <div type="poem" met="7pp+6p 7pp+6p 7pp+6p 7pp+6p hex hex" rhyme="a/a/a/a/b/b">
             <lg type="strophe" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p/hex/hex" rhyme="a/a/a/a/b/b" xml:id="CB228-lg-22">
               <l n="1" xml:id="CB228-l-65">
@@ -881,33 +881,33 @@
             </lg>
           </div>
         </sp>
-        <stage n="10">
+        <stage n="10" xml:id="CB228-stage-10">
           <w>Tunc</w><w>rex</w><w>preparet</w><w>se</w><w>ad</w><w>immolandum</w>
           <pc>&#183;</pc>
           <w>et</w><w>cantet</w>
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="10">
+        <sp n="10" xml:id="CB228-sp-10">
           <p xml:id="CB228-p-7">
             <w>Hoc</w><w>est</w><w>numen</w><w>salutare</w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="11">
+        <stage n="11" xml:id="CB228-stage-11">
           <w>Comitatus</w><w>respondeat</w>
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="11">
+        <sp n="11" xml:id="CB228-sp-11">
           <p xml:id="CB228-p-8">
             <w>Stulti</w><w>sunt</w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="12">
+        <stage n="12" xml:id="CB228-stage-12">
           <w>Tunc</w><w>ydolis</w><w>restitutis</w>
           <pc>&#183;</pc>
           <pc resp="#editor">,</pc>
@@ -925,7 +925,7 @@
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="12">
+        <sp n="12" xml:id="CB228-sp-12">
           <p xml:id="CB228-p-9">
             <w>Dicite</w><w>quid</w>
                 <w>nobis</w>
@@ -945,12 +945,12 @@
                 <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="13">
+        <stage n="13" xml:id="CB228-stage-13">
           <w>Cui</w><w>sapientes</w>
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="13">
+        <sp n="13" xml:id="CB228-sp-13">
           <div type="poem" met="7pp+6p 7pp+6p 7pp+6p 7pp+6p" rhyme="a/a/a/a">
             <lg type="strophe" met="7pp+6p/7pp+6p/7pp+6p/7pp+6p" rhyme="a/a/a/a" xml:id="CB228-lg-23">
               <l n="1" xml:id="CB228-l-71">
@@ -1011,17 +1011,17 @@
             </lg>
           </div>
         </sp>
-        <stage n="14">
+        <stage n="14" xml:id="CB228-stage-14">
           <w>Tunc</w><w>rex</w><w>cantet</w>
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="14">
+        <sp n="14" xml:id="CB228-sp-14">
           <w>Ecce</w><w>novum</w><w>cum</w><w>matre</w><w>deum</w><w>veneretur</w><w>Egiptus</w>
           <pc>&#183;</pc>
           <pc resp="#editor">.</pc>
         </sp>
-        <stage n="15">
+        <stage n="15" xml:id="CB228-stage-15">
           <w>Et</w><w>omnia</w><w>ydola</w><w>abiciantur</w>
           <pc>&#183;</pc>
           <pc resp="#editor">.</pc>
@@ -1035,7 +1035,7 @@
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="15">
+        <sp n="15" xml:id="CB228-sp-15">
           <p xml:id="CB228-p-10">
             <w>Deorum</w><w>inmor[talitas]</w>
             <pc>&#183;</pc>
@@ -1047,12 +1047,12 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="16">
+        <stage n="16" xml:id="CB228-stage-16">
           <w>Et</w><w>hunc</w><w>versum</w>
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="16">
+        <sp n="16" xml:id="CB228-sp-16">
           <div type="poem" met="7pp+6p 7pp+6p" rhyme="a/a">
             <lg type="strophe" met="7pp+6p/7pp+6p" rhyme="a/a" xml:id="CB228-lg-24">
               <l n="1" xml:id="CB228-l-75">
@@ -1092,7 +1092,7 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="17">
+        <stage n="17" xml:id="CB228-stage-17">
           <w>In</w><w>conflictu</w><w>gentilitatis</w>
           <pc>&#183;</pc>
           <pc resp="#editor">,</pc>
@@ -1102,7 +1102,7 @@
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="17">
+        <sp n="17" xml:id="CB228-sp-17">
           <div type="poem" met="8pp+7p 8pp+7p" rhyme="a+b/a+b">
             <lg type="strophe" met="8pp+7p/8pp+7p" rhyme="a+b/a+b" xml:id="CB228-lg-25">
               <l n="1" xml:id="CB228-l-77">
@@ -1134,12 +1134,12 @@
             </lg>
           </div>
         </sp>
-        <stage n="18">
+        <stage n="18" xml:id="CB228-stage-18">
           <w>Comitatus</w><w>suus</w><w>respondeat</w>
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="18">
+        <sp n="18" xml:id="CB228-sp-18">
           <div type="poem" met="9pp+7p 9pp+7p" rhyme="a+b/a+b">
             <lg type="strophe" met="9pp+7p/9pp+7p" rhyme="a+b/a+b" xml:id="CB228-lg-26">
               <l n="1" xml:id="CB228-l-79">
@@ -1176,12 +1176,12 @@
             </lg>
           </div>
         </sp>
-        <stage n="19">
+        <stage n="19" xml:id="CB228-stage-19">
           <w>Gentilitas</w>
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="19">
+        <sp n="19" xml:id="CB228-sp-19">
           <div type="poem" met="8pp+7p 8pp+7p" rhyme="a+b/a+b">
             <lg type="strophe" met="8pp+7p/8pp+7p" rhyme="a+b/a+b" xml:id="CB228-lg-27">
               <l n="1" xml:id="CB228-l-81">
@@ -1215,24 +1215,24 @@
             </lg>
           </div>
         </sp>
-        <stage n="20">
+        <stage n="20" xml:id="CB228-stage-20">
           <w>Comitatus</w><w>respondeat</w>
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="20">
+        <sp n="20" xml:id="CB228-sp-20">
           <p xml:id="CB228-p-13">
             <w>Stulti</w><w>sunt</w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="21">
+        <stage n="21" xml:id="CB228-stage-21">
           <w>Gentilitas</w>
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="21">
+        <sp n="21" xml:id="CB228-sp-21">
           <div type="poem" met="6pp+7p 6pp+7p" rhyme="a/a">
             <lg type="strophe" met="6pp+7p/6pp+7p" rhyme="a/a" xml:id="CB228-lg-28">
               <l n="1" xml:id="CB228-l-83">
@@ -1262,24 +1262,24 @@
             </lg>
           </div>
         </sp>
-        <stage n="22">
+        <stage n="22" xml:id="CB228-stage-22">
           <w>Comitatus</w><w>respondeat</w>
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="22">
+        <sp n="22" xml:id="CB228-sp-22">
           <p xml:id="CB228-p-14">
             <w>Stulti</w><w>sunt</w>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="23">
+        <stage n="23" xml:id="CB228-stage-23">
           <w>Item</w><w>rex</w><w>Babylonis</w><w>contra</w><w>ypocritas</w>
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="23">
+        <sp n="23" xml:id="CB228-sp-23">
           <div type="poem" met="6pp+7p 6pp+7p" rhyme="a+b/a+b">
             <lg type="strophe" n="I" met="6pp+7p/6pp+7p" rhyme="a+b/a+b" xml:id="CB228-lg-29">
               <l n="1" xml:id="CB228-l-85">
@@ -1338,14 +1338,14 @@
             </lg>
           </div>
         </sp>
-        <stage n="24">
+        <stage n="24" xml:id="CB228-stage-24">
           <w>Item</w><w>devicto</w><w>rege</w>
           <pc>&#183;</pc>
           <w>cantet</w><w>in</w><w>presentia</w><w>Antichristi</w>
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="24">
+        <sp n="24" xml:id="CB228-sp-24">
           <div type="poem" met="6pp+7p 6pp+7p" rhyme="a/a">
             <lg type="strophe" met="6pp+7p/6pp+7p" rhyme="a/a" xml:id="CB228-lg-31">
               <l n="1" xml:id="CB228-l-89">
@@ -1377,12 +1377,12 @@
             </lg>
           </div>
         </sp>
-        <stage n="25">
+        <stage n="25" xml:id="CB228-stage-25">
           <w>Comitatus</w><w>cantet</w>
           <pc>&#183;</pc>
           <pc resp="#editor">:</pc>
         </stage>
-        <sp n="25">
+        <sp n="25" xml:id="CB228-sp-25">
           <div type="poem" met="6p+7p 6p+7p" rhyme="a/a">
             <lg type="strophe" met="6p+7p/6p+7p" rhyme="a/a" xml:id="CB228-lg-32">
               <l n="1" xml:id="CB228-l-91">

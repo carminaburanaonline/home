@@ -390,8 +390,9 @@
             <w>
               <seg type="syll">quod</seg>
             </w>
+            <pc resp="#editor" pre="true">&#8216;</pc>
             <w>
-              <seg type="syll" part="I">&#171;ha</seg>
+              <seg type="syll" part="I">ha</seg>
               <seg type="syll" part="M">ben</seg>
               <seg type="syll" part="F">ti</seg>
             </w>
@@ -400,7 +401,7 @@
               <seg type="syll" part="M">bi</seg>
               <seg type="syll" part="F">tur</seg>
             </w>
-            <pc resp="#editor">&#187;</pc>
+            <pc resp="#editor">&#8217;</pc>
           </l>
           <l n="12" xml:id="CB187-l-24">
             <w>

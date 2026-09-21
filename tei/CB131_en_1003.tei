@@ -526,8 +526,9 @@
             <pc resp="#editor">:</pc>
           </l>
           <l n="2" xml:id="CB131_en_1003-l-14">
+            <pc resp="#editor" pre="true">&#171;</pc>
             <w>
-              <seg type="syll" part="I">&#171;Ho</seg>
+              <seg type="syll" part="I">Ho</seg>
               <seg type="syll" part="F">mo</seg>
             </w>
             <pc resp="#editor">,</pc>
