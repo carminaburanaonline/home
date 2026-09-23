@@ -4235,7 +4235,7 @@
             </lg>
           </div>
         </sp>
-        <stage n="26" xml:id="CB016x-stage-29"><w>Accepto</w><w>ungento</w><w>vadat</w><w>dormitum</w><pc resp="#editor">.</pc><w>[Angelus.]</w></stage>
+        <stage n="26" xml:id="CB016x-stage-29"><w>Accepto</w><w>ungento</w><w>vadat</w><w>dormitum</w><pc resp="#editor">.</pc><app type="text"><lem><w>Angelus.</w></lem><note>coni.</note></app></stage>
         <sp who="#angelus" n="26" xml:id="CB016x-sp-29">
           <p xml:id="CB016x-p-19">
             <w>
@@ -10234,7 +10234,7 @@
             <pc resp="#editor">.</pc>
           </p>
         </sp>
-        <stage n="78" xml:id="CB016x-stage-81"><w>[Ancilla]</w></stage>
+        <stage n="78" xml:id="CB016x-stage-81"><app type="text"><lem><w>Ancilla</w></lem><note>coni.</note></app></stage>
         <sp who="#ancilla" n="78" xml:id="CB016x-sp-81">
           <p xml:id="CB016x-p-60">
             <app type="text">
@@ -10247,7 +10247,7 @@
             <pc resp="#editor">?</pc>
           </p>
         </sp>
-        <stage n="79" xml:id="CB016x-stage-82"><w>[Petrus]</w></stage>
+        <stage n="79" xml:id="CB016x-stage-82"><app type="text"><lem><w>Petrus</w></lem><note>coni.</note></app></stage>
         <sp who="#petrus" n="79" xml:id="CB016x-sp-82">
           <p xml:id="CB016x-p-61">
             <app type="text">
@@ -15034,7 +15034,7 @@
               </l>
             </lg>
           </div>
-          <p xml:id="CB016x-p-110"><w>Dum</w><w>caput</w><w>cernu[um]</w></p>
+          <p xml:id="CB016x-p-110"><w>Dum</w><w>caput</w><app type="text"><lem><w>cernuum</w></lem><note>coni., <w>cernu-</w> cod.</note></app></p>
         </sp>
         <stage n="128" xml:id="CB016x-stage-131"><w>Tunc</w><w>Maria</w><w>amplexetur</w><w>Iohannem</w><w>et</w><w>cantet</w><w>eum</w><w>habens</w><w>inter</w><w>brachia</w><pc>&#183;</pc></stage>
         <sp who="#maria" n="128" xml:id="CB016x-sp-131">

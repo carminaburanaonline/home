@@ -178,7 +178,12 @@
         <lg type="refrain" met="[6p]" rhyme="A" xml:id="CB003_cambridge-lg-6">
           <head>[Refl.]</head>
           <l n="1" xml:id="CB003_cambridge-l-13">
-            <w>O[mnes]</w>
+            <app type="text">
+              <lem>
+                <w>Omnes</w>
+              </lem>
+              <note>coni., <w>O</w> cod.</note>
+            </app>
             <pc>&#183;</pc>
             <pc resp="#editor">...</pc>
           </l>

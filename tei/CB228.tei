@@ -413,7 +413,12 @@
             </lg>
             <lg type="refrain" met="6pp+5p/6pp+5p" rhyme="a+b/a+b" xml:id="CB228-lg-11">
               <l n="1" xml:id="CB228-l-33">
-                <w>D[ulcia]</w>
+                <app type="text">
+                  <lem>
+                    <w>Dulcia</w>
+                  </lem>
+                  <note>coni., <w>D-</w> cod.</note>
+                </app>
                 <pc resp="#editor">...</pc>
               </l>
             </lg>
@@ -443,7 +448,12 @@
             </lg>
             <lg type="refrain" met="6pp+5p/6pp+5p" rhyme="a+b/a+b" xml:id="CB228-lg-13">
               <l n="1" xml:id="CB228-l-36">
-                <w>D[ulcia]</w>
+                <app type="text">
+                  <lem>
+                    <w>Dulcia</w>
+                  </lem>
+                  <note>coni., <w>D-</w> cod.</note>
+                </app>
                 <pc resp="#editor">...</pc>
               </l>
             </lg>
@@ -474,7 +484,12 @@
             </lg>
             <lg type="refrain" met="6pp+5p/6pp+5p" rhyme="a+b/a+b" xml:id="CB228-lg-15">
               <l n="1" xml:id="CB228-l-39">
-                <w>D[ulcia]</w>
+                <app type="text">
+                  <lem>
+                    <w>Dulcia</w>
+                  </lem>
+                  <note>coni., <w>D-</w> cod.</note>
+                </app>
                 <pc resp="#editor">...</pc>
               </l>
             </lg>
@@ -504,7 +519,12 @@
             </lg>
             <lg type="refrain" met="6pp+5p/6pp+5p" rhyme="a+b/a+b" xml:id="CB228-lg-17">
               <l n="1" xml:id="CB228-l-42">
-                <w>D[ulcia]</w>
+                <app type="text">
+                  <lem>
+                    <w>Dulcia</w>
+                  </lem>
+                  <note>coni., <w>D-</w> cod.</note>
+                </app>
                 <pc resp="#editor">...</pc>
               </l>
             </lg>
@@ -528,7 +548,7 @@
           </p>
         </sp>
         <stage n="4" xml:id="CB228-stage-4">
-          <w>In</w><w>ingressu</w><w>Mariae</w><w>et</w><w>Ioseph</w><w>cum</w><w>Iesu</w>
+          <w>In</w><w>ingressu</w><w>Mari&#230;</w><w>et</w><w>Ioseph</w><w>cum</w><w>Iesu</w>
           <pc>&#183;</pc>
           <w>omnia</w><w>ydola</w><w>Egyptiorum</w><w>corruant</w>
           <pc>&#183;</pc>
@@ -1037,7 +1057,13 @@
         </stage>
         <sp n="15" xml:id="CB228-sp-15">
           <p xml:id="CB228-p-10">
-            <w>Deorum</w><w>inmor[talitas]</w>
+            <w>Deorum</w>
+            <app type="text">
+              <lem>
+                <w>inmortalitas</w>
+              </lem>
+              <note>coni., <w>inmor-</w> cod.</note>
+            </app>
             <pc>&#183;</pc>
             <pc resp="#editor">.</pc>
           </p>

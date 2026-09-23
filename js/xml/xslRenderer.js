@@ -37,3 +37,18 @@ export async function XSLtransform(xmlUrl, xslUrl) {
   processor.importStylesheet(xsl);
   return processor.transformToFragment(xml, document);
 }
+
+export async function XSLtransformById(xmlUrl, xslUrl, xmlId) {
+  const [xml, xsl] = await Promise.all([
+    loadXML(xmlUrl),
+    loadXSL(xslUrl)
+  ]);
+
+  const processor = new XSLTProcessor();
+  processor.importStylesheet(xsl);
+
+  // pass parameter xmlId
+  processor.setParameter(null, "id", xmlId);
+
+  return processor.transformToFragment(xml, document);
+}

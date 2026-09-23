@@ -6,7 +6,12 @@
         <lg type="strophe" met="[8p]/[8p]/[8pp]/[7p]/8pp/7p" rhyme="[c]/[c]/d/[e]/d/e" xml:id="CB131_frag-lg-1">
           <l n="7" xml:id="CB131_frag-l-1">
             <pc resp="#editor" pre="true">...</pc>
-            <w>[cu]m</w>
+            <app type="text">
+              <lem>
+                <w>cum</w>
+              </lem>
+              <note>coni., <w>-m</w> cod.</note>
+            </app>
             <w>Nerone</w>
             <pc resp="#editor">?</pc>
           </l>
@@ -18,7 +23,12 @@
             <pc resp="#editor">...</pc>
           </l>
           <l n="9" xml:id="CB131_frag-l-3">
-            <w>[Ve]l</w>
+            <app type="text">
+              <lem>
+                <w>Vel</w>
+              </lem>
+              <note>coni., <w>-l</w> cod.</note>
+            </app>
             <w>in</w>
             <w>fiscella</w>
             <pc resp="#editor">...</pc>

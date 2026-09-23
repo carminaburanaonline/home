@@ -5,7 +5,12 @@
       <div type="poem" met="I:10x8pp, II:3x(7pp 6p) 2x7pp 7p 2x8pp 7p, III:2x(8p 7pp) 3x8p 6x7pp">
         <lg type="strophe" n="I" met="8pp/8pp/8pp/8pp/8pp/8pp/8pp/8pp/8pp/8pp" rhyme="a/a/b/c/b/c/c/d/d/c" xml:id="CB034_emn-lg-1">
           <l n="1" xml:id="CB034_emn-l-1">
-            <w>[D]educ</w>
+            <app type="text">
+              <lem>
+                <w>Deduc</w>
+              </lem>
+              <note>coni., <w>-educ</w> cod.</note>
+            </app>
             <pc resp="#editor">,</pc>
             <w>Syon</w>
             <pc resp="#editor">,</pc>
@@ -71,7 +76,12 @@
         </lg>
         <lg type="strophe" n="II" met="7pp/6p/7pp/6p/7pp/6p/7pp/7pp/7p/8pp/8pp/7p" rhyme="a/b/a/b/a/b/c/c/d/e/e/d" xml:id="CB034_emn-lg-2">
           <l n="1" xml:id="CB034_emn-l-11">
-            <w>[A]d</w>
+            <app type="text">
+              <lem>
+                <w>Ad</w>
+              </lem>
+              <note>coni., <w>-d</w> cod.</note>
+            </app>
             <w>corpus</w>
             <w>infirmitas</w>
           </l>

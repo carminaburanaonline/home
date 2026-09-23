@@ -2,6 +2,7 @@
 
 import { t } from '../lang.js'
 import { normalizePunctuation } from '../editorial/normalizePunctuation.js';
+import { XSLtransformById } from '../xml/xslRenderer.js';
 
 export async function renderNeumePage() {
   const neumeId = new URLSearchParams(location.search).get('id');
@@ -31,11 +32,11 @@ export async function renderNeumePage() {
 
   const container = document.getElementById('snippetsContainer')
   neume.locations.forEach(location => {
-    container.appendChild(locationElement(neumeId, location, items, sources));
+    container.appendChild(locationElement(location, items, sources));
   })
 }
 
-function locationElement(neumeId, location, items, sources) {
+function locationElement(location, items, sources) {
   const itemId = location.file;
   const count = location.count;
   const item = items.find(i => i.id == itemId);
@@ -60,7 +61,7 @@ function locationElement(neumeId, location, items, sources) {
   snippetDiv.id = `snippetDiv-${itemId}`;
   snippetDiv.classList.add('sand-border', 'editorial', 'hidden');
 
-  setupToggle(button, snippetDiv, async (div) => {await fillSnippet(div, `${itemId}.tei`, neumeId); });
+  setupToggle(button, snippetDiv, async (div) => {await fillSnippet(div, `tei/${itemId}.tei`, location.ids); });
 
   const res = document.createElement('div');
   res.append(titleDiv, snippetDiv);
@@ -91,34 +92,17 @@ function setupToggle(button, snippetDiv, onFirstShow) {
   });
 }
 
-async function fillSnippet(div, file, neumeId) {
+async function fillSnippet(div, xmlUrl, ids) {
   div.textContent = "Loading...";
 
-  const fragment = await transformTEI(file, "xsl/neume-detail.xsl", neumeId);
+  const fragments = await Promise.all(
+    ids.map(xmlId => XSLtransformById(xmlUrl, "xsl/select_by_id.xsl", xmlId))
+  );
 
   div.innerHTML = '';
-  div.appendChild(fragment);
+  for (const fragment of fragments) {
+    div.appendChild(fragment);
+  }
   normalizePunctuation(div);
   div.querySelectorAll(".pc[data-resp='ms']").forEach(el => el.classList.add('hidden'));
-}
-
-
-async function transformTEI(file, xsltUrl, neumeId) {
-  // fetch XML
-  const xmlText = await fetch(`tei/${file}`).then(r => r.text());
-  const xmlDoc = new DOMParser().parseFromString(xmlText, "text/xml");
-
-  // fetch XSLT
-  const xsltText = await fetch(xsltUrl).then(r => r.text());
-  const xsltDoc = new DOMParser().parseFromString(xsltText, "text/xml");
-
-  // create processor
-  const processor = new XSLTProcessor();
-  processor.importStylesheet(xsltDoc);
-
-  // pass parameter (important!)
-  processor.setParameter(null, "n", neumeId);
-
-  // transform
-  return processor.transformToFragment(xmlDoc, document);
 }

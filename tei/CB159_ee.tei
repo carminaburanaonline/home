@@ -128,8 +128,13 @@
             <pc resp="#editor">.</pc>
           </l>
           <l n="4" xml:id="CB159_ee-l-14">
-            <w>dul[cis</w>
-            <w>amor]</w>
+            <app type="text">
+              <lem>
+                <w>Dulcis</w>
+                <w>amor</w>
+              </lem>
+              <note>coni., <w>dul-</w> cod.</note>
+            </app>
             <pc resp="#editor">!</pc>
           </l>
         </lg>
@@ -163,8 +168,13 @@
             <pc resp="#editor">.</pc>
           </l>
           <l n="4" xml:id="CB159_ee-l-18">
-            <w>Dul[cis</w>
-            <w>amor]</w>
+            <app type="text">
+              <lem>
+                <w>Dulcis</w>
+                <w>amor</w>
+              </lem>
+              <note>coni., <w>dul-</w> cod.</note>
+            </app>
             <pc resp="#editor">!</pc>
           </l>
         </lg>

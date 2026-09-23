@@ -230,7 +230,12 @@
           </l>
           <l n="2" xml:id="CB052_3719-l-25">
             <w>venit</w>
-            <w>an[n]is</w>
+            <app type="text">
+              <lem>
+                <w>annis</w>
+              </lem>
+              <rdg wit="cod."><w>anis</w></rdg>
+            </app>
             <w>singulis</w>
           </l>
           <l n="3" xml:id="CB052_3719-l-26">

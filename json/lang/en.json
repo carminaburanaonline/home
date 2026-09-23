@@ -48,5 +48,15 @@
   "repertoires": "Repertoires",
   "editionsText": "Editions of the text",
   "editionsMusic": "Editions of the music",
-  "bibliography": "Bibliography"
+  "bibliography": "Bibliography",
+  "results": "Results",
+  "word": "Word(s)",
+  "metre": "Metrical pattern(s)",
+  "exactPhrase": "Exact phrase",
+  "AND": "AND",
+  "OR": "OR",
+  "searchMode": "Search mode",
+  "anyPattern": "Any pattern",
+  "allPatterns": "All patterns",
+  "exactPattern": "Exact pattern"
 }

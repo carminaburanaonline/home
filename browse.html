@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>CBO Browse</title>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+  <!-- Add additional CSS in static file -->
+  <link rel="stylesheet" href="css/ui-components.css"/>
+  <link rel="stylesheet" href="css/layout-generic.css"/>
+  <link rel="stylesheet" href="css/neumed-text.css" />
+  <style>
+    .search-group {
+      margin-bottom: 10px;
+    }
+    #search-word,
+    #search-metre {
+      width: 400px;
+    }
+    #search-results {
+      margin-top: 20px;
+    }
+    #search-panel {
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+<div class="page-container">
+  <!-- Navbar + header -->
+  <div data-include="header"></div>
+
+  <main style="display: flex; flex: 1;">
+    <div style="flex: 50%">
+      <h3 data-i18n="search"></h3>
+      <div id="search-panel">
+        <div style="padding-bottom: 20px;">
+          <div class="search-group">
+            <label for="search-word" data-i18n="word"></label>
+            <input type="text" id="search-word" placeholder="amor fortuna">
+          </div>
+          <div class="search-group">
+            <label data-i18n="searchMode"></label>
+            <div>
+              <label>
+                <input type="radio" name="word-mode" value="or" checked>
+                <span data-i18n="OR"></span>
+              </label>
+              <label>
+                <input type="radio" name="word-mode" value="and">
+                <span data-i18n="AND"></span>
+              </label>
+              <label>
+                <input type="radio" name="word-mode" value="phrase">
+                <span data-i18n="exactPhrase"></span>
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding-bottom: 20px;">
+          <div class="search-group">
+            <label for="search-metre" data-i18n="metre"></label>
+            <input type="text" id="search-metre" placeholder="7pp+6p ..4-">
+          </div>
+          <div class="search-group">
+            <label data-i18n="searchMode"></label>
+            <div>
+              <label>
+                <input type="radio" name="metre-mode" value="or" checked>
+                <span data-i18n="anyPattern"></span>
+              </label>
+              <label>
+                <input type="radio" name="metre-mode" value="and">
+                <span data-i18n="allPatterns"></span>
+              </label>
+              <label>
+                <input type="radio" name="metre-mode" value="phrase">
+                <span data-i18n="exactPattern"></span>
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="display: flex; justify-content: center;">
+          <button id="search-button" data-i18n="search"></button>
+        </div>
+      </div>
+
+
+    </div>
+    <div style="flex: 50%">
+      <h3 data-i18n="results"></h3>
+      <div id="search-results"></div>
+      <div>
+  </main>
+
+  <!-- Footer -->
+  <div data-include="footer"></div>
+</div>
+
+<script type="module">
+      import { initPage } from './js/initPage.js';
+      import { renderBrowsePage } from './js/browse/browsePage.js';
+
+      initPage(renderBrowsePage);
+    </script>
+
+</body>
+</html>
+
+
+
+

@@ -24,11 +24,6 @@
     <p><xsl:apply-templates /></p>
   </xsl:template>
 
-  <!-- TODO: decide how to represent it compared to direct speech -->
-  <xsl:template match="q">
-    <xsl:apply-templates />
-  </xsl:template>
-
   <xsl:template match="lg[@type='refrain']/head" />
 
   <xsl:template match="div[@type='drama']">

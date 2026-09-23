@@ -48,6 +48,15 @@
   "repertoires": "Répertoires",
   "editionsText": "Éditions du texte",
   "editionsMusic": "Éditions de la musique",
-  "bibliography": "Bibliographie"
-
+  "bibliography": "Bibliographie",
+  "results": "Résultats",
+  "word": "Mot(s)",
+  "metre": "Module(s) rhythmique(s)",
+  "exactPhrase": "Expression exacte",
+  "AND": "ET",
+  "OR": "OU",
+  "searchMode": "Mode de recherche",
+  "anyPattern": "Un des schémas",
+  "allPatterns": "Tous les schémas",
+  "exactPattern": "Schéma exact"
 }

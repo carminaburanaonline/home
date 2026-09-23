@@ -60,10 +60,10 @@ def convert_tei(item):
 
         xml_id = element.get("{http://www.w3.org/XML/1998/namespace}id")
 
-        met_values = []
+        met = ""
 
         if element.get("met"):
-            met_values = element.get("met").split("/")
+            met = element.get("met").replace("/", " ")
 
         words = []
 
@@ -80,11 +80,8 @@ def convert_tei(item):
         segment_obj = {
             "xml_id": xml_id,
             "text": " ".join(words),
-            "words": words
+            "metre": met,
         }
-
-        if len(met_values):
-            segment_obj["metre"] = met_values
 
         result["segments"].append(segment_obj)
 
@@ -117,22 +114,17 @@ with open("../json/corpus.json", "w", encoding="utf-8") as f:
 
 words = set()
 metres = set()
-rhymes = set()
 
 for item in corpus:
 
     for segment in item.get("segments", []):
-
-        # words
-        for word in segment.get("words", []):
+        for word in segment.get("text", []).split(" "):
             words.add(word.lower())
 
         # metres
         metre = segment.get("metre")
         if metre:
-            for m in metre:
-                if "A" in m:
-                    print(item.get("id"), metre)
+            for m in metre.split(" "):
                 metres.add(m)
 
 vocabulary = {
