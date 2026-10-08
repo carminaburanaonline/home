@@ -246,10 +246,15 @@
               <seg type="syll" part="I">Ru</seg>
               <seg type="syll" part="F">bent</seg>
             </w>
-            <w>
-              <seg type="syll" part="I">ge</seg>
-              <seg type="syll" part="F">ne</seg>
-            </w>
+            <app type="text">
+              <lem>
+                <w>
+                  <seg type="syll" part="I">ge</seg>
+                  <seg type="syll" part="F">ne</seg>
+                </w>
+              </lem>
+              <note>corr. ex <w>iene</w> man. r. cod.</note>
+            </app>
             <pc resp="#editor">,</pc>
             <w>
               <seg type="syll" part="I">co</seg>
@@ -746,9 +751,9 @@
                   </seg>
                 </lem>
                 <note>spat. vac., coni. <seg type="syll" part="F">ner<notatedMusic>
-                    <neume fontname="buranus" glyph.num="1" label="pu"/>
-                  </notatedMusic>
-                  </seg></note>
+                  <neume fontname="buranus" glyph.num="1" label="pu"/>
+                </notatedMusic>
+                </seg></note>
               </app>
             </w>
             <w>
@@ -896,9 +901,9 @@
             <app type="text">
               <lem wit="HSB T">
                 <w>
-              <seg type="syll" part="I" met="+">su&#870;</seg>
-              <seg type="syll" part="F">zen</seg>
-            </w>
+                  <seg type="syll" part="I" met="+">su&#870;</seg>
+                  <seg type="syll" part="F">zen</seg>
+                </w>
               </lem>
               <rdg wit="cod. V"><w>su&#870;ze</w></rdg>
             </app>
