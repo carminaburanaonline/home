@@ -1,0 +1,991 @@
+<TEI>
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="poem" met="I-VI:3x(8pp 7p) 7p 8pp 7p">
+        <lg type="strophe" n="I" met="8pp/7p/8pp/7p/8pp/7p/7p/8pp/7p" rhyme="a/b/a/b/a/b/b/a/b" xml:id="CB037-lg-1">
+          <l n="1" xml:id="CB037-l-1">
+            <w>
+              <seg type="syll">In</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">Ge</seg>
+              <seg type="syll" part="M">de</seg>
+              <seg type="syll" part="M">o</seg>
+              <seg type="syll" part="F">nis</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">a</seg>
+              <seg type="syll" part="M">re</seg>
+              <seg type="syll" part="F">a</seg>
+            </w>
+          </l>
+          <l n="2" xml:id="CB037-l-2">
+            <w>
+              <seg type="syll" part="I">vel</seg>
+              <seg type="syll" part="F">lus</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">a</seg>
+              <seg type="syll" part="F">ret</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">ex</seg>
+              <seg type="syll" part="M">ten</seg>
+              <seg type="syll" part="F">tum</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="3" xml:id="CB037-l-3">
+            <w>
+              <seg type="syll">et</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">de</seg>
+              <seg type="syll" part="M">mo</seg>
+              <seg type="syll" part="M">li</seg>
+              <seg type="syll" part="F">tur</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">ti</seg>
+              <seg type="syll" part="M">ne</seg>
+              <seg type="syll" part="F">a</seg>
+            </w>
+          </l>
+          <l n="4" xml:id="CB037-l-4">
+            <w>
+              <seg type="syll" part="I">re</seg>
+              <seg type="syll" part="M">ga</seg>
+              <seg type="syll" part="F">le</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">ves</seg>
+              <seg type="syll" part="M">ti</seg>
+              <seg type="syll" part="M">men</seg>
+              <seg type="syll" part="F">tum</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">.</pc>
+          </l>
+          <l n="5" xml:id="CB037-l-5">
+            <w>
+              <seg type="syll" part="I">Su</seg>
+              <seg type="syll" part="M">per</seg>
+              <seg type="syll" part="M">ha</seg>
+              <seg type="syll" part="M">bun</seg>
+              <seg type="syll" part="F">dat</seg>
+            </w>
+            <app type="text">
+              <lem wit="Cv K O R HSB V T">
+                <w>
+                  <seg type="syll" part="I">pa</seg>
+                  <seg type="syll" part="M">le</seg>
+                  <seg type="syll" part="F">a</seg>
+                </w>
+              </lem>
+              <rdg wit="cod."><w>pelea</w></rdg>
+            </app>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="6" xml:id="CB037-l-6">
+            <w>
+              <seg type="syll">que</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">se</seg>
+              <seg type="syll" part="M">pe</seg>
+              <seg type="syll" part="F">lit</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">fru</seg>
+              <seg type="syll" part="M">men</seg>
+              <seg type="syll" part="F">tum</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="7" xml:id="CB037-l-7">
+            <w>
+              <seg type="syll">et</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">lo</seg>
+              <seg type="syll" part="M">qui</seg>
+              <seg type="syll" part="F">tur</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">iu</seg>
+              <seg type="syll" part="M">men</seg>
+              <seg type="syll" part="F">tum</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="8" xml:id="CB037-l-8">
+            <w>
+              <seg type="syll">nec</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">red</seg>
+              <seg type="syll" part="F">it</seg>
+            </w>
+            <w>
+              <seg type="syll">bos</seg>
+            </w>
+            <w>
+              <seg type="syll">ad</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">hor</seg>
+              <seg type="syll" part="M">re</seg>
+              <seg type="syll" part="F">a</seg>
+            </w>
+            <pc>&#183;</pc>
+          </l>
+          <l n="9" xml:id="CB037-l-9">
+            <w>
+              <seg type="syll">sed</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">se</seg>
+              <seg type="syll" part="M">qui</seg>
+              <seg type="syll" part="F">tur</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">car</seg>
+              <seg type="syll" part="M">pen</seg>
+              <seg type="syll" part="F">tum</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="II" met="8pp/7p/8pp/7p/8pp/7p/7p/8pp/7p" rhyme="a/b/a/b/a/b/b/a/b" xml:id="CB037-lg-2">
+          <l n="1" xml:id="CB037-l-10">
+            <w>
+              <seg type="syll" part="I">Ex</seg>
+              <seg type="syll" part="F">it</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">ru</seg>
+              <seg type="syll" part="F">mor</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">dis</seg>
+              <seg type="syll" part="M">cri</seg>
+              <seg type="syll" part="M">mi</seg>
+              <seg type="syll" part="F">nis</seg>
+            </w>
+          </l>
+          <l n="2" xml:id="CB037-l-11">
+            <w>
+              <seg type="syll">de</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">Gran</seg>
+              <seg type="syll" part="M">di</seg>
+              <seg type="syll" part="M">mon</seg>
+              <seg type="syll" part="F">tis</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">cel</seg>
+              <seg type="syll" part="F">la</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="3" xml:id="CB037-l-12">
+            <w>
+              <seg type="syll">que</seg>
+            </w>
+            <w>
+              <seg type="syll">tam</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">sanc</seg>
+              <seg type="syll" part="F">te</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">dul</seg>
+              <seg type="syll" part="M">ce</seg>
+              <seg type="syll" part="M">di</seg>
+              <seg type="syll" part="F">nis</seg>
+            </w>
+          </l>
+          <l n="4" xml:id="CB037-l-13">
+            <w>
+              <seg type="syll" part="I">la</seg>
+              <seg type="syll" part="F">te</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">fun</seg>
+              <seg type="syll" part="M">de</seg>
+              <seg type="syll" part="F">bat</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">mel</seg>
+              <seg type="syll" part="F">la</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">.</pc>
+          </l>
+          <l n="5" xml:id="CB037-l-14">
+            <w>
+              <seg type="syll" part="I">Pre</seg>
+              <seg type="syll" part="M">pos</seg>
+              <seg type="syll" part="M">te</seg>
+              <seg type="syll" part="M">ra</seg>
+              <seg type="syll" part="F">tur</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">or</seg>
+              <seg type="syll" part="M">di</seg>
+              <seg type="syll" part="F">nis</seg>
+            </w>
+          </l>
+          <l n="6" xml:id="CB037-l-15">
+            <w>
+              <seg type="syll" part="I">plan</seg>
+              <seg type="syll" part="M">ta</seg>
+              <seg type="syll" part="M">ti</seg>
+              <seg type="syll" part="F">o</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">no</seg>
+              <seg type="syll" part="M">vel</seg>
+              <seg type="syll" part="F">la</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="7" xml:id="CB037-l-16">
+            <w>
+              <seg type="syll">dum</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">mo</seg>
+              <seg type="syll" part="F">vet</seg>
+            </w>
+            <w>
+              <seg type="syll">in</seg>
+            </w>
+            <w>
+              <seg type="syll">se</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">bel</seg>
+              <seg type="syll" part="F">la</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="8" xml:id="CB037-l-17">
+            <w>
+              <seg type="syll" part="I">ba</seg>
+              <seg type="syll" part="F">ses</seg>
+            </w>
+            <w>
+              <seg type="syll">in</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">sum</seg>
+              <seg type="syll" part="F">mo</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">cul</seg>
+              <seg type="syll" part="M">mi</seg>
+              <seg type="syll" part="F">nis</seg>
+            </w>
+          </l>
+          <l n="9" xml:id="CB037-l-18">
+            <w>
+              <seg type="syll" part="I">po</seg>
+              <seg type="syll" part="F">nens</seg>
+            </w>
+            <pc resp="#editor">,</pc>
+            <w>
+              <seg type="syll">non</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">ca</seg>
+              <seg type="syll" part="M">pi</seg>
+              <seg type="syll" part="M">tel</seg>
+              <seg type="syll" part="F">la</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="III" met="8pp/7p/8pp/7p/8pp/7p/7p/8pp/7p" rhyme="a/b/a/b/a/b/b/a/b" xml:id="CB037-lg-3">
+          <l n="1" xml:id="CB037-l-19">
+            <w>
+              <seg type="syll" part="I">Clau</seg>
+              <seg type="syll" part="F">sa</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">quon</seg>
+              <seg type="syll" part="F">dam</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">re</seg>
+              <seg type="syll" part="M">li</seg>
+              <seg type="syll" part="M">gi</seg>
+              <seg type="syll" part="F">o</seg>
+            </w>
+            <pc>&#183;</pc>
+          </l>
+          <l n="2" xml:id="CB037-l-20">
+            <w>
+              <seg type="syll">vel</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">o</seg>
+              <seg type="syll" part="M">ci</seg>
+              <seg type="syll" part="F">um</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">se</seg>
+              <seg type="syll" part="M">cre</seg>
+              <seg type="syll" part="F">tum</seg>
+            </w>
+            <pc>&#183;</pc>
+          </l>
+          <l n="3" xml:id="CB037-l-21">
+            <w>
+              <seg type="syll">nunc</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">sub</seg>
+              <seg type="syll" part="M">ia</seg>
+              <seg type="syll" part="F">cet</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">ob</seg>
+              <seg type="syll" part="M">pro</seg>
+              <seg type="syll" part="M">bri</seg>
+              <seg type="syll" part="F">o</seg>
+            </w>
+          </l>
+          <l n="4" xml:id="CB037-l-22">
+            <w>
+              <seg type="syll">per</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">vul</seg>
+              <seg type="syll" part="F">gus</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">in</seg>
+              <seg type="syll" part="M">dis</seg>
+              <seg type="syll" part="M">cre</seg>
+              <seg type="syll" part="F">tum</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="5" xml:id="CB037-l-23">
+            <w>
+              <seg type="syll">quod</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">ta</seg>
+              <seg type="syll" part="F">li</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">ty</seg>
+              <seg type="syll" part="M">ro</seg>
+              <seg type="syll" part="M">ci</seg>
+              <seg type="syll" part="M">ni</seg>
+              <seg type="syll" part="F">o</seg>
+            </w>
+          </l>
+          <l n="6" xml:id="CB037-l-24">
+            <w>
+              <seg type="syll">non</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">e</seg>
+              <seg type="syll" part="F">rat</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">as</seg>
+              <seg type="syll" part="M">su</seg>
+              <seg type="syll" part="M">e</seg>
+              <seg type="syll" part="F">tum</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">.</pc>
+          </l>
+          <l n="7" xml:id="CB037-l-25">
+            <app type="text">
+              <lem wit="K R HSB T">
+                <w>
+                  <seg type="syll">et</seg>
+                </w>
+                <w>
+                  <seg type="syll">quod</seg>
+                </w>
+                <w>
+                  <seg type="syll" part="I">for</seg>
+                  <seg type="syll" part="F">mat</seg>
+                </w>
+              </lem>
+              <rdg wit="Ri"><w>vel</w><w>quod</w><w>format</w></rdg>
+              <rdg wit="O"><w>neque</w><w>forma</w></rdg>
+              <rdg wit="cod. V"><w>nec</w><w>confirmat</w></rdg>
+            </app>
+            <w>
+              <seg type="syll" part="I">de</seg>
+              <seg type="syll" part="M">cre</seg>
+              <seg type="syll" part="F">tum</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="8" xml:id="CB037-l-26">
+            <w>
+              <seg type="syll">non</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">le</seg>
+              <seg type="syll" part="F">gis</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">pa</seg>
+              <seg type="syll" part="M">tro</seg>
+              <seg type="syll" part="M">ci</seg>
+              <seg type="syll" part="M">ni</seg>
+              <seg type="syll" part="F">o</seg>
+            </w>
+          </l>
+          <l n="9" xml:id="CB037-l-27">
+            <w>
+              <seg type="syll">nec</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">li</seg>
+              <seg type="syll" part="M">te</seg>
+              <seg type="syll" part="F">ris</seg>
+            </w>
+            <w>
+              <seg type="syll">est</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">fre</seg>
+              <seg type="syll" part="F">tum</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="IV" met="8pp/7p/8pp/7p/8pp/7p/7p/8pp/7p" rhyme="a/b/a/b/a/b/b/a/b" xml:id="CB037-lg-4">
+          <l n="1" xml:id="CB037-l-28">
+            <w>
+              <seg type="syll">Quod</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">sanc</seg>
+              <seg type="syll" part="F">tum</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">sa</seg>
+              <seg type="syll" part="M">cer</seg>
+              <seg type="syll" part="M">do</seg>
+              <seg type="syll" part="M">ti</seg>
+              <seg type="syll" part="F">um</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="2" xml:id="CB037-l-29">
+            <w>
+              <seg type="syll">quod</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">unc</seg>
+              <seg type="syll" part="M">ti</seg>
+              <seg type="syll" part="F">o</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">re</seg>
+              <seg type="syll" part="M">ga</seg>
+              <seg type="syll" part="F">lis</seg>
+            </w>
+            <pc>&#183;</pc>
+          </l>
+          <l n="3" xml:id="CB037-l-30">
+            <w>
+              <seg type="syll">se</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">cur</seg>
+              <seg type="syll" part="F">vet</seg>
+            </w>
+            <w>
+              <seg type="syll">ad</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">im</seg>
+              <seg type="syll" part="M">pe</seg>
+              <seg type="syll" part="M">ri</seg>
+              <seg type="syll" part="F">um</seg>
+            </w>
+            <pc>&#183;</pc>
+          </l>
+          <l n="4" xml:id="CB037-l-31">
+            <w>
+              <seg type="syll">et</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">vo</seg>
+              <seg type="syll" part="F">cem</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">sub</seg>
+              <seg type="syll" part="M">iu</seg>
+              <seg type="syll" part="M">ga</seg>
+              <seg type="syll" part="F">lis</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="5" xml:id="CB037-l-32">
+            <app type="text">
+              <lem wit="cod. R Ri V">
+                <w>
+                  <seg type="syll" part="I">di</seg>
+                  <seg type="syll" part="M">vi</seg>
+                  <seg type="syll" part="F">num</seg>
+                </w>
+              </lem>
+              <rdg wit="K O HSB T"><w>humanum</w></rdg>
+            </app>
+            <w>
+              <seg type="syll">est</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">mis</seg>
+              <seg type="syll" part="M">te</seg>
+              <seg type="syll" part="M">ri</seg>
+              <seg type="syll" part="F">um</seg>
+            </w>
+          </l>
+          <l n="6" xml:id="CB037-l-33">
+            <w>
+              <seg type="syll">an</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">fu</seg>
+              <seg type="syll" part="F">ror</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">la</seg>
+              <seg type="syll" part="M">i</seg>
+              <seg type="syll" part="M">ca</seg>
+              <seg type="syll" part="F">lis</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">?</pc>
+          </l>
+          <l n="7" xml:id="CB037-l-34">
+            <w>
+              <seg type="syll" part="I">Fa</seg>
+              <seg type="syll" part="F">vor</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">ta</seg>
+              <seg type="syll" part="F">men</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">ve</seg>
+              <seg type="syll" part="M">na</seg>
+              <seg type="syll" part="F">lis</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="8" xml:id="CB037-l-35">
+            <w>
+              <seg type="syll">qui</seg>
+            </w>
+            <w>
+              <seg type="syll">non</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">in</seg>
+              <seg type="syll" part="F">trat</seg>
+            </w>
+            <w>
+              <seg type="syll">per</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">hos</seg>
+              <seg type="syll" part="M">ti</seg>
+              <seg type="syll" part="F">um</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="9" xml:id="CB037-l-36">
+            <w>
+              <seg type="syll" part="I">fo</seg>
+              <seg type="syll" part="F">vet</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">e</seg>
+              <seg type="syll" part="F">os</seg>
+            </w>
+            <w>
+              <seg type="syll">sub</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">a</seg>
+              <seg type="syll" part="F">lis</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="V" met="8pp/7p/8pp/7p/8pp/7p/7p/8pp/7p" rhyme="a/b/a/b/a/b/b/a/b" xml:id="CB037-lg-5">
+          <l n="1" xml:id="CB037-l-37">
+            <w>
+              <seg type="syll">Ve</seg>
+            </w>
+            <w>
+              <seg type="syll">ve</seg>
+            </w>
+            <pc resp="#editor">,</pc>
+            <w>
+              <seg type="syll">qui</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">re</seg>
+              <seg type="syll" part="F">gis</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">fi</seg>
+              <seg type="syll" part="M">li</seg>
+              <seg type="syll" part="F">am</seg>
+            </w>
+          </l>
+          <l n="2" xml:id="CB037-l-38">
+            <w>
+              <seg type="syll">das</seg>
+            </w>
+            <w>
+              <seg type="syll">in</seg>
+            </w>
+            <app type="text">
+              <lem wit="K R Ri HSB">
+                <w>
+                  <seg type="syll" part="I">ma</seg>
+                  <seg type="syll" part="F">nu</seg>
+                </w>
+              </lem>
+              <rdg wit="cod. V T"><w>manum</w></rdg>
+            </app>
+            <w>
+              <seg type="syll" part="I">le</seg>
+              <seg type="syll" part="M">no</seg>
+              <seg type="syll" part="F">nis</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">!</pc>
+          </l>
+          <l n="3" xml:id="CB037-l-39">
+            <w>
+              <seg type="syll">Ve</seg>
+            </w>
+            <pc resp="#editor">,</pc>
+            <w>
+              <seg type="syll">qui</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">pro</seg>
+              <seg type="syll" part="M">fa</seg>
+              <seg type="syll" part="F">nas</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">glo</seg>
+              <seg type="syll" part="M">ri</seg>
+              <seg type="syll" part="F">am</seg>
+            </w>
+          </l>
+          <l n="4" xml:id="CB037-l-40">
+            <w>
+              <seg type="syll" part="I">tan</seg>
+              <seg type="syll" part="F">te</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">de</seg>
+              <seg type="syll" part="M">vo</seg>
+              <seg type="syll" part="M">ti</seg>
+              <seg type="syll" part="M">o</seg>
+              <seg type="syll" part="F">nis</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="5" xml:id="CB037-l-41">
+            <w>
+              <seg type="syll">qui</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">cel</seg>
+              <seg type="syll" part="F">lam</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">pig</seg>
+              <seg type="syll" part="M">men</seg>
+              <seg type="syll" part="M">ta</seg>
+              <seg type="syll" part="M">ri</seg>
+              <seg type="syll" part="F">am</seg>
+            </w>
+          </l>
+          <l n="6" xml:id="CB037-l-42">
+            <w>
+              <seg type="syll">et</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">o</seg>
+              <seg type="syll" part="F">pus</seg>
+            </w>
+            <app type="text">
+              <lem>
+                <w>
+                  <seg type="syll" part="I">Sa</seg>
+                  <seg type="syll" part="M">le</seg>
+                  <seg type="syll" part="M">mo</seg>
+                  <seg type="syll" part="F">nis</seg>
+                </w>
+              </lem>
+              <note><w>-nis</w> add. man. r. cod.</note>
+            </app>
+            <pc>&#183;</pc>
+          </l>
+          <l n="7" xml:id="CB037-l-43">
+            <w>
+              <seg type="syll" part="I">frau</seg>
+              <seg type="syll" part="F">de</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">ra</seg>
+              <seg type="syll" part="F">pis</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">pre</seg>
+              <seg type="syll" part="M">do</seg>
+              <seg type="syll" part="F">nis</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="8" xml:id="CB037-l-44">
+            <w>
+              <seg type="syll">si</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">cer</seg>
+              <seg type="syll" part="M">ti</seg>
+              <seg type="syll" part="F">us</seg>
+            </w>
+            <app type="text">
+              <lem wit="HSB T">
+                <w>
+                  <seg type="syll" part="I">in</seg>
+                  <seg type="syll" part="M">spi</seg>
+                  <seg type="syll" part="M">ci</seg>
+                  <seg type="syll" part="F">am</seg>
+                </w>
+              </lem>
+              <rdg wit="cod. K V"><w>inspicias</w></rdg>
+            </app>
+          </l>
+          <l n="9" xml:id="CB037-l-45">
+            <w>
+              <seg type="syll">ad</seg>
+            </w>
+            <w>
+              <seg type="syll">rem</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">con</seg>
+              <seg type="syll" part="M">di</seg>
+              <seg type="syll" part="M">ti</seg>
+              <seg type="syll" part="M">o</seg>
+              <seg type="syll" part="F">nis</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">!</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="VI" met="8pp/7p/8pp/7p/8pp/7p/7p/8pp/7p" rhyme="a/b/a/b/a/b/b/a/b" xml:id="CB037-lg-6">
+          <l n="1" xml:id="CB037-l-46">
+            <w>
+              <seg type="syll">Sub</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">bre</seg>
+              <seg type="syll" part="F">vi</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">doc</seg>
+              <seg type="syll" part="F">tus</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">tem</seg>
+              <seg type="syll" part="M">po</seg>
+              <seg type="syll" part="F">re</seg>
+            </w>
+          </l>
+          <l n="2" xml:id="CB037-l-47">
+            <w>
+              <seg type="syll" part="I">stul</seg>
+              <seg type="syll" part="F">tus</seg>
+            </w>
+            <w>
+              <seg type="syll">dum</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">in</seg>
+              <seg type="syll" part="M">cap</seg>
+              <seg type="syll" part="M">pa</seg>
+              <seg type="syll" part="F">tur</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="3" xml:id="CB037-l-48">
+            <w>
+              <seg type="syll" part="I">ple</seg>
+              <seg type="syll" part="F">no</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">pro</seg>
+              <seg type="syll" part="M">phe</seg>
+              <seg type="syll" part="F">tat</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">pec</seg>
+              <seg type="syll" part="M">to</seg>
+              <seg type="syll" part="F">re</seg>
+            </w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="4" xml:id="CB037-l-49">
+            <w>
+              <seg type="syll" part="I">ruc</seg>
+              <seg type="syll" part="F">tans</seg>
+            </w>
+            <app type="text">
+              <lem>
+                <w>
+                  <seg type="syll" part="I">in</seg>
+                  <seg type="syll" part="M">ter</seg>
+                  <seg type="syll" part="M">pre</seg>
+                  <seg type="syll" part="M">ta</seg>
+                  <seg type="syll" part="F">tur</seg>
+                </w>
+              </lem>
+              <note>corr. ex <w>interpretantur</w> cod.</note>
+            </app>
+            <pc>&#183;</pc>
+          </l>
+          <l n="5" xml:id="CB037-l-50">
+            <w>
+              <seg type="syll">et</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">dis</seg>
+              <seg type="syll" part="M">pu</seg>
+              <seg type="syll" part="F">tat</seg>
+            </w>
+            <w>
+              <seg type="syll">cum</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">re</seg>
+              <seg type="syll" part="M">tho</seg>
+              <seg type="syll" part="F">re</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="6" xml:id="CB037-l-51">
+            <w>
+              <seg type="syll">qui</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">ta</seg>
+              <seg type="syll" part="F">cet</seg>
+            </w>
+            <w>
+              <seg type="syll">et</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">mi</seg>
+              <seg type="syll" part="M">ra</seg>
+              <seg type="syll" part="F">tur</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="7" xml:id="CB037-l-52">
+            <w>
+              <seg type="syll">quod</seg>
+            </w>
+            <w>
+              <seg type="syll">vir</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">ius</seg>
+              <seg type="syll" part="F">tus</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">tol</seg>
+              <seg type="syll" part="M">la</seg>
+              <seg type="syll" part="F">tur</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="8" xml:id="CB037-l-53">
+            <w>
+              <seg type="syll">et</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">as</seg>
+              <seg type="syll" part="M">sump</seg>
+              <seg type="syll" part="F">tus</seg>
+            </w>
+            <w>
+              <seg type="syll">de</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">ster</seg>
+              <seg type="syll" part="M">co</seg>
+              <seg type="syll" part="F">re</seg>
+            </w>
+            <pc>&#183;</pc>
+          </l>
+          <l n="9" xml:id="CB037-l-54">
+            <w>
+              <seg type="syll" part="I">sen</seg>
+              <seg type="syll" part="M">ten</seg>
+              <seg type="syll" part="M">ti</seg>
+              <seg type="syll" part="F">as</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">lo</seg>
+              <seg type="syll" part="M">qua</seg>
+              <seg type="syll" part="F">tur</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

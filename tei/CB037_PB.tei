@@ -1,0 +1,75 @@
+<TEI>
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="poem">
+        <lg type="strophe" n="I" xml:id="CB037_PB-lg-1">
+          <l n="1" xml:id="CB037_PB-l-1">Dans la cour de G&#233;d&#233;on</l>
+          <l n="2" xml:id="CB037_PB-l-2">la toison tendue se dess&#232;che,</l>
+          <l n="3" xml:id="CB037_PB-l-3">la tenue d&#8217;apparat du roi</l>
+          <l n="4" xml:id="CB037_PB-l-4">est consum&#233;e par les teignes.</l>
+          <l n="5" xml:id="CB037_PB-l-5">La paille s&#8217;y accumule,</l>
+          <l n="6" xml:id="CB037_PB-l-6">ensevelissant le bon grain,</l>
+          <l n="7" xml:id="CB037_PB-l-7">le b&#233;tail y prend la parole,</l>
+          <l n="8" xml:id="CB037_PB-l-8">le b&#339;uf ne rentre pas en grange,</l>
+          <l n="9" xml:id="CB037_PB-l-9">il est mis apr&#232;s la charrette.</l>
+        </lg>
+        <lg type="strophe" n="II" xml:id="CB037_PB-lg-2">
+          <l n="1" xml:id="CB037_PB-l-10">Voici que court un bruit f&#226;cheux</l>
+          <l n="2" xml:id="CB037_PB-l-11">sur le prieur&#233; de Grandmont,</l>
+          <l n="3" xml:id="CB037_PB-l-12">lui qui diffusait largement</l>
+          <l n="4" xml:id="CB037_PB-l-13">le miel d&#8217;une douceur si sainte.</l>
+          <l n="5" xml:id="CB037_PB-l-14">L&#8217;ordre nouvellement plant&#233;</l>
+          <l n="6" xml:id="CB037_PB-l-15">se trouve r&#233;trograd&#233;,</l>
+          <l n="7" xml:id="CB037_PB-l-16">puisqu&#8217;il g&#233;n&#232;re en soi des guerres,</l>
+          <l n="8" xml:id="CB037_PB-l-17">mettant en haut de l&#8217;&#233;difice</l>
+          <l n="9" xml:id="CB037_PB-l-18">les bases et non les chapiteaux.</l>
+        </lg>
+        <lg type="strophe" n="III" xml:id="CB037_PB-lg-3">
+          <l n="1" xml:id="CB037_PB-l-19">Cette maison jadis recluse</l>
+          <l n="2" xml:id="CB037_PB-l-20">sur le secret de son repos</l>
+          <l n="3" xml:id="CB037_PB-l-21">maintenant subit le scandale,</l>
+          <l n="4" xml:id="CB037_PB-l-22">du fait de gueux sans jugement,</l>
+          <l n="5" xml:id="CB037_PB-l-23">qui n&#8217;&#233;taient pas accoutum&#233;s</l>
+          <l n="6" xml:id="CB037_PB-l-24">&#224; un pareil entra&#238;nement.</l>
+          <l n="7" xml:id="CB037_PB-l-25">Et le d&#233;cret qu&#8217;elle prend</l>
+          <l n="8" xml:id="CB037_PB-l-26">n&#8217;est pas dot&#233; du patronage</l>
+          <l n="9" xml:id="CB037_PB-l-27">ni des lettres ni de la loi.</l>
+        </lg>
+        <lg type="strophe" n="IV" xml:id="CB037_PB-lg-4">
+          <l n="1" xml:id="CB037_PB-l-28">Le fait que le saint sacerdoce,</l>
+          <l n="2" xml:id="CB037_PB-l-29">que l&#8217;onction qui en fait des rois</l>
+          <l n="3" xml:id="CB037_PB-l-30">s&#8217;incline aux ordres et &#224; la voix</l>
+          <l n="4" xml:id="CB037_PB-l-31">d&#8217;individus faits pour le joug,</l>
+          <l n="5" xml:id="CB037_PB-l-32">est-ce un dessein secret de Dieu</l>
+          <l n="6" xml:id="CB037_PB-l-33">ou la fureur des fr&#232;res lais ?</l>
+          <l n="7" xml:id="CB037_PB-l-34">Cependant la faveur v&#233;nale,</l>
+          <l n="8" xml:id="CB037_PB-l-35">entr&#233;e par la mauvaise porte,</l>
+          <l n="9" xml:id="CB037_PB-l-36">les couvre de sa protection.</l>
+        </lg>
+        <lg type="strophe" n="V" xml:id="CB037_PB-lg-5">
+          <l n="1" xml:id="CB037_PB-l-37">Malheur &#224; toi qui condamnes</l>
+          <l n="2" xml:id="CB037_PB-l-38">au maquereau la fille du roi !</l>
+          <l n="3" xml:id="CB037_PB-l-39">Malheur &#224; toi qui profanes</l>
+          <l n="4" xml:id="CB037_PB-l-40">la gloire de pareille foi,</l>
+          <l n="5" xml:id="CB037_PB-l-41">toi qui pilles l&#8217;armoire aux parfums</l>
+          <l n="6" xml:id="CB037_PB-l-42">et l&#8217;ouvrage de Salomon</l>
+          <l n="7" xml:id="CB037_PB-l-43">par ton vil brigandage,</l>
+          <l n="8" xml:id="CB037_PB-l-44">si l&#8217;on consid&#232;re &#224; fond</l>
+          <l n="9" xml:id="CB037_PB-l-45">ce qu&#8217;est en fait ta condition !</l>
+        </lg>
+        <lg type="strophe" n="VI" xml:id="CB037_PB-lg-6">
+          <l n="1" xml:id="CB037_PB-l-46">D&#232;s que le sot, vite savant,</l>
+          <l n="2" xml:id="CB037_PB-l-47">est rev&#234;tu de la chape,</l>
+          <l n="3" xml:id="CB037_PB-l-48">il proph&#233;tise &#224; pleins poumons,</l>
+          <l n="4" xml:id="CB037_PB-l-49">&#233;ructe ses explications</l>
+          <l n="5" xml:id="CB037_PB-l-50">et dispute avec le rh&#233;teur,</l>
+          <l n="6" xml:id="CB037_PB-l-51">lequel se tait, en s&#8217;&#233;tonnant</l>
+          <l n="7" xml:id="CB037_PB-l-52">que soit &#233;vinc&#233; l&#8217;homme s&#251;r</l>
+          <l n="8" xml:id="CB037_PB-l-53">tandis que le bouseux</l>
+          <l n="9" xml:id="CB037_PB-l-54">&#233;nonce ses sentences.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

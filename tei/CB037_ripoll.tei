@@ -2,8 +2,8 @@
   <teiHeader/>
   <text>
     <body>
-      <div type="poem" met="3x(8pp 7p) 7p 8pp 7p">
-        <lg type="strophe" met="8pp/7p/8pp/7p/8pp/7p/7p/8pp/7p" rhyme="a/b/a/b/a/b/b/a/b" xml:id="CB037_ripoll-lg-1">
+      <div type="poem" met="I-VI:3x(8pp 7p) 7p 8pp 7p">
+        <lg type="strophe" n="I" met="8pp/7p/8pp/7p/8pp/7p/7p/8pp/7p" rhyme="a/b/a/b/a/b/b/a/b" xml:id="CB037_ripoll-lg-1">
           <l n="1" xml:id="CB037_ripoll-l-1">
             <w>In</w>
             <w>Gedeonis</w>
@@ -13,30 +13,34 @@
             <w>vellus</w>
             <w>aret</w>
             <w>extentum</w>
+            <pc resp="#editor">,</pc>
           </l>
           <l n="3" xml:id="CB037_ripoll-l-3">
             <w>et</w>
             <w>demolitur</w>
-            <w>timea</w>
+            <w>tinea</w>
           </l>
           <l n="4" xml:id="CB037_ripoll-l-4">
             <w>regale</w>
             <w>vestimentum</w>
+            <pc resp="#editor">.</pc>
           </l>
           <l n="5" xml:id="CB037_ripoll-l-5">
-            <w>super</w>
-            <w>habundat</w>
+            <w>Superhabundat</w>
             <w>palea</w>
+            <pc resp="#editor">,</pc>
           </l>
           <l n="6" xml:id="CB037_ripoll-l-6">
             <w>que</w>
             <w>sepelit</w>
             <w>frumentum</w>
+            <pc resp="#editor">,</pc>
           </l>
           <l n="7" xml:id="CB037_ripoll-l-7">
             <w>et</w>
             <w>loquitur</w>
             <w>iumentum</w>
+            <pc resp="#editor">,</pc>
           </l>
           <l n="8" xml:id="CB037_ripoll-l-8">
             <w>non</w>
@@ -49,6 +53,337 @@
             <w>sed</w>
             <w>sequitur</w>
             <w>carpentum</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="II" met="8pp/7p/8pp/7p/8pp/7p/7p/8pp/7p" rhyme="a/b/a/b/a/b/b/a/b" xml:id="CB037_ripoll-lg-2">
+          <l n="1" xml:id="CB037_ripoll-l-10">
+            <w>Exit</w>
+            <w>rumor</w>
+            <w>discriminis</w>
+          </l>
+          <l n="2" xml:id="CB037_ripoll-l-11">
+            <w>de</w>
+            <w>Grandismontis</w>
+            <w>cella</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="3" xml:id="CB037_ripoll-l-12">
+            <w>que</w>
+            <app type="text">
+              <lem>
+                <w>tam</w>
+              </lem>
+              <note>vel <w>iam</w> cod.</note>
+            </app>
+            <app type="text">
+              <lem wit="CB Cv K O Ri HSB V T">
+                <w>sancte</w>
+              </lem>
+              <rdg wit="cod."><w>sancta</w></rdg>
+            </app>
+            <w>dulcedinis</w>
+          </l>
+          <l n="4" xml:id="CB037_ripoll-l-13">
+            <w>late</w>
+            <w>fundebat</w>
+            <w>mella</w>
+            <pc resp="#editor">.</pc>
+          </l>
+          <l n="5" xml:id="CB037_ripoll-l-14">
+            <app type="text">
+              <lem wit="CB Cv K O Ri HSB V T">
+                <w>Preposteratur</w>
+              </lem>
+              <rdg wit="cod."><w>preposteratus</w></rdg>
+            </app>
+            <w>ordinis</w>
+          </l>
+          <l n="6" xml:id="CB037_ripoll-l-15">
+            <w>plantatio</w>
+            <w>novella</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="7" xml:id="CB037_ripoll-l-16">
+            <w>dum</w>
+            <app type="text">
+              <lem wit="CB Cv K O Ri HSB V T">
+                <w>movet</w>
+              </lem>
+              <rdg wit="cod."><w>movent</w></rdg>
+            </app>
+            <w>in</w>
+            <w>se</w>
+            <w>bella</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="8" rhyme="x" xml:id="CB037_ripoll-l-17">
+            <w>bases</w>
+            <w>superhedificat</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="9" xml:id="CB037_ripoll-l-18">
+            <w>deponens</w>
+            <w>capitella</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="III" met="8pp/7p/8pp/7p/8pp/7p/7p/8pp/7p" rhyme="a/b/a/b/a/b/b/a/b" xml:id="CB037_ripoll-lg-3">
+          <l n="1" xml:id="CB037_ripoll-l-19">
+            <w>Quod</w>
+            <w>sanctum</w>
+            <w>sacerdocium</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="2" xml:id="CB037_ripoll-l-20">
+            <w>quod</w>
+            <w>unccio</w>
+            <w>regalis</w>
+          </l>
+          <l n="3" xml:id="CB037_ripoll-l-21">
+            <w>se</w>
+            <w>curvat</w>
+            <w>ad</w>
+            <w>imperium</w>
+          </l>
+          <l n="4" xml:id="CB037_ripoll-l-22">
+            <w>et</w>
+            <w>vocem</w>
+            <w>subiugalis</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="5" xml:id="CB037_ripoll-l-23">
+            <w>divinum</w>
+            <w>est</w>
+            <w>misterium</w>
+          </l>
+          <l n="6" xml:id="CB037_ripoll-l-24">
+            <app type="text">
+              <lem wit="CB V">
+                <w>an</w>
+              </lem>
+              <rdg wit="K O HSB T"><w>et</w></rdg>
+              <rdg wit="cod."><w>non</w></rdg>
+              <note>non leg. Ri</note>
+            </app>
+            <w>furor</w>
+            <w>laicalis</w>
+            <pc resp="#editor">?</pc>
+          </l>
+          <l n="7" xml:id="CB037_ripoll-l-25">
+            <w>Favor</w>
+            <w>tamen</w>
+            <w>venalis</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="8" xml:id="CB037_ripoll-l-26">
+            <w>qui</w>
+            <w>non</w>
+            <w>intrat</w>
+            <w>per</w>
+            <w>ostium</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="9" xml:id="CB037_ripoll-l-27">
+            <w>fovet</w>
+            <w>eos</w>
+            <w>sub</w>
+            <w>alis</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="IV" met="8pp/7p/8pp/7p/8pp/7p/7p/8pp/7p" rhyme="a/b/a/b/a/b/b/a/b" xml:id="CB037_ripoll-lg-4">
+          <l n="1" xml:id="CB037_ripoll-l-28">
+            <w>Clausa</w>
+            <w>quondam</w>
+            <w>religio</w>
+          </l>
+          <l n="2" xml:id="CB037_ripoll-l-29">
+            <w>vel</w>
+            <w>ocium</w>
+            <w>secretum</w>
+          </l>
+          <l n="3" xml:id="CB037_ripoll-l-30">
+            <w>nunc</w>
+            <w>subiacet</w>
+            <w>obprobrio</w>
+          </l>
+          <l n="4" xml:id="CB037_ripoll-l-31">
+            <w>per</w>
+            <w>vulgus</w>
+            <w>indiscretum</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="5" xml:id="CB037_ripoll-l-32">
+            <w>quod</w>
+            <app type="text">
+              <lem>
+                <w>tali</w>
+              </lem>
+              <note>add. s. l. cod.</note>
+            </app>
+            <w>tirocinio</w>
+          </l>
+          <l n="6" xml:id="CB037_ripoll-l-33">
+            <w>non</w>
+            <w>erat</w>
+            <w>consuetum</w>
+            <pc resp="#editor">.</pc>
+          </l>
+          <l n="7" xml:id="CB037_ripoll-l-34">
+            <w>Et</w>
+            <w>quod</w>
+            <w>format</w>
+            <w>decretum</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="8" xml:id="CB037_ripoll-l-35">
+            <w>non</w>
+            <w>legis</w>
+            <w>patrocinio</w>
+          </l>
+          <l n="9" xml:id="CB037_ripoll-l-36">
+            <w>nec</w>
+            <w>litteris</w>
+            <w>est</w>
+            <w>fretum</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="V" met="8pp/7p/8pp/7p/8pp/7p/7p/8pp/7p" rhyme="a/b/a/b/a/b/b/a/b" xml:id="CB037_ripoll-lg-5">
+          <l n="1" xml:id="CB037_ripoll-l-37">
+            <w>Sub</w>
+            <w>brevi</w>
+            <w>doctus</w>
+            <w>tempore</w>
+          </l>
+          <l n="2" xml:id="CB037_ripoll-l-38">
+            <w>stultus</w>
+            <w>philosophatur</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="3" xml:id="CB037_ripoll-l-39">
+            <w>pleno</w>
+            <w>prophetans</w>
+            <w>pectore</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="4" xml:id="CB037_ripoll-l-40">
+            <w>ructans</w>
+            <w>interpretatur</w>
+          </l>
+          <l n="5" xml:id="CB037_ripoll-l-41">
+            <w>et</w>
+            <w>disputans</w>
+            <w>cum</w>
+            <w>rethore</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="6" xml:id="CB037_ripoll-l-42">
+            <w>qui</w>
+            <w>tacet</w>
+            <app type="text">
+              <lem wit="K O HSB V T">
+                <w>et</w>
+                <w>miratur</w>
+              </lem>
+              <rdg wit="cod."><w>admiratur</w></rdg>
+            </app>
+          </l>
+          <l n="7" xml:id="CB037_ripoll-l-43">
+            <w>quod</w>
+            <w>vir</w>
+            <w>iustus</w>
+            <w>tollatur</w>
+          </l>
+          <l n="8" xml:id="CB037_ripoll-l-44">
+            <w>et</w>
+            <w>assumptus</w>
+            <w>de</w>
+            <w>stercore</w>
+          </l>
+          <l n="9" xml:id="CB037_ripoll-l-45">
+            <w>sententias</w>
+            <w>loquatur</w>
+            <pc resp="#editor">.</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="VI" met="8pp/7p/8pp/7p/8pp/7p/7p/8pp/7p" rhyme="a/b/a/b/a/b/b/a/b" xml:id="CB037_ripoll-lg-6">
+          <l n="1" xml:id="CB037_ripoll-l-46">
+            <w>Ve</w>
+            <w>ve</w>
+            <pc resp="#editor">,</pc>
+            <w>qui</w>
+            <w>regis</w>
+            <w>filiam</w>
+          </l>
+          <l n="2" xml:id="CB037_ripoll-l-47">
+            <w>das</w>
+            <w>in</w>
+            <w>manu</w>
+            <w>lenonis</w>
+            <pc resp="#editor">!</pc>
+          </l>
+          <l n="3" xml:id="CB037_ripoll-l-48">
+            <w>Ve</w>
+            <pc resp="#editor">,</pc>
+            <w>qui</w>
+            <w>profanas</w>
+            <w>gloriam</w>
+          </l>
+          <l n="4" xml:id="CB037_ripoll-l-49">
+            <w>tante</w>
+            <w>devotionis</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="5" xml:id="CB037_ripoll-l-50">
+            <w>qui</w>
+            <w>cellam</w>
+            <w>pigmentariam</w>
+          </l>
+          <l n="6" xml:id="CB037_ripoll-l-51">
+            <w>et</w>
+            <app type="text">
+              <lem wit="CB K HSB V T">
+                <w>opus</w>
+              </lem>
+              <rdg wit="cod. Ri"><w>opes</w></rdg>
+            </app>
+            <w>Salomonis</w>
+          </l>
+          <l n="7" xml:id="CB037_ripoll-l-52">
+            <app type="text">
+              <lem wit="CB HSB V T">
+                <w>fraude</w>
+                <w>rapis</w>
+              </lem>
+              <rdg wit="cod. Ri"><w>fraus</w><w>decepit</w></rdg>
+              <rdg wit="K"><w>fraude</w><w>diripit</w></rdg>
+            </app>
+            <w>predonis</w>
+            <pc resp="#editor">,</pc>
+          </l>
+          <l n="8" xml:id="CB037_ripoll-l-53">
+            <app type="text">
+              <lem wit="CB HSB T">
+                <w>si</w>
+                <w>certius</w>
+                <w>inspiciam</w>
+              </lem>
+              <rdg wit="K V"><w>si</w><w>certius</w><w>inspicias</w></rdg>
+              <rdg wit="cod. Ri"><w>cede</w><w>ad</w><w>ignominiam</w></rdg>
+            </app>
+          </l>
+          <l n="9" xml:id="CB037_ripoll-l-54">
+            <app type="text">
+              <lem wit="CB K HSB V T">
+                <w>ad</w>
+                <w>rem</w>
+                <w>conditionis</w>
+              </lem>
+              <rdg wit="cod. Ri"><w>nostre</w><w>conditionis</w></rdg>
+            </app>
+            <pc resp="#editor">!</pc>
           </l>
         </lg>
       </div>

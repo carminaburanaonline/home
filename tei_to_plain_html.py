@@ -17,7 +17,10 @@ def to_paragraph(p):
 			else:
 				syllables = el.xpath("./seg[@type='syll']|./app[@type='neume']/lem/seg[@type='syll']")
 				if not len(syllables):
-					res += el.text
+					try:
+						res += el.text
+					except:
+						pass
 				else:
 					res += "".join([syllable.text for syllable in syllables])
 			res += " "

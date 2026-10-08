@@ -754,8 +754,21 @@
   },
   {
     "abstract_item": "CB037",
+    "source": 106,
+    "foliation": "6r",
+    "title": "In Gedeonis area",
+    "id": "CB037",
+    "IIIF_canvasIndex": "14",
+    "IIIF_canvasId": "",
+    "alternative_img_link": "",
+    "language": [
+      1
+    ]
+  },
+  {
+    "abstract_item": "CB037",
     "source": 34,
-    "foliation": "101r-100v",
+    "foliation": "99bis recto, 99v",
     "title": "In Gedeonis area",
     "id": "CB037_ripoll",
     "SVGfiles": 1,
