@@ -1,0 +1,115 @@
+<TEI>
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="poem" xml:lang="french">
+        <lg type="strophe" n="I" xml:id="CB185_PB-lg-1">
+          <l n="1" xml:id="CB185_PB-l-1">
+            <seg type="hemistich">J&#8217;&#233;tais une si belle enfant</seg>
+            <seg type="hemistich">dans la fleur de ma virginit&#233;.</seg>
+          </l>
+          <l n="2" xml:id="CB185_PB-l-2">
+            <seg type="hemistich">Alors le monde entier chantait mes louanges,</seg>
+            <seg type="hemistich">je plaisais &#224; tous.</seg>
+          </l>
+        </lg>
+        <lg type="refrain" xml:id="CB185_PB-lg-2">
+          <head>Refrain</head>
+          <l n="1" xml:id="CB185_PB-l-3">H&#233;las, h&#233;las !</l>
+          <l n="2" xml:id="CB185_PB-l-4">Maudits soient les tilleuls</l>
+          <l n="3" xml:id="CB185_PB-l-5">qui bordent le chemin !</l>
+        </lg>
+        <lg type="strophe" n="II" xml:id="CB185_PB-lg-3">
+          <l n="1" xml:id="CB185_PB-l-6">
+            <seg type="hemistich">Je voulais aller par les pr&#233;s</seg>
+            <seg type="hemistich">cueillir des fleurs,</seg>
+          </l>
+          <l n="2" xml:id="CB185_PB-l-7">
+            <seg type="hemistich">C&#8217;est alors qu&#8217;un malotru voulut</seg>
+            <seg type="hemistich">m&#8217;y d&#233;florer.</seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="III" xml:id="CB185_PB-lg-4">
+          <l n="1" xml:id="CB185_PB-l-8">
+            <seg type="hemistich">Il me prit par ma blanche main,</seg>
+            <seg type="hemistich">mais pas de mani&#232;re inconvenante.</seg>
+          </l>
+          <l n="2" xml:id="CB185_PB-l-9">
+            <seg type="hemistich">Il me mena le long de la prairie</seg>
+            <seg type="hemistich">tout &#224; la mani&#232;re d&#8217;un fourbe.</seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="IV" xml:id="CB185_PB-lg-5">
+          <l n="1" xml:id="CB185_PB-l-10">
+            <seg type="hemistich">Il me saisit par mon blanc v&#234;tement</seg>
+            <seg type="hemistich">de fa&#231;on fort inconvenante</seg>
+          </l>
+          <l n="2" xml:id="CB185_PB-l-11">
+            <seg type="hemistich">et m&#8217;entra&#238;na par la main</seg>
+            <seg type="hemistich">avec grande violence.</seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="V" xml:id="CB185_PB-lg-6">
+          <l n="1" xml:id="CB185_PB-l-12">
+            <seg type="hemistich">Il me dit : &#171; Dame, continuons notre chemin !</seg>
+            <seg type="hemistich">Il y a un bois retir&#233;. &#187;</seg>
+          </l>
+          <l n="2" xml:id="CB185_PB-l-13">
+            <seg type="hemistich">Ce chemin, qu&#8217;il soit maudit !</seg>
+            <seg type="hemistich">Je pleurai durant tout ce temps.</seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="VI" xml:id="CB185_PB-lg-7">
+          <l n="1" xml:id="CB185_PB-l-14">
+            <seg type="hemistich">&#171; Un beau tilleul se dresse</seg>
+            <seg type="hemistich">non loin du chemin,</seg>
+          </l>
+          <l n="2" xml:id="CB185_PB-l-15">
+            <seg type="hemistich">c&#8217;est l&#224; que j&#8217;ai laiss&#233; ma harpe,</seg>
+            <seg type="hemistich">mon tambourin et ma lyre. &#187;</seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="VII" xml:id="CB185_PB-lg-8">
+          <l n="1" xml:id="CB185_PB-l-16">
+            <seg type="hemistich">Lorsqu&#8217;il arriva au tilleul</seg>
+            <seg type="hemistich">il me dit : &#171; Asseyons-nous &#187;</seg>
+          </l>
+          <l n="2" xml:id="CB185_PB-l-17">
+            <seg type="hemistich">&#8212; L&#8217;amour aiguillonnait violemment cet homme &#8212;</seg>
+            <seg type="hemistich">&#171; Et amusons-nous ! &#187;</seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="VIII" xml:id="CB185_PB-lg-9">
+          <l n="1" xml:id="CB185_PB-l-18">
+            <seg type="hemistich">Il se saisit de mon corps blanc</seg>
+            <seg type="hemistich">&#8212; ce ne fut pas sans faire peur &#8212;</seg>
+          </l>
+          <l n="2" xml:id="CB185_PB-l-19">
+            <seg type="hemistich">et dit : &#171; Je vais faire de toi une femme,</seg>
+            <seg type="hemistich">tu es douce &#224; ma bouche. &#187;</seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="IX" xml:id="CB185_PB-lg-10">
+          <l n="1" xml:id="CB185_PB-l-20">
+            <seg type="hemistich">Il releva ma chemise,</seg>
+            <seg type="hemistich">d&#233;nudant mon corps,</seg>
+          </l>
+          <l n="2" xml:id="CB185_PB-l-21">
+            <seg type="hemistich">il p&#233;n&#233;tra dans mon fortin</seg>
+            <seg type="hemistich">avec son &#233;pieu tendu.</seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="X" xml:id="CB185_PB-lg-11">
+          <l n="1" xml:id="CB185_PB-l-22">
+            <seg type="hemistich">Il prit son carquois et son arc</seg>
+            <seg type="hemistich">et fit bonne chasse !</seg>
+          </l>
+          <l n="2" xml:id="CB185_PB-l-23">
+            <seg type="hemistich">Il avait abus&#233; de moi,</seg>
+            <seg type="hemistich">il avait men&#233; le jeu &#224; son terme.</seg>
+          </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

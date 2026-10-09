@@ -1,0 +1,903 @@
+<TEI>
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="poem" met="I-X:2x(4+6p) Refl.:? 8pp 7pp">
+        <head>Item</head>
+        <lg type="strophe" n="I" met=".4+6p/4+6p" rhyme="a+b/a+b" xml:id="CB185-lg-1">
+          <l n="1" xml:id="CB185-l-1">
+            <seg type="hemistich">
+              <w>
+                <seg type="syll">Ich</seg>
+              </w>
+              <w>
+                <seg type="syll">was</seg>
+              </w>
+              <w>
+                <seg type="syll">ein</seg>
+              </w>
+              <w>
+                <seg type="syll">chint</seg>
+              </w>
+              <w>
+                <seg type="syll">so</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">wol</seg>
+                <seg type="syll" part="M">ge</seg>
+                <seg type="syll" part="F">tan</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">,</pc>
+            </seg>
+            <seg type="hemistich">
+              <w>
+                <seg type="syll" part="I">vir</seg>
+                <seg type="syll" part="F">go</seg>
+              </w>
+              <w>
+                <seg type="syll">dum</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">flo</seg>
+                <seg type="syll" part="M">re</seg>
+                <seg type="syll" part="F">bam</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">,</pc>
+            </seg>
+          </l>
+          <l n="2" rhyme="a'+b" xml:id="CB185-l-2">
+            <seg type="hemistich">
+              <w>
+                <seg type="syll">do</seg>
+              </w>
+              <w>
+                <seg type="syll">brist</seg>
+              </w>
+              <w>
+                <seg type="syll">mich</seg>
+              </w>
+              <w>
+                <seg type="syll">diu</seg>
+              </w>
+              <w>
+                <seg type="syll">werlt</seg>
+              </w>
+              <w>
+                <seg type="syll">al</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">,</pc>
+            </seg>
+            <seg type="hemistich">
+              <w>
+                <seg type="syll" part="I">om</seg>
+                <seg type="syll" part="M">ni</seg>
+                <seg type="syll" part="F">bus</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">pla</seg>
+                <seg type="syll" part="M">ce</seg>
+                <seg type="syll" part="F">bam</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+        </lg>
+        <lg type="refrain" xml:id="CB185-lg-2">
+          <head>Refl.</head>
+          <l n="1" xml:id="CB185-l-3">
+            <w>
+              <seg type="syll" part="I">Ho</seg>
+              <seg type="syll" part="F">y</seg>
+            </w>
+            <w>
+              <seg type="syll">et</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">o</seg>
+              <seg type="syll" part="F">e</seg>
+            </w>
+            <pc resp="#editor">!</pc>
+          </l>
+          <l n="2" xml:id="CB185-l-4">
+            <w>
+              <seg type="syll" part="I">Ma</seg>
+              <seg type="syll" part="M">le</seg>
+              <seg type="syll" part="M">di</seg>
+              <seg type="syll" part="M">can</seg>
+              <seg type="syll" part="F">tur</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">thy</seg>
+              <seg type="syll" part="M">li</seg>
+              <seg type="syll" part="F">e</seg>
+            </w>
+          </l>
+          <l n="3" xml:id="CB185-l-5">
+            <w>
+              <seg type="syll" part="I">iux</seg>
+              <seg type="syll" part="F">ta</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">vi</seg>
+              <seg type="syll" part="F">am</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">po</seg>
+              <seg type="syll" part="M">si</seg>
+              <seg type="syll" part="F">te</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">!</pc>
+          </l>
+        </lg>
+        <lg type="strophe" n="II" met=".4+6p/.4+6p" rhyme="a+b/a+b" xml:id="CB185-lg-3">
+          <l n="1" xml:id="CB185-l-6">
+            <seg type="hemistich">
+              <w>
+                <seg type="syll">Ja</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">wol</seg>
+                <seg type="syll" part="F">de</seg>
+              </w>
+              <w>
+                <seg type="syll">ih</seg>
+              </w>
+              <w>
+                <seg type="syll">an</seg>
+              </w>
+              <w>
+                <seg type="syll">die</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">wi</seg>
+                <seg type="syll" part="F">sen</seg>
+              </w>
+              <w>
+                <seg type="syll">gan</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">,</pc>
+            </seg>
+            <seg type="hemistich">
+              <w>
+                <seg type="syll" part="I">flo</seg>
+                <seg type="syll" part="F">res</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">ad</seg>
+                <seg type="syll" part="M">u</seg>
+                <seg type="syll" part="M">na</seg>
+                <seg type="syll" part="F">re</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+          <l n="2" xml:id="CB185-l-7">
+            <seg type="hemistich">
+              <w>
+                <seg type="syll">Do</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">wol</seg>
+                <seg type="syll" part="F">de</seg>
+              </w>
+              <w>
+                <seg type="syll">mich</seg>
+              </w>
+              <w>
+                <seg type="syll">ein</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">un</seg>
+                <seg type="syll" part="M">ge</seg>
+                <seg type="syll" part="F">tan</seg>
+              </w>
+            </seg>
+            <seg type="hemistich">
+              <w>
+                <seg type="syll" part="I">i</seg>
+                <seg type="syll" part="F">bi</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">de</seg>
+                <seg type="syll" part="M">flo</seg>
+                <seg type="syll" part="M">ra</seg>
+                <seg type="syll" part="F">re</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="III" met=".4+6p/.4+6p" rhyme="a+b/a+b" xml:id="CB185-lg-4">
+          <l n="1" xml:id="CB185-l-8">
+            <seg type="hemistich">
+              <w>
+                <seg type="syll">Er</seg>
+              </w>
+              <w>
+                <seg type="syll">nam</seg>
+              </w>
+              <w>
+                <seg type="syll">mich</seg>
+              </w>
+              <w>
+                <seg type="syll">bi</seg>
+              </w>
+              <w>
+                <seg type="syll">der</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">wi</seg>
+                <seg type="syll" part="F">zen</seg>
+              </w>
+              <w>
+                <seg type="syll">hant</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">,</pc>
+            </seg>
+            <seg type="hemistich">
+              <w>
+                <seg type="syll">sed</seg>
+              </w>
+              <w>
+                <seg type="syll">non</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">in</seg>
+                <seg type="syll" part="M">de</seg>
+                <seg type="syll" part="M">cen</seg>
+                <seg type="syll" part="F">ter</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+          <l n="2" xml:id="CB185-l-9">
+            <seg type="hemistich">
+              <w>
+                <seg type="syll">Er</seg>
+              </w>
+              <w>
+                <seg type="syll">wist</seg>
+              </w>
+              <w>
+                <seg type="syll">mich</seg>
+              </w>
+              <w>
+                <seg type="syll">diu</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">wi</seg>
+                <seg type="syll" part="F">se</seg>
+              </w>
+              <w>
+                <seg type="syll">lanch</seg>
+              </w>
+            </seg>
+            <seg type="hemistich">
+              <w>
+                <seg type="syll" part="I">val</seg>
+                <seg type="syll" part="F">de</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">frau</seg>
+                <seg type="syll" part="M">du</seg>
+                <seg type="syll" part="M">len</seg>
+                <seg type="syll" part="F">ter</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="IV" met=".4+6p/.4+6p" rhyme="a+b/a+b" xml:id="CB185-lg-5">
+          <l n="1" xml:id="CB185-l-10">
+            <seg type="hemistich">
+              <w>
+                <seg type="syll">Er</seg>
+              </w>
+              <w>
+                <seg type="syll">graif</seg>
+              </w>
+              <w>
+                <seg type="syll">mir</seg>
+              </w>
+              <w>
+                <seg type="syll">an</seg>
+              </w>
+              <w>
+                <seg type="syll">daz</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">wi</seg>
+                <seg type="syll" part="F">ze</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">ge</seg>
+                <seg type="syll" part="F">want</seg>
+              </w>
+              <pc>&#183;</pc>
+            </seg>
+            <seg type="hemistich">
+              <w>
+                <seg type="syll" part="I">val</seg>
+                <seg type="syll" part="F">de</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">in</seg>
+                <seg type="syll" part="M">de</seg>
+                <seg type="syll" part="M">cen</seg>
+                <seg type="syll" part="F">ter</seg>
+              </w>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+          <l n="2" xml:id="CB185-l-11">
+            <seg type="hemistich">
+              <w>
+                <seg type="syll">Er</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">fu&#870;r</seg>
+                <seg type="syll" part="F">te</seg>
+              </w>
+              <w>
+                <seg type="syll">mih</seg>
+              </w>
+              <w>
+                <seg type="syll">bi</seg>
+              </w>
+              <w>
+                <seg type="syll">der</seg>
+              </w>
+              <w>
+                <seg type="syll">hant</seg>
+              </w>
+            </seg>
+            <seg type="hemistich">
+              <w>
+                <seg type="syll" part="I">mul</seg>
+                <seg type="syll" part="F">tum</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">vi</seg>
+                <seg type="syll" part="M">o</seg>
+                <seg type="syll" part="M">len</seg>
+                <seg type="syll" part="F">ter</seg>
+              </w>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="V" met=".4+6p/4+6p" rhyme="a+b/a+b" xml:id="CB185-lg-6">
+          <l n="1" xml:id="CB185-l-12">
+            <seg type="hemistich">
+              <w>
+                <seg type="syll">Er</seg>
+              </w>
+              <w>
+                <seg type="syll">sprach</seg>
+              </w>
+              <pc resp="#editor">:</pc>
+              <pc resp="#editor" pre="true">&#171;</pc>
+              <w>
+                <seg type="syll" part="I">vro</seg>
+                <seg type="syll" part="F">we</seg>
+              </w>
+              <pc resp="#editor">,</pc>
+              <w>
+                <seg type="syll">ge</seg>
+              </w>
+              <w>
+                <seg type="syll">wir</seg>
+              </w>
+              <w>
+                <seg type="syll">baz</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">!</pc>
+            </seg>
+            <seg type="hemistich">
+              <w>
+                <seg type="syll" part="I">Ne</seg>
+                <seg type="syll" part="F">mus</seg>
+              </w>
+              <w>
+                <seg type="syll">est</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">re</seg>
+                <seg type="syll" part="M">mo</seg>
+                <seg type="syll" part="F">tum</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">.&#187;</pc>
+            </seg>
+          </l>
+          <l n="2" xml:id="CB185-l-13">
+            <seg type="hemistich">
+              <w>
+                <seg type="syll" part="I">Dir</seg>
+                <seg type="syll" part="F">re</seg>
+              </w>
+              <w>
+                <seg type="syll">wech</seg>
+              </w>
+              <pc resp="#editor">,</pc>
+              <w>
+                <seg type="syll">der</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">ha</seg>
+                <seg type="syll" part="F">be</seg>
+              </w>
+              <w>
+                <seg type="syll">haz</seg>
+              </w>
+              <pc resp="#editor">!</pc>
+            </seg>
+            <seg type="hemistich">
+              <w>
+                <seg type="syll" part="I">Plan</seg>
+                <seg type="syll" part="F">xi</seg>
+              </w>
+              <w>
+                <seg type="syll">et</seg>
+              </w>
+              <w>
+                <seg type="syll">hoc</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">to</seg>
+                <seg type="syll" part="F">tum</seg>
+              </w>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="VI" met=".4+6p/.4+6p" rhyme="a+b/a+b" xml:id="CB185-lg-7">
+          <l n="1" xml:id="CB185-l-14">
+            <seg type="hemistich">
+              <pc resp="#editor" pre="true">&#171;</pc>
+              <w>
+                <seg type="syll">Iz</seg>
+              </w>
+              <w>
+                <seg type="syll">stat</seg>
+              </w>
+              <w>
+                <seg type="syll">ein</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">lin</seg>
+                <seg type="syll" part="F">de</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">wol</seg>
+                <seg type="syll" part="M">ge</seg>
+                <seg type="syll" part="F">tan</seg>
+              </w>
+              <pc>&#183;</pc>
+            </seg>
+            <seg type="hemistich">
+              <w>
+                <seg type="syll">non</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">pro</seg>
+                <seg type="syll" part="F">cul</seg>
+              </w>
+              <w>
+                <seg type="syll">a</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">vi</seg>
+                <seg type="syll" part="F">a</seg>
+              </w>
+              <pc resp="#editor">,</pc>
+            </seg>
+          </l>
+          <l n="2" rhyme="a+b'" xml:id="CB185-l-15">
+            <seg type="hemistich">
+              <w>
+                <seg type="syll">da</seg>
+              </w>
+              <w>
+                <seg type="syll">hab</seg>
+              </w>
+              <w>
+                <seg type="syll">ich</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">mi</seg>
+                <seg type="syll" part="F">ne</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">her</seg>
+                <seg type="syll" part="F">phe</seg>
+              </w>
+              <w>
+                <seg type="syll">lan</seg>
+              </w>
+            </seg>
+            <seg type="hemistich">
+              <w>
+                <seg type="syll" part="I">tim</seg>
+                <seg type="syll" part="M">pa</seg>
+                <seg type="syll" part="F">num</seg>
+              </w>
+              <w>
+                <seg type="syll">cum</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">ly</seg>
+                <seg type="syll" part="F">ra</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">.&#187;</pc>
+            </seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="VII" met="4+6p/.4+6p" rhyme="a+b/a+b" xml:id="CB185-lg-8">
+          <l n="1" rhyme="a'+b" xml:id="CB185-l-16">
+            <seg type="hemistich">
+              <w>
+                <seg type="syll">Do</seg>
+              </w>
+              <w>
+                <seg type="syll">er</seg>
+              </w>
+              <w>
+                <seg type="syll">zu&#870;</seg>
+              </w>
+              <w>
+                <seg type="syll">der</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">lin</seg>
+                <seg type="syll" part="F">den</seg>
+              </w>
+              <w>
+                <seg type="syll">chom</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">,</pc>
+            </seg>
+            <seg type="hemistich">
+              <w>
+                <seg type="syll" part="I">di</seg>
+                <seg type="syll" part="F">xit</seg>
+              </w>
+              <pc resp="#editor">:</pc>
+              <pc resp="#editor" pre="true">&#171;</pc>
+              <w>
+                <seg type="syll" part="I">Se</seg>
+                <seg type="syll" part="M">de</seg>
+                <seg type="syll" part="M">a</seg>
+                <seg type="syll" part="F">mus</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">&#187;</pc>
+            </seg>
+          </l>
+          <l n="2" xml:id="CB185-l-17">
+            <seg type="hemistich">
+              <pc resp="#editor" pre="true">&#8212; </pc>
+              <w>
+                <seg type="syll">Diu</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">min</seg>
+                <seg type="syll" part="F">ne</seg>
+              </w>
+              <w>
+                <seg type="syll">twanch</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">se</seg>
+                <seg type="syll" part="F">re</seg>
+              </w>
+              <w>
+                <seg type="syll">den</seg>
+              </w>
+              <w>
+                <seg type="syll">man</seg>
+              </w>
+              <pc resp="#editor"> &#8212;</pc>
+            </seg>
+            <seg type="hemistich">
+              <pc resp="#editor" pre="true">&#171;</pc>
+              <w>
+                <seg type="syll" part="I">Lu</seg>
+                <seg type="syll" part="F">dum</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">fa</seg>
+                <seg type="syll" part="M">ci</seg>
+                <seg type="syll" part="M">a</seg>
+                <seg type="syll" part="F">mus</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">!&#187;</pc>
+            </seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="VIII" met=".4+6p/.4+6p" rhyme="a+b/a+b" xml:id="CB185-lg-9">
+          <l n="1" xml:id="CB185-l-18">
+            <seg type="hemistich">
+              <w>
+                <seg type="syll">Er</seg>
+              </w>
+              <w>
+                <seg type="syll">graif</seg>
+              </w>
+              <w>
+                <seg type="syll">mir</seg>
+              </w>
+              <w>
+                <seg type="syll">an</seg>
+              </w>
+              <w>
+                <seg type="syll">dem</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">wi</seg>
+                <seg type="syll" part="F">zen</seg>
+              </w>
+              <w>
+                <seg type="syll">lip</seg>
+              </w>
+              <pc>&#183;</pc>
+            </seg>
+            <seg type="hemistich">
+              <w>
+                <seg type="syll">non</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">abs</seg>
+                <seg type="syll" part="F">que</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">ti</seg>
+                <seg type="syll" part="M">mo</seg>
+                <seg type="syll" part="F">re</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+          <l n="2" xml:id="CB185-l-19">
+            <seg type="hemistich">
+              <w>
+                <seg type="syll">Er</seg>
+              </w>
+              <w>
+                <seg type="syll">sprach</seg>
+              </w>
+              <pc resp="#editor">:</pc>
+              <pc resp="#editor" pre="true">&#171;</pc>
+              <w>
+                <seg type="syll">Ich</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">ma</seg>
+                <seg type="syll" part="F">che</seg>
+              </w>
+              <w>
+                <seg type="syll">dich</seg>
+              </w>
+              <w>
+                <seg type="syll">ein</seg>
+              </w>
+              <w>
+                <seg type="syll">wip</seg>
+              </w>
+              <pc resp="#editor">,</pc>
+            </seg>
+            <seg type="hemistich">
+              <w>
+                <seg type="syll" part="I">dul</seg>
+                <seg type="syll" part="F">cis</seg>
+              </w>
+              <w>
+                <seg type="syll">es</seg>
+              </w>
+              <w>
+                <seg type="syll">cum</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">o</seg>
+                <seg type="syll" part="F">re</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">!&#187;</pc>
+            </seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="IX" met=".4+6p/.4+6p" rhyme="a+b/a+b" xml:id="CB185-lg-10">
+          <l n="1" xml:id="CB185-l-20">
+            <seg type="hemistich">
+              <w>
+                <seg type="syll">Er</seg>
+              </w>
+              <app type="text">
+                <lem>
+                  <w>
+                <seg type="syll">warf</seg>
+              </w>
+                </lem>
+                <note>-f add. s. l. man. r. cod.</note>
+              </app>
+              <w>
+                <seg type="syll">mir</seg>
+              </w>
+              <w>
+                <seg type="syll">u&#870;f</seg>
+              </w>
+              <w>
+                <seg type="syll">daz</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">hem</seg>
+                <seg type="syll" part="M">de</seg>
+                <seg type="syll" part="F">lin</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">,</pc>
+            </seg>
+            <seg type="hemistich">
+              <w>
+                <seg type="syll" part="I">cor</seg>
+                <seg type="syll" part="M">po</seg>
+                <seg type="syll" part="F">re</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">de</seg>
+                <seg type="syll" part="M">tec</seg>
+                <seg type="syll" part="F">ta</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+          <l n="2" xml:id="CB185-l-21">
+            <seg type="hemistich">
+              <w>
+                <seg type="syll">Er</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">ran</seg>
+                <seg type="syll" part="F">te</seg>
+              </w>
+              <w>
+                <seg type="syll">mir</seg>
+              </w>
+              <w>
+                <seg type="syll">in</seg>
+              </w>
+              <w>
+                <seg type="syll">daz</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">pur</seg>
+                <seg type="syll" part="M">ge</seg>
+                <seg type="syll" part="F">lin</seg>
+              </w>
+            </seg>
+            <seg type="hemistich">
+              <w>
+                <seg type="syll" part="I">cus</seg>
+                <seg type="syll" part="M">pi</seg>
+                <seg type="syll" part="F">de</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">e</seg>
+                <seg type="syll" part="M">rec</seg>
+                <seg type="syll" part="F">ta</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="X" met=".4+6p/.4+6p" rhyme="a+b/a+b" xml:id="CB185-lg-11">
+          <l n="1" xml:id="CB185-l-22">
+            <seg type="hemistich">
+              <w>
+                <seg type="syll">Er</seg>
+              </w>
+              <w>
+                <seg type="syll">nam</seg>
+              </w>
+              <w>
+                <seg type="syll">den</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">cho</seg>
+                <seg type="syll" part="F">cher</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">un</seg>
+                <seg type="syll" part="F">de</seg>
+              </w>
+              <w>
+                <seg type="syll">den</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">bo</seg>
+                <seg type="syll" part="F">gen</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">,</pc>
+            </seg>
+            <seg type="hemistich">
+              <w>
+                <seg type="syll" part="I">be</seg>
+                <seg type="syll" part="F">ne</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">ve</seg>
+                <seg type="syll" part="M">na</seg>
+                <seg type="syll" part="M">ba</seg>
+                <seg type="syll" part="F">tur</seg>
+              </w>
+              <pc>&#183;</pc>
+              <pc resp="#editor">.</pc>
+            </seg>
+          </l>
+          <l n="2" xml:id="CB185-l-23">
+            <seg type="hemistich">
+              <w>
+                <seg type="syll">Der</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">sel</seg>
+                <seg type="syll" part="F">be</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">he</seg>
+                <seg type="syll" part="F">te</seg>
+              </w>
+              <w>
+                <seg type="syll">mich</seg>
+              </w>
+              <w>
+                <seg type="syll" part="I">be</seg>
+                <seg type="syll" part="M">tro</seg>
+                <seg type="syll" part="F">gen</seg>
+              </w>
+              <pc resp="#editor">,</pc>
+            </seg>
+            <seg type="hemistich">
+              <w>
+                <seg type="syll" part="I">lu</seg>
+                <seg type="syll" part="F">dus</seg>
+              </w>
+              <app type="text">
+                <lem>
+                  <w>
+                    <seg type="syll" part="I">com</seg>
+                    <seg type="syll" part="M">ple</seg>
+                    <seg type="syll" part="M">ba</seg>
+                    <seg type="syll" part="F">tur</seg>
+                  </w>
+                </lem>
+                <rdg wit="cod. HSB V T ldm"><w>compleatur</w></rdg>
+              </app>
+              <pc>&#183;</pc>
+              <pc resp="#editor">!</pc>
+            </seg>
+          </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
