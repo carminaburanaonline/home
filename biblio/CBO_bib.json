@@ -128,8 +128,9 @@
 		"type": "chapter",
 		"container-title": "The Carmina Burana: Four Essays",
 		"page": "71-109",
+		"publisher": "King's College London Centre for Late Antique and Medieval Studies",
 		"publisher-place": "London",
-		"title": "Earthly Delights: The Pictorial Images of the Carmina Burana manuscript, in: , ed. Martin H. ]ones, London 2000,, at 71",
+		"title": "Earthly Delights: The Pictorial Images of the Carmina Burana manuscript",
 		"title-short": "Earthly Delights",
 		"author": [
 			{
@@ -137,7 +138,7 @@
 				"given": "Julia"
 			}
 		],
-		"container-author": [
+		"editor": [
 			{
 				"family": "Jones",
 				"given": "Martin H."
@@ -253,6 +254,7 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/S5R5YJX4",
 		"type": "book",
+		"abstract": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
 		"language": "German",
 		"number-of-pages": "313",
 		"publisher": "Eduard Amthor",
@@ -357,15 +359,9 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/5831087/items/ANCJUDP2",
-		"type": "manuscript",
-		"publisher-place": "D-Mbs Cbm Cat. 65 a, vol. 3 (Clm 4451-8100)",
-		"title": "Regiae Bibliothecae Monacensis Codices latini mss. recensiti ab J. A. Schmellero",
-		"title-short": "Regiae Bibliothecae"
-	},
-	{
 		"id": "http://zotero.org/groups/5831087/items/Z4JQDIQ3",
 		"type": "book",
+		"abstract": "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.; Supplemented by Nachträge (Regensburg, G.H. Manz, 1884. 89 p.); \"Quellen\": v. 1, p. 1-13",
 		"language": "ger",
 		"number-of-pages": "762",
 		"publisher": "Georg Joseph Manz",
@@ -391,8 +387,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/5S3GSU9Q",
 		"type": "book",
-		"edition": "Max Hettler",
 		"number-of-volumes": "3",
+		"publisher": "Max Hettler",
 		"publisher-place": "Stuttgart",
 		"title": "Verzierte gotische Einbände im alten deutschen Sprachgebiet",
 		"title-short": "Verzierte gotische",
@@ -406,9 +402,11 @@
 			"date-parts": [
 				[
 					"1951"
+				],
+				[
+					"1958"
 				]
-			],
-			"season": "1958"
+			]
 		}
 	},
 	{
@@ -436,6 +434,7 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/F2IRYXU8",
 		"type": "book",
+		"abstract": "1969. 978-3-406-00689-0. Die Reihe „Mittelalterliche Bibliothekskataloge Deutschlands und der Schweiz“, die die  Bayerische A…",
 		"language": "de",
 		"publisher": "Beck",
 		"publisher-place": "München",
@@ -587,29 +586,6 @@
 			"date-parts": [
 				[
 					"2004"
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/groups/5831087/items/MSHZN44Z",
-		"type": "speech",
-		"event-place": "Basel",
-		"event-title": "Carmina Burana : from Source to Sound. Colloque de la Schola Cantorum Basiliensis",
-		"title": "Musical Ghosts: The Goliardic Verse in the Codex Buranus",
-		"title-short": "Musical Ghosts",
-		"author": [
-			{
-				"family": "Daolmi",
-				"given": "Davide"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2025",
-					11,
-					21
 				]
 			]
 		}
@@ -950,7 +926,7 @@
 		],
 		"editor": [
 			{
-				"family": "Bachmann,",
+				"family": "Bachmann",
 				"given": "Wolf"
 			}
 		],
@@ -1622,7 +1598,7 @@
 		"issued": {
 			"date-parts": [
 				[
-					"1907"
+					"1807"
 				]
 			]
 		}
@@ -2154,7 +2130,7 @@
 		"volume": "97",
 		"author": [
 			{
-				"family": "Ward,",
+				"family": "Ward",
 				"given": "Aengus"
 			}
 		],
@@ -2613,9 +2589,11 @@
 			"date-parts": [
 				[
 					"1961"
+				],
+				[
+					"1969"
 				]
-			],
-			"season": "1969"
+			]
 		}
 	},
 	{
@@ -2637,7 +2615,7 @@
 				"given": "David"
 			}
 		],
-		"original-date": {
+		"issued": {
 			"date-parts": [
 				[
 					"2003"
@@ -2694,10 +2672,10 @@
 		"type": "chapter",
 		"collection-number": "15",
 		"collection-title": "Germanistische Reihe",
-		"container-title": "Literatur und Bildende Kunst im Tiroler Mittelalter.",
+		"container-title": "Literatur und Bildende Kunst im Tiroler Mittelalter",
 		"language": "de",
 		"page": "183-207",
-		"publisher": "Institut für Germanistik",
+		"publisher": "H. Kowatsch",
 		"publisher-place": "Innsbruck",
 		"title": "Das Fortuna-Bild der \"Carmina Buran\"-Handschrift Clm 4660. Eine Darstellung der Fortuna caesarea Kaiser Friedrichs II.?",
 		"title-short": "Fortuna-Bild",
@@ -2828,9 +2806,11 @@
 			"date-parts": [
 				[
 					"1925"
+				],
+				[
+					"1929"
 				]
-			],
-			"season": "1929"
+			]
 		}
 	},
 	{
@@ -2876,9 +2856,11 @@
 			"date-parts": [
 				[
 					"1965"
+				],
+				[
+					"1966"
 				]
-			],
-			"season": "1966"
+			]
 		}
 	},
 	{
@@ -2965,11 +2947,11 @@
 		"id": "http://zotero.org/groups/5831087/items/A4MNDSAK",
 		"type": "book",
 		"language": "en",
+		"number-of-volumes": "3",
 		"publisher": "Classical Folia",
 		"publisher-place": "Concord, N.H.",
 		"title": "Secular Latin Lyrics and Minor Poetic Forms of the Middle Ages: A Historical Survey and Literary Repertory from the Tenth to the Late Fifteenth Century",
 		"title-short": "Secular Latin",
-		"volume": "I-III",
 		"author": [
 			{
 				"family": "Szövérffy",
@@ -2980,9 +2962,11 @@
 			"date-parts": [
 				[
 					"1992"
+				],
+				[
+					"1995"
 				]
-			],
-			"season": "1995"
+			]
 		}
 	},
 	{
@@ -3173,6 +3157,7 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/RU84CD7H",
 		"type": "book",
+		"abstract": "Weger - 2004 - Prezzi bassi su copie di libri nuovi e usati. Politica di restituzione entro 30 giorni",
 		"language": "it",
 		"publisher": "Weger",
 		"publisher-place": "Bressanone",
@@ -3345,6 +3330,7 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/IWMJZZPM",
 		"type": "book",
+		"abstract": "📚 24 cm. 218 S. Broschiert Zustand: Gut bis Sehr Gut min. gebräunt (Innen); Einband (Außen) hat geringe Gebrauchsspuren; Schnitt unten gering angestaubt, oben l…",
 		"collection-number": "6",
 		"collection-title": "Beihefte zum Mittellateinischen Jahrbuch",
 		"language": "de",
@@ -3686,6 +3672,7 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/ZNXV7B4S",
 		"type": "article-journal",
+		"abstract": "Explore millions of resources from scholarly journals, books, newspapers, videos and more, on the ProQuest Platform.",
 		"container-title": "Sandalion",
 		"language": "de",
 		"page": "353-368",
@@ -3741,7 +3728,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/45NH97TL",
 		"type": "book",
-				"ISBN": "978-0-19-812119-0",
+		"abstract": "xix,511p. ; 17 cm; Includes index",
+		"ISBN": "978-0-19-812119-0",
 		"language": "lat",
 		"number-of-pages": "542",
 		"publisher": "Clarendon Press",
@@ -3798,7 +3786,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/JDEWHQ2Z",
 		"type": "book",
-				"language": "en",
+		"abstract": "Presented in their original medieval Latin and with commentary and notes in English, this is a translation of thirty poems from Carmina Burana.The Carmina Buran…",
+		"language": "en",
 		"publisher": "Department of Classics, University of Reading",
 		"publisher-place": "Reading",
 		"title": "Thirty Poems from the Carmina Burana",
@@ -3888,7 +3877,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/IX3BTNZC",
 		"type": "book",
-				"language": "fr",
+		"abstract": "Imprimerie nationale - 1995 - Des prix avantageux sur les livres neufs et d'occasion. Politique de retour de 30 jours",
+		"language": "fr",
 		"publisher": "Imprimerie nationale",
 		"publisher-place": "Paris",
 		"title": "Carmina Burana",
@@ -4088,9 +4078,11 @@
 			"date-parts": [
 				[
 					"1979"
+				],
+				[
+					"1980"
 				]
-			],
-			"season": "1980"
+			]
 		}
 	},
 	{
@@ -4157,9 +4149,11 @@
 			"date-parts": [
 				[
 					"1941"
+				],
+				[
+					"1943"
 				]
-			],
-			"season": "1943"
+			]
 		}
 	},
 	{
@@ -4456,20 +4450,9 @@
 		"publisher": "Stöffler & Schütz",
 		"publisher-place": "Stuttgart",
 		"source": "swisscovery.slsp.ch",
-		"title": "Walther von der Vogelweide: Beiträge zu Leben und Werk : [Günther Schweikle zum 60. Geburtstag]",
+		"title": "Walther von der Vogelweide: Beiträge zu Leben und Werk: Günther Schweikle zum 60. Geburtstag",
 		"title-short": "Walther von der V.",
 		"author": [
-			{
-				"family": "Schweikle",
-				"given": "Günther"
-			},
-			{
-				"family": "Mück",
-				"given": "Hans-Dieter"
-			},
-			{
-				"literal": "Internationale Tagung zu Walther von der Vogelweide"
-			},
 			{
 				"family": "Mück",
 				"given": "Hans-Dieter"
@@ -4646,8 +4629,8 @@
 		"type": "chapter",
 		"collection-title": "Schriftenreihe der Nibelungenlied-Gesellschaft Worms",
 		"container-title": "Dichtung und Musik der Stauferzeit. Wissenschaftliches Symposium der Stadt Worms vom 12. bis 14. November 2010",
-		"edition": "Worms Verlag",
 		"page": "69-123",
+		"publisher": "Worms Verlag",
 		"publisher-place": "Worms",
 		"title": "Wie klang Minnesang? eine Skizze zum Klangbild an den Höfen der staufischen Epoche",
 		"title-short": "Wie klang Minnesang",
@@ -4763,7 +4746,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/B8TELFNE",
 		"type": "book",
-				"language": "en",
+		"abstract": "Hardcover - Cambridge University Press - 1986 - XVII, 554 pp. -TEXT IN ENGLISH- -Bitte beachten Sie: Aufgrund der neuen Zollbestimmungen der USA und der daraus folgenden Aussetzung des Warenversandes durch DHL / Deutsche Post können Bestellungen aus den USA nicht ausgeführt werden / Please note: Due to the new US customs regulations and the resulting suspension of shipments by DHL / Deutsche Post, orders from the US cannot be processed- Sprache: Englisch Gewicht in Gramm: 1100 Large 8vo. Hardcover, ex-library copy with back label, library signs and stamps, binding a bit rubbed and partially a bit bumped, inside fine. - Words and music in the Middle Ages. Song, narrative, dance and drama, 1050 - 1350. (= Cambridge Studies in Music).",
+		"language": "en",
 		"publisher": "Cambridge University Press",
 		"publisher-place": "Cambridge",
 		"title": "Words and Music in the Middle Ages. Song, Narrative, Dance and Drama, 1050 - 1350.",
@@ -4904,7 +4888,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/VHYYYK9M",
 		"type": "book",
-				"ISBN": "978-3-484-10400-6",
+		"abstract": "Niedrige Preise für neue und gebrauchte Exemplare von Büchern. 30 Tage Rückgaberecht",
+		"ISBN": "978-3-484-10400-6",
 		"language": "de",
 		"publisher": "Max Niemeyer Verlag",
 		"publisher-place": "Tübingen",
@@ -4969,7 +4954,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/MK3EDVQP",
 		"type": "book",
-				"publisher": "Francke Verlag",
+		"abstract": "Literatur - Gr.-Oktav. Ln. 664 S",
+		"publisher": "Francke Verlag",
 		"publisher-place": "Tübingen",
 		"source": "Amazon",
 		"title": "Wege in die Schriftlichkeit: Untersuchungen und Materialien zur Überlieferung der mittelhochdeutschen Lyrik",
@@ -5286,9 +5272,11 @@
 			"date-parts": [
 				[
 					"1905"
+				],
+				[
+					"1906"
 				]
-			],
-			"season": "1906"
+			]
 		}
 	},
 	{
@@ -5354,7 +5342,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/UG5BPV6D",
 		"type": "book",
-				"ISBN": "978-3-7494-6019-9",
+		"abstract": "Mittelalterliche Liedersammlung - Carmina Burana von Thomas Scharler (ISBN 978-3-7494-6019-9) online kaufen | Sofort-Download - lehmanns.ch",
+		"ISBN": "978-3-7494-6019-9",
 		"language": "de",
 		"publisher": "Scharler",
 		"title": "Mittelalterliche Liedersammlung - Carmina Burana",
@@ -5549,9 +5538,11 @@
 			"date-parts": [
 				[
 					"1907"
+				],
+				[
+					"1909"
 				]
-			],
-			"season": "1908, 1908-1909"
+			]
 		}
 	},
 	{
@@ -5780,6 +5771,13 @@
 					25
 				]
 			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
 		}
 	},
 	{
@@ -5935,36 +5933,10 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/5831087/items/HWZ5549C",
-		"type": "chapter",
-		"collection-title": "Basler Beiträge zur historischen Musikpraxis",
-		"container-title": "Carmina Burana. From Source to Sound",
-		"page": "à paraître",
-		"publisher": "Schwabe",
-		"publisher-place": "Basel",
-		"title": "L'accent dans les Carmina Burana",
-		"title-short": "Accent",
-		"volume": "45",
-		"author": [
-			{
-				"family": "Bourgain",
-				"given": "Pascale"
-			}
-		],
-		"editor": [
-			{
-				"family": "Cazaux",
-				"given": "Christelle"
-			}
-		],
-		"issued": {
-			"literal": "à paraître"
-		}
-	},
-	{
 		"id": "http://zotero.org/groups/5831087/items/ELWB29LP",
 		"type": "chapter",
-				"collection-number": "11",
+		"abstract": "none",
+		"collection-number": "11",
 		"collection-title": "Biblioteca di arte",
 		"container-title": "Il libro miniato e il suo committente. Per la ricostruzione delle biblioteche ecclesiastiche del Medioevo italiano (secoli XI-XIV)",
 		"ISBN": "978-88-7115-909-6",
@@ -6017,7 +5989,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/LEWH8WBD",
 		"type": "book",
-				"language": "it",
+		"abstract": "Questo volume fa parte dei volumi editi dalla Società di Studi Trentini di Scienze Storiche.\n\n\nLa copia è stata digitalizzata dalla Biblioteca della Fondazione Bruno Kessler, in collaborazione con la Società di Studi Trentini di Scienze Storiche, nell’ambito del progetto DIGIT – L’archivio aperto: digitalizzazione dell’editoria culturale e scientifica del Trentino, finanziato dalla Fondazione Caritro.\n\nPremessa, p. 5Fonti e Bibliografia, p. 7Introduzione, p. 17– Il Capitolo e il Principato vescovile di Trento nel XIII secolo, p. 17– Struttura, diritti e beni del Capitolo, p. 20– Produzione e conservazione della documentazione capitolare, p. 26– L'Archivio del Capitolo: fortuna storiografica ed edizioni, p. 39– Caratteri e limiti di questa raccolta, p. 42Note preliminari, p. 45– I regesti, p. 45– L'onomastica, p. 50– La toponomastica, p. 51– Le monete, p. 51– Le unità di misura, p. 52Regesti dei documenti del Capitolo, 1147-1303, p. 55Appendici, p. 423– Documenti attualmente presenti nell'Archivio del Capitolo di Trento ma non aventi a che fare con il Capitolo della cattedrale, p. 425– L'inventario del 1284, p. 435Indice dei nomi e dei luoghi, p. 445Indice dei notai rogatari, p. 531Sommario, p. 536",
+		"language": "it",
 		"publisher": "Società di studi trentini di scienze storiche",
 		"publisher-place": "Trento",
 		"title": "I documenti del Capitolo della cattedrale di Trento : regesti, 1147-1303",
@@ -6100,7 +6073,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/3264V67I",
 		"type": "book",
-				"collection-number": "Reihe IV",
+		"abstract": "Bestellen sie jetzt Die mittelalterlichen Handschriften in der Bibliothek des Augustiner Chorherrenstiftes Neustift in unserem Verlagswebshop.",
+		"collection-number": "Reihe IV",
 		"collection-title": "Veröffentlichungen der Kommission für Schrift- und Buchwesen des Mittelalters.",
 		"ISBN": "978-3-7001-8625-0",
 		"language": "de",
@@ -6141,7 +6115,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/INSLH6KA",
 		"type": "book",
-				"language": "de",
+		"abstract": "Der Artikel Beate Kellner, Susanne Reichlin u. Alexander Rudolph (Hgg.): Handbuch Minnesang, Berlin u. Boston: de Gruyter 2021, XI, 845 S. wurde am 1. März 2024 in der Zeitschrift Beiträge zur Geschichte der deutschen Sprache und Literatur (Band 146, Heft 1) veröffentlicht.",
+		"language": "de",
 		"license": "De Gruyter expressly reserves the right to use all content for commercial text and data mining within the meaning of Section 44b of the German Copyright Act.",
 		"note": "publisher: De Gruyter",
 		"number-of-pages": "XI-845",
@@ -6209,7 +6184,7 @@
 		"id": "http://zotero.org/groups/5831087/items/JWKTQCM3",
 		"type": "book",
 		"number-of-pages": "640",
-		"publisher": "Tyrolia",
+		"publisher": "Tyrolia Verlag",
 		"publisher-place": "Innsbruck",
 		"title": "Geschichte der Kirche in Tirol: Nord-, Ost- und Südtirol",
 		"title-short": "Geschichte",
@@ -6294,7 +6269,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/SGGAQTAJ",
 		"type": "book",
-				"ISBN": "978-3-484-89084-8",
+		"abstract": "Geistliches Schauspiel im Zeugnis der Zeit von Bernd Neumann wurde am 11. November 1993 von Max Niemeyer Verlag veröffentlicht.",
+		"ISBN": "978-3-484-89084-8",
 		"language": "de",
 		"license": "De Gruyter expressly reserves the right to use all content for commercial text and data mining within the meaning of Section 44b of the German Copyright Act.",
 		"publisher": "Artemis Verlag",
@@ -6545,7 +6521,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/HT9AI7NW",
 		"type": "article-journal",
-				"container-title": "Caràcters: Revista de llibres de la Universitat de València",
+		"abstract": "Autoria: Ignasi-Xavier Adiego i Alejandra de Riquer\nTítol: Carmina Burana, música i poesia\nEditorial: Edicions de la Universitat de Barcelona i Publicacions de la Universitat Rovira i Virgili\n604 pàgines",
+		"container-title": "Caràcters: Revista de llibres de la Universitat de València",
 		"ISSN": "3020-9951",
 		"issue": "105",
 		"language": "ca",
@@ -6742,9 +6719,11 @@
 			"date-parts": [
 				[
 					"1959"
+				],
+				[
+					"1985"
 				]
-			],
-			"season": "1985"
+			]
 		}
 	},
 	{
@@ -6765,9 +6744,11 @@
 			"date-parts": [
 				[
 					"1927"
+				],
+				[
+					"1934"
 				]
-			],
-			"season": "1934"
+			]
 		}
 	},
 	{
@@ -6834,7 +6815,7 @@
 		"issued": {
 			"date-parts": [
 				[
-					"2023"
+					"2022"
 				]
 			]
 		}
@@ -6955,7 +6936,7 @@
 		"publisher": "SISMEL edizioni del Galluzzo",
 		"publisher-place": "Firenze",
 		"title": "I manoscritti medievali di Trento e provincia",
-		"title-short": "Manoscritti medievali",
+		"title-short": "Manoscritti medievali 2",
 		"URL": "https://www.sismel.it/pubblicazioni/1168-i-manoscritti-medievali-di-trento-e-provincia",
 		"editor": [
 			{
@@ -7017,7 +6998,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/WFZ9FQDF",
 		"type": "book",
-				"number-of-pages": "382",
+		"abstract": "Titel: Beschreibendes Verzeichnis der illuminierten Handschriften in Oesterreich. Band 1: Die illuminierten Handschriften in Tirol\nPublisher Leipzig: Hirsemann, 1905\nsource http://hdl.handle.net/2027/mdp.39015028853342",
+		"number-of-pages": "382",
 		"publisher": "Hiersemann",
 		"publisher-place": "Leipzig",
 		"source": "Internet Archive",
@@ -7230,7 +7212,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/TGJNYDXE",
 		"type": "chapter",
-				"container-title": "La ricerca musicale in Trentino-Alto Adige. Manoscritti, edizioni e frammenti liturgici",
+		"abstract": "OPERA COMPLETA",
+		"container-title": "La ricerca musicale in Trentino-Alto Adige. Manoscritti, edizioni e frammenti liturgici",
 		"language": "it-it",
 		"page": "191-247",
 		"publisher": "Libreria musicale italiana",
@@ -7279,7 +7262,7 @@
 		"publisher": "Vita Trentina",
 		"publisher-place": "Trento",
 		"source": "swisscovery.slsp.ch",
-		"title": "Manoscritti liturgici della Diocesi di Trento dal secolo XI: catalogo-inventario",
+		"title": "Manoscritti liturgici della diocesi di Trento dal secolo XI: catalogo-inventario",
 		"title-short": "Manoscritti liturgici",
 		"author": [
 			{
@@ -7303,9 +7286,10 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/HMKWJKN6",
 		"type": "book",
-		"publisher": "Landesmuseum Ferdinandeum; Wagner",
+		"number-of-volumes": "3",
+		"publisher": "Wagner",
 		"publisher-place": "Innsbruck",
-		"title": "Tiroler Urkundenbuch. I Abteilung: die Urkunden zur Geschichte des Deutschen Etschlandes und des Vintschgaus. I. Band: bis zum Jahr 1200",
+		"title": "Tiroler Urkundenbuch. I Abteilung: Die Urkunden zur Geschichte des Deutschen Etschlandes und des Vintschgaus",
 		"title-short": "Tiroler Urkundenbuch",
 		"author": [
 			{
@@ -7317,6 +7301,9 @@
 			"date-parts": [
 				[
 					"1937"
+				],
+				[
+					"1957"
 				]
 			]
 		}
@@ -7377,7 +7364,7 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/BTEF25A4",
 		"type": "book",
-		"abstract": "Il 'Liber Sancti Vigilii' (indicato da una lunga tradizione storiografica con il nome di 'Codex Wangianus') è ilmonumentale volume in pergamena nel quale il principe vescovo di TrentoFederico Wanga fece trascrivere, tra il 1215 e il 1218, la documentazione utileper attestare e difendere i beni e i diritti della Chiesa trentina. Grazieanche alle integrazioni successive e alla copia (il codice detto'Maior') fatta redigere dal vescovo Nicolò da Brno tra il 1344 e il1345, esso costituisce la più importante fonte documentaria per la storiatrentina dei secoli centrali del medioevo (al suo interno si trova, tral'altro, un'importante sezione dedicata all'attività mineraria). Fu pubblicatoper la prima volta, in modo parziale, nel 1852. La nuova edizione non solomette a disposizione i singoli documenti secondo aggiornati criteriscientifici, ma presenta e discute la natura stessa della fonte. I testi sonoaccompagnati da un'ampia introduzione e da indici e apparati; al volume èallegata la riproduzione fotografica digitalizzata del documento su DVD.Emanuele Curzel sioccupa principalmente della storia delle istituzioni ecclesiastiche delladiocesi trentina: episcopato, capitolo della cattedrale, pievi e parrocchie,santuari. Ha curato, sempre per la collana 'Fonti', 'Documentipapali per la storia trentina (fino al 1341)' (Il Mulino, 2004) e 'Lepergamene dell'Archivio della Prepositura di Trento (1154-1297)' ( assiemea Gian Maria Varanini e Sonia Gentilini, Il Mulino, 2004). Gian Maria VaraniniinsegnaStoria medievale nell'Università di Verona.",
+		"abstract": "Il 'Liber Sancti Vigilii' (indicato da una lungatradizione storiografica con il nome di 'Codex Wangianus') è ilmonumentale volume in pergamena nel quale il principe vescovo di TrentoFederico Wanga fece trascrivere, tra il 1215 e il 1218, la documentazione utileper attestare e difendere i beni e i diritti della Chiesa trentina. Grazieanche alle integrazioni successive e alla copia (il codice detto'Maior') fatta redigere dal vescovo Nicolò da Brno tra il 1344 e il1345, esso costituisce la più importante fonte documentaria per la storiatrentina dei secoli centrali del medioevo (al suo interno si trova, tral'altro, un'importante sezione dedicata all'attività mineraria). Fu pubblicatoper la prima volta, in modo parziale, nel 1852. La nuova edizione non solomette a disposizione i singoli documenti secondo aggiornati criteriscientifici, ma presenta e discute la natura stessa della fonte. I testi sonoaccompagnati da un'ampia introduzione e da indici e apparati; al volume èallegata la riproduzione fotografica digitalizzata del documento su DVD.Emanuele Curzel sioccupa principalmente della storia delle istituzioni ecclesiastiche delladiocesi trentina: episcopato, capitolo della cattedrale, pievi e parrocchie,santuari. Ha curato, sempre per la collana 'Fonti', 'Documentipapali per la storia trentina (fino al 1341)' (Il Mulino, 2004) e 'Lepergamene dell'Archivio della Prepositura di Trento (1154-1297)' ( assiemea Gian Maria Varanini e Sonia Gentilini, Il Mulino, 2004). Gian Maria VaraniniinsegnaStoria medievale nell'Università di Verona.",
 		"language": "it",
 		"number-of-volumes": "2 + CD",
 		"publisher": "Il Mulino",
@@ -7445,7 +7432,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/9MJAY6TX",
 		"type": "book",
-				"language": "it",
+		"abstract": "Volumi della collana Fonti dell'Istituto storico italo-germanico ITC/FBK (editore il Mulino). \n Biblioteca Fondazione Bruno Kessler (Trento)",
+		"language": "it",
 		"publisher": "Il Mulino",
 		"publisher-place": "Bologna",
 		"source": "Internet Archive",
@@ -7733,39 +7721,6 @@
 		}
 	},
 	{
-		"id": "http://zotero.org/groups/5831087/items/IA4FM3Q9",
-		"type": "webpage",
-		"title": "Carmina Burana (Bibliotheca Augustana)",
-		"title-short": "CB Bibliotheca Augustana",
-		"URL": "https://www.hs-augsburg.de/~harsch/Chronologia/Lspost13/CarminaBurana/bur_car0.html",
-		"accessed": {
-			"date-parts": [
-				[
-					"2026",
-					8,
-					4
-				]
-			]
-		}
-	},
-	{
-		"id": "http://zotero.org/groups/5831087/items/C2WCN57U",
-		"type": "webpage",
-		"language": "la",
-		"title": "Carmina Burana (Wikisource)",
-		"title-short": "CB Wikisource",
-		"URL": "https://la.wikisource.org/wiki/Carmina_Burana",
-		"accessed": {
-			"date-parts": [
-				[
-					"2026",
-					8,
-					4
-				]
-			]
-		}
-	},
-	{
 		"id": "http://zotero.org/groups/5831087/items/T7N2PCGI",
 		"type": "article-journal",
 		"container-title": "Sitzungsberichte der Bayerischen Akademie der Wissenschaften, philosophisch-philologische Klasse",
@@ -7841,9 +7796,11 @@
 			"date-parts": [
 				[
 					"1924"
+				],
+				[
+					"1925"
 				]
-			],
-			"season": "1925"
+			]
 		}
 	},
 	{
@@ -7903,9 +7860,11 @@
 			"date-parts": [
 				[
 					"1965"
+				],
+				[
+					"1968"
 				]
-			],
-			"season": "1968"
+			]
 		}
 	},
 	{
@@ -8073,13 +8032,19 @@
 		"page": "397-443",
 		"title": "Les prophètes du Christ, étude sur les origines du théâtre au Moyen Âge (V)",
 		"title-short": "Prophètes du Christ V",
-		"volume": "1877",
 		"author": [
 			{
 				"family": "Sepet",
 				"given": "Marius"
 			}
-		]
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1877"
+				]
+			]
+		}
 	},
 	{
 		"id": "http://zotero.org/groups/5831087/items/NT4HH7D9",
@@ -8234,9 +8199,11 @@
 			"date-parts": [
 				[
 					"1973"
+				],
+				[
+					"1976"
 				]
-			],
-			"season": "1976"
+			]
 		}
 	},
 	{
@@ -8274,7 +8241,14 @@
 				"family": "Du Méril",
 				"given": "Édélestand"
 			}
-		]
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1849"
+				]
+			]
+		}
 	},
 	{
 		"id": "http://zotero.org/groups/5831087/items/25SKZAFI",
@@ -8742,12 +8716,6 @@
 			{
 				"family": "Lipphardt",
 				"given": "Walther"
-			}
-		],
-		"editor": [
-			{
-				"family": "Institut für Musikwissenschaft der Karl-Marx-Universität",
-				"given": ""
 			}
 		],
 		"issued": {
@@ -9325,7 +9293,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/HYWJPC58",
 		"type": "book",
-				"ISBN": "978-0-19-814325-3",
+		"abstract": "2 volumes ; 24 cm; Includes bibliographical references and index; \"The present sketch of the history of the secular Latin poetry of the middle ages is in some measure complementary to my History of Christian-Latin poetry ... published by the Clarendon Press in 1927\"--Preface",
+		"ISBN": "978-0-19-814325-3",
 		"language": "eng",
 		"number-of-pages": "410",
 		"number-of-volumes": "2",
@@ -9463,7 +9432,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/K73KDVFG",
 		"type": "book",
-				"language": "de",
+		"abstract": "\"Studien zu Entstehung und Geschichte der Deutschen …\" von Rolf Bergmann jetzt Erstausgabe bestellen ✓ Preisvergleich ✓ Käuferschutz ✓ Wir ♥ Bücher!",
+		"language": "de",
 		"number-of-pages": "297",
 		"publisher": "Wilhelm Fink",
 		"publisher-place": "München",
@@ -10078,7 +10048,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/CJNTRRQL",
 		"type": "book",
-				"language": "fr",
+		"abstract": "Monophonic Songs",
+		"language": "fr",
 		"publisher": "University of Nebraska Press",
 		"publisher-place": "Lincoln",
 		"source": "Internet Archive",
@@ -10276,7 +10247,7 @@
 		"publisher-place": "Göppingen",
 		"title": "Plurilingualism in the Carmina Burana. A Study of the Linguistic and Literary Influences on the Codex",
 		"title-short": "Plurilingualism",
-		"contributor": [
+		"author": [
 			{
 				"family": "Sayce",
 				"given": "Olive"
@@ -10332,7 +10303,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/65D78LXP",
 		"type": "article-journal",
-				"container-title": "Estudios Filológicos Alemanes",
+		"abstract": "Für die deutschsprachigen Passions-und Osterspiele haben sich landschaftliche Herkunftsbegriffe wie ‚Hessische Passionsspielgruppe&#39; (Johannes Janota) oder ‚schweizerische [Oster]Feiern&#39; (Helmut de Boor) durchgesetzt, was mitunter dazu führen",
+		"container-title": "Estudios Filológicos Alemanes",
 		"language": "de",
 		"page": "377-388",
 		"source": "www.academia.edu",
@@ -10404,7 +10376,7 @@
 		"container-title": "Literatur und bildende Kunst im Tiroler Mittelalter",
 		"language": "de",
 		"page": "209-223",
-		"publisher": "Institut für Germanistik",
+		"publisher": "H. Kowatsch",
 		"publisher-place": "Innsbruck",
 		"source": "COinS",
 		"title": "Zur Herkunft der Carmina Burana",
@@ -10647,7 +10619,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/JWM9EH3P",
 		"type": "article-journal",
-				"container-title": "Nottingham Medieval Studies",
+		"abstract": "From the tenth through the twelfth centuries some manuscripts containing Virgil&#39;s poems contain the musical notation known as neumes. Thereafter such notation of Virgil apparently ceases for centuries. The neumes (and singing) may have fallen by",
+		"container-title": "Nottingham Medieval Studies",
 		"language": "en",
 		"page": "447-466",
 		"source": "www.academia.edu",
@@ -11317,9 +11290,11 @@
 			"date-parts": [
 				[
 					"1943"
+				],
+				[
+					"1950"
 				]
-			],
-			"season": "1950"
+			]
 		}
 	},
 	{
@@ -11595,9 +11570,11 @@
 			"date-parts": [
 				[
 					"1928"
+				],
+				[
+					"1929"
 				]
-			],
-			"season": "1929"
+			]
 		}
 	},
 	{
@@ -11683,9 +11660,11 @@
 			"date-parts": [
 				[
 					"1981"
+				],
+				[
+					"1982"
 				]
-			],
-			"season": "1982"
+			]
 		}
 	},
 	{
@@ -11800,9 +11779,11 @@
 			"date-parts": [
 				[
 					"1973"
+				],
+				[
+					"1974"
 				]
-			],
-			"season": "1974"
+			]
 		}
 	},
 	{
@@ -11888,9 +11869,11 @@
 			"date-parts": [
 				[
 					"1958"
+				],
+				[
+					"1965"
 				]
-			],
-			"season": "1965"
+			]
 		}
 	},
 	{
@@ -12483,7 +12466,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/NTR3K7TS",
 		"type": "article-journal",
-				"container-title": "Beiträge zur Geschichte der deutschen Sprache und Literatur",
+		"abstract": "Der Artikel DEUTSCH UND LATEIN ALS SPRACHEN DER LYRIK IN DEN ›CARMINA BURANA‹ wurde am 1. Januar 2000 in der Zeitschrift Beiträge zur Geschichte der deutschen Sprache und Literatur (Band 122, Heft 1) veröffentlicht.",
+		"container-title": "Beiträge zur Geschichte der deutschen Sprache und Literatur",
 		"DOI": "10.1515/bgsl.2000.122.1.57",
 		"ISSN": "1865-9373",
 		"issue": "1",
@@ -12958,9 +12942,11 @@
 			"date-parts": [
 				[
 					"1923"
+				],
+				[
+					"1924"
 				]
-			],
-			"season": "1924"
+			]
 		}
 	},
 	{
@@ -13273,18 +13259,20 @@
 				"given": "Luther"
 			}
 		],
-		"issued": {
-			"date-parts": [
-				[
-					"1964"
-				]
-			],
-			"season": "1978"
-		},
 		"original-date": {
 			"date-parts": [
 				[
 					"1910"
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1964"
+				],
+				[
+					"1978"
 				]
 			]
 		}
@@ -13743,7 +13731,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/CXLCVBSR",
 		"type": "book",
-				"language": "de__ZVAB",
+		"abstract": "Hardcover - Deutscher Klassiker Verlag,, (Frankfurt am Main) - 1987 - Blauer OLwd. (Bibliothek des Mittelalters 13). Sehr gutes Exemplar. - CARMINA BURANA. Texte u. Übersetzungen. Mit den Miniaturen aus der Handschrift u. einem Aufsatz v. P. u. D. Diemer. Hrsg. v. B. K. Vollmann",
+		"language": "de__ZVAB",
 		"publisher": "Deutscher Klassiker Verlag",
 		"publisher-place": "Frankfurt am Main",
 		"title": "Carmina Burana. Texte und Übersetzungen. Mit den Miniaturen aus der Handschrift und einem Aufsatz von P. u. D. Diemer.",
@@ -13836,7 +13825,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/SIL65SGT",
 		"type": "book",
-				"language": "de",
+		"abstract": "CARMINA BURANA* Lateinisch-deutsch – Bücher gebraucht, antiquarisch & neu kaufen ✓ Preisvergleich ✓ Käuferschutz ✓ Wir ♥ Bücher!",
+		"language": "de",
 		"publisher": "Philipp Reclam",
 		"publisher-place": "Stuttgart",
 		"title": "Carmina Burana Lateinisch-Deutsch",
@@ -14099,9 +14089,11 @@
 			"date-parts": [
 				[
 					"1941"
+				],
+				[
+					"1943"
 				]
-			],
-			"season": "1943"
+			]
 		}
 	},
 	{
@@ -14451,9 +14443,11 @@
 			"date-parts": [
 				[
 					"1972"
+				],
+				[
+					"1975"
 				]
-			],
-			"season": "1975"
+			]
 		}
 	},
 	{
@@ -14798,10 +14792,9 @@
 		"issued": {
 			"date-parts": [
 				[
-					"1974"
+					"1977"
 				]
-			],
-			"season": "1977"
+			]
 		}
 	},
 	{
@@ -14938,9 +14931,11 @@
 			"date-parts": [
 				[
 					"2001"
+				],
+				[
+					"2003"
 				]
-			],
-			"season": "2003"
+			]
 		}
 	},
 	{
@@ -15008,9 +15003,11 @@
 			"date-parts": [
 				[
 					"1944"
+				],
+				[
+					"1963"
 				]
-			],
-			"season": "1963"
+			]
 		}
 	},
 	{
@@ -15338,9 +15335,11 @@
 			"date-parts": [
 				[
 					"1930"
+				],
+				[
+					"1931"
 				]
-			],
-			"season": "1931"
+			]
 		}
 	},
 	{
@@ -15514,9 +15513,11 @@
 			"date-parts": [
 				[
 					"1927"
+				],
+				[
+					"1928"
 				]
-			],
-			"season": "1928"
+			]
 		}
 	},
 	{
@@ -15648,7 +15649,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/IMK4Y6YL",
 		"type": "chapter",
-				"container-title": "Lied im deutschen Mittelalter: Überlieferung, Typen, Gebrauch. Chiemsee- Colloquium 1991",
+		"abstract": "Walthers Leich und das Carmen Buranum 60/60a Überlegungen zu einer Kontrafaktur was published in Lied im deutschen Mittelalter on page 43.",
+		"container-title": "Lied im deutschen Mittelalter: Überlieferung, Typen, Gebrauch. Chiemsee- Colloquium 1991",
 		"DOI": "10.1515/9783110925777-004",
 		"license": "De Gruyter expressly reserves the right to use all content for commercial text and data mining within the meaning of Section 44b of the German Copyright Act.",
 		"page": "43-56",
@@ -15734,7 +15736,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/ZN4ILZZI",
 		"type": "book",
-				"collection-title": "Classiques français du Moyen Âge",
+		"abstract": "Textes choisis, introduction, traduction, notes   et bibliographie par A. Micha, F. Joukovsky et P. Bühler",
+		"collection-title": "Classiques français du Moyen Âge",
 		"language": "fr",
 		"publisher": "Champion",
 		"publisher-place": "Paris",
@@ -15844,7 +15847,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/SJHSID2L",
 		"type": "book",
-				"ISBN": "3-7765-0274-6",
+		"abstract": "Carmina Burana-Gesamtausgabe der mittelalterlichen Melodien mit – Bücher gebraucht, antiquarisch & neu kaufen ✓ Preisvergleich ✓ Käuferschutz ✓ Wir ♥ Bücher!",
+		"ISBN": "3-7765-0274-6",
 		"language": "de",
 		"publisher": "Heimeran",
 		"publisher-place": "München",
@@ -16209,7 +16213,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/J3MPBMVL",
 		"type": "book",
-				"language": "it",
+		"abstract": "Carmina Burana. Testo Latino A Fronte è un libro di Rossi P. (Curatore) edito da Bompiani a ottobre 2002 - EAN 9788845253072: puoi acquistarlo sul sito HOEPLI.it, la grande libreria online.",
+		"language": "it",
 		"publisher": "Bompiani",
 		"publisher-place": "Milano",
 		"title": "Carmina Burana. Testo latino a fronte",
@@ -16689,7 +16694,14 @@
 				"family": "Klopsch",
 				"given": "Paul"
 			}
-		]
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1967"
+				]
+			]
+		}
 	},
 	{
 		"id": "http://zotero.org/groups/5831087/items/MX5AW9RM",
@@ -16747,7 +16759,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/55J32LV5",
 		"type": "thesis",
-				"language": "en",
+		"abstract": "Explore millions of resources from scholarly journals, books, newspapers, videos and more, on the ProQuest Platform.",
+		"language": "en",
 		"publisher": "University of California",
 		"publisher-place": "Berkeley",
 		"title": "Aquitanian Polyphony of the Eleventh and Twelth Centuries",
@@ -17618,14 +17631,14 @@
 		"title-short": "CB Today",
 		"author": [
 			{
+				"family": "Rodenkirchen",
+				"given": "Norbert"
+			},
+			{
 				"literal": "Candens Lilium"
 			},
 			{
 				"literal": "Les Haulz et les Bas"
-			},
-			{
-				"family": "Rodenkirchen",
-				"given": "Norbert"
 			}
 		],
 		"issued": {
@@ -17952,9 +17965,11 @@
 			"date-parts": [
 				[
 					"1949"
+				],
+				[
+					"1952"
 				]
-			],
-			"season": "1952"
+			]
 		}
 	},
 	{
@@ -18100,7 +18115,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/BU29KV3D",
 		"type": "article-journal",
-				"container-title": "Classica et Mediaevalia",
+		"abstract": "sur frag. IIIr",
+		"container-title": "Classica et Mediaevalia",
 		"page": "173-183",
 		"title": "Fragmentum Buranum",
 		"title-short": "Fragmentum Buranum",
@@ -18225,7 +18241,6 @@
 		"id": "http://zotero.org/groups/5831087/items/DGNXWHNE",
 		"type": "article-journal",
 		"container-title": "Exemplaria. A Journal of Theory in Medieval and Renaissance Studies",
-		"issue": "1994",
 		"page": "1-34",
 		"title": "Writing Flowers. Figuration and the Feminine in \"Carmina Burana\" 177",
 		"title-short": "Writing Flowers (CB 177)",
@@ -18235,7 +18250,14 @@
 				"family": "Peterson",
 				"given": "Jeffrey"
 			}
-		]
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
 	},
 	{
 		"id": "http://zotero.org/groups/5831087/items/DKEH4MXZ",
@@ -18543,7 +18565,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/Y6SKL3RD",
 		"type": "article-journal",
-				"container-title": "Der Altsprachliche Unterricht",
+		"abstract": "Der Friedrich Verlag unterstützt Lehrer mit Fachzeitschriften, Fachbüchern und erprobten Arbeitsmaterialien bei der Unterrichtsvorbereitung und -durchführung.",
+		"container-title": "Der Altsprachliche Unterricht",
 		"language": "de",
 		"page": "41-58",
 		"title": "Carmina Burana - nicht von Orff. Die Vertonungen des 13. Jahrhunderts",
@@ -18936,7 +18959,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/5WARE34Q",
 		"type": "article-journal",
-				"container-title": "Classica et Mediaevalia",
+		"abstract": "La poesie amoureuse en langue latine au Moyen Age / par Guy de Valous-book",
+		"container-title": "Classica et Mediaevalia",
 		"language": "fr",
 		"page": "285-345; 156-204; 146-197; 195-266",
 		"title": "La poésie amoureuse en langue latine au Moyen Âge",
@@ -18953,9 +18977,11 @@
 			"date-parts": [
 				[
 					"1952"
+				],
+				[
+					"1955"
 				]
-			],
-			"season": "1955"
+			]
 		}
 	},
 	{
@@ -19005,7 +19031,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/XGQGYXKZ",
 		"type": "article-journal",
-				"call-number": "ABX-3019",
+		"abstract": "Superseded by the Nachrichten of the various Fachgruppe of the Philologische historische Klasse; Supersedes in part the society's Nachrichten; Issued by the class under the earlier names of the society: 1894-1923, Königliche Gesellschaft der Wissenschaften zu Göttingen; 1924-33, Gesellschaft der Wissenschaften zu Göttingen; 26",
+		"call-number": "ABX-3019",
 		"container-title": "Nachrichten von der Königlischen Gesellschaft der Wissenschaften zu Göttingen, philologisch-historische Klasse",
 		"language": "ger",
 		"page": "449-496",
@@ -19439,7 +19466,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/7KL8MT99",
 		"type": "article-journal",
-				"container-title": "Zeitschrift für deutsches Altertum und deutsche Literatur",
+		"abstract": "réédité en 1971 dans WdF 112",
+		"container-title": "Zeitschrift für deutsches Altertum und deutsche Literatur",
 		"language": "de",
 		"page": "24-48",
 		"source": "COinS",
@@ -19517,7 +19545,7 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/VLSIES36",
 		"type": "article-journal",
-		"abstract": "The purpose of this paper is to criticize established doctrines in the field of metrical analysis of Middle High German verse by incriminating ‒ especially from a methodological view ‒ the inconsistency and arbitrarity of traditional scansion instruments. Thus, broad descriptive research on prosodic regularities, which a new metric theory of Middle High German verse could build upon, is shown to be a desideratum.",
+		"abstract": "Abstract\n            The purpose of this paper is to criticize established doctrines in the field of metrical analysis of Middle High German verse by incriminating ‒ especially from a methodological view ‒ the inconsistency and arbitrarity of traditional scansion instruments. Thus, broad descriptive research on prosodic regularities, which a new metric theory of Middle High German verse could build upon, is shown to be a desideratum.",
 		"container-title": "Beiträge zur Geschichte der deutschen Sprache und Literatur",
 		"issue": "3",
 		"language": "en",
@@ -19559,7 +19587,7 @@
 		"language": "de",
 		"page": "2316-2325",
 		"source": "JSTOR",
-		"title": "Melodische Notation in Handschriften Mit Deutschen Neumen",
+		"title": "Melodische Notation in Handschriften mit deutschen Neumen",
 		"title-short": "Melodische Notation",
 		"URL": "https://www.jstor.org/stable/20796086",
 		"volume": "16",
@@ -20474,7 +20502,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/JABDPT2J",
 		"type": "chapter",
-				"collection-number": "492",
+		"abstract": "sur CB 77",
+		"collection-number": "492",
 		"collection-title": "Göppinger Arbeiten zur Germanistik",
 		"container-title": "Festschrift für Paul Klopsch",
 		"page": "308-323",
@@ -21080,9 +21109,11 @@
 			"date-parts": [
 				[
 					"1996"
+				],
+				[
+					"2004"
 				]
-			],
-			"season": "2004"
+			]
 		}
 	},
 	{
@@ -21205,7 +21236,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/4YQZFT5P",
 		"type": "book",
-				"ISBN": "978-3-88226-281-0",
+		"abstract": "Gotische Schriften in deutscher Sprache von Karin Schneider (ISBN 978-3-88226-281-0) bestellen. Schnelle Lieferung, auch auf Rechnung - lehmanns.ch",
+		"ISBN": "978-3-88226-281-0",
 		"language": "de",
 		"number-of-pages": "514",
 		"publisher": "Reichert",
@@ -21284,7 +21316,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/EV37ATBJ",
 		"type": "book",
-				"collection-number": "21",
+		"abstract": "This book offers an overview of issues related to the regulated, formal organization of sound and speech in verse intended for singing. Particularly, ...",
+		"collection-number": "21",
 		"collection-title": "Varia musicologica",
 		"ISBN": "978-3-0351-0838-5",
 		"ISSN": "1660-8666",
@@ -21491,7 +21524,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/B833AYBW",
 		"type": "book",
-				"collection-number": "41",
+		"abstract": "Book by McMahon, James V.",
+		"collection-number": "41",
 		"collection-title": "Studies in German Literature, Linguistics, and Culture",
 		"ISBN": "978-0-938100-64-5",
 		"language": "English",
@@ -21518,7 +21552,6 @@
 		"id": "http://zotero.org/groups/5831087/items/4MUVVY9G",
 		"type": "book",
 		"language": "de",
-		"note": "publisher: S. Hirzel Verlag",
 		"number-of-volumes": "9",
 		"publisher": "De Gruyter",
 		"publisher-place": "Berlin",
@@ -21532,6 +21565,16 @@
 				"given": "Walther"
 			}
 		],
+		"issued": {
+			"date-parts": [
+				[
+					"1975"
+				],
+				[
+					"1981"
+				]
+			]
+		},
 		"accessed": {
 			"date-parts": [
 				[
@@ -21540,14 +21583,6 @@
 					25
 				]
 			]
-		},
-		"issued": {
-			"date-parts": [
-				[
-					"1975"
-				]
-			],
-			"season": "1981"
 		}
 	},
 	{
@@ -21618,7 +21653,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/QZXCMDED",
 		"type": "book",
-				"DOI": "10.1515/9783110942781",
+		"abstract": "Minnesangs Wende by Hugo Kuhn was published on July 22, 2011 by Max Niemeyer Verlag.",
+		"DOI": "10.1515/9783110942781",
 		"edition": "2",
 		"language": "de",
 		"publisher": "Niemeyer",
@@ -21703,7 +21739,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/7MHM8QXB",
 		"type": "book",
-				"language": "de",
+		"abstract": "\"Spiel der Liebe im Minnesang\" published on 10 Aug 2018 by Brill | Fink.",
+		"language": "de",
 		"publisher": "Wilhelm Fink",
 		"publisher-place": "Paderborn",
 		"source": "brill.com",
@@ -21768,7 +21805,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/IG5WK5WM",
 		"type": "book",
-				"language": "eng",
+		"abstract": "-",
+		"language": "eng",
 		"license": "https://creativecommons.org/licenses/by-nd/4.0/",
 		"publisher": "Stanford University Press",
 		"publisher-place": "Stanford",
@@ -21992,7 +22030,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/HFP3H82F",
 		"type": "book",
-				"ISBN": "978-1-896926-11-7",
+		"abstract": "v, 218 p. : 31 cm; Includes bibliographical references (p. 203-210) and index",
+		"ISBN": "978-1-896926-11-7",
 		"language": "eng",
 		"number-of-pages": "236",
 		"publisher": "The Institute of Mediæval Music",
@@ -22302,9 +22341,11 @@
 			"date-parts": [
 				[
 					"1840"
+				],
+				[
+					"1850"
 				]
-			],
-			"season": "1850"
+			]
 		}
 	},
 	{
@@ -22616,7 +22657,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/5S7EY8M7",
 		"type": "thesis",
-				"language": "en",
+		"abstract": "Explore millions of resources from scholarly journals, books, newspapers, videos and more, on the ProQuest Platform.",
+		"language": "en",
 		"publisher": "City University of New York",
 		"publisher-place": "New York",
 		"title": "The Exegetical Function of the Conductus in MS Egerton 2615",
@@ -22766,9 +22808,11 @@
 			"date-parts": [
 				[
 					"1989"
+				],
+				[
+					"1990"
 				]
-			],
-			"season": "1990"
+			]
 		}
 	},
 	{
@@ -23093,9 +23137,11 @@
 			"date-parts": [
 				[
 					"1892"
+				],
+				[
+					"1920"
 				]
-			],
-			"season": "1920"
+			]
 		}
 	},
 	{
@@ -23937,7 +23983,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/IUJUGACK",
 		"type": "article-journal",
-				"container-title": "Plainsong & Medieval Music",
+		"abstract": "Relevant books, articles, theses on the topic 'Carmina Burana.' Scholarly sources with full text pdf download. Related research topic ideas.",
+		"container-title": "Plainsong & Medieval Music",
 		"issue": "1",
 		"language": "en",
 		"page": "1-23",
@@ -24045,7 +24092,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/3H8WK46B",
 		"type": "article-journal",
-				"container-title": "Mediaeval Studies",
+		"abstract": "sur CB 50",
+		"container-title": "Mediaeval Studies",
 		"page": "217-226",
 		"title": "Heu voce flebili cogor enarrare",
 		"title-short": "Heu voce flebili",
@@ -24575,7 +24623,7 @@
 		"page": "119-148",
 		"publisher": "SISMEL edizioni del Galluzzo",
 		"publisher-place": "Firenze",
-		"title": "Rhythmischer Vers: Performative Aspekte seiner Form.",
+		"title": "Rhythmischer Vers: Performative Aspekte seiner Form",
 		"title-short": "Rhythmischer Vers",
 		"author": [
 			{
@@ -24597,7 +24645,7 @@
 				"given": "Francesco"
 			}
 		],
-		"original-date": {
+		"issued": {
 			"date-parts": [
 				[
 					"2003"
@@ -24837,7 +24885,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/L7XEQKP2",
 		"type": "book",
-				"language": "es",
+		"abstract": "Scribd ist die weltweit größte soziale Plattform zum Lesen und Veröffentlichen.",
+		"language": "es",
 		"publisher": "Editorial Gredos",
 		"publisher-place": "Madrid",
 		"title": "La Poesia de los Goliardos",
@@ -24977,7 +25026,7 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/UB5JRKP9",
 		"type": "article-journal",
-		"abstract": "The recent editions of two major grammatical treatises of John of Garland allow us to situate now more clearly and precisely the grammatical part of his work and to ponder on the authentical or doubtful texts which are still to be edited, as well as on the direct sources of the work, which are to be studied too. John of Garland is a polymorphous grammarian, who writes and annotades his own treatises in the same way as he does other mathers' handbooks. These different activities connected together and the underlying doctrine is always the same. This connection, and the quotations by John of his own works allow us to propose a partial chronology of his treatises and commentaries, and to highlight his publication strategies - particularly, the diffusion of his treatises in England. Indeed, it seems that John of Garland met with no success in French University, which could account for the fact that he needed to publish his works in his native country.",
+		"abstract": "ABSTRACT : The recent editions of two major grammatical treatises of John of Garland allow us to situate now more clearly and precisely the grammatical part of his work and to ponder on the authentical or doubtful texts which are still to be edited, as well as on the direct sources of the work, which are to be studied too. John of Garland is a polymorphous grammarian, who writes and annotades his own treatises in the same way as he does other mathers' handbooks. These different activities connected together and the underlying doctrine is always the same. This connection, and the quotations by John of his own works allow us to propose a partial chronology of his treatises and commentaries, and to highlight his publication strategies - particularly, the diffusion of his treatises in England. Indeed, it seems that John of Garland met with no success in French University, which could account for the fact that he needed to publish his works in his native country.",
 		"container-title": "Histoire Épistémologie Langage",
 		"DOI": "10.3406/hel.1999.2736",
 		"issue": "1",
@@ -25367,7 +25416,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/Q9EU9R6U",
 		"type": "thesis",
-				"DOI": "10.58079/rh23",
+		"abstract": "1000 Worte Forschung: Eingereichte Dissertation im Fach Mittelalterliche Geschichte, Justus-Liebig-Universität Gießen Deutschsprachige Version (Jump to English Version) Wer Goliardendichtung erforscht, betritt wahrlich kein Neuland, sondern einen dichten, internationalen und interdisziplinären Dschungel an Monographien und Anthologien, Aufsätzen und Lexikonartikeln. Umso erstaunlicher...",
+		"DOI": "10.58079/rh23",
 		"ISSN": "2197-6120",
 		"language": "de",
 		"publisher": "Justus-Liebig-Universität Gießen",
@@ -25412,7 +25462,7 @@
 		"source": "basel.swisscovery.org",
 		"title": "Die Lieder Walthers von der Vogelweide: Bd 2.  Die Liebeslieder, unter Beifügung erhaltener und erschlossener Melodien",
 		"title-short": "Lieder Walthers von der V. 2",
-		"contributor": [
+		"author": [
 			{
 				"family": "Maurer",
 				"given": "Friedrich"
@@ -25600,7 +25650,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/GQJQYPZN",
 		"type": "book",
-				"ISBN": "978-0-472-10649-3",
+		"abstract": "Parody in the Middle Ages: The Latin Tradition surveys and analyzes Latin parodies of texts and documents--Biblical parody, drinker's masses, bawdy litanies, lives of saints such as Nemo (Nobody) and ...",
+		"ISBN": "978-0-472-10649-3",
 		"language": "en",
 		"number-of-pages": "425",
 		"publisher": "University of Michigan Press",
@@ -26006,7 +26057,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/HINB2UAQ",
 		"type": "chapter",
-				"call-number": "L. 702 / 1",
+		"abstract": "v. 1.: Canti morali e satirici. - 1398 p.",
+		"call-number": "L. 702 / 1",
 		"collection-title": "Biblioteca Universale Rizzoli",
 		"container-title": "Carmina Burana: introduzione, traduzione e note",
 		"ISBN": "978-88-17-10686-3",
@@ -26055,9 +26107,11 @@
 			"date-parts": [
 				[
 					"1835"
+				],
+				[
+					"1839"
 				]
-			],
-			"season": "1839"
+			]
 		}
 	},
 	{
@@ -26378,7 +26432,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/JUSECR8F",
 		"type": "book",
-				"DOI": "10.1515/9783110234411",
+		"abstract": "„Auch in Zukunft unabdingbar für die (spät)mittelalterliche Liedforschung. Außerdem ein wichtiges forschungsgeschichtliches Dokument.“ Prof. Dr. Johannes Janota",
+		"DOI": "10.1515/9783110234411",
 		"ISBN": "978-3-11-023441-1",
 		"language": "de",
 		"license": "De Gruyter expressly reserves the right to use all content for commercial text and data mining within the meaning of Section 44b of the German Copyright Act.",
@@ -26663,7 +26718,8 @@
 	{
 		"id": "http://zotero.org/groups/5831087/items/QER8BGNU",
 		"type": "book",
-				"language": "German",
+		"abstract": "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
+		"language": "German",
 		"number-of-pages": "276",
 		"publisher": "Hölder",
 		"publisher-place": "Wien",
@@ -26827,6 +26883,391 @@
 			"date-parts": [
 				[
 					"1927"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5831087/items/CGCWYUEU",
+		"type": "book",
+		"publisher": "Società studi trentini di scienze storiche",
+		"publisher-place": "Trento",
+		"title": "Monumenta liturgica ecclesiae tridentinae saeculo XIII antiquiora. I: Testimonia chronographica ex codicibus liturgicis",
+		"title-short": "Monumenta liturgica ecclesiae tridentinae",
+		"editor": [
+			{
+				"family": "Rogger",
+				"given": "Iginio"
+			},
+			{
+				"family": "Dell'Oro",
+				"given": "Ferdinando"
+			}
+		],
+		"contributor": [
+			{
+				"family": "Baroffio",
+				"given": "Bonifacio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1983"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5831087/items/JCD2ASCA",
+		"type": "article-journal",
+		"abstract": "This study seeks to reconstruct the music for Boethius’s final and most widely read work, On the Consolation of Philosophy. Although a handful of neumations for Boethius’s thirty-nine poems have long been known, the almost complete absence of surviving pitched versions of the melodies has hindered the task of reconstruction. Following a systematic study of neumed manuscripts dating from the ninth to the eleventh centuries and identification of underlying principles of melodic design, it is now possible to attempt informed reconstructions. Even so, the leap from scholarship to modern performance remains substantial, involving a preliminary need to recreate melodies through experimentation.\n            Collaboration with members of the ensemble Sequentia over a four-year period (2014–17) provided an opportunity to explore ways in which creative practice might supplement scholarly knowledge, whether through posing new research questions, the formation and exploration of hypotheses, or recourse to memorized practices built up through sustained engagement with early medieval repertories and instruments. Taking a recovered mid eleventh-century leaf of the Cambridge Songs as a focus for investigation, songs from the first book of Boethius’s De consolatione philosophiae were newly reconstructed. Although debate continues to surround the status of results obtained through creative practice, comparison with the way other disciplines have proceeded under similar conditions reveals acceptance of experimentation as a mode of inquiry. This essay proposes that performance can fruitfully supplement philology in seeking to reconstruct lost songs from notated traces.",
+		"container-title": "Journal of Musicology",
+		"DOI": "10.1525/jm.2019.36.3.261",
+		"ISSN": "0277-9269, 1533-8347",
+		"issue": "3",
+		"language": "en",
+		"page": "261-294",
+		"source": "DOI.org (Crossref)",
+		"title": "Creative Practice and the Limits of Knowledge in Reconstructing Lost Songs from Boethius’s On the Consolation of Philosophy",
+		"title-short": "Creative Practice",
+		"URL": "https://online.ucpress.edu/jm/article/36/3/261/109818/Creative-Practice-and-the-Limits-of-Knowledge-in",
+		"volume": "36",
+		"author": [
+			{
+				"family": "Barrett",
+				"given": "Sam"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5831087/items/9EQ7VC6Q",
+		"type": "book",
+		"abstract": "Laments of the Virgin Mary represent a devotional genre that offered its clerical and lay audiences of the High and Late Middle Ages a deeply inspiring, yet at the same time ambiguous, religious experience. Through the deeply emotional and markedly animated representation of the Passion, seen as if through the eyes of the mother of God, audiences and performers were not only reminded of the redemptive power of the Cross, but encouraged to experience Christ’s sacrifice in a more personal and intimate manner. In the pious practice of imitatio Mariae, believers mirrored the sorrow of the mother through their own bodies in order to develop a kind of visceral empathy towards, and hence a deeper understanding of, the divine.",
+		"DOI": "10.2307/jj.3129721",
+		"ISBN": "978-1-64189-456-2",
+		"publisher": "Arc Humanities Press",
+		"publisher-place": "York",
+		"title": "Medieval Laments of the Virgin Mary: Text, Music, Performance, and Genre Liminality",
+		"title-short": "Medieval Laments",
+		"URL": "https://www.jstor.org/stable/jj.3129721",
+		"author": [
+			{
+				"family": "Poláčková",
+				"given": "Eliška Kubartová"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5831087/items/GW3JXYGU",
+		"type": "book",
+		"publisher": "Tipografia Arcivescovile Artigianelli",
+		"publisher-place": "Trento",
+		"title": "La sovranità dei vescovi di Trento e di Bressanone: diritti derivanti al clero diocesano dalla sua soppressione - Joseph Kögl",
+		"title-short": "Sovranità",
+		"URL": "https://www.ibs.it/sovranita-dei-vescovi-di-trento-libri-vintage-joseph-kogl/e/2560031139271?srsltid=AU7gw4V71N3pVeYQu5QIrkh9pTQv2uYAFt3L4BXikq77QKKdgwyJ0YL8",
+		"author": [
+			{
+				"family": "Kögl",
+				"given": "Joseph"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					21
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1964"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5831087/items/J8DLYHZZ",
+		"type": "book",
+		"publisher": "Wagner",
+		"publisher-place": "Innsbruck",
+		"title": "Tiroler Urkundenbuch. II. Abteilung: Die Urkunden zur Geschichte des Inn-, EIsack- und Pustertals. Band 2: 1140 bis 1200",
+		"title-short": "Tiroler Urkundenbuch II",
+		"editor": [
+			{
+				"family": "Bitschnau",
+				"given": "Martin"
+			},
+			{
+				"family": "Obermair",
+				"given": "Hannes"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5831087/items/5DFGM4FY",
+		"type": "book",
+		"collection-number": "4",
+		"collection-title": "Acta Tirolensia. Urkundliche Quellen zur Geschichte Tirols",
+		"publisher": "Wagner",
+		"publisher-place": "Innsbruck",
+		"title": "Die Südtiroler Notariats-Imbreviaturen des dreizehnten Jahrhunderts",
+		"title-short": "Südtiroler Notariats-Imbreviaturen",
+		"volume": "2",
+		"editor": [
+			{
+				"family": "Voltelini",
+				"given": "Hans",
+				"dropping-particle": "von"
+			},
+			{
+				"family": "Huter",
+				"given": "Franz"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1951"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5831087/items/5IR5ZCNL",
+		"type": "book",
+		"collection-number": "14",
+		"collection-title": "Biblioteche e archivi",
+		"publisher": "SISMEL edizioni del Galluzzo",
+		"publisher-place": "Lucca",
+		"title": "I manoscritti medievali della Biblioteca Comunale di Trento",
+		"title-short": "Manoscritti medievali 1",
+		"editor": [
+			{
+				"family": "Paolini",
+				"given": "Adriana"
+			}
+		],
+		"contributor": [
+			{
+				"family": "Dal Proz",
+				"given": "Lorena"
+			},
+			{
+				"family": "Granata",
+				"given": "Leonardo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5831087/items/ILUV78S6",
+		"type": "chapter",
+		"container-title": "La ricerca musicale in Trentino-Alto Adige. Manoscritti, edizioni e frammenti liturgici",
+		"page": "75-109",
+		"publisher": "Libreria musicale italiana",
+		"publisher-place": "Lucca",
+		"title": "Il proprium dei santi Ingenuino e Albuino, patroni dell'antica diocesi di Bressanone",
+		"title-short": "Il proprium dei santi",
+		"author": [
+			{
+				"family": "Gabrielli",
+				"given": "Giulia"
+			}
+		],
+		"editor": [
+			{
+				"family": "Gabrielli",
+				"given": "Giulia"
+			},
+			{
+				"family": "Brusa",
+				"given": "Gionata"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5831087/items/8WGJIX94",
+		"type": "article-journal",
+		"container-title": "Archivio per l’Alto Adige",
+		"page": "I-IV; 1-647",
+		"title": "Calendarium Wintheri, il più antico calendario, necrologio ed urbario del capitolo della cattedrale di Bressanone",
+		"title-short": "Calendarium Wintherii",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Santifaller",
+				"given": "Leo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1923"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5831087/items/QYSSZDAQ",
+		"type": "book",
+		"publisher": "SISMEL edizioni del Galluzzo",
+		"publisher-place": "Firenze",
+		"title": "Poetry in the Early Medieval Europe: Manuscripts, Language and Music of the Rhythmical Latin Texts",
+		"title-short": "Poetry in the Early Medieval Europe",
+		"editor": [
+			{
+				"family": "D'Angelo",
+				"given": "Edoardo"
+			},
+			{
+				"family": "Stella",
+				"given": "Francesco"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5831087/items/QFE9G8F7",
+		"type": "book",
+		"collection-title": "Stora e testi. Dal Medioevo all'Europa Moderna",
+		"publisher": "Pàtron Editore",
+		"publisher-place": "Bologna",
+		"title": "Antologia del francese d'Italia: XIII-XV secolo",
+		"title-short": "Antologia",
+		"editor": [
+			{
+				"family": "Gambino",
+				"given": "Francesca"
+			},
+			{
+				"family": "Beretta",
+				"given": "Andrea"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5831087/items/WJMXRSIG",
+		"type": "article-journal",
+		"call-number": "ANM-6798",
+		"container-title": "Nachrichten der Akademie der Wissenschaften in Göttingen. I, Philologie-Historiche Klasse",
+		"issue": "189-193",
+		"language": "ger",
+		"source": "Internet Archive",
+		"title": "Das erste Gedicht der Carmina Burana",
+		"title-short": "Studies",
+		"URL": "https://archive.org/details/studiesmedievall01meye/page/76/mode/2up",
+		"volume": "27",
+		"author": [
+			{
+				"family": "Meyer",
+				"given": "Wilhelm"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1908"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5831087/items/WMMLIBN8",
+		"type": "book",
+		"collection-number": "LXV/24",
+		"collection-title": "Musicological Studies",
+		"publisher": "Institute of Mediaeval Music",
+		"publisher-place": "Lions Bay",
+		"title": "The Office of Saint Vigilius, Bishop and Patron of the Church of Trent",
+		"title-short": "Office of St. Virgilius",
+		"author": [
+			{
+				"family": "Gabrielli",
+				"given": "Giulia"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
 				]
 			]
 		}

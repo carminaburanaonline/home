@@ -1436,14 +1436,78 @@
   },
   {
     "abstract_item": "CB037",
+    "source": 106,
+    "title": "In Gedeonis area",
+    "foliation": "6r",
+    "id": "CB037",
+    "segments": [
+      {
+        "xml_id": "CB037-lg-1",
+        "text": "in gedeonis area vellus aret extentum et demolitur tinea regale vestimentum superhabundat palea que sepelit frumentum et loquitur iumentum nec redit bos ad horrea sed sequitur carpentum",
+        "metre": "8pp 7p 8pp 7p 8pp 7p 7p 8pp 7p"
+      },
+      {
+        "xml_id": "CB037-lg-2",
+        "text": "exit rumor discriminis de grandimontis cella que tam sancte dulcedinis late fundebat mella preposteratur ordinis plantatio novella dum movet in se bella bases in summo culminis ponens non capitella",
+        "metre": "8pp 7p 8pp 7p 8pp 7p 7p 8pp 7p"
+      },
+      {
+        "xml_id": "CB037-lg-3",
+        "text": "clausa quondam religio vel ocium secretum nunc subiacet obprobrio per vulgus indiscretum quod tali tyrocinio non erat assuetum et quod format decretum non legis patrocinio nec literis est fretum",
+        "metre": "8pp 7p 8pp 7p 8pp 7p 7p 8pp 7p"
+      },
+      {
+        "xml_id": "CB037-lg-4",
+        "text": "quod sanctum sacerdotium quod unctio regalis se curvet ad imperium et vocem subiugalis divinum est misterium an furor laicalis favor tamen venalis qui non intrat per hostium fovet eos sub alis",
+        "metre": "8pp 7p 8pp 7p 8pp 7p 7p 8pp 7p"
+      },
+      {
+        "xml_id": "CB037-lg-5",
+        "text": "ve ve qui regis filiam das in manu lenonis ve qui profanas gloriam tante devotionis qui cellam pigmentariam et opus salemonis fraude rapis predonis si certius inspiciam ad rem conditionis",
+        "metre": "8pp 7p 8pp 7p 8pp 7p 7p 8pp 7p"
+      },
+      {
+        "xml_id": "CB037-lg-6",
+        "text": "sub brevi doctus tempore stultus dum incappatur pleno prophetat pectore ructans interpretatur et disputat cum rethore qui tacet et miratur quod vir iustus tollatur et assumptus de stercore sententias loquatur",
+        "metre": "8pp 7p 8pp 7p 8pp 7p 7p 8pp 7p"
+      }
+    ]
+  },
+  {
+    "abstract_item": "CB037",
     "source": 34,
     "title": "In Gedeonis area",
-    "foliation": "101r-100v",
+    "foliation": "99bis recto, 99v",
     "id": "CB037_ripoll",
     "segments": [
       {
         "xml_id": "CB037_ripoll-lg-1",
-        "text": "in gedeonis area vellus aret extentum et demolitur timea regale vestimentum super habundat palea que sepelit frumentum et loquitur iumentum non redit bos ad orrea sed sequitur carpentum",
+        "text": "in gedeonis area vellus aret extentum et demolitur tinea regale vestimentum superhabundat palea que sepelit frumentum et loquitur iumentum non redit bos ad orrea sed sequitur carpentum",
+        "metre": "8pp 7p 8pp 7p 8pp 7p 7p 8pp 7p"
+      },
+      {
+        "xml_id": "CB037_ripoll-lg-2",
+        "text": "exit rumor discriminis de grandismontis cella que tam sancte dulcedinis late fundebat mella preposteratur ordinis plantatio novella dum movet in se bella bases superhedificat deponens capitella",
+        "metre": "8pp 7p 8pp 7p 8pp 7p 7p 8pp 7p"
+      },
+      {
+        "xml_id": "CB037_ripoll-lg-3",
+        "text": "quod sanctum sacerdocium quod unccio regalis se curvat ad imperium et vocem subiugalis divinum est misterium an furor laicalis favor tamen venalis qui non intrat per ostium fovet eos sub alis",
+        "metre": "8pp 7p 8pp 7p 8pp 7p 7p 8pp 7p"
+      },
+      {
+        "xml_id": "CB037_ripoll-lg-4",
+        "text": "clausa quondam religio vel ocium secretum nunc subiacet obprobrio per vulgus indiscretum quod tali tirocinio non erat consuetum et quod format decretum non legis patrocinio nec litteris est fretum",
+        "metre": "8pp 7p 8pp 7p 8pp 7p 7p 8pp 7p"
+      },
+      {
+        "xml_id": "CB037_ripoll-lg-5",
+        "text": "sub brevi doctus tempore stultus philosophatur pleno prophetans pectore ructans interpretatur et disputans cum rethore qui tacet et miratur quod vir iustus tollatur et assumptus de stercore sententias loquatur",
+        "metre": "8pp 7p 8pp 7p 8pp 7p 7p 8pp 7p"
+      },
+      {
+        "xml_id": "CB037_ripoll-lg-6",
+        "text": "ve ve qui regis filiam das in manu lenonis ve qui profanas gloriam tante devotionis qui cellam pigmentariam et opus salomonis fraude rapis predonis si certius inspiciam ad rem conditionis",
         "metre": "8pp 7p 8pp 7p 8pp 7p 7p 8pp 7p"
       }
     ]
@@ -3891,6 +3955,70 @@
         "xml_id": "CB180-lg-11",
         "text": "suͦziu minne raine min mache mir ein chrenzelin daz sol tragen ein stolzer man der wol wiben dienen chan",
         "metre": "4 4 4 4"
+      }
+    ]
+  },
+  {
+    "abstract_item": "CB185",
+    "source": 106,
+    "title": "Ich was ein chint so wolgetan",
+    "foliation": "72r-72v",
+    "id": "CB185",
+    "segments": [
+      {
+        "xml_id": "CB185-lg-1",
+        "text": "ich was ein chint so wolgetan virgo dum florebam do brist mich diu werlt al omnibus placebam",
+        "metre": ".4+6p 4+6p"
+      },
+      {
+        "xml_id": "CB185-lg-2",
+        "text": "hoy et oe maledicantur thylie iuxta viam posite",
+        "metre": ""
+      },
+      {
+        "xml_id": "CB185-lg-3",
+        "text": "ja wolde ih an die wisen gan flores adunare do wolde mich ein ungetan ibi deflorare",
+        "metre": ".4+6p .4+6p"
+      },
+      {
+        "xml_id": "CB185-lg-4",
+        "text": "er nam mich bi der wizen hant sed non indecenter er wist mich diu wise lanch valde fraudulenter",
+        "metre": ".4+6p .4+6p"
+      },
+      {
+        "xml_id": "CB185-lg-5",
+        "text": "er graif mir an daz wize gewant valde indecenter er fuͦrte mih bi der hant multum violenter",
+        "metre": ".4+6p .4+6p"
+      },
+      {
+        "xml_id": "CB185-lg-6",
+        "text": "er sprach vrowe ge wir baz nemus est remotum dirre wech der habe haz planxi et hoc totum",
+        "metre": ".4+6p 4+6p"
+      },
+      {
+        "xml_id": "CB185-lg-7",
+        "text": "iz stat ein linde wolgetan non procul a via da hab ich mine herphe lan timpanum cum lyra",
+        "metre": ".4+6p .4+6p"
+      },
+      {
+        "xml_id": "CB185-lg-8",
+        "text": "do er zuͦ der linden chom dixit sedeamus diu minne twanch sere den man ludum faciamus",
+        "metre": "4+6p .4+6p"
+      },
+      {
+        "xml_id": "CB185-lg-9",
+        "text": "er graif mir an dem wizen lip non absque timore er sprach ich mache dich ein wip dulcis es cum ore",
+        "metre": ".4+6p .4+6p"
+      },
+      {
+        "xml_id": "CB185-lg-10",
+        "text": "er warf mir uͦf daz hemdelin corpore detecta er rante mir in daz purgelin cuspide erecta",
+        "metre": ".4+6p .4+6p"
+      },
+      {
+        "xml_id": "CB185-lg-11",
+        "text": "er nam den chocher unde den bogen bene venabatur der selbe hete mich betrogen ludus complebatur",
+        "metre": ".4+6p .4+6p"
       }
     ]
   },
