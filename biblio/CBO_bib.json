@@ -17631,14 +17631,14 @@
 		"title-short": "CB Today",
 		"author": [
 			{
-				"family": "Rodenkirchen",
-				"given": "Norbert"
-			},
-			{
 				"literal": "Candens Lilium"
 			},
 			{
 				"literal": "Les Haulz et les Bas"
+			},
+			{
+				"family": "Rodenkirchen",
+				"given": "Norbert"
 			}
 		],
 		"issued": {

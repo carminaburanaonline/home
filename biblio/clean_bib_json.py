@@ -95,7 +95,7 @@ def first_short_title_word(entry):
     return words[0]
 
 
-with open("CBO_bib.json", encoding="utf-8") as f:
+with open("bibliography_merged.json", encoding="utf-8") as f:
     entries = json.load(f)
 
 ids_seen = defaultdict(list)
@@ -108,12 +108,14 @@ for entry in entries:
         + first_short_title_word(entry)
     )
 
+    citation_id = "".join(citation_id.split(" "))
+
     entry["id"] = citation_id
 
     title = entry.get("title", "")
     ids_seen[citation_id].append(title)
 
-with open("CBO_bib_normalized.json",
+with open("bibliography_normalized.json",
     "w",
     encoding="utf-8"
 ) as f:

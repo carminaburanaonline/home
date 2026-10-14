@@ -8,7 +8,18 @@
     <!-- Add additional CSS in static file -->
     <link rel="stylesheet" href="css/ui-components.css"/>
     <link rel="stylesheet" href="css/layout-generic.css"/>
-
+    <style>
+      .bib-entry {
+        margin-bottom: 1em;
+      }
+      .bib-sort-button {
+        display: block;
+        margin-top: 15px;
+      }
+      #bib-search {
+        margin: 10px;
+      }
+    </style>
   </head>
   <body>
     <div class="page-container">
@@ -18,15 +29,17 @@
       <div class="page-title">Bibliography</div>
 
       <main style="display: flex; flex: 1;">
-        <section id="bibliography-controls">
-          <button id="sort-author" data-i18n="sortAuthor"></button>
-          <button id="sort-title" data-i18n="sortTitle"></button>
-          <button id="sort-year" data-i18n="sortYear"></button>
+        <div id="bib-controls" class="flex-column" style="flex: 20%">
           <input id="bib-search" type="search" placeholder="Search...">
-      </section>
+          <div>
+            <button id="sort-author" class="bib-sort-button" data-i18n="sortAuthor"></button>
+            <button id="sort-title" class="bib-sort-button" data-i18n="sortTitle"></button>
+            <button id="sort-year" class="bib-sort-button" data-i18n="sortYear"></button>
+          </div>
+        </div>
 
-      <section id="bibliography-results">
-      </section>
+        <div id="bib-results" class="flex-column" style="flex: 80%">
+        </div>
       </main>
 
       <!-- Footer -->

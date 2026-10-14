@@ -1,155 +1,70 @@
 // Entry point for the page sources.html (list of sources)
 
 import { t, applyTranslations } from '../lang.js';
-import { linkify } from '../utils.js';
 
-import { filterSources, getFilters } from './filters.js';
-
+let bibliography = [];
+let currentSort = "author";
 
 export async function renderBibliographyPage() {
-  const bibliography = await fetch('json/bibliography.json').then(r => r.json());
 
-  prepareEntries(bibliography);
+    const response = await fetch("json/bibliography.json");
+    bibliography = await response.json();
 
-  const filter = document.getElementById('bib-search');
+    document.getElementById("bib-search").addEventListener("input", renderBibliography);
 
-  filter.addEventListener('input', update);
-
-  function update() {
-    const query = normalize(filter.value);
-    renderBiblio(filter);
-  }
-
-  update(); // recompute bibliography based on filter
-}
-
-function renderTable(sources) {
-  const tbody = document.querySelector('#sourcesTable tbody');
-  tbody.innerHTML = '';
-
-  sources.forEach(source => {
-
-    const tr = document.createElement('tr');
-    tr.classList.add('main-row');
-
-    // --- RISM with toggle button ---
-    const tdRism = document.createElement('td');
-
-    const toggleBtn = document.createElement('button');
-    toggleBtn.textContent = '▶';
-    toggleBtn.classList.add('toggle-btn');
-
-    const rismLink = document.createElement('a');
-    rismLink.href = `source?id=${source.id}`;
-    rismLink.textContent = source.rism || '';
-    rismLink.style.marginLeft = '6px';
-
-    tdRism.appendChild(toggleBtn);
-    tdRism.appendChild(rismLink);
-    tr.appendChild(tdRism);
-
-    // --- other fields ---
-    ['country', 'city', 'library'].forEach(field => {
-      const td = document.createElement('td');
-      td.textContent = source[field] || '';
-      tr.appendChild(td);
+    document.getElementById("sort-author").addEventListener("click", () => {
+        currentSort = "author";
+        renderBibliography();
+        updateActiveButton();
     });
 
-    // --- Links ---
-    const tdLinks = document.createElement('td');
+    document.getElementById("sort-year").addEventListener("click", () => {
+        currentSort = "year";
+        renderBibliography();
+        updateActiveButton();
+    });
 
-    if (source.links) {
-      if (source.links.catalogue) {
-        tdLinks.appendChild(createIcon(source.links.catalogue, '📄', 'Catalogue'));
-      }
-      if (source.links.images) {
-        tdLinks.appendChild(createIcon(source.links.images, '🖼', 'Images'));
-      }
-      if (source.links.iiif) {
-        tdLinks.appendChild(createIcon(source.links.iiif, 'img/IIIF_Logo.png', 'IIIF', true));
-      }
+    document.getElementById("sort-title").addEventListener("click", () => {
+        currentSort = "title";
+        renderBibliography();
+        updateActiveButton();
+    });
+
+    updateActiveButton();
+    renderBibliography();
+}
+
+function renderBibliography() {
+
+    const container = document.getElementById("bib-results");
+
+    const query = document.getElementById("bib-search").value.trim().toLowerCase();
+
+    let entries = bibliography.filter(item =>
+        item.searchText.includes(query)
+    );
+
+    switch (currentSort) {
+
+        case "year": entries.sort((a, b) => b.sortYear - a.sortYear); break;
+
+        case "title": entries.sort((a, b) => a.sortTitle.localeCompare(b.sortTitle)); break;
+
+        default: entries.sort((a, b) => a.sortAuthor.localeCompare(b.sortAuthor));
     }
 
-    tr.appendChild(tdLinks);
-
-    // --- toggle behavior ---
-    toggleBtn.addEventListener('click', () => {
-      toggleDetailsRow(tr, source, toggleBtn);
-    });
-
-    tbody.appendChild(tr);
-  });
+    container.innerHTML = entries.map(item => `<div class="bib-entry" id="bib-${item.id}">${item.formattedHTML}</div>`).join("");
+    applyTranslations();
 }
 
-function createIcon(url, iconOrSrc, title, isImage = false) {
-  const a = document.createElement('a');
-  a.href = url;
-  a.target = '_blank';
-  a.title = title;
-  a.style.marginRight = '6px';
+function updateActiveButton() {
 
-  if (isImage) {
-    const img = document.createElement('img');
-    img.src = iconOrSrc;
-    img.alt = title;
-    img.style.height = '16px';
-    img.style.verticalAlign = 'middle';
-    a.appendChild(img);
-  } else {
-    a.textContent = iconOrSrc;
-  }
+    document.querySelectorAll(".bib-sort-button").forEach(button =>
+        button.classList.remove("active")
+    );
 
-  return a;
+    document.getElementById(`sort-${currentSort}`).classList.add("active");
 }
-
-function toggleDetailsRow(tr, source, btn) {
-  const nextRow = tr.nextElementSibling;
-
-  // already open → close
-  if (nextRow && nextRow.classList.contains('details-row')) {
-    nextRow.remove();
-    btn.textContent = '▶';
-    return;
-  }
-
-  // create details row
-  const detailsTr = document.createElement('tr');
-  detailsTr.classList.add('details-row');
-
-  const td = document.createElement('td');
-  td.colSpan = tr.children.length;
-
-  td.appendChild(buildDetailsContent(source));
-
-  detailsTr.appendChild(td);
-
-  tr.after(detailsTr);
-  btn.textContent = '▼';
-}
-
-function buildDetailsContent(source) {
-  const container = document.createElement('div');
-  container.classList.add('details-box');
-
-  if (source.concordances?.length) {
-    const p = document.createElement('p');
-    p.innerHTML = `<strong>${t("concordances")}:</strong> ` +
-      source.concordances.map(c =>
-        `<a href=abstract_item?id=${c.abstract_item}>${c.abstract_item}</a>${c.foliation ? ' (' + c.foliation + ')' : ''}`
-      ).join(', ');
-    container.appendChild(p);
-  }
-
-  if (source.notes) {
-    const p = document.createElement('p');
-    p.innerHTML = `<strong>${t("notes")}:</strong> ${linkify(source.notes)}`;
-    container.appendChild(p);
-  }
-
-  return container;
-}
-
-
 
 
 
