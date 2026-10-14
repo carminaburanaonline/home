@@ -16,7 +16,6 @@ export function getFilters() {
   };
 }
 
-
 export function filterSources(sources, filters) {
   return sources.filter(s => {
 

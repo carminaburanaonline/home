@@ -10522,32 +10522,23 @@
                     </seg>
                   </w>
                   <app type="text">
-                    <lem wit="cod. V">
+                    <lem wit="HSB T">
                       <w>
-                        <seg type="syll" part="I">ob<notatedMusic>
+                        <seg type="syll" part="I">de<notatedMusic>
                           <neume fontname="buranus" glyph.num="33" label="pe"/>
                         </notatedMusic>
                         </seg>
-                        <seg type="syll" part="M">scu<notatedMusic>
+                        <seg type="syll" part="M">e<notatedMusic>
                           <neume fontname="buranus" glyph.num="53" label="cl"/>
                         </notatedMusic>
                         </seg>
-                        <seg type="syll" part="M" met="+">ra<notatedMusic>
+                        <seg type="syll" part="F" met="+">ris<notatedMusic>
                           <neume fontname="buranus" glyph.num="1" label="pu"/>
-                        </notatedMusic>
-                        </seg>
-                        <seg type="syll" part="M">bi<notatedMusic>
-                          <neume fontname="buranus" glyph.num="33" label="pe"/>
-                        </notatedMusic>
-                        </seg>
-                        <seg type="syll" part="F">tur<notatedMusic>
-                          <neume fontname="buranus" glyph.num="8" label="vi"/>
                         </notatedMusic>
                         </seg>
                       </w>
                     </lem>
-                    <rdg wit="HSB T"><w>deeris</w></rdg>
-                    <note>p. ras.</note>
+                    <rdg wit="cod. V"><w>obscurabitur</w></rdg>
                   </app>
                   <pc>&#183;</pc>
                   <pc resp="#editor">,</pc>

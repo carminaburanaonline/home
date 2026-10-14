@@ -82,7 +82,6 @@
                 </seg>
               </w>
               <pc>&#183;</pc>
-              <pc resp="#editor">,</pc>
             </seg>
           </l>
           <l n="2" xml:id="CB140-l-2">
@@ -213,6 +212,7 @@
                 <seg type="syll" part="F">tas</seg>
               </w>
               <pc>&#183;</pc>
+              <pc resp="#editor">,</pc>
             </seg>
             <seg type="hemistich">
               <app type="text">
@@ -240,54 +240,49 @@
         </lg>
         <lg type="strophe" n="II" met=".7pp/.7pp/7pp+.6p/7pp+.6p/.7pp+.6p" rhyme="a/a/b/b/b" xml:id="CB140-lg-2">
           <l n="1" xml:id="CB140-l-6">
-            <seg type="hemistich">
-              <w>
-                <seg type="syll">Nunc</seg>
-              </w>
-              <w>
-                <seg type="syll" part="I">er</seg>
-                <seg type="syll" part="F">go</seg>
-              </w>
-              <w>
-                <seg type="syll" part="I">ca</seg>
-                <seg type="syll" part="F">nunt</seg>
-              </w>
-              <w>
-                <seg type="syll" part="I" met="+">iu</seg>
-                <seg type="syll" part="M">ve</seg>
-                <seg type="syll" part="F">nes</seg>
-              </w>
-              <pc>&#183;</pc>
-              <pc resp="#editor">,</pc>
-            </seg>
-            <seg type="hemistich">[...]</seg>
+            <w>
+              <seg type="syll">Nunc</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">er</seg>
+              <seg type="syll" part="F">go</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">ca</seg>
+              <seg type="syll" part="F">nunt</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I" met="+">iu</seg>
+              <seg type="syll" part="M">ve</seg>
+              <seg type="syll" part="F">nes</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">,</pc>
           </l>
           <l n="2" xml:id="CB140-l-7">
-            <seg type="hemistich">
-              <w>
-                <seg type="syll">nunc</seg>
-              </w>
-              <w>
-                <seg type="syll" part="I">can</seg>
-                <seg type="syll" part="F">tum</seg>
-              </w>
-              <w>
-                <seg type="syll" part="I">pro</seg>
-                <seg type="syll" part="F">munt</seg>
-              </w>
-              <w>
-                <seg type="syll" part="I" met="+">vo</seg>
-                <seg type="syll" part="M">lu</seg>
-                <seg type="syll" part="F">cres</seg>
-              </w>
-              <pc>&#183;</pc>
-            </seg>
-            <seg type="hemistich">[...]</seg>
+            <w>
+              <seg type="syll">nunc</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">can</seg>
+              <seg type="syll" part="F">tum</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I">pro</seg>
+              <seg type="syll" part="F">munt</seg>
+            </w>
+            <w>
+              <seg type="syll" part="I" met="+">vo</seg>
+              <seg type="syll" part="M">lu</seg>
+              <seg type="syll" part="F">cres</seg>
+            </w>
+            <pc>&#183;</pc>
+            <pc resp="#editor">.</pc>
           </l>
           <l n="3" rhyme="c+b" xml:id="CB140-l-8">
             <seg type="hemistich">
               <w>
-                <seg type="syll" part="I">mo</seg>
+                <seg type="syll" part="I">Mo</seg>
                 <seg type="syll" part="F">do</seg>
               </w>
               <w>
@@ -304,7 +299,6 @@
               <w>
                 <seg type="syll">est</seg>
               </w>
-              <pc resp="#editor">,</pc>
               <w>
                 <seg type="syll">quem</seg>
               </w>
@@ -339,7 +333,6 @@
                 <seg type="syll" part="F">or</seg>
               </w>
               <pc>&#183;</pc>
-              <pc resp="#editor">,</pc>
             </seg>
             <seg type="hemistich">
               <w>
@@ -408,7 +401,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="7pp+6p/7pp+.6p/7pp+6p/7pp+.6p/.7pp+.6p" rhyme="a/a/b/b/b" xml:id="CB140-lg-3">
+        <lg type="strophe" n="III" met="7pp+6p/7pp+.6p/7pp.+6p/7pp+.6p/.7pp+.6p" rhyme="a/a/b/b/b" xml:id="CB140-lg-3">
           <l n="1" met="8pp+6p" xml:id="CB140-l-11">
             <seg type="hemistich">
               <w>
@@ -815,7 +808,6 @@
               <seg type="syll" part="M">ci</seg>
               <seg type="syll" part="F">o</seg>
             </w>
-            <pc resp="#editor">,</pc>
             <w>
               <seg type="syll">quod</seg>
             </w>
@@ -852,7 +844,6 @@
                 <seg type="syll" part="I">fri</seg>
                 <seg type="syll" part="F">get</seg>
               </w>
-              <pc resp="#editor">,</pc>
               <w>
                 <seg type="syll">in</seg>
               </w>
@@ -864,7 +855,6 @@
                 <seg type="syll" part="M">de</seg>
                 <seg type="syll" part="F">o</seg>
               </w>
-              <pc resp="#editor">,</pc>
             </seg>
             <seg type="hemistich">
               <w>
@@ -988,8 +978,8 @@
             <app type="text">
               <lem>
                 <w>
-              <seg type="syll" met="+">su&#868;ln</seg>
-            </w>
+                  <seg type="syll" met="+">su&#868;ln</seg>
+                </w>
               </lem>
               <note>&#868; man. r.</note>
             </app>
@@ -1107,9 +1097,9 @@
               <app type="text">
                 <lem>
                   <w>
-                <seg type="syll" part="I" met="+">fro&#868;u</seg>
-                <seg type="syll" part="F">de</seg>
-              </w>
+                    <seg type="syll" part="I" met="+">fro&#868;u</seg>
+                    <seg type="syll" part="F">de</seg>
+                  </w>
                 </lem>
                 <note>&#868; man. r.</note>
               </app>

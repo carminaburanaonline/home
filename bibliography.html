@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>CBO Bibliography</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <!-- Add additional CSS in static file -->
+    <link rel="stylesheet" href="css/ui-components.css"/>
+    <link rel="stylesheet" href="css/layout-generic.css"/>
+
+  </head>
+  <body>
+    <div class="page-container">
+      <!-- Navbar + header -->
+      <div data-include="header"></div>
+
+      <div class="page-title">Bibliography</div>
+
+      <main style="display: flex; flex: 1;">
+        <section id="bibliography-controls">
+          <button id="sort-author" data-i18n="sortAuthor"></button>
+          <button id="sort-title" data-i18n="sortTitle"></button>
+          <button id="sort-year" data-i18n="sortYear"></button>
+          <input id="bib-search" type="search" placeholder="Search...">
+      </section>
+
+      <section id="bibliography-results">
+      </section>
+      </main>
+
+      <!-- Footer -->
+      <footer class="cbo-center cbo-black cbo-padding-16" data-include="footer"></footer>
+    </div>
+
+    <script type="module">
+      import { initPage } from './js/initPage.js';
+      import { renderBibliographyPage } from './js/bibliography/bibliographyPage.js';
+
+      initPage(renderBibliographyPage);
+    </script>
+
+
+  </body>
+</html>
+
+
+
+
