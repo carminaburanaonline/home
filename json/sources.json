@@ -4380,15 +4380,11 @@
       },
       {
         "abstract_item": "CB131",
-        "foliation": null
-      },
-      {
-        "abstract_item": "CB131A",
         "foliation": "33v-34r"
       },
       {
         "abstract_item": "CB004*",
-        "foliation": "21r"
+        "foliation": "23r-24v"
       }
     ],
     "music": null,
@@ -4658,6 +4654,10 @@
         "foliation": "15r-v"
       },
       {
+        "abstract_item": "CB022",
+        "foliation": "45r"
+      },
+      {
         "abstract_item": "CB034",
         "foliation": "159v-161r"
       },
@@ -4901,28 +4901,6 @@
     "notes": "HS: s. 14, fol. 9v, Üb.: Incipit de bona gubernacione hominis. Impossible to find in catalogues of the Escorial. Patrum latinorum Hispaniensis, S. 469; Nachforschungen nach der Hs., die L. Bieler 1968 anstellte, blieben erfolglos"
   },
   {
-    "id": 36,
-    "rism": "E-E f-III-18",
-    "siglum_edition": null,
-    "country": "España",
-    "city": "San Lorenzo de El Escorial",
-    "library": "Biblioteca",
-    "shelfmark": "f-III-18 (wrong shelfmark)",
-    "concordances": [
-      {
-        "abstract_item": "CB189",
-        "foliation": "179r"
-      }
-    ],
-    "music": false,
-    "links": {
-      "catalogue": null,
-      "images": null,
-      "iiif": null
-    },
-    "notes": "f-III-18 doesn't have this item on f. 179 (we have digital pictures of fol. 170-180). HS writes \"Escorial, f.III.18, s. 14, fol. 179r. In Kurzzeilen geschr. Str. 2b fehlt\". I've checked  f-III-18 as an old shelfmark, but the current shelfmark corresponding to the old f-III-18, d-III-3, doesn't have the piece either. I've browsed all the catalogues of the Escorial and couldn't find any match for the incipit Aristipe, for a fol. 179 with rhyme verses etc. I've checked the Greek ms. too. Couldn't find anything..."
-  },
-  {
     "id": 35,
     "rism": "E-E Z-II-2",
     "siglum_edition": "E",
@@ -5058,7 +5036,7 @@
   },
   {
     "id": 39,
-    "rism": "F-AI RES A 9 ( 26)",
+    "rism": "F-AI RES A 9 (26)",
     "siglum_edition": null,
     "country": "France",
     "city": "Albi",
@@ -7633,7 +7611,7 @@
     "links": {
       "catalogue": "https://searcharchives.bl.uk/catalog/032-002055386",
       "images": "https://www.diamm.ac.uk/sources/919/#/images",
-      "iiif": null
+      "iiif": "https://www.diamm.ac.uk/sources/919/manifest/"
     },
     "notes": null
   },
