@@ -1,5 +1,7 @@
 import { includeHTML } from './includes.js';
 import { loadLang, initLangSwitcher, updateActiveButton, applyTranslations } from './lang.js';
+import { initializeBibliographyRefs } from './bibliography-ref.js';
+import { initializeSourceRefs } from './source-ref.js';
 
 export async function initPage(renderPage = null) {
   await includeHTML();
@@ -24,6 +26,10 @@ export async function initPage(renderPage = null) {
   if (renderPage) {
     await renderPage();
   }
+
+  // --- render the bib-ref and source-ref elements ---
+  initializeBibliographyRefs();
+  initializeSourceRefs();
 
   // --- fill text of elements according to language ---
   applyTranslations();

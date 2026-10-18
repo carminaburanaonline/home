@@ -6,32 +6,46 @@ let bibliography = [];
 let currentSort = "author";
 
 export async function renderBibliographyPage() {
+  const response = await fetch("json/bibliography.json");
+  bibliography = await response.json();
 
-    const response = await fetch("json/bibliography.json");
-    bibliography = await response.json();
+  document.getElementById("bib-search").addEventListener("input", renderBibliography);
 
-    document.getElementById("bib-search").addEventListener("input", renderBibliography);
+  document.getElementById("sort-author").addEventListener("click", () => {
+      currentSort = "author";
+      renderBibliography();
+      updateActiveButton();
+  });
 
-    document.getElementById("sort-author").addEventListener("click", () => {
-        currentSort = "author";
-        renderBibliography();
-        updateActiveButton();
-    });
+  document.getElementById("sort-year").addEventListener("click", () => {
+      currentSort = "year";
+      renderBibliography();
+      updateActiveButton();
+  });
 
-    document.getElementById("sort-year").addEventListener("click", () => {
-        currentSort = "year";
-        renderBibliography();
-        updateActiveButton();
-    });
+  document.getElementById("sort-title").addEventListener("click", () => {
+      currentSort = "title";
+      renderBibliography();
+      updateActiveButton();
+  });
 
-    document.getElementById("sort-title").addEventListener("click", () => {
-        currentSort = "title";
-        renderBibliography();
-        updateActiveButton();
-    });
+  updateActiveButton();
+  renderBibliography();
 
-    updateActiveButton();
-    renderBibliography();
+  const id =
+  new URLSearchParams(window.location.search).get("id");
+
+  if (id) {
+    const entry = document.getElementById(`bib-${id}`);
+
+    if (entry) {
+      entry.classList.add("bib-highlight");
+      entry.scrollIntoView({
+        behavior: "smooth",
+        block: "center"
+      });
+    }
+  }
 }
 
 function renderBibliography() {

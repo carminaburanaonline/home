@@ -28,6 +28,7 @@ export function applyTranslations() {
     const key = el.dataset.i18n;
     el.textContent = t(key);
   });
+
   // Hide elements in other languages
   document.querySelectorAll('[data-lang]').forEach(el => {
     console.log(el);

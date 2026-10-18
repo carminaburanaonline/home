@@ -223,3 +223,19 @@ main {
 .highlighted { background-color: yellow; }
 .hidden { display: none!important;; }
 
+.bib-highlight {
+    background-color: #fff3cd;
+    padding-left: 1rem;
+}
+
+.bib-tooltip, .source-tooltip {
+    position: fixed;
+    z-index: 1000;
+    display: none;
+    max-width: 500px;
+    padding: 1rem;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+    box-shadow: 5px 5px LightGray;
+}
