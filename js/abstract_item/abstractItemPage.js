@@ -26,10 +26,11 @@ export async function renderAbstractItemPage() {
     const tdTitle = document.createElement('td');
     const tdFolio = document.createElement('td');
 
-    const SourceLink = document.createElement('a');
-    SourceLink.href = `source?id=${source.id}`;
-    SourceLink.textContent = `${source.rism}`;
-    tdSource.append(SourceLink);
+    const sourceRef = document.createElement('a');
+    sourceRef.setAttribute("class", "source-ref");
+    sourceRef.setAttribute("data-source-id", source.id);
+    sourceRef.textContent = `${source.rism}`;
+    tdSource.append(sourceRef);
 
     const titleLink = document.createElement('a');
     titleLink.href = `item?id=${item.id}`;
