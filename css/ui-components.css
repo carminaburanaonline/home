@@ -13,6 +13,7 @@
 
 .resizer {
   width: 10px;
+  cursor: col-resize;
 }
 
 button,
