@@ -57,7 +57,7 @@ export async function renderItemPage() {
   initMirador(item, source);
 
   // French translation
-  const container = document.getElementById("translation");
+  let container = document.getElementById("translation");
   try {
     container.append(await XSLtransform(`tei/${itemId}_PB.tei`, "xsl/french-translation.xsl"));
     indentVersesFromDataIndent(container);
@@ -68,6 +68,18 @@ export async function renderItemPage() {
     container.append(span);
   }
 
+  // Critical commentary
+  container = document.getElementById('commentary')
+  const res = await fetch(`html/abstract_items_meta/${item.abstract_item.replace('*', 'x')}.html`);
+  const html = await res.text();
+  if (html) {
+    container.innerHTML = html;
+  }
+  else {
+    container.setAttribute("data-i18n", "inPreparation");
+  }
+
+  //TODO: add the rest of the commentary
 
   // Setting filename and path for download options
   document.getElementById("tei-download").setAttribute("href", `tei/${itemId}.tei`);
