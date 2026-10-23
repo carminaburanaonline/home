@@ -94,7 +94,8 @@ export async function renderItemPage() {
   // PDF download for the main item
   if (item.SVGfiles) {
     document.getElementById("pdf-download").addEventListener("click", () => {
-      exportSvgToPdf(itemId);
+      //exportSvgToPdf(itemId);
+      exportSvgToPdf(itemId, item.SVGfiles);
     });
   } else {
     document.getElementById("pdf-download").addEventListener("click", () => {

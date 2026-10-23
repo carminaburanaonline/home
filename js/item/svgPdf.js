@@ -1,4 +1,4 @@
-export async function exportSvgToPdf(itemId) {
+/*export async function exportSvgToPdf(itemId) {
   const { jsPDF } = window.jspdf;
 
   const container = document.querySelector(`#svg-${itemId}`);
@@ -94,5 +94,64 @@ export async function exportSvgToPdf(itemId) {
   }
 
   pdf.save(`${itemId}.pdf`);
+}*/
+
+const { jsPDF } = window.jspdf;
+
+export async function exportSvgToPdf(itemId, n) {
+  const svgFiles = [];
+  if (n == 1) {
+    svgFiles.push(`img/mzsc/${itemId}.svg`);
+  }
+  else {
+    for (let i = 1; i <= n; i++) {
+      svgFiles.push(`img/mzsc/${itemId}-${i}.svg`);
+    }
+  }
+
+  console.log(svgFiles.length);
+
+  const pdf = new jsPDF({
+    orientation: "portrait",
+    unit: "mm",
+    format: "a4"
+  });
+
+  for (let i = 0; i < svgFiles.length; i++) {
+    if (i > 0) pdf.addPage();
+
+    const response = await fetch(svgFiles[i]);
+    if (!response.ok) {
+      throw new Error(`Could not load ${svgFiles[i]}`);
+    }
+
+    const svgText = await response.text();
+    const parsed = new DOMParser().parseFromString(
+      svgText, "image/svg+xml"
+    );
+
+    if (parsed.querySelector("parsererror")) {
+      throw new Error(`Invalid SVG: ${svgFiles[i]}`);
+    }
+
+    const svg = parsed.documentElement;
+    const vb = svg.viewBox.baseVal;
+
+    if (!vb.width || !vb.height) {
+      throw new Error(`SVG needs a valid viewBox: ${svgFiles[i]}`);
+    }
+
+    const scale = Math.min(190 / vb.width, 277 / vb.height);
+    const width = vb.width * scale;
+    const height = vb.height * scale;
+
+    await pdf.svg(svg, {
+      x: (210 - width) / 2,
+      y: (297 - height) / 2,
+      width,
+      height
+    });
+  }
+
+  pdf.save(`${itemId}.pdf`);
 }
-``

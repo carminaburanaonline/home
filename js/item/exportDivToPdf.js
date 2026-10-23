@@ -11,3 +11,10 @@ export function exportDivToPdf(div, filename) {
   //}).set(opt).from(div).toContainer().toCanvas().toPdf().save();
   html2pdf().set(opt).from(div).toContainer().toCanvas().toPdf().save();
 }
+
+//Next snippet working fine to get a vectorial PDF, but no font recognition and a lot of work needed to hide notes etc.
+/*export function exportDivToPdf(div, filename) {
+  html_to_vector_pdf.generatePdf(div, {
+    filename: filename + ".pdf"
+  });
+}*/
