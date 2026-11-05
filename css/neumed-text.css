@@ -79,10 +79,13 @@
 }
 
 .word {
-  font-style: normal;
   display: inline-flex;
   white-space: nowrap;
   word-spacing: 0;
+}
+
+.note .word {
+  font-style: normal;
 }
 
 .neumed-syll {
