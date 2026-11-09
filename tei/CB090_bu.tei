@@ -8,13 +8,15 @@
             <seg type="hemistich">
               <w>Surrexit</w>
               <w>de</w>
-              <w>cumulo</w>
+              <w>tumulo</w>
+              <pc resp="#editor">,</pc>
             </seg>
             <seg type="hemistich">
               <w>fulgens</w>
               <w>plus</w>
               <w>quam</w>
               <w>stella</w>
+              <pc resp="#editor">;</pc>
             </seg>
           </l>
           <l n="2" xml:id="CB090_bu-l-2">
@@ -25,27 +27,40 @@
             </seg>
             <seg type="hemistich">
               <w>hostis</w>
-              <w>dica</w>
+              <app type="text">
+                <lem wit="A">
+                  <w>dira</w>
+                </lem>
+                <rdg wit="cod."><w>dica</w></rdg>
+              </app>
               <w>bella</w>
+              <pc resp="#editor">.</pc>
             </seg>
           </l>
         </lg>
         <lg type="strophe" n="II" met="7pp+6p/7pp+6p" rhyme="A+B/A+B" xml:id="CB090_bu-lg-2">
           <l n="1" xml:id="CB090_bu-l-3">
             <seg type="hemistich">
-              <w>Nitam</w>
+              <w>Vitam</w>
               <w>dedit</w>
               <w>seculo</w>
+              <pc resp="#editor">,</pc>
             </seg>
             <seg type="hemistich">
               <w>celi</w>
               <w>prebens</w>
               <w>mella</w>
+              <pc resp="#editor">.</pc>
             </seg>
           </l>
           <l n="2" xml:id="CB090_bu-l-4">
             <seg type="hemistich">
-              <w>da</w>
+              <app type="text">
+                <lem>
+                  <w>De</w>
+                </lem>
+                <rdg wit="cod."><w>Da</w></rdg>
+              </app>
               <w>cruoris</w>
               <w>rivulo</w>
             </seg>

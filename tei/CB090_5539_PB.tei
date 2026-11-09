@@ -1,0 +1,29 @@
+<TEI>
+  <teiHeader/>
+  <text>
+    <body>
+      <div type="poem">
+        <lg type="strophe" n="I" xml:id="CB090_PB-lg-1">
+          <l n="1" xml:id="CB090_PB-l-1">
+            <seg type="hemistich">Elle sort au point du jour,</seg>
+            <seg type="hemistich">la bergerette,</seg>
+          </l>
+          <l n="3" xml:id="CB090_PB-l-2">
+            <seg type="hemistich">avec son troupeau, avec son b&#226;ton,</seg>
+            <seg type="hemistich">et sa laine sur sa quenouille.</seg>
+          </l>
+        </lg>
+        <lg type="strophe" n="II" xml:id="CB090_PB-lg-2">
+          <l n="1" xml:id="CB090_PB-l-3">
+            <seg type="hemistich">Forment son petit troupeau</seg>
+            <seg type="hemistich">une &#226;nesse et un mouton,</seg>
+          </l>
+          <l n="2" xml:id="CB090_PB-l-4">
+            <seg type="hemistich">une g&#233;nisse avec un veau,</seg>
+            <seg type="hemistich">une chevrette et un chevreau.</seg>
+          </l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

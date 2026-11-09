@@ -4,22 +4,34 @@
     <body>
       <div type="poem">
         <lg type="strophe" n="I" xml:id="CB090_PB-lg-1">
-          <l n="1" xml:id="CB090_PB-l-1">Elle sort au point du jour,</l>
-          <l n="2" rend="indent(1)" xml:id="CB090_PB-l-2">la bergerette,</l>
-          <l n="3" xml:id="CB090_PB-l-3">avec son troupeau, avec son b&#226;ton,</l>
-          <l n="4" xml:id="CB090_PB-l-4">et sa laine sur sa quenouille.</l>
+          <l n="1" xml:id="CB090_PB-l-1">
+            <seg type="hemistich">Elle sort au point du jour,</seg>
+            <seg type="hemistich">la bergerette,</seg>
+          </l>
+          <l n="3" xml:id="CB090_PB-l-2">
+            <seg type="hemistich">avec son troupeau, avec son b&#226;ton,</seg>
+            <seg type="hemistich">et sa laine sur sa quenouille.</seg>
+          </l>
         </lg>
         <lg type="strophe" n="II" xml:id="CB090_PB-lg-2">
-          <l n="1" xml:id="CB090_PB-l-5">Forment son petit troupeau</l>
-          <l n="2" xml:id="CB090_PB-l-6">une &#226;nesse et un mouton,</l>
-          <l n="3" xml:id="CB090_PB-l-7">une g&#233;nisse avec un veau,</l>
-          <l n="4" xml:id="CB090_PB-l-8">une chevrette et un chevreau.</l>
+          <l n="1" xml:id="CB090_PB-l-3">
+            <seg type="hemistich">Forment son petit troupeau</seg>
+            <seg type="hemistich">une &#226;nesse et un mouton,</seg>
+          </l>
+          <l n="2" xml:id="CB090_PB-l-4">
+            <seg type="hemistich">une g&#233;nisse avec un veau,</seg>
+            <seg type="hemistich">une chevrette et un chevreau.</seg>
+          </l>
         </lg>
         <lg type="strophe" n="III" xml:id="CB090_PB-lg-3">
-          <l n="1" xml:id="CB090_PB-l-9">Dans un buisson elle voit</l>
-          <l n="2" xml:id="CB090_PB-l-10">un &#233;tudiant assis tout seul.</l>
-          <l n="3" xml:id="CB090_PB-l-11">&#171; Monseigneur, que fais-tu l&#224; ?</l>
-          <l n="4" xml:id="CB090_PB-l-12">Viens t&#8217;amuser avec moi ! &#187;</l>
+          <l n="1" xml:id="CB090_PB-l-5">
+            <seg type="hemistich">Dans un buisson elle voit</seg>
+            <seg type="hemistich">un &#233;tudiant assis tout seul.</seg>
+          </l>
+          <l n="2" xml:id="CB090_PB-l-6">
+            <seg type="hemistich">&#171; Monseigneur, que fais-tu l&#224; ?</seg>
+            <seg type="hemistich">Viens t&#8217;amuser avec moi ! &#187;</seg>
+          </l>
         </lg>
       </div>
     </body>

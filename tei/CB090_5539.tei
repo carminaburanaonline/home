@@ -61,37 +61,6 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="7pp+6p/7pp+6p" rhyme="a+b/a+b" xml:id="CB090_5539-lg-3">
-          <l n="1" xml:id="CB090_5539-l-5">
-            <seg type="hemistich">
-              <w>Conspexit</w>
-              <w>in</w>
-              <w>cespite</w>
-            </seg>
-            <seg type="hemistich">
-              <w>scolarem</w>
-              <w>sedere</w>
-              <pc resp="#editor">:</pc>
-            </seg>
-          </l>
-          <l n="2" met="7pp+7pp" xml:id="CB090_5539-l-6">
-            <seg type="hemistich">
-              <pc resp="#editor" pre="true">&#171;</pc>
-              <w>quid</w>
-              <w>tu</w>
-              <w>facis</w>
-              <pc resp="#editor">,</pc>
-              <w>domine</w>
-              <pc resp="#editor">?</pc>
-            </seg>
-            <seg type="hemistich">
-              <w>Veni</w>
-              <w>mecum</w>
-              <w>ludere</w>
-              <pc resp="#editor">&#187;!</pc>
-            </seg>
-          </l>
-        </lg>
       </div>
     </body>
   </text>

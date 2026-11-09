@@ -25,11 +25,16 @@
                 <seg type="syll" part="M">ti</seg>
                 <seg type="syll" part="F">ca</seg>
               </w>
-              <w>
-                <seg type="syll" part="I">pu</seg>
-                <seg type="syll" part="M">el</seg>
-                <seg type="syll" part="F">la</seg>
-              </w>
+              <app type="text">
+                <lem>
+                  <w>
+                    <seg type="syll" part="I">pu</seg>
+                    <seg type="syll" part="M">el</seg>
+                    <seg type="syll" part="F">la</seg>
+                  </w>
+                </lem>
+                <note>-a corr. ex. -o man. r. cod.</note>
+              </app>
               <pc>&#183;</pc>
             </seg>
           </l>
@@ -99,11 +104,16 @@
               <w>
                 <seg type="syll">et</seg>
               </w>
-              <w>
+              <app type="text">
+                <lem>
+                  <w>
                 <seg type="syll" part="I">a</seg>
                 <seg type="syll" part="M">sel</seg>
                 <seg type="syll" part="F">la</seg>
               </w>
+                </lem>
+                <note>-a corr. ex. -o man. r. cod.</note>
+              </app>
               <pc>&#183;</pc>
               <pc resp="#editor">,</pc>
             </seg>
@@ -118,11 +128,16 @@
               <w>
                 <seg type="syll">cum</seg>
               </w>
-              <w>
-                <seg type="syll" part="I">vi</seg>
-                <seg type="syll" part="M">tu</seg>
-                <seg type="syll" part="F">lo</seg>
-              </w>
+              <app type="text">
+                <lem>
+                  <w>
+                    <seg type="syll" part="I">vi</seg>
+                    <seg type="syll" part="M">tu</seg>
+                    <seg type="syll" part="F">lo</seg>
+                  </w>
+                </lem>
+                <note>-o corr. ex -a man. r. cod.</note>
+              </app>
               <pc>&#183;</pc>
               <pc resp="#editor">,</pc>
             </seg>
