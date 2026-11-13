@@ -1,1 +1,4 @@
 CB014x, music, on sputa...patitur: adjusted (comment)
+CB034_emn, music, on nam qui pro tuis: strange note shape in the upper part (comment)
+CB034_plut, music, on vi---de Deus, the clef is wrong by a third in the lower part (comment)
+CB034_plut, music, on sibi thronum: one note missing (ed. D on si-).
