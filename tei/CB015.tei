@@ -957,10 +957,15 @@
           </l>
           <l n="4" xml:id="CB015-l-16">
             <seg type="hemistich">
-              <w>
+              <app type="text">
+                <lem wit="cod. Ld V">
+                  <w>
                 <seg type="syll" part="I">ve</seg>
                 <seg type="syll" part="F">rum</seg>
               </w>
+                </lem>
+                <rdg wit="HSB T"><w>nedum</w></rdg>
+              </app>
               <w>
                 <seg type="syll" part="I">sol</seg>
                 <seg type="syll" part="M">li</seg>
@@ -1123,13 +1128,14 @@
           <l n="3" xml:id="CB015-l-21">
             <seg type="hemistich">
               <app type="text">
-                <lem wit="F R HSB T">
+                <lem wit="HSB T">
                   <w>
                     <seg type="syll" part="I">Is</seg>
                     <seg type="syll" part="F">te</seg>
                   </w>
                 </lem>
                 <rdg wit="cod. V"><w>istud</w></rdg>
+                <rdg wit="Ld"><w>illud</w></rdg>
               </app>
               <w>
                 <seg type="syll">quod</seg>
