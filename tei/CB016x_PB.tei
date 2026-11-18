@@ -153,38 +153,92 @@
             </lg>
           </div>
         </sp>
-        <stage n="20" xml:id="CB016x_PB-stage-20"/>
-        <sp who="#mar-magd" xml:lang="middle-high-german" n="20" xml:id="CB016x_PB-sp-20"/>
-        <stage xml:id="CB016x_PB-stage-21"/>
-        <sp who="#mar-magd" xml:lang="middle-high-german" n="20" xml:id="CB016x_PB-sp-21"/>
-        <stage xml:id="CB016x_PB-stage-22"/>
-        <sp who="#mar-magd" xml:lang="middle-high-german" n="20" xml:id="CB016x_PB-sp-22"/>
-        <stage xml:id="CB016x_PB-stage-23"/>
-        <sp who="#mar-magd" xml:lang="middle-high-german" n="20" xml:id="CB016x_PB-sp-23"/>
+        <stage n="20" xml:id="CB016x_PB-stage-20">Marie-Madeleine :</stage>
+        <sp who="#mar-magd" xml:lang="middle-high-german" n="20" xml:id="CB016x_PB-sp-20">
+          <div type="poem">
+            <lg type="strophe" xml:id="CB016x_PB-lg-9">
+              <l n="1" xml:id="CB016x_PB-l-24">Marchand, donne-moi le fard qui met du rouge &#224; mes joues</l>
+              <l n="2" xml:id="CB016x_PB-l-25">afin que je contraigne aux plaisirs d&#8217;amour les jeunes gens, qu&#8217;ils le veuillent ou non.</l>
+            </lg>
+          </div>
+        </sp>
+        <stage xml:id="CB016x_PB-stage-21">Et :</stage>
+        <sp who="#mar-magd" xml:lang="middle-high-german" n="20" xml:id="CB016x_PB-sp-21">
+          <div type="poem">
+            <lg type="strophe" xml:id="CB016x_PB-lg-10">
+              <l n="1" xml:id="CB016x_PB-l-26">Regardez-moi, jeunes gens,</l>
+              <l n="2" xml:id="CB016x_PB-l-27">laissez-vous s&#233;duire !</l>
+            </lg>
+          </div>
+        </sp>
+        <stage xml:id="CB016x_PB-stage-22">Et :</stage>
+        <sp who="#mar-magd" xml:lang="middle-high-german" n="20" xml:id="CB016x_PB-sp-22">
+          <div type="poem">
+            <lg type="strophe" xml:id="CB016x_PB-lg-11">
+              <l n="1" xml:id="CB016x_PB-l-28">Aimez, hommes de bien, les dames aimables !</l>
+              <l n="2" xml:id="CB016x_PB-l-29">L&#8217;amour vous remplira d&#8217;all&#233;gresse et accro&#238;tra votre honneur.</l>
+            </lg>
+            <lg type="refrain" xml:id="CB016x_PB-lg-12">
+              <head>Refrain</head>
+              <l n="1" xml:id="CB016x_PB-l-30">Regardez-moi, jeunes gens...</l>
+            </lg>
+          </div>
+        </sp>
+        <stage xml:id="CB016x_PB-stage-23">Et :</stage>
+        <sp who="#mar-magd" xml:lang="middle-high-german" n="20" xml:id="CB016x_PB-sp-23">
+          <div type="poem">
+            <lg type="strophe" xml:id="CB016x_PB-lg-13">
+              <l n="1" xml:id="CB016x_PB-l-31">B&#233;ni sois-tu, monde, pour &#234;tre si prodigue en joies !</l>
+              <l n="2" xml:id="CB016x_PB-l-32">Je veux t&#8217;&#234;tre toujours soumise afin de m&#8217;assurer des plaisirs que tu offres.</l>
+            </lg>
+            <lg type="refrain" xml:id="CB016x_PB-lg-14">
+              <head>Refrain</head>
+              <l n="1" xml:id="CB016x_PB-l-33">Regardez-moi, jeunes gens...</l>
+            </lg>
+          </div>
+        </sp>
         <stage n="21" xml:id="CB016x_PB-stage-24">Ensuite qu&#8217;elle aille dormir, et que l&#8217;ange chante :</stage>
         <sp who="#angelus" n="21" xml:id="CB016x_PB-sp-24">
           <div type="poem">
-            <lg type="strophe" xml:id="CB016x_PB-lg-9">
-              <l n="1" xml:id="CB016x_PB-l-24">O Marie Madeleine,</l>
-              <l n="2" xml:id="CB016x_PB-l-25">je t&#8217;annonce une nouvelle :</l>
-              <l n="3" xml:id="CB016x_PB-l-26">Dans la demeure de Simon</l>
-              <l n="4" xml:id="CB016x_PB-l-27">se trouve assis pour le d&#238;ner</l>
-              <l n="5" xml:id="CB016x_PB-l-28">ce J&#233;sus de Nazareth,</l>
-              <l n="6" xml:id="CB016x_PB-l-29">plein de gr&#226;ce et de pouvoir,</l>
-              <l n="7" xml:id="CB016x_PB-l-30">qui remet les p&#233;ch&#233;s du peuple ;</l>
-              <l n="8" xml:id="CB016x_PB-l-31">c&#8217;est lui que la foule proclame</l>
-              <l n="9" xml:id="CB016x_PB-l-32">le sauveur de ce si&#232;cle.</l>
+            <lg type="strophe" xml:id="CB016x_PB-lg-15">
+              <l n="1" xml:id="CB016x_PB-l-34">O Marie Madeleine,</l>
+              <l n="2" xml:id="CB016x_PB-l-35">je t&#8217;annonce une nouvelle :</l>
+              <l n="3" xml:id="CB016x_PB-l-36">Dans la demeure de Simon</l>
+              <l n="4" xml:id="CB016x_PB-l-37">se trouve assis pour le d&#238;ner</l>
+              <l n="5" xml:id="CB016x_PB-l-38">ce J&#233;sus de Nazareth,</l>
+              <l n="6" xml:id="CB016x_PB-l-39">plein de gr&#226;ce et de pouvoir,</l>
+              <l n="7" xml:id="CB016x_PB-l-40">qui remet les p&#233;ch&#233;s du peuple ;</l>
+              <l n="8" xml:id="CB016x_PB-l-41">c&#8217;est lui que la foule proclame</l>
+              <l n="9" xml:id="CB016x_PB-l-42">le sauveur de ce si&#232;cle.</l>
             </lg>
           </div>
         </sp>
         <stage n="22" xml:id="CB016x_PB-stage-25">Que l&#8217;ange se retire et que Marie se l&#232;ve, en chantant :</stage>
         <sp who="#mar-magd" n="22" xml:id="CB016x_PB-sp-25">Le plaisir du monde ...</sp>
         <stage n="23" xml:id="CB016x_PB-stage-26">Qu&#8217;arrive alors son amoureux, que Marie le salue ; et quand ils ont un peu parl&#233;, que Marie chante &#224; ses suivantes :</stage>
-        <sp who="#mar-magd" n="23" xml:id="CB016x_PB-sp-26"/>
-        <stage n="24" xml:id="CB016x_PB-stage-27"/>
-        <sp who="#mar-magd" n="24" xml:id="CB016x_PB-sp-27"/>
-        <stage n="25" xml:id="CB016x_PB-stage-28"/>
-        <sp who="#merc" xml:lang="middle-high-german" n="25" xml:id="CB016x_PB-sp-28"/>
+        <sp who="#mar-magd" n="23" xml:id="CB016x_PB-sp-26">
+          <div type="poem">
+            <lg type="strophe" xml:id="CB016x_PB-lg-16">
+              <l n="1" xml:id="CB016x_PB-l-43">Allons, aimables enfants, rendons-nous chez le marchand,</l>
+              <l n="2" xml:id="CB016x_PB-l-44">nous y ach&#232;terons le fard qui nous rend belles et avenantes.</l>
+              <l n="3" xml:id="CB016x_PB-l-45">Celui qui m&#8217;aimera doit avoir l&#8217;esprit l&#233;ger.</l>
+            </lg>
+          </div>
+        </sp>
+        <stage n="24" xml:id="CB016x_PB-stage-27">Et elle chante :</stage>
+        <sp who="#mar-magd" n="24" xml:id="CB016x_PB-sp-27">
+          <p xml:id="CB016x_PB-p-1">Marchand, donne-moi le fard...</p>
+        </sp>
+        <stage n="25" xml:id="CB016x_PB-stage-28">Le marchand r&#233;pond :</stage>
+        <sp who="#merc" xml:lang="middle-high-german" n="25" xml:id="CB016x_PB-sp-28">
+          <div type="poem">
+            <lg type="strophe" xml:id="CB016x_PB-lg-17">
+              <l n="1" xml:id="CB016x_PB-l-46">Je vais vous donner un fard de qualit&#233;, on ne peut que le recommander,</l>
+              <l n="2" xml:id="CB016x_PB-l-47">il vous rendra vraiment belles et, en plus de cela, tout &#224; fait irr&#233;sistibles.</l>
+              <l n="3" xml:id="CB016x_PB-l-48">Prenez-le, emmenez-le, il n&#8217;a pas son pareil.</l>
+            </lg>
+          </div>
+        </sp>
         <stage n="26" xml:id="CB016x_PB-stage-29">Qu&#8217;elle prenne l&#8217;onguent et aille dormir [et que l&#8217;ange chante :]</stage>
         <sp who="#angelus" n="26" xml:id="CB016x_PB-sp-29">O Marie Madeleine ...</sp>
         <stage n="27" xml:id="CB016x_PB-stage-30">et qu&#8217;il disparaisse de nouveau. Que Marie se rel&#232;ve et chante :</stage>
@@ -192,13 +246,13 @@
         <stage n="28" xml:id="CB016x_PB-stage-31">Puis qu&#8217;elle se rendorme encore une fois et que l&#8217;ange vienne en chantant comme ci-dessus et disparaisse &#224; nouveau. [...]</stage>
         <sp who="#mar-magd" n="28" xml:id="CB016x_PB-sp-31">
           <div type="poem">
-            <lg type="strophe" n="I" xml:id="CB016x_PB-lg-10">
-              <l n="1" xml:id="CB016x_PB-l-33">H&#233;las pour ma vie pass&#233;e, cette vie pleine de maux,</l>
-              <l n="2" xml:id="CB016x_PB-l-34">ce torrent de turpitudes, cette source de perdition !</l>
+            <lg type="strophe" n="I" xml:id="CB016x_PB-lg-18">
+              <l n="1" xml:id="CB016x_PB-l-49">H&#233;las pour ma vie pass&#233;e, cette vie pleine de maux,</l>
+              <l n="2" xml:id="CB016x_PB-l-50">ce torrent de turpitudes, cette source de perdition !</l>
             </lg>
-            <lg type="strophe" n="II" xml:id="CB016x_PB-lg-11">
-              <l n="1" xml:id="CB016x_PB-l-35">H&#233;las, que ferai-je, malheureuse, pleine de p&#233;ch&#233;s,</l>
-              <l n="2" xml:id="CB016x_PB-l-36">moi qui, souill&#233;e, souille aussi de la sentine de mes vices !</l>
+            <lg type="strophe" n="II" xml:id="CB016x_PB-lg-19">
+              <l n="1" xml:id="CB016x_PB-l-51">H&#233;las, que ferai-je, malheureuse, pleine de p&#233;ch&#233;s,</l>
+              <l n="2" xml:id="CB016x_PB-l-52">moi qui, souill&#233;e, souille aussi de la sentine de mes vices !</l>
             </lg>
           </div>
         </sp>
@@ -207,35 +261,35 @@
         <stage n="30" xml:id="CB016x_PB-stage-33">Marie :</stage>
         <sp who="#mar-magd" n="30" xml:id="CB016x_PB-sp-33">
           <div type="poem">
-            <lg type="strophe" n="I" xml:id="CB016x_PB-lg-12">
-              <l n="1" xml:id="CB016x_PB-l-37">Dehors ornements du si&#232;cle, v&#234;tements immacul&#233;s,</l>
-              <l n="2" xml:id="CB016x_PB-l-38">fuyez bien loin de moi, scandaleux amoureux.</l>
+            <lg type="strophe" n="I" xml:id="CB016x_PB-lg-20">
+              <l n="1" xml:id="CB016x_PB-l-53">Dehors ornements du si&#232;cle, v&#234;tements immacul&#233;s,</l>
+              <l n="2" xml:id="CB016x_PB-l-54">fuyez bien loin de moi, scandaleux amoureux.</l>
             </lg>
-            <lg type="strophe" n="II" xml:id="CB016x_PB-lg-13">
-              <l n="1" xml:id="CB016x_PB-l-39">Pourquoi ai-je voulu na&#238;tre, si c&#8217;est pour &#234;tre souill&#233;e</l>
-              <l n="2" xml:id="CB016x_PB-l-40">et de toute sorte de crimes accus&#233;e ?</l>
+            <lg type="strophe" n="II" xml:id="CB016x_PB-lg-21">
+              <l n="1" xml:id="CB016x_PB-l-55">Pourquoi ai-je voulu na&#238;tre, si c&#8217;est pour &#234;tre souill&#233;e</l>
+              <l n="2" xml:id="CB016x_PB-l-56">et de toute sorte de crimes accus&#233;e ?</l>
             </lg>
           </div>
         </sp>
         <stage n="31" xml:id="CB016x_PB-stage-34">Qu&#8217;elle retire alors ses v&#234;tements mondains et mette une cape noire, que l&#8217;amoureux se retire et que le diable aille trouver le marchand :</stage>
         <sp n="31" xml:id="CB016x_PB-sp-34">
           <div type="poem">
-            <lg type="strophe" n="I" xml:id="CB016x_PB-lg-14">
-              <l n="1" xml:id="CB016x_PB-l-41">Dis-nous, jeune marchand,</l>
-              <l n="2" xml:id="CB016x_PB-l-42">si tu vendais cet onguent,</l>
-              <l n="3" xml:id="CB016x_PB-l-43">dis-nous quel en serait le prix.</l>
-              <l n="4" xml:id="CB016x_PB-l-44">H&#233;las, nous sommes bien afflig&#233;s.</l>
+            <lg type="strophe" n="I" xml:id="CB016x_PB-lg-22">
+              <l n="1" xml:id="CB016x_PB-l-57">Dis-nous, jeune marchand,</l>
+              <l n="2" xml:id="CB016x_PB-l-58">si tu vendais cet onguent,</l>
+              <l n="3" xml:id="CB016x_PB-l-59">dis-nous quel en serait le prix.</l>
+              <l n="4" xml:id="CB016x_PB-l-60">H&#233;las, nous sommes bien afflig&#233;s.</l>
             </lg>
           </div>
         </sp>
         <stage n="32" xml:id="CB016x_PB-stage-35">Que le marchand r&#233;ponde :</stage>
         <sp n="32" xml:id="CB016x_PB-sp-35">
           <div type="poem">
-            <lg type="strophe" n="I" xml:id="CB016x_PB-lg-15">
-              <l n="1" xml:id="CB016x_PB-l-45">Si vous d&#233;sirez vraiment cet onguent,</l>
-              <l n="2" xml:id="CB016x_PB-l-46">vous m&#8217;en donnerez en or un talent,</l>
-              <l n="3" xml:id="CB016x_PB-l-47">vous ne l&#8217;emporterez pas autrement,</l>
-              <l n="4" xml:id="CB016x_PB-l-48">car il est excellent.</l>
+            <lg type="strophe" n="I" xml:id="CB016x_PB-lg-23">
+              <l n="1" xml:id="CB016x_PB-l-61">Si vous d&#233;sirez vraiment cet onguent,</l>
+              <l n="2" xml:id="CB016x_PB-l-62">vous m&#8217;en donnerez en or un talent,</l>
+              <l n="3" xml:id="CB016x_PB-l-63">vous ne l&#8217;emporterez pas autrement,</l>
+              <l n="4" xml:id="CB016x_PB-l-64">car il est excellent.</l>
             </lg>
           </div>
         </sp>
@@ -244,20 +298,38 @@
         <stage n="34" xml:id="CB016x_PB-stage-37">Prenant l&#8217;onguent, qu&#8217;elle s&#8217;approche de qui tient le r&#244;le du Seigneur en chantant et pleurant :</stage>
         <sp n="34" xml:id="CB016x_PB-sp-37">
           <div type="poem">
-            <lg type="strophe" n="I" xml:id="CB016x_PB-lg-16">
-              <l n="1" xml:id="CB016x_PB-l-49">Honteusement malade, j&#8217;irai &#224; pr&#233;sent chez le m&#233;decin,</l>
-              <l n="2" xml:id="CB016x_PB-l-50">lui demandant de me gu&#233;rir ; je n&#8217;ai plus qu&#8217;&#224; offrir</l>
+            <lg type="strophe" n="I" xml:id="CB016x_PB-lg-24">
+              <l n="1" xml:id="CB016x_PB-l-65">Honteusement malade, j&#8217;irai &#224; pr&#233;sent chez le m&#233;decin,</l>
+              <l n="2" xml:id="CB016x_PB-l-66">lui demandant de me gu&#233;rir ; je n&#8217;ai plus qu&#8217;&#224; offrir</l>
             </lg>
-            <lg type="strophe" n="II" xml:id="CB016x_PB-lg-17">
-              <l n="1" xml:id="CB016x_PB-l-51">les v&#339;ux de mes larmes et les plaintes de mon c&#339;ur,</l>
-              <l n="2" xml:id="CB016x_PB-l-52">&#224; celui qui, &#224; ce qu&#8217;on dit, gu&#233;rit les p&#233;cheurs.</l>
+            <lg type="strophe" n="II" xml:id="CB016x_PB-lg-25">
+              <l n="1" xml:id="CB016x_PB-l-67">les v&#339;ux de mes larmes et les plaintes de mon c&#339;ur,</l>
+              <l n="2" xml:id="CB016x_PB-l-68">&#224; celui qui, &#224; ce qu&#8217;on dit, gu&#233;rit les p&#233;cheurs.</l>
             </lg>
           </div>
         </sp>
-        <stage n="35" xml:id="CB016x_PB-stage-38"/>
-        <sp xml:lang="middle-high-german" n="35" xml:id="CB016x_PB-sp-38"/>
-        <stage n="36" xml:id="CB016x_PB-stage-39"/>
-        <sp xml:lang="middle-high-german" n="36" xml:id="CB016x_PB-sp-39"/>
+        <stage n="35" xml:id="CB016x_PB-stage-38">Et :</stage>
+        <sp xml:lang="middle-high-german" n="35" xml:id="CB016x_PB-sp-38">
+          <div type="poem">
+            <lg type="strophe" xml:id="CB016x_PB-lg-26">
+              <l n="1" xml:id="CB016x_PB-l-69">J&#233;sus, consolation de mon &#226;me,</l>
+              <l n="2" xml:id="CB016x_PB-l-70">je m&#8217;en remets &#224; toi</l>
+              <l n="3" xml:id="CB016x_PB-l-71">pour que tu me d&#233;livres des fautes</l>
+              <l n="4" xml:id="CB016x_PB-l-72">que le monde m&#8217;a amen&#233;e &#224; commettre.</l>
+            </lg>
+          </div>
+        </sp>
+        <stage n="36" xml:id="CB016x_PB-stage-39">Et :</stage>
+        <sp xml:lang="middle-high-german" n="36" xml:id="CB016x_PB-sp-39">
+          <div type="poem">
+            <lg type="strophe" xml:id="CB016x_PB-lg-27">
+              <l n="1" xml:id="CB016x_PB-l-73">Je ne l&#226;cherai pas tes pieds</l>
+              <l n="2" xml:id="CB016x_PB-l-74">avant que tu ne m&#8217;absolves de mes p&#233;ch&#233;s</l>
+              <l n="3" xml:id="CB016x_PB-l-75">ainsi que des grandes fautes</l>
+              <l n="4" xml:id="CB016x_PB-l-76">que le monde m&#8217;a amen&#233;e &#224; commettre.</l>
+            </lg>
+          </div>
+        </sp>
         <stage n="37" xml:id="CB016x_PB-stage-40">Que le pharisien se dise &#224; part lui :</stage>
         <sp who="#phar" n="37" xml:id="CB016x_PB-sp-40">Si celui-ci &#233;tait proph&#232;te, il saurait fort bien qui est celle qui le touche et ce qu&#8217;elle est : que c&#8217;est une p&#233;cheresse.</sp>
         <stage n="38" xml:id="CB016x_PB-stage-41">Et que Judas dise :</stage>
@@ -271,40 +343,55 @@
         <stage n="42" xml:id="CB016x_PB-stage-45">J&#233;sus dit :</stage>
         <sp who="#ies" n="42" xml:id="CB016x_PB-sp-45">
           <div type="poem">
-            <lg type="strophe" n="I" xml:id="CB016x_PB-lg-18">
-              <l n="1" xml:id="CB016x_PB-l-53">Un homme avait deux d&#233;biteurs de sommes &#224; eux confi&#233;es,</l>
-              <l n="2" xml:id="CB016x_PB-l-54">&#224; qui il avait pr&#234;t&#233; pour qu&#8217;ils les fassent fructifier.</l>
+            <lg type="strophe" n="I" xml:id="CB016x_PB-lg-28">
+              <l n="1" xml:id="CB016x_PB-l-77">Un homme avait deux d&#233;biteurs de sommes &#224; eux confi&#233;es,</l>
+              <l n="2" xml:id="CB016x_PB-l-78">&#224; qui il avait pr&#234;t&#233; pour qu&#8217;ils les fassent fructifier.</l>
             </lg>
-            <lg type="strophe" n="II" xml:id="CB016x_PB-lg-19">
-              <l n="1" xml:id="CB016x_PB-l-55">L&#8217;un devait cinq cents deniers, et l&#8217;autre cinquante,</l>
-              <l n="2" xml:id="CB016x_PB-l-56">mais ils se trouv&#232;rent absolument ruin&#233;s.</l>
+            <lg type="strophe" n="II" xml:id="CB016x_PB-lg-29">
+              <l n="1" xml:id="CB016x_PB-l-79">L&#8217;un devait cinq cents deniers, et l&#8217;autre cinquante,</l>
+              <l n="2" xml:id="CB016x_PB-l-80">mais ils se trouv&#232;rent absolument ruin&#233;s.</l>
             </lg>
-            <lg type="strophe" n="III" xml:id="CB016x_PB-lg-20">
-              <l n="1" xml:id="CB016x_PB-l-57">Comme ils ne purent rembourser, il les dispensa du tout.</l>
-              <l n="2" xml:id="CB016x_PB-l-58">Or donc, lequel d&#8217;entre eux l&#8217;en aima davantage ?</l>
+            <lg type="strophe" n="III" xml:id="CB016x_PB-lg-30">
+              <l n="1" xml:id="CB016x_PB-l-81">Comme ils ne purent rembourser, il les dispensa du tout.</l>
+              <l n="2" xml:id="CB016x_PB-l-82">Or donc, lequel d&#8217;entre eux l&#8217;en aima davantage ?</l>
             </lg>
           </div>
         </sp>
         <stage n="43" xml:id="CB016x_PB-stage-46">Que Simon r&#233;ponde :</stage>
         <sp who="#petrus" n="43" xml:id="CB016x_PB-sp-46">
           <div type="poem">
-            <lg type="strophe" xml:id="CB016x_PB-lg-21">
-              <l n="1" xml:id="CB016x_PB-l-59">Je pense que c&#8217;est celui &#224; qui il a le plus donn&#233;.</l>
+            <lg type="strophe" xml:id="CB016x_PB-lg-31">
+              <l n="1" xml:id="CB016x_PB-l-83">Je pense que c&#8217;est celui &#224; qui il a le plus donn&#233;.</l>
             </lg>
           </div>
         </sp>
         <stage n="44" xml:id="CB016x_PB-stage-47">J&#233;sus dit :</stage>
         <sp who="#ies" n="44" xml:id="CB016x_PB-sp-47">
           <div type="poem">
-            <lg type="strophe" xml:id="CB016x_PB-lg-22">
-              <l n="1" xml:id="CB016x_PB-l-60">Tu as tout &#224; fait raison.</l>
+            <lg type="strophe" xml:id="CB016x_PB-lg-32">
+              <l n="1" xml:id="CB016x_PB-l-84">Tu as tout &#224; fait raison.</l>
             </lg>
           </div>
         </sp>
         <stage n="45" xml:id="CB016x_PB-stage-48">Et que J&#233;sus chante &#224; Marie :</stage>
         <sp who="#ies" n="45" xml:id="CB016x_PB-sp-48">Femme, tes p&#233;ch&#233;s te sont remis ; ta foi t&#8217;a sauv&#233;e, va en paix.</sp>
         <stage n="46" xml:id="CB016x_PB-stage-49">Qu&#8217;alors Marie se l&#232;ve et s&#8217;en aille en se lamentant, en chantant :</stage>
-        <sp who="#mar-magd" n="46" xml:id="CB016x_PB-sp-49"/>
+        <sp who="#mar-magd" n="46" xml:id="CB016x_PB-sp-49">
+          <div type="poem">
+            <lg type="strophe" n="I" xml:id="CB016x_PB-lg-33">
+              <l n="1" xml:id="CB016x_PB-l-85">H&#233;las, h&#233;las, quel malheur que j&#8217;aie vu le jour !</l>
+              <l n="2" xml:id="CB016x_PB-l-86">J&#8217;ai m&#233;rit&#233; la col&#232;re de Dieu</l>
+              <l n="3" xml:id="CB016x_PB-l-87">qui m&#8217;a donn&#233; mon &#226;me et mon corps</l>
+              <l n="4" xml:id="CB016x_PB-l-88">H&#233;las, malheureuse femme que je suis</l>
+            </lg>
+            <lg type="strophe" n="II" xml:id="CB016x_PB-lg-34">
+              <l n="1" xml:id="CB016x_PB-l-89">H&#233;las, h&#233;las, quel malheur que j&#8217;aie vu le jour,</l>
+              <l n="2" xml:id="CB016x_PB-l-90">Si la col&#232;re de Dieu m&#8217;appelle [&#224; Son tribunal]</l>
+              <l n="3" xml:id="CB016x_PB-l-91">Levez-vous, hommes et femmes de bien,</l>
+              <l n="4" xml:id="CB016x_PB-l-92">Dieu va juger vos &#226;mes et vos corps</l>
+            </lg>
+          </div>
+        </sp>
         <stage n="47" xml:id="CB016x_PB-stage-50">Pendant ce temps que les disciples chantent :</stage>
         <sp n="47" xml:id="CB016x_PB-sp-50">Ce pharisien cherchait &#224; obstruer la fontaine de mis&#233;ricorde.</sp>
         <stage n="48" xml:id="CB016x_PB-stage-51">Alors que J&#233;sus aille ressusciter Lazare, et que s&#8217;y trouvent Marie Madeleine et Marthe pleurant Lazare, et que J&#233;sus chante :</stage>
@@ -324,22 +411,22 @@
         <stage n="55" xml:id="CB016x_PB-stage-58">Que Judas r&#233;ponde :</stage>
         <sp who="#iudas" n="55" xml:id="CB016x_PB-sp-58">
           <div type="poem">
-            <lg type="strophe" xml:id="CB016x_PB-lg-23">
-              <l n="1" xml:id="CB016x_PB-l-61">Je livrerai J&#233;sus, croyez-le bien,</l>
-              <l n="2" xml:id="CB016x_PB-l-62">payez-moi l&#8217;argent promis.</l>
-              <l n="3" xml:id="CB016x_PB-l-63">Envoyez avec moi une troupe,</l>
-              <l n="4" xml:id="CB016x_PB-l-64">emmenez J&#233;sus prudemment.</l>
+            <lg type="strophe" xml:id="CB016x_PB-lg-35">
+              <l n="1" xml:id="CB016x_PB-l-93">Je livrerai J&#233;sus, croyez-le bien,</l>
+              <l n="2" xml:id="CB016x_PB-l-94">payez-moi l&#8217;argent promis.</l>
+              <l n="3" xml:id="CB016x_PB-l-95">Envoyez avec moi une troupe,</l>
+              <l n="4" xml:id="CB016x_PB-l-96">emmenez J&#233;sus prudemment.</l>
             </lg>
           </div>
         </sp>
         <stage n="56" xml:id="CB016x_PB-stage-59">Que les pontifes chantent :</stage>
         <sp n="56" xml:id="CB016x_PB-sp-59">
           <div type="poem">
-            <lg type="strophe" xml:id="CB016x_PB-lg-24">
-              <l n="1" xml:id="CB016x_PB-l-65">Pour livrer J&#233;sus promptement,</l>
-              <l n="2" xml:id="CB016x_PB-l-66">emm&#232;ne avec toi cette troupe,</l>
-              <l n="3" xml:id="CB016x_PB-l-67">et vas-y courageusement,</l>
-              <l n="4" xml:id="CB016x_PB-l-68">livre J&#233;sus rapidement.</l>
+            <lg type="strophe" xml:id="CB016x_PB-lg-36">
+              <l n="1" xml:id="CB016x_PB-l-97">Pour livrer J&#233;sus promptement,</l>
+              <l n="2" xml:id="CB016x_PB-l-98">emm&#232;ne avec toi cette troupe,</l>
+              <l n="3" xml:id="CB016x_PB-l-99">et vas-y courageusement,</l>
+              <l n="4" xml:id="CB016x_PB-l-100">livre J&#233;sus rapidement.</l>
             </lg>
           </div>
         </sp>
@@ -378,11 +465,11 @@
         <stage n="73" xml:id="CB016x_PB-stage-76">Que J&#233;sus lui r&#233;ponde :</stage>
         <sp who="#ies" n="73" xml:id="CB016x_PB-sp-76">
           <div type="poem">
-            <lg type="strophe" xml:id="CB016x_PB-lg-25">
-              <l n="1" xml:id="CB016x_PB-l-69">O Judas, pour quoi es-tu venu ?</l>
-              <l n="2" xml:id="CB016x_PB-l-70">Tu as commis un grand p&#233;ch&#233;,</l>
-              <l n="3" xml:id="CB016x_PB-l-71">tu m&#8217;emm&#232;nes, livr&#233; aux Juifs,</l>
-              <l n="4" xml:id="CB016x_PB-l-72">vers le lieu de mon supplice.</l>
+            <lg type="strophe" xml:id="CB016x_PB-lg-37">
+              <l n="1" xml:id="CB016x_PB-l-101">O Judas, pour quoi es-tu venu ?</l>
+              <l n="2" xml:id="CB016x_PB-l-102">Tu as commis un grand p&#233;ch&#233;,</l>
+              <l n="3" xml:id="CB016x_PB-l-103">tu m&#8217;emm&#232;nes, livr&#233; aux Juifs,</l>
+              <l n="4" xml:id="CB016x_PB-l-104">vers le lieu de mon supplice.</l>
             </lg>
           </div>
         </sp>
@@ -485,45 +572,82 @@
         <stage n="122" xml:id="CB016x_PB-stage-125">Pilate :</stage>
         <sp who="#pilatus" n="122" xml:id="CB016x_PB-sp-125">Ce que j&#8217;ai &#233;crit, je l&#8217;ai &#233;crit.</sp>
         <stage n="123" xml:id="CB016x_PB-stage-126">Que vienne alors la m&#232;re du Seigneur en se lamentant avec Jean l&#8217;&#233;vang&#233;liste, et s&#8217;approchant de la croix elle regarde le crucifi&#233; :</stage>
-        <sp who="#maria" xml:lang="middle-high-german" n="123" xml:id="CB016x_PB-sp-126"/>
+        <sp who="#maria" xml:lang="middle-high-german" n="123" xml:id="CB016x_PB-sp-126">
+          <div type="poem">
+            <lg type="strophe" xml:id="CB016x_PB-lg-38">
+              <l n="1" xml:id="CB016x_PB-l-105">Malheur, malheur &#224; moi aujourd&#8217;hui et &#224; jamais !</l>
+              <l n="2" xml:id="CB016x_PB-l-106">Malheur, dans quel &#233;tat m&#8217;est-il donn&#233; de voir</l>
+              <l n="3" xml:id="CB016x_PB-l-107">le plus cher enfant, que jamais</l>
+              <l n="4" xml:id="CB016x_PB-l-108">une femme a mis au monde.</l>
+              <l n="5" xml:id="CB016x_PB-l-109">H&#233;las, qu&#8217;est-il advenu de mon bel enfant !</l>
+            </lg>
+          </div>
+        </sp>
         <stage n="124" xml:id="CB016x_PB-stage-127">Puis</stage>
-        <sp who="#maria" xml:lang="middle-high-german" n="124" xml:id="CB016x_PB-sp-127"/>
+        <sp who="#maria" xml:lang="middle-high-german" n="124" xml:id="CB016x_PB-sp-127">
+          <div type="poem">
+            <lg type="strophe" xml:id="CB016x_PB-lg-39">
+              <l n="1" xml:id="CB016x_PB-l-110">Je le contemple, emplie de chagrin.</l>
+              <l n="2" xml:id="CB016x_PB-l-111">Hommes et femmes, ayez piti&#233; de lui</l>
+              <l n="3" xml:id="CB016x_PB-l-112">Levez vos yeux vers lui</l>
+              <l n="4" xml:id="CB016x_PB-l-113">Et prenez part &#224; son martyre !</l>
+            </lg>
+          </div>
+        </sp>
         <stage n="125" xml:id="CB016x_PB-stage-128">Puis</stage>
-        <sp who="#maria" xml:lang="middle-high-german" n="125" xml:id="CB016x_PB-sp-128"/>
+        <sp who="#maria" xml:lang="middle-high-german" n="125" xml:id="CB016x_PB-sp-128">
+          <div type="poem">
+            <lg type="strophe" xml:id="CB016x_PB-lg-40">
+              <l n="1" xml:id="CB016x_PB-l-114">Y a-t-il jamais eu martyre aussi douloureux</l>
+              <l n="2" xml:id="CB016x_PB-l-115">et tout aussi angoissant</l>
+              <l n="3" xml:id="CB016x_PB-l-116">&#192; pr&#233;sent, regardez son martyre, sa souffrance et sa mort,</l>
+              <l n="4" xml:id="CB016x_PB-l-117">et son corps enti&#232;rement couvert de sang.</l>
+            </lg>
+          </div>
+        </sp>
         <stage n="126" xml:id="CB016x_PB-stage-129">Puis</stage>
-        <sp who="#maria" xml:lang="middle-high-german" n="126" xml:id="CB016x_PB-sp-129"/>
+        <sp who="#maria" xml:lang="middle-high-german" n="126" xml:id="CB016x_PB-sp-129">
+          <div type="poem">
+            <lg type="strophe" xml:id="CB016x_PB-lg-41">
+              <l n="1" xml:id="CB016x_PB-l-118">Laissez vivre mon petit enfant</l>
+              <l n="2" xml:id="CB016x_PB-l-119">et tuez-moi moi, sa m&#232;re,</l>
+              <l n="3" xml:id="CB016x_PB-l-120">Marie, femme si mis&#233;rable !</l>
+              <l n="4" xml:id="CB016x_PB-l-121">&#192; quoi me servent cette vie et ce corps ?</l>
+            </lg>
+          </div>
+        </sp>
         <stage n="127" xml:id="CB016x_PB-stage-130">Et aussi, que la m&#232;re du Seigneur &#233;plor&#233;e, exhalant de nombreuses plaintes, qui crie aux femmes en pleurs, se lamentant &#233;perd&#251;ment :</stage>
         <sp who="#maria" n="127" xml:id="CB016x_PB-sp-130">
           <div type="poem">
-            <lg type="strophe" n="I" xml:id="CB016x_PB-lg-26">
-              <l n="1" xml:id="CB016x_PB-l-73">Pleurez, &#226;mes fid&#232;les,</l>
-              <l n="2" xml:id="CB016x_PB-l-74">pleurez, mes s&#339;urs si bonnes,</l>
-              <l n="3" xml:id="CB016x_PB-l-75">que nos plaintes et larmes</l>
-              <l n="4" xml:id="CB016x_PB-l-76">soient les signes multiples</l>
-              <l n="5" xml:id="CB016x_PB-l-77">de notre douleur !</l>
+            <lg type="strophe" n="I" xml:id="CB016x_PB-lg-42">
+              <l n="1" xml:id="CB016x_PB-l-122">Pleurez, &#226;mes fid&#232;les,</l>
+              <l n="2" xml:id="CB016x_PB-l-123">pleurez, mes s&#339;urs si bonnes,</l>
+              <l n="3" xml:id="CB016x_PB-l-124">que nos plaintes et larmes</l>
+              <l n="4" xml:id="CB016x_PB-l-125">soient les signes multiples</l>
+              <l n="5" xml:id="CB016x_PB-l-126">de notre douleur !</l>
             </lg>
           </div>
           <div type="poem">
-            <lg type="strophe" n="II" xml:id="CB016x_PB-lg-27">
-              <l n="1" xml:id="CB016x_PB-l-78">Que le c&#339;ur maternel de Marie</l>
-              <l n="2" xml:id="CB016x_PB-l-79">sa m&#232;re pleure ses blessures :</l>
-              <l n="3" xml:id="CB016x_PB-l-80">je souffre en tant que m&#232;re,</l>
-              <l n="4" xml:id="CB016x_PB-l-81">moi que l&#8217;on dit souvent</l>
-              <l n="5" xml:id="CB016x_PB-l-82">bien heureuse accouch&#233;e.</l>
+            <lg type="strophe" n="II" xml:id="CB016x_PB-lg-43">
+              <l n="1" xml:id="CB016x_PB-l-127">Que le c&#339;ur maternel de Marie</l>
+              <l n="2" xml:id="CB016x_PB-l-128">sa m&#232;re pleure ses blessures :</l>
+              <l n="3" xml:id="CB016x_PB-l-129">je souffre en tant que m&#232;re,</l>
+              <l n="4" xml:id="CB016x_PB-l-130">moi que l&#8217;on dit souvent</l>
+              <l n="5" xml:id="CB016x_PB-l-131">bien heureuse accouch&#233;e.</l>
             </lg>
           </div>
           <div type="poem">
-            <lg type="strophe" n="III" xml:id="CB016x_PB-lg-28">
-              <l n="1" xml:id="CB016x_PB-l-83">Quel horrible spectacle</l>
-              <l n="2" xml:id="CB016x_PB-l-84">que la croix et la lance,</l>
-              <l n="3" xml:id="CB016x_PB-l-85">il blesse en profondeur</l>
-              <l n="4" xml:id="CB016x_PB-l-86">le pr&#233;sage secret</l>
-              <l n="5" xml:id="CB016x_PB-l-87">de mon c&#339;ur virginal :</l>
-              <l n="6" xml:id="CB016x_PB-l-88">c&#8217;est cela qu&#8217;avait dit,</l>
-              <l n="7" xml:id="CB016x_PB-l-89">qu&#8217;avait proph&#233;tis&#233;</l>
-              <l n="8" xml:id="CB016x_PB-l-90">le bienheureux devin :</l>
-              <l n="9" xml:id="CB016x_PB-l-91">le voil&#224; donc, ce glaive</l>
-              <l n="10" xml:id="CB016x_PB-l-92">qui me perce le c&#339;ur.</l>
+            <lg type="strophe" n="III" xml:id="CB016x_PB-lg-44">
+              <l n="1" xml:id="CB016x_PB-l-132">Quel horrible spectacle</l>
+              <l n="2" xml:id="CB016x_PB-l-133">que la croix et la lance,</l>
+              <l n="3" xml:id="CB016x_PB-l-134">il blesse en profondeur</l>
+              <l n="4" xml:id="CB016x_PB-l-135">le pr&#233;sage secret</l>
+              <l n="5" xml:id="CB016x_PB-l-136">de mon c&#339;ur virginal :</l>
+              <l n="6" xml:id="CB016x_PB-l-137">c&#8217;est cela qu&#8217;avait dit,</l>
+              <l n="7" xml:id="CB016x_PB-l-138">qu&#8217;avait proph&#233;tis&#233;</l>
+              <l n="8" xml:id="CB016x_PB-l-139">le bienheureux devin :</l>
+              <l n="9" xml:id="CB016x_PB-l-140">le voil&#224; donc, ce glaive</l>
+              <l n="10" xml:id="CB016x_PB-l-141">qui me perce le c&#339;ur.</l>
             </lg>
           </div>
           Voyant sa t&#234;te pench&#233;e [...]
@@ -531,15 +655,15 @@
         <stage n="128" xml:id="CB016x_PB-stage-131">Qu&#8217;alors Marie &#233;treigne Jean et chante en le tenant dans ses bras :</stage>
         <sp who="#maria" n="128" xml:id="CB016x_PB-sp-131">
           <div type="poem">
-            <lg type="strophe" xml:id="CB016x_PB-lg-29">
-              <l n="1" xml:id="CB016x_PB-l-93">Mon Jean, mets-toi &#224; pleurer,</l>
-              <l n="2" xml:id="CB016x_PB-l-94">pleure avec moi, mon nouveau fils,</l>
-              <l n="3" xml:id="CB016x_PB-l-95">fils par un lien nouveau</l>
-              <l n="4" xml:id="CB016x_PB-l-96">de m&#232;re et de belle-m&#232;re.</l>
-              <l n="5" xml:id="CB016x_PB-l-97">Il est temps de se lamenter,</l>
-              <l n="6" xml:id="CB016x_PB-l-98">immolons nos larmes,</l>
-              <l n="7" xml:id="CB016x_PB-l-99">victimes intimes,</l>
-              <l n="8" xml:id="CB016x_PB-l-100">pour le Christ mourant</l>
+            <lg type="strophe" xml:id="CB016x_PB-lg-45">
+              <l n="1" xml:id="CB016x_PB-l-142">Mon Jean, mets-toi &#224; pleurer,</l>
+              <l n="2" xml:id="CB016x_PB-l-143">pleure avec moi, mon nouveau fils,</l>
+              <l n="3" xml:id="CB016x_PB-l-144">fils par un lien nouveau</l>
+              <l n="4" xml:id="CB016x_PB-l-145">de m&#232;re et de belle-m&#232;re.</l>
+              <l n="5" xml:id="CB016x_PB-l-146">Il est temps de se lamenter,</l>
+              <l n="6" xml:id="CB016x_PB-l-147">immolons nos larmes,</l>
+              <l n="7" xml:id="CB016x_PB-l-148">victimes intimes,</l>
+              <l n="8" xml:id="CB016x_PB-l-149">pour le Christ mourant</l>
             </lg>
           </div>
         </sp>
@@ -550,11 +674,11 @@
         <stage n="131" xml:id="CB016x_PB-stage-134">Jean lui r&#233;pond :</stage>
         <sp who="#iohannes" n="131" xml:id="CB016x_PB-sp-134">
           <div type="poem">
-            <lg type="strophe" xml:id="CB016x_PB-lg-30">
-              <l n="1" xml:id="CB016x_PB-l-101">O Marie, ne va pas tant</l>
-              <l n="2" xml:id="CB016x_PB-l-102">te d&#233;soler pour ton enfant,</l>
-              <l n="3" xml:id="CB016x_PB-l-103">laisse-moi pleurer maintenant,</l>
-              <l n="4" xml:id="CB016x_PB-l-104">toi qui veux quitter cette vie.</l>
+            <lg type="strophe" xml:id="CB016x_PB-lg-46">
+              <l n="1" xml:id="CB016x_PB-l-150">O Marie, ne va pas tant</l>
+              <l n="2" xml:id="CB016x_PB-l-151">te d&#233;soler pour ton enfant,</l>
+              <l n="3" xml:id="CB016x_PB-l-152">laisse-moi pleurer maintenant,</l>
+              <l n="4" xml:id="CB016x_PB-l-153">toi qui veux quitter cette vie.</l>
             </lg>
           </div>
         </sp>
@@ -567,16 +691,32 @@
         <stage n="135" xml:id="CB016x_PB-stage-138">Qu&#8217;aussit&#244;t les Juifs viennent lui pr&#233;senter une &#233;ponge impr&#233;gn&#233;e de vinaigre et que J&#233;sus boive :</stage>
         <sp n="135" xml:id="CB016x_PB-sp-138">Tout est accompli.</sp>
         <stage n="136" xml:id="CB016x_PB-stage-139">Qu&#8217;alors Longin vienne avec sa lance et lui perce le c&#244;t&#233; et qu&#8217;il dise clairement :</stage>
-        <sp who="#longinus" xml:lang="middle-high-german" n="136" xml:id="CB016x_PB-sp-139"/>
+        <sp who="#longinus" xml:lang="middle-high-german" n="136" xml:id="CB016x_PB-sp-139">
+          <div type="poem">
+            <lg type="strophe" xml:id="CB016x_PB-lg-47">
+              <l n="1" xml:id="CB016x_PB-l-154">Je vais lui transpercer le c&#339;ur,</l>
+              <l n="2" xml:id="CB016x_PB-l-155">afin que cessent les souffrances de son martyre.</l>
+            </lg>
+          </div>
+        </sp>
         <stage n="137" xml:id="CB016x_PB-stage-140">J&#233;sus voyant sa fin arriver dit d&#8217;un grand cri :</stage>
         <sp who="#ies" n="137" xml:id="CB016x_PB-sp-140">Ely Elylamasabactani,</sp>
         <stage xml:id="CB016x_PB-stage-141">ce qui signifie : Mon Dieu, mon Dieu, pourquoi m&#8217;as-tu abandonn&#233; ?</stage>
         <stage n="138" xml:id="CB016x_PB-stage-142">Et que penchant la t&#234;te il rende l&#8217;esprit. Longin :</stage>
         <sp who="#longinus" n="138" xml:id="CB016x_PB-sp-141">Vraiment celui-l&#224; &#233;tait le fils de Dieu.</sp>
         <stage n="139" xml:id="CB016x_PB-stage-143">Et :</stage>
-        <sp who="#longinus" xml:lang="middle-high-german" n="139" xml:id="CB016x_PB-sp-142"/>
+        <sp who="#longinus" xml:lang="middle-high-german" n="139" xml:id="CB016x_PB-sp-142">
+          <p xml:id="CB016x_PB-p-2">Celui-ci est le fils du vrai Dieu !</p>
+        </sp>
         <stage n="140" xml:id="CB016x_PB-stage-144">Puis :</stage>
-        <sp who="#longinus" xml:lang="middle-high-german" n="140" xml:id="CB016x_PB-sp-143"/>
+        <sp who="#longinus" xml:lang="middle-high-german" n="140" xml:id="CB016x_PB-sp-143">
+          <div type="poem">
+            <lg type="strophe" xml:id="CB016x_PB-lg-48">
+              <l n="1" xml:id="CB016x_PB-l-156">Il a accompli sur moi un miracle</l>
+              <l n="2" xml:id="CB016x_PB-l-157">En me redonnant la vue.</l>
+            </lg>
+          </div>
+        </sp>
         <stage n="141" xml:id="CB016x_PB-stage-145">Et que l&#8217;un des Juifs dise aux autres :</stage>
         <sp n="141" xml:id="CB016x_PB-sp-144">Il appelle &#201;lie. Allons voir si &#201;lie va venir le lib&#233;rer ou non.</sp>
         <stage n="142" xml:id="CB016x_PB-stage-146">Un autre Juif :</stage>

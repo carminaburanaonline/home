@@ -2,7 +2,7 @@
 
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:template match="w">
-    <span class="word text-font" style="vertical-align: bottom;">
+    <span class="word">
       <xsl:if test="@rend='italic'">
           <xsl:attribute name="data-rend">italic</xsl:attribute>
       </xsl:if>

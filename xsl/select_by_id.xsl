@@ -84,7 +84,7 @@
   </xsl:template>
 
   <xsl:template match="w">
-    <span class="word editorial" style="vertical-align: bottom;">
+    <span class="word">
       <xsl:if test="@rend='italic'">
           <xsl:attribute name="data-rend">italic</xsl:attribute>
       </xsl:if>
