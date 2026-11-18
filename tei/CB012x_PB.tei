@@ -1,29 +1,29 @@
 <TEI>
-  <teiHeader></teiHeader>
+  <teiHeader/>
   <text>
     <body>
       <div type="poem">
-        <lg type="strophe" n="I">
-          <l n="1">Épouse du Christ, Catherine,</l>
-          <l n="2">vierge, martyre et reine,</l>
-          <l n="3">rose épanouie, parfumée parmi les lys,</l>
-          <l n="4">des milliers d’anges te célèbrent !</l>
+        <lg type="strophe" n="I" xml:id="CB012x_PB-lg-1">
+          <l n="1" xml:id="CB012x_PB-l-1">&#201;pouse du Christ, Catherine,</l>
+          <l n="2" xml:id="CB012x_PB-l-2">vierge, martyre et reine,</l>
+          <l n="3" xml:id="CB012x_PB-l-3">rose &#233;panouie, parfum&#233;e parmi les lys,</l>
+          <l n="4" xml:id="CB012x_PB-l-4">des milliers d&#8217;anges te c&#233;l&#232;brent !</l>
         </lg>
-        <lg type="strophe" n="II">
-          <l n="1">Elle qui vainquit en dispute</l>
-          <l n="2">les orateurs et les rhéteurs</l>
-          <l n="3">rassemblés par Maxence en nombre,</l>
-          <l n="4">les convainc de se convertir, avec Porphyre.</l>
+        <lg type="strophe" n="II" xml:id="CB012x_PB-lg-2">
+          <l n="1" xml:id="CB012x_PB-l-5">Elle qui vainquit en dispute</l>
+          <l n="2" xml:id="CB012x_PB-l-6">les orateurs et les rh&#233;teurs</l>
+          <l n="3" xml:id="CB012x_PB-l-7">rassembl&#233;s par Maxence en nombre,</l>
+          <l n="4" xml:id="CB012x_PB-l-8">les convainc de se convertir, avec Porphyre.</l>
         </lg>
-        <lg type="strophe" n="III">
-          <l n="1">De son tombeau coule un ruisseau</l>
-          <l n="2">qui guérit souvent les malades,</l>
-          <l n="3">l’huile suintant de son tombeau</l>
-          <l n="4">rend la santé à tout le monde.</l>
+        <lg type="strophe" n="III" xml:id="CB012x_PB-lg-3">
+          <l n="1" xml:id="CB012x_PB-l-9">De son tombeau coule un ruisseau</l>
+          <l n="2" xml:id="CB012x_PB-l-10">qui gu&#233;rit souvent les malades,</l>
+          <l n="3" xml:id="CB012x_PB-l-11">l&#8217;huile suintant de son tombeau</l>
+          <l n="4" xml:id="CB012x_PB-l-12">rend la sant&#233; &#224; tout le monde.</l>
         </lg>
-        <lg type="strophe" n="IV">
-          <l n="1">Fille du roi Costus, vierge, réjouis-toi,</l>
-          <l n="2">des signes merveilleux se font par toi !</l>
+        <lg type="strophe" n="IV" xml:id="CB012x_PB-lg-4">
+          <l n="1" xml:id="CB012x_PB-l-13">Fille du roi Costus, vierge, r&#233;jouis-toi,</l>
+          <l n="2" xml:id="CB012x_PB-l-14">des signes merveilleux se font par toi !</l>
         </lg>
       </div>
     </body>

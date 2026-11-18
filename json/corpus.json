@@ -562,7 +562,7 @@
     "segments": [
       {
         "xml_id": "CB022_emn-lg-1",
-        "text": "homo quo vigeas vide dei fidei adhereas in spe maneas et in fide intus ardeas foris luceas turturis retorqueas os ad ascellas",
+        "text": "homo quo vigeas vide dei fidei adhereas in spe gaudeas et in fide intus ardeas foris luceas turturis retorqueas os ad ascellas",
         "metre": ""
       },
       {
@@ -648,58 +648,8 @@
     "id": "CB022_w2_fr",
     "segments": [
       {
-        "xml_id": "CB022_w2_fr-p-1",
-        "text": "amors vois querant qi me fuit",
-        "metre": ""
-      },
-      {
-        "xml_id": "CB022_w2_fr-p-2",
-        "text": "le fruit prendre cuit dont oudor sent ennuit",
-        "metre": ""
-      },
-      {
-        "xml_id": "CB022_w2_fr-p-3",
-        "text": "soient tuit mi penssement de bruit jor et nuit sent grief torment",
-        "metre": ""
-      },
-      {
-        "xml_id": "CB022_w2_fr-p-4",
-        "text": "mon cuer cuit mon cors destruit amors par son present",
-        "metre": ""
-      },
-      {
-        "xml_id": "CB022_w2_fr-p-5",
-        "text": "cele qe j’aim cui dame cleim dont j’ai torjorz faim dont amors a essché son aim m’a sorpris de s’amor me tient pris dont n’averai uis ce m’et avis",
-        "metre": ""
-      },
-      {
-        "xml_id": "CB022_w2_fr-p-6",
-        "text": "ne puis avoir secors por t’amor blancheflor trai doulor nuit et jor sanz sejor",
-        "metre": ""
-      },
-      {
-        "xml_id": "CB022_w2_fr-p-7",
-        "text": "sans merir me fait servir trop longuement",
-        "metre": ""
-      },
-      {
-        "xml_id": "CB022_w2_fr-p-8",
-        "text": "mon desir vueill aconplir g’en morrai autrement a grief tormant",
-        "metre": ""
-      },
-      {
-        "xml_id": "CB022_w2_fr-p-9",
-        "text": "venir ne puis par autre huis a confort",
-        "metre": ""
-      },
-      {
-        "xml_id": "CB022_w2_fr-p-10",
-        "text": "autre pertuis nul ne truis fors la mort",
-        "metre": ""
-      },
-      {
-        "xml_id": "CB022_w2_fr-p-11",
-        "text": "mar m’i deduis mourrir ruis de trop fort mal je cuis",
+        "xml_id": "CB022_w2_fr-lg-1",
+        "text": "amors vois querant qi me fuit le fruit prendre cuit dont oudor sent ennuit soient tuit mi penssement de bruit jor et nuit sent grief torment mon cuer cuit mon cors destruit amors par son present cele qe j’aim cui dame cleim dont j’ai torjorz faim dont amors a essché son aim m’a sorpris de s’amor me tient pris dont n’averai uis ce m’et avis ne puis avoir secors por t’amor blancheflor trai doulor nuit et jor sanz sejor sans merir me fait servir trop longuement mon desir vueill aconplir g’en morrai autrement a grief tormant venir ne puis par autre huis a confort autre pertuis nul ne truis fors la mort mar m’i deduis mourrir ruis de trop fort mal je cuis",
         "metre": ""
       }
     ]
@@ -900,7 +850,7 @@
       },
       {
         "xml_id": "CB026_rss-lg-2",
-        "text": "o conditio misera considera quam aspera sit hec vita mors altera que sic immutat statum cur non purgas reatum sine mora cum sit hora mortis tibi incognita et invita caritas que non proficit prorsus aret et deficit nec efficit beatum",
+        "text": "o conditio misera considera quam aspera sit hec vita mors altera que sic immutat statum cur non purgas reatum sine mora cum sit hora tibi mortis incognita et invita caritas que non proficit prorsus aret et deficit nec efficit beatum",
         "metre": "8pp 4pp+4pp 8pp 7p 7p 4p+4p 8pp 4pp 8pp 8pp 7p"
       },
       {
@@ -2249,29 +2199,24 @@
         "xml_id": "CB090_5539-lg-2",
         "text": "sunt in grege parvulo ovis et asella vitula cum vitulo caper et capella",
         "metre": "7pp+6p 7pp+6p"
-      },
-      {
-        "xml_id": "CB090_5539-lg-3",
-        "text": "conspexit in cespite scolarem sedere quid tu facis domine veni mecum ludere",
-        "metre": "7pp+6p 7pp+6p"
       }
     ]
   },
   {
     "abstract_item": "CB090",
     "source": 356,
-    "title": "Surrexit de cumulo",
+    "title": "Surrexit de tumulo",
     "foliation": "93r-93v",
     "id": "CB090_bu",
     "segments": [
       {
         "xml_id": "CB090_bu-lg-1",
-        "text": "surrexit de cumulo fulgens plus quam stella frangit in diluculo hostis dica bella",
+        "text": "surrexit de tumulo fulgens plus quam stella frangit in diluculo hostis dira bella",
         "metre": "7pp+6p 7pp+6p"
       },
       {
         "xml_id": "CB090_bu-lg-2",
-        "text": "nitam dedit seculo celi prebens mella da cruoris rivulo gaudia novella",
+        "text": "vitam dedit seculo celi prebens mella de cruoris rivulo gaudia novella",
         "metre": "7pp+6p 7pp+6p"
       },
       {
@@ -3116,7 +3061,7 @@
       {
         "xml_id": "CB140-lg-3",
         "text": "ecce iam vernant omnia fructu redivivo pulso per temperiem tam frigore nocivo tellus feta sui partus grande decus flores gygnit odoriferos nec non multos colores catonis visis talibus inmutarentur mores",
-        "metre": "7pp+6p 7pp+.6p 7pp+6p 7pp+.6p .7pp+.6p"
+        "metre": "7pp+6p 7pp+.6p 7pp.+6p 7pp+.6p .7pp+.6p"
       },
       {
         "xml_id": "CB140-lg-4",
@@ -5037,7 +4982,7 @@
       },
       {
         "xml_id": "CB227-lg-35",
-        "text": "quando luna patitur et sol quando obscurabitur quem effectum habeat stilbon comes veneris in quo gradu maxime mars nocivus diceris michi fecit cognitum lingua secte veteris",
+        "text": "quando luna patitur et sol quando deeris quem effectum habeat stilbon comes veneris in quo gradu maxime mars nocivus diceris michi fecit cognitum lingua secte veteris",
         "metre": "7pp+7pp 7pp+7pp 7pp+7pp 7pp+7pp"
       },
       {
@@ -5833,6 +5778,45 @@
         "xml_id": "CB228-lg-37",
         "text": "ingrata gens et perfida cum fame laborares egipto eras subdita ut ventrem satiares",
         "metre": "8pp+7p 8pp+7p"
+      }
+    ]
+  },
+  {
+    "abstract_item": "CB012*",
+    "source": 107,
+    "title": "Christi sponsa Katherina",
+    "foliation": "IIIr",
+    "id": "CB012x",
+    "segments": [
+      {
+        "xml_id": "CB012x-lg-1",
+        "text": "christi sponsa katherina virgo martyr et regina rosa florens fragrans inter lylia te collaudant angelorum milia",
+        "metre": "8p 8p 4p+7pp 4p+7pp"
+      },
+      {
+        "xml_id": "CB012x-lg-2",
+        "text": "gaude virgo costi regis filia per te signa fiunt mirabilia",
+        "metre": "4p+7pp 4p+7pp"
+      },
+      {
+        "xml_id": "CB012x-lg-3",
+        "text": "que convicit oratores disputantes et rethores destinatos plures a maxentio baptizari suadet cum phorphirio",
+        "metre": "8p 8p 4p+7pp 4p+7pp"
+      },
+      {
+        "xml_id": "CB012x-lg-4",
+        "text": "gaude virgo costi regis filia",
+        "metre": "4p+7pp"
+      },
+      {
+        "xml_id": "CB012x-lg-5",
+        "text": "ex ipsius tumba manat rivus qui languentes sanat oleum resudat eius tumulo per quod salus datur omni populo",
+        "metre": "8p 8p 4p+7pp 4p+7pp"
+      },
+      {
+        "xml_id": "CB012x-lg-6",
+        "text": "gaude virgo costi regis filia",
+        "metre": "4p+7pp"
       }
     ]
   },
