@@ -68,9 +68,9 @@
   bottom: 6px;
 }
 
-.verse-met { width: 60px; right: 30px; }
+.verse-met { width: 90px; right: 40px; }
 
-.verse-rhyme { width: 30px; right: 0; }
+.verse-rhyme { width: 40px; right: 0; }
 
 .wit {
   white-space: nowrap;
