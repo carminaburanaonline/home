@@ -84,6 +84,7 @@ function textToSvgElement(text) {
   wrapper.innerHTML = text;
   const svgEl = wrapper.querySelector("svg");
   svgEl.setAttribute("preserveAspectRatio", "xMinYMin meet");
+  svgEl.classList.add("no-tooltips");
   return svgEl;
 }
 

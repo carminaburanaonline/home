@@ -239,3 +239,7 @@ main {
     border-radius: 0.5rem;
     box-shadow: 5px 5px LightGray;
 }
+
+.no-tooltips {
+    pointer-events: none;
+}
