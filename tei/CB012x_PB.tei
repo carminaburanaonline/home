@@ -1,0 +1,31 @@
+<TEI>
+  <teiHeader></teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg type="strophe" n="I">
+          <l n="1">Épouse du Christ, Catherine,</l>
+          <l n="2">vierge, martyre et reine,</l>
+          <l n="3">rose épanouie, parfumée parmi les lys,</l>
+          <l n="4">des milliers d’anges te célèbrent !</l>
+        </lg>
+        <lg type="strophe" n="II">
+          <l n="1">Elle qui vainquit en dispute</l>
+          <l n="2">les orateurs et les rhéteurs</l>
+          <l n="3">rassemblés par Maxence en nombre,</l>
+          <l n="4">les convainc de se convertir, avec Porphyre.</l>
+        </lg>
+        <lg type="strophe" n="III">
+          <l n="1">De son tombeau coule un ruisseau</l>
+          <l n="2">qui guérit souvent les malades,</l>
+          <l n="3">l’huile suintant de son tombeau</l>
+          <l n="4">rend la santé à tout le monde.</l>
+        </lg>
+        <lg type="strophe" n="IV">
+          <l n="1">Fille du roi Costus, vierge, réjouis-toi,</l>
+          <l n="2">des signes merveilleux se font par toi !</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
