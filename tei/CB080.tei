@@ -531,7 +531,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="II" met=".7pp+6p/7pp+6p/7pp/.7pp+.6p" rhyme="a/a/D/D+C" xml:id="CB080-lg-3">
+        <lg type="strophe" n="II" met=".7pp+6p/7pp+6p/7pp/.7pp+.6p" rhyme="x+a/x+a/D/D+C" xml:id="CB080-lg-3">
           <l n="1" xml:id="CB080-l-9">
             <seg type="hemistich">
               <w>
@@ -662,7 +662,7 @@
             </seg>
           </l>
         </lg>
-        <lg type="strophe" n="III" met="7pp/.7pp/7pp/.7pp/7pp/7pp/.7pp/7pp" rhyme="a/A/a/A/A/b/E/b" xml:id="CB080-lg-4">
+        <lg type="strophe" n="III" met="7pp/.7pp/7pp/.7pp/7pp/7pp/.7pp/7pp" rhyme="a/A/a/A/A/b/A/b" xml:id="CB080-lg-4">
           <l n="1" xml:id="CB080-l-13">
             <w>
               <seg type="syll">In</seg>
@@ -797,7 +797,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="strophe" n="IV" met="7pp/7pp/7pp/7pp/7pp/7pp/.7pp/.7pp" rhyme="a/E/a/E/b/A/b/A" xml:id="CB080-lg-5">
+        <lg type="strophe" n="IV" met="7pp/7pp/7pp/7pp/7pp/7pp/.7pp/.7pp" rhyme="a/A/a/A/b/A/b/A" xml:id="CB080-lg-5">
           <l n="1" xml:id="CB080-l-21">
             <app type="text">
               <lem wit="HSB T">
