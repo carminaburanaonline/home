@@ -3,3 +3,4 @@ CB034_emn, music, on nam qui pro tuis: strange note shape in the upper part (com
 CB034_plut, music, on vi---de Deus, the clef is wrong by a third in the lower part (comment)
 CB034_plut, music, on sibi thronum: one note missing (ed. D on si-).
 CB036_plut, music, on tri-buti, upper part: d-c corrected to c-d.
+CB047_w1, music, on Domini (1st verse), -mi-, top part: conjectured based on other manuscripts (erased in W1)

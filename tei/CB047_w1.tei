@@ -16,6 +16,10 @@
             </seg>
           </l>
           <l n="2" xml:id="CB047_w1-l-2">
+            <w>arbor</w>
+            <w>salutifera</w>
+          </l>
+          <l n="3" xml:id="CB047_w1-l-3">
             <seg type="hemistich">
               <w>perditur</w>
               <w>sepulchrum</w>
@@ -26,7 +30,7 @@
               <w>extera</w>
             </seg>
           </l>
-          <l n="3" xml:id="CB047_w1-l-3">
+          <l n="4" xml:id="CB047_w1-l-4">
             <seg type="hemistich">
               <w>violente</w>
             </seg>
@@ -35,12 +39,12 @@
               <w>gente</w>
             </seg>
           </l>
-          <l n="4" xml:id="CB047_w1-l-4">
+          <l n="5" xml:id="CB047_w1-l-5">
             <w>sola</w>
             <w>sedet</w>
             <w>civitas</w>
           </l>
-          <l n="5" xml:id="CB047_w1-l-5">
+          <l n="6" xml:id="CB047_w1-l-6">
             <seg type="hemistich">
               <w>agni</w>
               <w>fedus</w>
@@ -50,21 +54,21 @@
               <w>hedus</w>
             </seg>
           </l>
-          <l n="6" xml:id="CB047_w1-l-6">
+          <l n="7" xml:id="CB047_w1-l-7">
             <w>plorat</w>
             <w>dotas</w>
             <w>perditas</w>
           </l>
-          <l n="7" xml:id="CB047_w1-l-7">
+          <l n="8" xml:id="CB047_w1-l-8">
             <w>Sponsa</w>
             <w>Syon</w>
             <w>immolatur</w>
           </l>
-          <l n="8" xml:id="CB047_w1-l-8">
+          <l n="9" xml:id="CB047_w1-l-9">
             <w>Ananias</w>
             <w>incurvatur</w>
           </l>
-          <l n="9" xml:id="CB047_w1-l-9">
+          <l n="10" xml:id="CB047_w1-l-10">
             <seg type="hemistich">
             <w>cornu</w>
             <w>David</w>
@@ -74,12 +78,12 @@
             <w>mundus</w>
             </seg>
           </l>
-          <l n="10" xml:id="CB047_w1-l-10">
+          <l n="11" xml:id="CB047_w1-l-11">
             <w>ab</w>
             <w>iniustis</w>
             <w>abdicatur</w>
           </l>
-          <l n="11" xml:id="CB047_w1-l-11">
+          <l n="12" xml:id="CB047_w1-l-12">
             <seg type="hemistich">
             <w>per</w>
             <w>quem</w>
