@@ -6108,7 +6108,7 @@
     "shelfmark": "Lat. 3237",
     "concordances": [
       {
-        "abstract_item": "CB032",
+        "abstract_item": "CB033",
         "foliation": "106v"
       },
       {
@@ -6908,7 +6908,7 @@
   },
   {
     "id": 224,
-    "rism": "F-SOM 2",
+    "rism": "F-SOM 351",
     "siglum_edition": "Om (O, Om in HSB)",
     "country": "France",
     "city": "Saint-Omer",
