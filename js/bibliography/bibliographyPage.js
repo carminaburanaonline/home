@@ -23,12 +23,6 @@ export async function renderBibliographyPage() {
       updateActiveButton();
   });
 
-  document.getElementById("sort-title").addEventListener("click", () => {
-      currentSort = "title";
-      renderBibliography();
-      updateActiveButton();
-  });
-
   updateActiveButton();
   renderBibliography();
 
@@ -61,8 +55,6 @@ function renderBibliography() {
     switch (currentSort) {
 
         case "year": entries.sort((a, b) => b.sortYear - a.sortYear); break;
-
-        case "title": entries.sort((a, b) => a.sortTitle.localeCompare(b.sortTitle)); break;
 
         default: entries.sort((a, b) => a.sortAuthor.localeCompare(b.sortAuthor));
     }

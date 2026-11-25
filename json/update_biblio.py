@@ -5,7 +5,7 @@ import re
 import unicodedata
 from html import unescape
 
-INPUT_FILE = "bibliography.json"
+INPUT_FILE = "bibliography_bilingual_smallcaps.json"
 OUTPUT_FILE = "bibliography.json"
 
 
@@ -44,6 +44,7 @@ def strip_html(html):
 def get_search_text(item):
 
     html = item.get("formattedHTML", "")
+    html = html.split("div><div")[0]
 
     return normalize(
         strip_html(html)
