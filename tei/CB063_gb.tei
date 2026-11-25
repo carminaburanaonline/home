@@ -2,7 +2,7 @@
   <teiHeader/>
   <text>
     <body>
-      <div type="sequence" met="1:4x7pp/4pp/4x7pp/7p, 2:2x(2x7pp/8pp/4pp)/7pp/8pp, 3:4x6pp/2x7pp/7pp/7pp/4pp/7pp/4pp+3p, 4:2x(7pp/4pp)/4pp/7pp/2x(7pp/4pp+3p), Ref.:2x(7pp/3p)/3x4pp/3p">
+      <div type="sequence" met="1:4x7pp 4pp 4x7pp 7p, 2:2x(2x7pp 8pp 4pp) 7pp 8pp, 3:4x6pp 2x7pp 7pp 7pp 4pp 7pp 4pp+3p, 4:2x(7pp 4pp) 4pp 7pp 2x(7pp 4pp+3p), Ref.:2x(7pp 3p) 4pp+4pp 4pp+3p">
         <lg type="versicle" n="1a" met="7pp/7pp/7pp/7pp/4pp/7pp/7pp/7pp/7pp/7p" rhyme="a/b/b/a/c/c/d/d/d/e" xml:id="CB063_gb-lg-1">
           <l n="1" xml:id="CB063_gb-l-1">
             <w>Olim</w>
@@ -58,7 +58,7 @@
             <pc resp="#editor">.</pc>
           </l>
         </lg>
-        <lg type="refrain" met="7pp/3p/7pp/3p/4pp/4pp/4pp/3p" rhyme="A/B/A/B/C/C/C/B" xml:id="CB063_gb-lg-2">
+        <lg type="refrain" met="7pp/3p/7pp/3p/4pp+4pp/4pp+3p" rhyme="A/B/A/B/C+C/C+B" xml:id="CB063_gb-lg-2">
           <head>[Refl.]</head>
           <l n="1" xml:id="CB063_gb-l-11">
             <w>Amor</w>
@@ -80,70 +80,74 @@
             <pc resp="#editor">,</pc>
           </l>
           <l n="5" xml:id="CB063_gb-l-15">
-            <w>sed</w>
-            <w>temere</w>
+            <seg type="hemistich">
+              <w>sed</w>
+              <w>temere</w>
+            </seg>
+            <seg type="hemistich">
+              <w>diffluere</w>
+            </seg>
           </l>
           <l n="6" xml:id="CB063_gb-l-16">
-            <w>diffluere</w>
-          </l>
-          <l n="7" xml:id="CB063_gb-l-17">
-            <w>sub</w>
-            <w>Venere</w>
-          </l>
-          <l n="8" xml:id="CB063_gb-l-18">
-            <w>laborat</w>
-            <pc resp="#editor">.</pc>
+            <seg type="hemistich">
+              <w>sub</w>
+              <w>Venere</w>
+            </seg>
+            <seg type="hemistich">
+              <w>laborat</w>
+              <pc resp="#editor">.</pc>
+            </seg>
           </l>
         </lg>
         <lg type="versicle" n="1b" met="7pp/7pp/7pp/7pp/4pp/7pp/7pp/7pp/7pp/7p" rhyme="f/g/g/f/c/c/h/h/h/e" xml:id="CB063_gb-lg-3">
-          <l n="1" xml:id="CB063_gb-l-19">
+          <l n="1" xml:id="CB063_gb-l-17">
             <w>Hydra</w>
             <w>damno</w>
             <w>capitum</w>
           </l>
-          <l n="2" xml:id="CB063_gb-l-20">
+          <l n="2" xml:id="CB063_gb-l-18">
             <w>facta</w>
             <w>locupletior</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3" xml:id="CB063_gb-l-21">
+          <l n="3" xml:id="CB063_gb-l-19">
             <w>omni</w>
             <w>peste</w>
             <w>sevior</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4" xml:id="CB063_gb-l-22">
+          <l n="4" xml:id="CB063_gb-l-20">
             <w>reddere</w>
             <w>sollicitum</w>
           </l>
-          <l n="5" xml:id="CB063_gb-l-23">
+          <l n="5" xml:id="CB063_gb-l-21">
             <w>non</w>
             <w>potuit</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="6" xml:id="CB063_gb-l-24">
+          <l n="6" xml:id="CB063_gb-l-22">
             <w>quem</w>
             <w>puella</w>
             <w>domuit</w>
           </l>
-          <l n="7" xml:id="CB063_gb-l-25">
+          <l n="7" xml:id="CB063_gb-l-23">
             <w>iugo</w>
             <w>cessit</w>
             <w>Veneris</w>
           </l>
-          <l n="8" xml:id="CB063_gb-l-26">
+          <l n="8" xml:id="CB063_gb-l-24">
             <w>vir</w>
             <pc resp="#editor">,</pc>
             <w>qui</w>
             <w>maior</w>
             <w>superis</w>
           </l>
-          <l n="9" xml:id="CB063_gb-l-27">
+          <l n="9" xml:id="CB063_gb-l-25">
             <w>celum</w>
             <w>tulit</w>
             <w>humeris</w>
           </l>
-          <l n="10" xml:id="CB063_gb-l-28">
+          <l n="10" xml:id="CB063_gb-l-26">
             <w>Atlante</w>
             <w>fatigato</w>
             <pc resp="#editor">.</pc>
@@ -151,58 +155,58 @@
         </lg>
         <lg type="refrain" met="[7pp]" rhyme="[A]" xml:id="CB063_gb-lg-4">
           <head>[Refl.]</head>
-          <l n="1" xml:id="CB063_gb-l-29">
+          <l n="1" xml:id="CB063_gb-l-27">
             <w>Amor</w>
             <pc resp="#editor">...</pc>
           </l>
         </lg>
         <lg type="versicle" n="2a" met="7pp/7pp/8pp/4pp/7pp/7pp/8pp/4pp/7pp/8pp" rhyme="a/a/b/c/a/a/b/c/c/b" xml:id="CB063_gb-lg-5">
-          <l n="1" xml:id="CB063_gb-l-30">
+          <l n="1" xml:id="CB063_gb-l-28">
             <w>Caco</w>
             <w>tristis</w>
             <w>halitus</w>
           </l>
-          <l n="2" xml:id="CB063_gb-l-31">
+          <l n="2" xml:id="CB063_gb-l-29">
             <w>et</w>
             <w>flammarum</w>
             <w>vomitus</w>
           </l>
-          <l n="3" xml:id="CB063_gb-l-32">
+          <l n="3" xml:id="CB063_gb-l-30">
             <w>vel</w>
             <w>fuga</w>
             <w>Nesso</w>
             <w>duplici</w>
           </l>
-          <l n="4" xml:id="CB063_gb-l-33">
+          <l n="4" xml:id="CB063_gb-l-31">
             <w>non</w>
             <w>profuit</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="5" xml:id="CB063_gb-l-34">
+          <l n="5" xml:id="CB063_gb-l-32">
             <w>Geryon</w>
             <w>Hesperius</w>
           </l>
-          <l n="6" xml:id="CB063_gb-l-35">
+          <l n="6" xml:id="CB063_gb-l-33">
             <w>ianitorque</w>
             <w>Stygius</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="7" xml:id="CB063_gb-l-36">
+          <l n="7" xml:id="CB063_gb-l-34">
             <w>uterque</w>
             <w>forma</w>
             <w>triplici</w>
           </l>
-          <l n="8" xml:id="CB063_gb-l-37">
+          <l n="8" xml:id="CB063_gb-l-35">
             <w>non</w>
             <w>terruit</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="9" xml:id="CB063_gb-l-38">
+          <l n="9" xml:id="CB063_gb-l-36">
             <w>quem</w>
             <w>captivum</w>
             <w>tenuit</w>
           </l>
-          <l n="10" xml:id="CB063_gb-l-39">
+          <l n="10" xml:id="CB063_gb-l-37">
             <w>risu</w>
             <w>puella</w>
             <w>simplici</w>
@@ -210,52 +214,52 @@
           </l>
         </lg>
         <lg type="versicle" n="2b" met="7pp/7pp/8pp/4pp/7pp/7pp/8pp/4pp/7pp/8pp" rhyme="d/d/e/c/d/d/e/c/c/e" xml:id="CB063_gb-lg-6">
-          <l n="1" xml:id="CB063_gb-l-40">
+          <l n="1" xml:id="CB063_gb-l-38">
             <w>Jugo</w>
             <w>cessit</w>
             <w>tenero</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="2" xml:id="CB063_gb-l-41">
+          <l n="2" xml:id="CB063_gb-l-39">
             <w>somno</w>
             <w>qui</w>
             <w>letifero</w>
           </l>
-          <l n="3" xml:id="CB063_gb-l-42">
+          <l n="3" xml:id="CB063_gb-l-40">
             <w>horti</w>
             <w>custodem</w>
             <w>divitis</w>
           </l>
-          <l n="4" xml:id="CB063_gb-l-43">
+          <l n="4" xml:id="CB063_gb-l-41">
             <w>implicuit</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="5" xml:id="CB063_gb-l-44">
+          <l n="5" xml:id="CB063_gb-l-42">
             <w>frontis</w>
             <w>Acheloie</w>
           </l>
-          <l n="6" xml:id="CB063_gb-l-45">
+          <l n="6" xml:id="CB063_gb-l-43">
             <w>cornu</w>
             <w>dedit</w>
             <w>Copie</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="7" xml:id="CB063_gb-l-46">
+          <l n="7" xml:id="CB063_gb-l-44">
             <w>apro</w>
             <pc resp="#editor">,</pc>
             <w>leone</w>
             <w>domitis</w>
           </l>
-          <l n="8" xml:id="CB063_gb-l-47">
+          <l n="8" xml:id="CB063_gb-l-45">
             <w>enituit</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="9" xml:id="CB063_gb-l-48">
+          <l n="9" xml:id="CB063_gb-l-46">
             <w>truces</w>
             <w>equos</w>
             <w>imbuit</w>
           </l>
-          <l n="10" xml:id="CB063_gb-l-49">
+          <l n="10" xml:id="CB063_gb-l-47">
             <w>cruenti</w>
             <w>cede</w>
             <w>hospitis</w>
@@ -264,64 +268,64 @@
         </lg>
         <lg type="refrain" met="[7pp]" rhyme="[A]" xml:id="CB063_gb-lg-7">
           <head>[Refl.]</head>
-          <l n="1" xml:id="CB063_gb-l-50">
+          <l n="1" xml:id="CB063_gb-l-48">
             <w>Amor</w>
             <pc resp="#editor">...</pc>
           </l>
         </lg>
         <lg type="versicle" n="3a" met="6pp/6pp/6pp/6pp/7pp/7pp/7p/7pp/4pp/7pp/4pp+3p" rhyme="a/b/a/b/b/b/c/d/d/e/e+c" xml:id="CB063_gb-lg-8">
-          <l n="1" xml:id="CB063_gb-l-51">
+          <l n="1" xml:id="CB063_gb-l-49">
             <w>Antei</w>
             <w>Lybici</w>
           </l>
-          <l n="2" xml:id="CB063_gb-l-52">
+          <l n="2" xml:id="CB063_gb-l-50">
             <w>luctam</w>
             <w>sustinuit</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3" xml:id="CB063_gb-l-53">
+          <l n="3" xml:id="CB063_gb-l-51">
             <w>casus</w>
             <w>sophistici</w>
           </l>
-          <l n="4" xml:id="CB063_gb-l-54">
+          <l n="4" xml:id="CB063_gb-l-52">
             <w>fraudes</w>
             <w>cohibuit</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="5" xml:id="CB063_gb-l-55">
+          <l n="5" xml:id="CB063_gb-l-53">
             <w>cadere</w>
             <w>dum</w>
             <w>vetuit</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="6" xml:id="CB063_gb-l-56">
+          <l n="6" xml:id="CB063_gb-l-54">
             <w>sed</w>
             <w>qui</w>
             <w>sic</w>
             <w>explicuit</w>
           </l>
-          <l n="7" xml:id="CB063_gb-l-57">
+          <l n="7" xml:id="CB063_gb-l-55">
             <w>lucte</w>
             <w>nodosos</w>
             <w>nexus</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="8" xml:id="CB063_gb-l-58">
+          <l n="8" xml:id="CB063_gb-l-56">
             <w>vincitur</w>
             <w>et</w>
             <w>vincitur</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="9" xml:id="CB063_gb-l-59">
+          <l n="9" xml:id="CB063_gb-l-57">
             <w>dum</w>
             <w>labitur</w>
           </l>
-          <l n="10" xml:id="CB063_gb-l-60">
+          <l n="10" xml:id="CB063_gb-l-58">
             <w>magna</w>
             <w>Iovis</w>
             <w>soboles</w>
           </l>
-          <l n="11" xml:id="CB063_gb-l-61">
+          <l n="11" xml:id="CB063_gb-l-59">
             <seg type="hemistich">
               <w>ad</w>
               <w>Ioles</w>
@@ -333,56 +337,55 @@
           </l>
         </lg>
         <lg type="versicle" n="3b" met="6pp/6pp/6pp/6pp/7pp/7pp/7p/7pp/4pp/7pp/4pp+3p" rhyme="f/g/f/g/g/g/h/i/i/j/j+h" xml:id="CB063_gb-lg-9">
-          <l n="1" xml:id="CB063_gb-l-62">
+          <l n="1" xml:id="CB063_gb-l-60">
             <w>Tantis</w>
             <w>floruerat</w>
           </l>
-          <l n="2" xml:id="CB063_gb-l-63">
+          <l n="2" xml:id="CB063_gb-l-61">
             <w>laborum</w>
             <w>titulis</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="3" xml:id="CB063_gb-l-64">
+          <l n="3" xml:id="CB063_gb-l-62">
             <w>quem</w>
             <w>blandis</w>
             <w>carcerat</w>
           </l>
-          <l n="4" xml:id="CB063_gb-l-65">
+          <l n="4" xml:id="CB063_gb-l-63">
             <w>puella</w>
             <w>vinculis</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="5" xml:id="CB063_gb-l-66">
+          <l n="5" xml:id="CB063_gb-l-64">
             <w>et</w>
             <w>dum</w>
             <w>lambit</w>
             <w>osculis</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="6" xml:id="CB063_gb-l-67">
+          <l n="6" xml:id="CB063_gb-l-65">
             <w>nectar</w>
             <w>huic</w>
             <w>labellulis</w>
           </l>
-          <l n="7" xml:id="CB063_gb-l-68">
+          <l n="7" xml:id="CB063_gb-l-66">
             <w>Venereum</w>
             <w>propinat</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="8" xml:id="CB063_gb-l-69">
+          <l n="8" xml:id="CB063_gb-l-67">
             <w>vir</w>
             <w>solutus</w>
             <w>otiis</w>
           </l>
-          <l n="9" xml:id="CB063_gb-l-70">
-            <w>et</w>
-            <w>gaudiis</w>
+          <l n="9" xml:id="CB063_gb-l-68">
+            <w>venereis</w>
           </l>
-          <l n="10" xml:id="CB063_gb-l-71">
+          <l n="10" xml:id="CB063_gb-l-69">
             <w>laborum</w>
             <w>memoriam</w>
           </l>
-          <l n="11" xml:id="CB063_gb-l-72">
+          <l n="11" xml:id="CB063_gb-l-70">
             <seg type="hemistich">
               <w>et</w>
               <w>gloriam</w>
@@ -394,41 +397,41 @@
           </l>
         </lg>
         <lg type="versicle" n="4a" met="7pp/4pp/7pp/4pp/4pp/7pp/7pp/4pp+3p/7pp/4pp+3p" rhyme="a/a/b/b/c/c/d/d+e/f/f+e" xml:id="CB063_gb-lg-10">
-          <l n="1" xml:id="CB063_gb-l-73">
+          <l n="1" xml:id="CB063_gb-l-71">
             <w>Sed</w>
             <w>Alcide</w>
             <w>fortior</w>
           </l>
-          <l n="2" xml:id="CB063_gb-l-74">
+          <l n="2" xml:id="CB063_gb-l-72">
             <w>aggredior</w>
           </l>
-          <l n="3" xml:id="CB063_gb-l-75">
+          <l n="3" xml:id="CB063_gb-l-73">
             <w>pugnam</w>
             <w>contra</w>
             <w>Venerem</w>
             <pc resp="#editor">.</pc>
           </l>
-          <l n="4" xml:id="CB063_gb-l-76">
+          <l n="4" xml:id="CB063_gb-l-74">
             <w>ut</w>
             <w>superem</w>
           </l>
-          <l n="5" xml:id="CB063_gb-l-77">
+          <l n="5" xml:id="CB063_gb-l-75">
             <w>hanc</w>
             <pc resp="#editor">,</pc>
             <w>fugio</w>
             <pc resp="#editor">;</pc>
           </l>
-          <l n="6" xml:id="CB063_gb-l-78">
+          <l n="6" xml:id="CB063_gb-l-76">
             <w>in</w>
             <w>hoc</w>
             <w>enim</w>
             <w>prelio</w>
           </l>
-          <l n="7" xml:id="CB063_gb-l-79">
+          <l n="7" xml:id="CB063_gb-l-77">
             <w>fugiendo</w>
             <w>fortius</w>
           </l>
-          <l n="8" xml:id="CB063_gb-l-80">
+          <l n="8" xml:id="CB063_gb-l-78">
             <seg type="hemistich">
             <w>et</w>
             <w>melius</w>
@@ -438,13 +441,13 @@
             <pc resp="#editor">,</pc>
             </seg>
           </l>
-          <l n="9" xml:id="CB063_gb-l-81">
+          <l n="9" xml:id="CB063_gb-l-79">
             <w>sicque</w>
             <w>Venus</w>
             <w>vincitur</w>
             <pc resp="#editor">:</pc>
           </l>
-          <l n="10" xml:id="CB063_gb-l-82">
+          <l n="10" xml:id="CB063_gb-l-80">
             <seg type="hemistich">
               <w>dum</w>
               <w>fugitur</w>
@@ -457,41 +460,41 @@
           </l>
         </lg>
         <lg type="versicle" n="4b" met="7pp/4pp/7pp/4pp/4pp/7pp/7pp/4pp+3p/7pp/4pp+3p" rhyme="g/g/h/h/i/i/j/j+k/l/l+k" xml:id="CB063_gb-lg-11">
-          <l n="1" xml:id="CB063_gb-l-83">
+          <l n="1" xml:id="CB063_gb-l-81">
             <w>Dulces</w>
             <w>nodos</w>
             <w>Veneris</w>
           </l>
-          <l n="2" xml:id="CB063_gb-l-84">
+          <l n="2" xml:id="CB063_gb-l-82">
             <w>et</w>
             <w>carceris</w>
           </l>
-          <l n="3" xml:id="CB063_gb-l-85">
+          <l n="3" xml:id="CB063_gb-l-83">
             <w>blandi</w>
             <w>seras</w>
             <w>resero</w>
             <pc resp="#editor">,</pc>
           </l>
-          <l n="4" xml:id="CB063_gb-l-86">
+          <l n="4" xml:id="CB063_gb-l-84">
             <w>de</w>
             <w>cetero</w>
           </l>
-          <l n="5" xml:id="CB063_gb-l-87">
+          <l n="5" xml:id="CB063_gb-l-85">
             <w>ad</w>
             <w>alia</w>
           </l>
-          <l n="6" xml:id="CB063_gb-l-88">
+          <l n="6" xml:id="CB063_gb-l-86">
             <w>dum</w>
             <w>traducor</w>
             <w>studia</w>
           </l>
-          <l n="7" xml:id="CB063_gb-l-89">
+          <l n="7" xml:id="CB063_gb-l-87">
             <w>o</w>
             <w>Lycori</w>
             <pc resp="#editor">,</pc>
             <w>valeas</w>
           </l>
-          <l n="8" xml:id="CB063_gb-l-90">
+          <l n="8" xml:id="CB063_gb-l-88">
             <seg type="hemistich">
             <w>et</w>
             <w>voveas</w>
@@ -503,12 +506,12 @@
             <pc resp="#editor">:</pc>
             </seg>
           </l>
-          <l n="9" xml:id="CB063_gb-l-91">
+          <l n="9" xml:id="CB063_gb-l-89">
             <w>ab</w>
             <w>amore</w>
             <w>spiritum</w>
           </l>
-          <l n="10" xml:id="CB063_gb-l-92">
+          <l n="10" xml:id="CB063_gb-l-90">
             <seg type="hemistich">
               <w>sollicitum</w>
             </seg>
@@ -520,7 +523,7 @@
         </lg>
         <lg type="refrain" met="[7pp]" rhyme="[A]" xml:id="CB063_gb-lg-12">
           <head>[Refl.]</head>
-          <l n="1" xml:id="CB063_gb-l-93">
+          <l n="1" xml:id="CB063_gb-l-91">
             <w>Amor</w>
             <pc resp="#editor">...</pc>
           </l>
