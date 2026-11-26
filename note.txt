@@ -4,3 +4,7 @@ CB034_plut, music, on vi---de Deus, the clef is wrong by a third in the lower pa
 CB034_plut, music, on sibi thronum: one note missing (ed. D on si-).
 CB036_plut, music, on tri-buti, upper part: d-c corrected to c-d.
 CB047_w1, music, on Domini (1st verse), -mi-, top part: conjectured based on other manuscripts (erased in W1)
+CB131_egerton_2615, music, on "aut in throno", aut in thro-, upper part: corrections (corrupted passage).
+CB131_egerton_2615, music, on "aut in antro", aut, middle part: conj.
+CB131_egerton_2615, music, on "Theone", The-l, top part: double d corrected to single d
+
