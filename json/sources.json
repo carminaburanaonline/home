@@ -7272,7 +7272,7 @@
   },
   {
     "id": 69,
-    "rism": "GB-CjecQB 1",
+    "rism": "GB-Cjec QB 1",
     "siglum_edition": "Cj (I in HSB)",
     "country": "United Kingdom",
     "city": "Cambridge",
@@ -7281,11 +7281,11 @@
     "concordances": [
       {
         "abstract_item": "CB012",
-        "foliation": "flyleaf"
+        "foliation": "1ar"
       },
       {
         "abstract_item": "CB019",
-        "foliation": "flyleaf"
+        "foliation": "1av"
       },
       {
         "abstract_item": "CB034",
@@ -7293,7 +7293,7 @@
       },
       {
         "abstract_item": "CB047",
-        "foliation": "3r-v"
+        "foliation": "1cr-v"
       }
     ],
     "music": true,
